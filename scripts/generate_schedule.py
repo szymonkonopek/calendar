@@ -3,6 +3,16 @@ from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime, timedelta
 
+# Function to check if a date is in Daylight Saving Time (DST) for Poland
+def is_dst(date):
+    # DST in Poland: Last Sunday of March to Last Sunday of October
+    # March: 31 - (31 - x) % 7 = last Sunday in March
+    last_sunday_march = datetime(date.year, 3, 31) - timedelta(days=(datetime(date.year, 3, 31).weekday() + 1) % 7)
+    # October: 31 - (31 - x) % 7 = last Sunday in October
+    last_sunday_october = datetime(date.year, 10, 31) - timedelta(days=(datetime(date.year, 10, 31).weekday() + 1) % 7)
+    
+    return last_sunday_march <= date < last_sunday_october
+
 # Step 1: Fetch the HTML content from the URL
 url = "https://planzajec.uek.krakow.pl/index.php?typ=G&id=238421&okres=2"
 response = requests.get(url)
@@ -40,8 +50,14 @@ for row in table_rows[1:]:  # Skip the first row (headers)
         start_time_str = time_info.split(' ')[1]
         start_time = datetime.strptime(f"{date_str} {start_time_str}", "%Y-%m-%d %H:%M")
 
-        # Subtract 2 hours to adjust to UTC+2
-        start_time -= timedelta(hours=2)
+        # Check if the date is in DST
+        if is_dst(start_time):
+            # If in DST, subtract 2 hours (UTC+2)
+            start_time -= timedelta(hours=2)
+        else:
+            # If not in DST, subtract 1 hour (UTC+1)
+            start_time -= timedelta(hours=1)
+
         end_time = start_time + timedelta(hours=duration_hours)
 
         print(f"{start_time} {end_time} - {subject} ({class_type})")
