@@ -4,7 +4,7 @@ from ics import Calendar, Event
 from datetime import datetime, timedelta
 
 # Step 1: Fetch the HTML content from the URL
-url = "https://planzajec.uek.krakow.pl/index.php?typ=G&id=238421&okres=1"
+url = "https://planzajec.uek.krakow.pl/index.php?typ=G&id=238421&okres=2"
 response = requests.get(url)
 response.encoding = 'utf-8'  # Set encoding to UTF-8 to handle Polish characters
 html_content = response.text
