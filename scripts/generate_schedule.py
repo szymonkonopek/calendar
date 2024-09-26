@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime, timedelta
+import pytz  # For timezone handling
+
+# Define the timezone (GMT or any other as needed)
+timezone = pytz.timezone("Europe/Warsaw")  # Change to your required timezone
 
 # Step 1: Fetch the HTML content from the URL
 url = "https://planzajec.uek.krakow.pl/index.php?typ=G&id=238421&okres=2"
@@ -14,7 +18,6 @@ soup = BeautifulSoup(html_content, 'html.parser')
 
 # Step 3: Create a new calendar object
 calendar = Calendar()
-
 
 # Step 4: Find all table rows containing the schedule information
 table_rows = soup.find_all('tr')
@@ -40,7 +43,12 @@ for row in table_rows[1:]:  # Skip the first row (headers)
         # Parse the date and time
         start_time_str = time_info.split(' ')[1]
         start_time = datetime.strptime(f"{date_str} {start_time_str}", "%Y-%m-%d %H:%M")
+
+        # Make the datetime timezone aware
+        start_time = timezone.localize(start_time)  # Attach the GMT timezone
         end_time = start_time + timedelta(hours=duration_hours)
+
+        print(f"{start_time} {end_time} - {subject} ({class_type})")
 
         # Step 6: Create an event and add it to the calendar
         event = Event()
