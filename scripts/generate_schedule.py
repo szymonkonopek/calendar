@@ -1,10 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
-from datetime import datetime, timedelta, timezone  # Import timezone for manual UTC offset
-
-# Define the UTC+2 timezone manually
-utc_plus_2 = timezone(timedelta(hours=2))
+from datetime import datetime, timedelta
 
 # Step 1: Fetch the HTML content from the URL
 url = "https://planzajec.uek.krakow.pl/index.php?typ=G&id=238421&okres=2"
@@ -43,8 +40,8 @@ for row in table_rows[1:]:  # Skip the first row (headers)
         start_time_str = time_info.split(' ')[1]
         start_time = datetime.strptime(f"{date_str} {start_time_str}", "%Y-%m-%d %H:%M")
 
-        # Make the datetime timezone aware with the fixed UTC+2 offset
-        start_time = start_time.replace(tzinfo=utc_plus_2)
+        # Subtract 2 hours to adjust to UTC+2
+        start_time -= timedelta(hours=2)
         end_time = start_time + timedelta(hours=duration_hours)
 
         print(f"{start_time} {end_time} - {subject} ({class_type})")
