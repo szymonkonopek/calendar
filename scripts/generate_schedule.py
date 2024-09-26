@@ -15,6 +15,7 @@ soup = BeautifulSoup(html_content, 'html.parser')
 # Step 3: Create a new calendar object
 calendar = Calendar()
 
+
 # Step 4: Find all table rows containing the schedule information
 table_rows = soup.find_all('tr')
 
