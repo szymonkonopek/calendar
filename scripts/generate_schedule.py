@@ -37,14 +37,18 @@ def create_isc(id, isLecturer):
         if len(columns) >= 6:
             # Extract date, time, subject, type, teacher, and location
             date_str = columns[0].text.strip()
-            day_time_str = columns[1].text.strip()
-            subject = columns[2].text.strip()
-            class_type = columns[3].text.strip()
+            if date_str == "":
+                continue
+            day_time_str = columns[1].text.strip() if columns[1] else "Unknown"
+            subject = columns[2].text.strip() if columns[2] else "Unknown"
+            class_type = columns[3].text.strip() if columns[3] else "Unknown"
             teacher = columns[4].text.strip() if columns[4] else "Unknown"
             location = columns[5].text.strip() if columns[5] else "Unknown"
             
             if class_type == "lektorat" and isLecturer == False:
                 continue
+
+            
             
             # Split day_time_str to get start time and duration
             if "(" in day_time_str:
