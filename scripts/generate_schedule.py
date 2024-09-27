@@ -14,7 +14,7 @@ def is_dst(date):
     return last_sunday_march <= date < last_sunday_october
 
 
-def create_isc(id):
+def create_isc(id, isLecturer):
     # Step 1: Fetch the HTML content from the URL
     url = f"https://planzajec.uek.krakow.pl/index.php?typ=G&id={id}&okres=3"
     response = requests.get(url)
@@ -43,7 +43,7 @@ def create_isc(id):
             teacher = columns[4].text.strip() if columns[4] else "Unknown"
             location = columns[5].text.strip() if columns[5] else "Unknown"
             
-            if class_type == "lektorat":
+            if class_type == "lektorat" and isLecturer == False:
                 continue
             
             # Split day_time_str to get start time and duration
