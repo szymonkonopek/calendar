@@ -1,11 +1,11 @@
-name: Complete update schedule
+name: Get Group IDs to JSON
 
-# Run the action every 12h
+# Run the action every hour
 on:
   # schedule:
-  #   - cron: '0 */12 * * *'
+  #   - cron: '0 */12 * * *' # Runs every 12 hours (at 00:00 and 12:00)
 
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-ics:
@@ -26,7 +26,7 @@ jobs:
 
       - name: Run the script to generate schedule.ics
         run: |
-          python main.py
+          python get_group_ids.py
 
       - name: Commit and push the updated .ics file
         run: |
@@ -35,7 +35,7 @@ jobs:
           git pull
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "Update schedule.ics"
+            git commit -m "Update Group IDs"
             git push
           else
             echo "No changes to commit"

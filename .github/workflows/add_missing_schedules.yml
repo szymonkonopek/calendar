@@ -1,11 +1,11 @@
-name: Complete update schedule
+name: Add missing schedules from .json
 
-# Run the action every 12h
+# Run the action every hour
 on:
   # schedule:
-  #   - cron: '0 */12 * * *'
+  #   - cron: '0 */12 * * *' # Runs every 12 hours (at 00:00 and 12:00)
 
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-ics:
@@ -26,7 +26,7 @@ jobs:
 
       - name: Run the script to generate schedule.ics
         run: |
-          python main.py
+          python main.py --resume True
 
       - name: Commit and push the updated .ics file
         run: |
@@ -35,7 +35,7 @@ jobs:
           git pull
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "Update schedule.ics"
+            git commit -m "Add missing schedules from .json"
             git push
           else
             echo "No changes to commit"

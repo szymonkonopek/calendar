@@ -1,9 +1,30 @@
 import json
+import argparse
 from scripts.generate_schedule import generate_isc_files
 
+# Set up argument parsing
+def parse_arguments():
+    parser = argparse.ArgumentParser(description="Generate schedule ICS files.")
+    parser.add_argument(
+        '--resume',
+        type=bool,
+        default=False,
+        help='Pass true to resume from the last state, false to start fresh (default: false).'
+    )
+    return parser.parse_args()
 
-# Load the JSON file
-with open('group_folder.json', 'r', encoding='utf-8') as json_file:
-    group_data = json.load(json_file)
+# Main function to execute the script logic
+def main():
+    # Parse command-line arguments
+    args = parse_arguments()
+    
+    # Load the JSON file
+    with open('group_folder.json', 'r', encoding='utf-8') as json_file:
+        group_data = json.load(json_file)
 
-generate_isc_files(group_data, schedules_dir="schedules", resume=True)
+    # Generate ICS files, passing the resume argument from the command line
+    generate_isc_files(group_data, schedules_dir="schedules", resume=args.resume)
+
+# Run the script
+if __name__ == "__main__":
+    main()
