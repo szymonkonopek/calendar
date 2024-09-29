@@ -33,9 +33,13 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
           git pull
-          git add .
-          git commit -m "Update schedule.ics"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Update schedule.ics"
+            git push
+          else
+            echo "No changes to commit"
+          fi
         env:
           # Set this environment variable to push changes back to the repository
           # GITHUB_TOKEN is automatically provided by GitHub Actions
