@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
-DTEND:20241019T131500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241019T101500Z
-SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
-UID:8d6b4879-790c-404f-a464-f5975296cc09@8d6b.org
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20241208T091500Z
+LOCATION:Paw.G - 2
+DTSTART:20241208T074500Z
+SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
+UID:13ee2b65-ac14-4188-9f72-cd105fb34cac@13ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250208T161500Z
+DTSTART:20250208T084500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:301b0fa3-2200-495d-a16d-63c0b215941d@301b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bartłomiej Cywiński
@@ -15,23 +22,7 @@ DTEND:20241123T134500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20241123T074500Z
 SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
-UID:a8aa43cc-3989-46ac-b03f-514970b17a79@a8aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20250208T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250208T074500Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:c3791edf-79c8-4022-945d-5e42d1cb9936@c379.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: inż. Dariusz Skórniewski
-DTEND:20241005T124500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20241005T064500Z
-SUMMARY:Wykorzystanie baz danych (Studia podyplomowe)
-UID:546f507e-1ddd-4d27-801e-7beadff83735@546f.org
+UID:331600e7-b5c4-425f-bed6-5ba1e0b37b38@3316.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bartłomiej Cywiński
@@ -39,54 +30,7 @@ DTEND:20241124T134500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20241124T074500Z
 SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
-UID:8088cf85-d6fc-44e5-ad7f-ca85d5e83f48@8088.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Rostyslav Apostol
-DTEND:20250111T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250111T074500Z
-SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
-UID:ef642468-7b89-4b2d-b8b4-f5e92c2e1b8c@ef64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
-DTEND:20241020T094500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241020T064500Z
-SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
-UID:5dfd9407-fe23-4e1b-89eb-45cbc7cf57ff@5dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Rostyslav Apostol
-DTEND:20241020T131500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241020T101500Z
-SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
-UID:9b0927eb-a1a5-4e47-ba0a-3be370c946e2@9b09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Rostyslav Apostol
-DTEND:20241208T091500Z
-LOCATION:Paw.G - 2
-DTSTART:20241208T074500Z
-SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
-UID:8b340a1e-44b6-4948-8894-09921d3414b7@8b34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20250208T161500Z
-DTSTART:20250208T084500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:97b83c61-baa8-4146-818d-72a5b7dbb464@97b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: inż. Dariusz Skórniewski
-DTEND:20241006T124500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20241006T064500Z
-SUMMARY:Wykorzystanie baz danych (Studia podyplomowe)
-UID:b624aec0-cd39-4af0-91d4-9e7ae26d42a2@b624.org
+UID:9dd57387-6137-44ca-9691-f92543c46e44@9dd5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bartłomiej Cywiński
@@ -94,15 +38,31 @@ DTEND:20241207T134500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20241207T074500Z
 SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
-UID:5e5f2a57-bcef-4d36-bd64-ad911a2d445f@5e5f.org
+UID:97bd1275-0e3f-4f1e-8c04-554b63b6b569@97bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rostyslav Apostol
-DTEND:20241019T094500Z
+DTEND:20250111T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250111T074500Z
+SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
+UID:5a67848f-0855-4a43-a320-1f7423fd29ea@5a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20241019T131500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241019T064500Z
-SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
-UID:a8e4f942-28b7-4d3a-a173-8e857006aea5@a8e4.org
+DTSTART:20241019T101500Z
+SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
+UID:ce396a2e-4015-49cc-bb39-2931684098ea@ce39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250208T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250208T074500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:c6d708a8-83af-4be2-9483-eeec71092088@c6d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rostyslav Apostol
@@ -110,6 +70,46 @@ DTEND:20241208T110000Z
 LOCATION:Paw.G - 2
 DTSTART:20241208T093000Z
 SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
-UID:f4c5b5ee-bf9b-4d2d-b677-548b77493e0a@f4c5.org
+UID:9b03e4e6-8d43-43e7-a1b0-1729709d1c12@9b03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Dariusz Skórniewski
+DTEND:20241005T124500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241005T064500Z
+SUMMARY:Wykorzystanie baz danych (Studia podyplomowe)
+UID:41caf883-66a3-43d7-b00a-470b640368bb@41ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Dariusz Skórniewski
+DTEND:20241006T124500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241006T064500Z
+SUMMARY:Wykorzystanie baz danych (Studia podyplomowe)
+UID:3b105850-f9f4-4da1-8184-2e5aafd63b74@3b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20241019T094500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241019T064500Z
+SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
+UID:1c06a256-470a-40b9-9005-30077753d414@1c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20241020T094500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241020T064500Z
+SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
+UID:106e1044-bbc5-4416-8bb7-a58e85a97e5b@106e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20241020T131500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241020T101500Z
+SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
+UID:5c6141bf-73da-4fb4-af46-8deff4d13b88@5c61.org
 END:VEVENT
 END:VCALENDAR
