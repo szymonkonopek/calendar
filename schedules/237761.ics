@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20241201T170000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241201T144500Z
-SUMMARY:Metody metaheurystyczne (ćwiczenia)
-UID:4ec1c44d-2d8b-42a9-92fe-ad9b8dbe44f0@4ec1.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241122T174500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241122T144500Z
+SUMMARY:Systemy rozmyte (ćwiczenia)
+UID:2909d8fa-c281-464d-9863-38e6e4ef2be1@2909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
+DTEND:20241012T090000Z
+DTSTART:20241012T064500Z
+SUMMARY:Zarządzanie strategiczne (wykład)
+UID:5fac46c3-164f-4672-a6fc-99731e0dc4bc@5fac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
@@ -15,7 +22,14 @@ DTEND:20241130T114500Z
 LOCATION:link do zajęć
 DTSTART:20241130T093000Z
 SUMMARY:Metody metaheurystyczne (wykład)
-UID:9aedb351-a21e-4cba-b14f-96a67e9633be@9aed.org
+UID:5c517151-c4ec-4f9d-ae7f-b4bd2dd7cff2@5c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241013T094500Z
+DTSTART:20241013T064500Z
+SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
+UID:f57a9cad-2277-4ebb-a0c1-eae258df8152@f57a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
@@ -23,228 +37,14 @@ DTEND:20250131T194500Z
 LOCATION:Paw.E sala J
 DTSTART:20250131T181500Z
 SUMMARY: (egzamin)
-UID:f67d3d5c-8cd5-4949-a48b-165c8a38bb13@f67d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
-DTEND:20250110T171500Z
-DTSTART:20250110T154500Z
-SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
-UID:bdcfe03c-d1a0-4b7e-bdf6-448918c82875@bdcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20241026T081500Z
-DTSTART:20241026T060000Z
-SUMMARY:Systemy rozmyte (wykład)
-UID:4ea416eb-228f-46be-9e0c-2b569b0aa1c4@4ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20250111T194500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250111T173000Z
-SUMMARY:Systemy rozmyte (ćwiczenia)
-UID:5361585a-7f51-4ab7-ac62-3d065779da9b@5361.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20241215T183000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241215T144500Z
-SUMMARY:Deep Learning w języku Python (wykład do wyboru)
-UID:36fefdaa-5ebe-4947-8f8a-3878b03eaba4@36fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20241130T091500Z
-LOCATION:link do zajęć
-DTSTART:20241130T070000Z
-SUMMARY:Systemy uczące się (wykład)
-UID:baf68cde-3d40-4603-9b81-0ed73a83aed3@baf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
-DTEND:20250112T143000Z
-DTSTART:20250112T130000Z
-SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
-UID:eb692611-31c1-40b4-bc09-e5ddd723ab6f@eb69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20241012T141500Z
-DTSTART:20241012T120000Z
-SUMMARY:Systemy uczące się (wykład)
-UID:c203050b-6494-4ec0-9fa5-0d76e35a8089@c203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20241013T151500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241013T130000Z
-SUMMARY:Metody metaheurystyczne (ćwiczenia)
-UID:328bc391-df86-4923-a355-af5a4e9c27f5@328b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
-DTEND:20250125T191500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250125T144500Z
-SUMMARY:Deep Learning w języku Python (wykład do wyboru)
-UID:df32c2eb-2aee-463d-85ee-a19c893bb1ae@df32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20241123T143000Z
-LOCATION:link do zajęć
-DTSTART:20241123T121500Z
-SUMMARY:Systemy uczące się (wykład)
-UID:2014a8b2-86a3-4933-bfb0-307259a6f710@2014.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250112T170000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250112T144500Z
-SUMMARY:Systemy uczące się (ćwiczenia)
-UID:55c2afa8-72e1-40b0-a71d-4328f6f943fa@55c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20241011T174500Z
-DTSTART:20241011T153000Z
-SUMMARY:Systemy rozmyte (wykład)
-UID:9ac012d5-ab7b-441b-b503-58a76f9204b4@9ac0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
-DTEND:20241124T151500Z
-LOCATION:Platforma Moodle
-DTSTART:20241124T130000Z
-SUMMARY:Zarządzanie strategiczne (Ćwiczenia e-learningowe)
-UID:bc061d19-74e7-4b37-84c4-4a575d1cebff@bc06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
-DTEND:20241027T124500Z
-LOCATION:Paw.B 451
-DTSTART:20241027T103000Z
-SUMMARY:Zarządzanie strategiczne (ćwiczenia)
-UID:09122143-7d13-453c-a45e-f5256e3602e3@0912.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20241122T194500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241122T181500Z
-SUMMARY:Systemy uczące się (ćwiczenia)
-UID:452a334a-28ed-44e9-b410-8a4ead750f23@452a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
-DTEND:20241201T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20241201T093000Z
-SUMMARY:Deep Learning w języku Python (wykład do wyboru)
-UID:d70051cb-a258-48c6-a7f3-4dc979ffad9e@d700.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
-DTEND:20241012T090000Z
-DTSTART:20241012T064500Z
-SUMMARY:Zarządzanie strategiczne (wykład)
-UID:02518f96-27cf-4c54-bd9c-4bd7bd9db787@0251.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20241123T114500Z
-LOCATION:link do zajęć
-DTSTART:20241123T093000Z
-SUMMARY:Systemy rozmyte (wykład)
-UID:46397c17-8f7e-4d94-902c-fad31e024022@4639.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
-DTEND:20250126T143000Z
-DTSTART:20250126T121500Z
-SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
-UID:07521869-8f16-450a-a5cf-00cce658da9e@0752.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20241122T174500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241122T144500Z
-SUMMARY:Systemy rozmyte (ćwiczenia)
-UID:7bfd1f51-df78-4ed8-9722-9ac4ba5a9900@7bfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20241214T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241214T144500Z
-SUMMARY:Systemy rozmyte (ćwiczenia)
-UID:afd3bd1d-1973-4f3b-b228-9a63a99df57c@afd3.org
+UID:023b3523-ccdc-4e4c-960d-1444956732fd@023b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
 DTEND:20241012T114500Z
 DTSTART:20241012T093000Z
 SUMMARY:Metody metaheurystyczne (wykład)
-UID:3975eb87-ef0b-448a-97bf-c55c7fb218bf@3975.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20241214T184500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241214T163000Z
-SUMMARY:Metody metaheurystyczne (ćwiczenia)
-UID:9e777e65-2d76-448e-abd2-b7290077f435@9e77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
-DTEND:20241124T100000Z
-LOCATION:Paw.C sala D
-DTSTART:20241124T070000Z
-SUMMARY:Deep Learning w języku Python (wykład do wyboru)
-UID:8d18fee4-dc5a-47a5-af65-642143448a90@8d18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
-DTEND:20241013T094500Z
-DTSTART:20241013T064500Z
-SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
-UID:a69ef7b5-7cd6-4bf6-93ae-a723b65ffe3e@a69e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20241027T100000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241027T070000Z
-SUMMARY:Systemy uczące się (ćwiczenia)
-UID:e9a9f822-732d-4f06-a321-a032409dfe84@e9a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
-DTEND:20241026T141500Z
-DTSTART:20241026T120000Z
-SUMMARY:Zarządzanie strategiczne (wykład)
-UID:27167edb-569d-4f28-879c-c0b2c4179231@2716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20241026T114500Z
-DTSTART:20241026T093000Z
-SUMMARY:Metody metaheurystyczne (wykład)
-UID:fc0326e1-20a3-4f33-bd43-7cececa30d09@fc03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
-DTEND:20241213T194500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20241213T173000Z
-SUMMARY:Zarządzanie strategiczne (ćwiczenia)
-UID:df938a0a-0b8b-40fa-9955-49bf833a634b@df93.org
+UID:730dcb5a-c6e9-421a-a5de-b6a98be223df@730d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
@@ -252,6 +52,206 @@ DTEND:20241123T091500Z
 LOCATION:link do zajęć
 DTSTART:20241123T070000Z
 SUMMARY:Zarządzanie strategiczne (wykład)
-UID:e26649ae-a632-4f8d-befb-8b72560d1f1e@e266.org
+UID:e9b83b91-b95f-4c10-bfc7-c3fdd8f9843f@e9b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241026T081500Z
+DTSTART:20241026T060000Z
+SUMMARY:Systemy rozmyte (wykład)
+UID:c1fa1d83-7ec6-4672-895a-e4da147a4bd4@c1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
+DTEND:20241026T141500Z
+DTSTART:20241026T120000Z
+SUMMARY:Zarządzanie strategiczne (wykład)
+UID:c4acc64f-c9a0-4c09-ba0c-2a47a8d838d3@c4ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
+DTEND:20241124T151500Z
+LOCATION:Platforma Moodle
+DTSTART:20241124T130000Z
+SUMMARY:Zarządzanie strategiczne (Ćwiczenia e-learningowe)
+UID:300932f8-b659-4fe7-b728-1ad9b301b19c@3009.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241130T091500Z
+LOCATION:link do zajęć
+DTSTART:20241130T070000Z
+SUMMARY:Systemy uczące się (wykład)
+UID:5bd6047c-9f4f-4080-9a9e-b14c9e61c9a4@5bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20241122T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241122T181500Z
+SUMMARY:Systemy uczące się (ćwiczenia)
+UID:34841166-729a-405c-a90b-45875c009f42@3484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20250125T191500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250125T144500Z
+SUMMARY:Deep Learning w języku Python (wykład do wyboru)
+UID:7d84a708-1a9b-45c4-ae85-840e62a860d0@7d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241123T114500Z
+LOCATION:link do zajęć
+DTSTART:20241123T093000Z
+SUMMARY:Systemy rozmyte (wykład)
+UID:afc85992-dd1c-4636-b2b5-583def4d19e0@afc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20241027T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241027T070000Z
+SUMMARY:Systemy uczące się (ćwiczenia)
+UID:db9d55ed-b388-4720-9448-0367d9ed04c5@db9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241011T174500Z
+DTSTART:20241011T153000Z
+SUMMARY:Systemy rozmyte (wykład)
+UID:637d1419-63d3-4d25-b009-3b3e434541a3@637d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241214T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241214T144500Z
+SUMMARY:Systemy rozmyte (ćwiczenia)
+UID:efed931b-40bc-465d-9a2c-882867693d60@efed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241026T114500Z
+DTSTART:20241026T093000Z
+SUMMARY:Metody metaheurystyczne (wykład)
+UID:ce8c9332-ef8a-4cec-99e0-dc54acb959d4@ce8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241215T183000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241215T144500Z
+SUMMARY:Deep Learning w języku Python (wykład do wyboru)
+UID:058966f1-4a94-4f95-8ccf-9f3eee5fb98d@0589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241123T143000Z
+LOCATION:link do zajęć
+DTSTART:20241123T121500Z
+SUMMARY:Systemy uczące się (wykład)
+UID:856bbed0-e556-4f89-bc7d-5949c3481030@856b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241012T141500Z
+DTSTART:20241012T120000Z
+SUMMARY:Systemy uczące się (wykład)
+UID:d48bf3bd-6fdc-4143-8abf-ff403a40af02@d48b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250112T170000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250112T144500Z
+SUMMARY:Systemy uczące się (ćwiczenia)
+UID:f8e83ad6-08b8-4f33-b5e8-c5badc839670@f8e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241201T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241201T093000Z
+SUMMARY:Deep Learning w języku Python (wykład do wyboru)
+UID:214b544d-8aff-4dbc-85f3-504627dab290@214b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
+DTEND:20241213T194500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241213T173000Z
+SUMMARY:Zarządzanie strategiczne (ćwiczenia)
+UID:6ae499ef-37d9-453b-9700-ff94a508371c@6ae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250111T194500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250111T173000Z
+SUMMARY:Systemy rozmyte (ćwiczenia)
+UID:26068ac5-cf23-44b2-bbf2-94d5d761b0b8@2606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20250110T171500Z
+DTSTART:20250110T154500Z
+SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
+UID:34995699-da85-42ea-8b51-f5e02de2014a@3499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241124T100000Z
+LOCATION:Paw.C sala D
+DTSTART:20241124T070000Z
+SUMMARY:Deep Learning w języku Python (wykład do wyboru)
+UID:6985aa0b-06c5-4b87-9242-62451f2c9d97@6985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20250126T143000Z
+DTSTART:20250126T121500Z
+SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
+UID:3aaf131b-52b1-4b10-b68f-569915e47448@3aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20250112T143000Z
+DTSTART:20250112T130000Z
+SUMMARY:Deep Learning w języku Python (Przeniesienie zajęć)
+UID:05b25caa-9ae4-4d80-a402-a5dbb0f159ca@05b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241013T151500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241013T130000Z
+SUMMARY:Metody metaheurystyczne (ćwiczenia)
+UID:488de43a-4aa4-4b35-8e2d-cdbaac0b6544@488d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241201T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241201T144500Z
+SUMMARY:Metody metaheurystyczne (ćwiczenia)
+UID:d40cccfc-a58f-49ab-8ba9-d6fe492c740d@d40c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241214T184500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241214T163000Z
+SUMMARY:Metody metaheurystyczne (ćwiczenia)
+UID:17afcca6-3902-4e1f-bb4c-f6ebae4ee682@17af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Walas-Trębacz
+DTEND:20241027T124500Z
+LOCATION:Paw.B 451
+DTSTART:20241027T103000Z
+SUMMARY:Zarządzanie strategiczne (ćwiczenia)
+UID:6a8ace74-b23d-468b-aca6-0f8b6dcc7885@6a8a.org
 END:VEVENT
 END:VCALENDAR
