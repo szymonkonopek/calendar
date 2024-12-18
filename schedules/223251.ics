@@ -2,11 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241207T133000Z
-DTSTART:20241207T111500Z
-SUMMARY:Doradztwo inwestycyjne (Przeniesienie zajęć)
-UID:3c7b3eb4-cff5-4ff2-8d1e-9daf4a0dacac@3c7b.org
+DESCRIPTION:Instructor: dr Marta Sordyl
+DTEND:20241116T151500Z
+DTSTART:20241116T130000Z
+SUMMARY:Ekonomia instytucjonalna (wykład)
+UID:e124759d-a423-4977-bc57-f57e47e18980@e124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241004T184500Z
+DTSTART:20241004T163000Z
+SUMMARY:Analiza projektów inwestycyjnych (wykład)
+UID:10311201-ebf5-4256-af77-86c8efc3e906@1031.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Sordyl
@@ -14,563 +21,7 @@ DTEND:20241206T194500Z
 LOCATION:link do zajęć
 DTSTART:20241206T173000Z
 SUMMARY:Ekonomia instytucjonalna (wykład)
-UID:62489f2d-bf84-4f7e-aec8-cd6b39ee3ae9@6248.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Kawa
-DTEND:20250126T100000Z
-LOCATION:Paw.S sala 6
-DTSTART:20250126T074500Z
-SUMMARY:Analiza projektów inwestycyjnych (ćwiczenia)
-UID:fc1aa202-ea31-4f9e-a974-9bdeed7247c6@fc1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Klimczyk
-DTEND:20241124T104500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20241124T074500Z
-SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
-UID:dff3b2d7-150b-4c9d-a2a6-fa8f7f185d32@dff3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Janus
-DTEND:20241124T161500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241124T140000Z
-SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
-UID:0c6b2755-742d-48a4-9206-de30a5bf3aab@0c6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Stańczyk
-DTEND:20241123T151500Z
-LOCATION:link do zajęć
-DTSTART:20241123T130000Z
-SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (wykład)
-UID:064a9e30-6675-419d-9252-b5074157f798@064a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mirosław Raczyński
-DTEND:20241026T090000Z
-DTSTART:20241026T064500Z
-SUMMARY:Polityka regulacji i konkurencji (wykład)
-UID:a8e46655-8533-4bd5-b98a-861f0e973519@a8e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Witoń
-DTEND:20241006T090000Z
-DTSTART:20241006T064500Z
-SUMMARY:Międzynarodowe rynki finansowe (wykład)
-UID:960c11eb-d63c-4e94-9c8e-0c5db9caf850@960c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241122T194500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241122T173000Z
-SUMMARY:Analiza szeregów czasowych (ćwiczenia)
-UID:85765c5b-7179-4fb2-b6fc-d9a2c438c08f@8576.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Klimczyk
-DTEND:20241221T104500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20241221T074500Z
-SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
-UID:7b7bc9d8-71fd-499d-b347-95c48c983ecc@7b7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Witoń
-DTEND:20241123T100000Z
-LOCATION:link do zajęć
-DTSTART:20241123T074500Z
-SUMMARY:Międzynarodowe rynki finansowe (wykład)
-UID:dbe8830b-ee01-434a-9805-a068f79ef8a3@dbe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Witoń
-DTEND:20241208T124500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241208T103000Z
-SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
-UID:063e47d3-68f7-41b5-933f-a421e1d6ea1e@063e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kawiorska
-DTEND:20241123T124500Z
-LOCATION:link do zajęć
-DTSTART:20241123T103000Z
-SUMMARY:Teoria wyboru publicznego (wykład)
-UID:7dbc1394-6cee-47b5-b2ae-76b0acb58c99@7dbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Stańczyk
-DTEND:20241006T141500Z
-DTSTART:20241006T120000Z
-SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (wykład)
-UID:f3d375ef-8415-41ed-a2ac-d419aa2f785f@f3d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20250202T101500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250202T084500Z
-SUMMARY: (egzamin)
-UID:26002574-5f8e-4cef-9f29-901fe74cf54e@2600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241221T184500Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20241221T163000Z
-SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
-UID:caf4e0c2-7afe-4afb-ae4f-cd35992ca28e@caf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241004T160000Z
-DTSTART:20241004T134500Z
-SUMMARY:Analiza szeregów czasowych (wykład)
-UID:0bf14bd3-174b-4de7-b9dc-c1149e31bc70@0bf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Stańczyk
-DTEND:20250126T124500Z
-LOCATION:Paw.C sala F
-DTSTART:20250126T103000Z
-SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (ćwiczenia)
-UID:d9459b63-acee-4e0b-8a0e-0c5f2d47b5c3@d945.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Janus
-DTEND:20241214T170000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241214T144500Z
-SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
-UID:be9bfee6-9a5e-4862-a44f-3f60d31da128@be9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
-DTEND:20241006T114500Z
-DTSTART:20241006T093000Z
-SUMMARY:Modelowanie makroekonomiczne (wykład)
-UID:e02f0dc7-b32a-4f41-b91f-ccdfb08d753d@e02f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241116T124500Z
-DTSTART:20241116T103000Z
-SUMMARY:Doradztwo inwestycyjne (Przeniesienie zajęć)
-UID:52ce9b8c-9e5b-4a67-bd7a-a4a5a3c33e18@52ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gabriela Wronowska
-DTEND:20241117T100000Z
-LOCATION:link do zajęć
-DTSTART:20241117T074500Z
-SUMMARY:Ekonomia rynku pracy (wykład)
-UID:c906bf3a-8bde-4469-a96d-8f4e221682fe@c906.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Analiza szeregów czasowych (wykład)
-UID:3e2996b7-3676-461f-9bb5-0080a5f4d4e7@3e29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
-DTEND:20250117T170000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250117T144500Z
-SUMMARY:Teoria wyboru publicznego (ćwiczenia)
-UID:0e5a0103-cb15-41aa-8221-1c71434599a7@0e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mirosław Raczyński
-DTEND:20250119T151500Z
-LOCATION:Paw.F 104
-DTSTART:20250119T130000Z
-SUMMARY:Polityka regulacji i konkurencji (ćwiczenia)
-UID:338c4c63-878a-4a09-a156-1f6b16b9f127@338c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Stańczyk
-DTEND:20241215T114500Z
-LOCATION:Paw.B 351
-DTSTART:20241215T093000Z
-SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (ćwiczenia)
-UID:d6258786-78a5-4e7b-a78d-f4b20c32a0b5@d625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20250118T124500Z
-LOCATION:Paw.S sala 4
-DTSTART:20250118T103000Z
-SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
-UID:13729f92-f8fc-43c2-853e-6668a6757c92@1372.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gabriela Wronowska
-DTEND:20241208T100000Z
-LOCATION:Paw.F 109
-DTSTART:20241208T074500Z
-SUMMARY:Ekonomia rynku pracy (ćwiczenia)
-UID:672af6df-c8ae-4870-8fb8-cc39674e16ed@672a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Kawa
-DTEND:20241213T170000Z
-LOCATION:link do zajęć
-DTSTART:20241213T144500Z
-SUMMARY:Analiza projektów inwestycyjnych (wykład)
-UID:cfaa0a5c-01be-4e11-bc30-76027c20ef81@cfaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Witoń
-DTEND:20241117T151500Z
-LOCATION:link do zajęć
-DTSTART:20241117T130000Z
-SUMMARY:Międzynarodowe rynki finansowe (wykład)
-UID:1bd19f36-0cfa-48bc-b5f8-85ccbd2a3380@1bd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Sordyl
-DTEND:20241116T151500Z
-DTSTART:20241116T130000Z
-SUMMARY:Ekonomia instytucjonalna (wykład)
-UID:9d90d7d1-8180-4d90-b919-b48f1f6d6c31@9d90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gabriela Wronowska
-DTEND:20241026T141500Z
-DTSTART:20241026T120000Z
-SUMMARY:Ekonomia rynku pracy (wykład)
-UID:7ef0e03e-6980-4dee-9550-15153d2e13a8@7ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241026T114500Z
-DTSTART:20241026T093000Z
-SUMMARY:Doradztwo inwestycyjne (wykład)
-UID:e08d5e8f-1947-4762-a592-46d566b134e5@e08d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Sordyl
-DTEND:20250124T170000Z
-LOCATION:Paw.F 413
-DTSTART:20250124T144500Z
-SUMMARY:Ekonomia instytucjonalna (ćwiczenia)
-UID:e3a609eb-8b8f-4da0-85f4-1ebc2c2c1afa@e3a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
-DTEND:20250217T190000Z
-LOCATION:Paw.C sala C
-DTSTART:20250217T173000Z
-SUMMARY:Modelowanie makroekonomiczne (egzamin)
-UID:f967e1b7-9800-470d-83f5-c528244b067a@f967.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Witoń
-DTEND:20241222T124500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241222T103000Z
-SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
-UID:7b4cc967-003a-4fb9-bcf5-77fc80c8f524@7b4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gabriela Wronowska
-DTEND:20250131T190000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250131T173000Z
-SUMMARY:Ekonomia rynku pracy (egzamin)
-UID:f890553f-c917-4779-a01c-e994df0a46ff@f890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
-DTEND:20241117T124500Z
-LOCATION:link do zajęć
-DTSTART:20241117T103000Z
-SUMMARY:Modelowanie makroekonomiczne (wykład)
-UID:d2b33d2e-d5c6-4202-92b4-6a90e52e54a4@d2b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mirosław Raczyński
-DTEND:20241208T151500Z
-LOCATION:Paw.F 104
-DTSTART:20241208T130000Z
-SUMMARY:Polityka regulacji i konkurencji (ćwiczenia)
-UID:6b4bdc9f-5f32-4b55-9c73-3c358041cb55@6b4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
-DTEND:20250208T101500Z
-LOCATION:Paw.B 151
-DTSTART:20250208T084500Z
-SUMMARY:Modelowanie makroekonomiczne (egzamin)
-UID:ffffa413-9c63-4662-af96-d5fe55fe8658@ffff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Kawa
-DTEND:20241004T184500Z
-DTSTART:20241004T163000Z
-SUMMARY:Analiza projektów inwestycyjnych (wykład)
-UID:9a50c3cb-6c70-4bfb-ae25-554880bff27f@9a50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241207T184500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241207T163000Z
-SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
-UID:2f2686b6-262a-4142-a4e1-9289fee6b430@2f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Kawa
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Analiza projektów inwestycyjnych (wykład)
-UID:b51e4175-d463-46d9-baae-9081b506109d@b51e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20250124T194500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250124T173000Z
-SUMMARY:Analiza szeregów czasowych (ćwiczenia)
-UID:b19cfff7-62c3-4b76-8db2-c660582da124@b19c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Sordyl
-DTEND:20241220T170000Z
-LOCATION:Paw.F 413
-DTSTART:20241220T144500Z
-SUMMARY:Ekonomia instytucjonalna (ćwiczenia)
-UID:33c0c536-a3fe-4a0e-b521-48bdefc29352@33c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241221T133000Z
-DTSTART:20241221T111500Z
-SUMMARY:Doradztwo inwestycyjne (Przeniesienie zajęć)
-UID:c71de563-ddea-4310-8437-b037050e429b@c71d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mirosław Raczyński
-DTEND:20241116T100000Z
-DTSTART:20241116T074500Z
-SUMMARY:Polityka regulacji i konkurencji (wykład)
-UID:7dde6dbc-0376-48f6-8951-403394324487@7dde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mirosław Raczyński
-DTEND:20241005T090000Z
-DTSTART:20241005T064500Z
-SUMMARY:Polityka regulacji i konkurencji (wykład)
-UID:ea3a0ffe-695e-4a61-8ea1-5da93bef83f8@ea3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gabriela Wronowska
-DTEND:20250118T100000Z
-LOCATION:Paw.U sala O
-DTSTART:20250118T074500Z
-SUMMARY:Ekonomia rynku pracy (ćwiczenia)
-UID:97b9878c-0156-4eb0-b65a-af806141b151@97b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Klimczyk
-DTEND:20241222T100000Z
-LOCATION:Paw.F 109
-DTSTART:20241222T074500Z
-SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
-UID:20cfb604-19b7-4362-a0f4-b6d0cc6d541c@20cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Kawa
-DTEND:20241207T161500Z
-LOCATION:Paw.S sala 6
-DTSTART:20241207T140000Z
-SUMMARY:Analiza projektów inwestycyjnych (ćwiczenia)
-UID:df32db4a-ccd6-4508-8b72-ccd6730ea450@df32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20250125T124500Z
-LOCATION:Paw.F CJ 011 lab. komp.
-DTSTART:20250125T103000Z
-SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
-UID:de177a10-0487-43c1-b5aa-692a0ea1eecf@de17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kawiorska
-DTEND:20241206T170000Z
-LOCATION:link do zajęć
-DTSTART:20241206T144500Z
-SUMMARY:Teoria wyboru publicznego (wykład)
-UID:da99c588-8cc9-4072-bb51-0f5c9b9df42b@da99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Kawa
-DTEND:20241214T114500Z
-LOCATION:Paw.S sala 6
-DTSTART:20241214T093000Z
-SUMMARY:Analiza projektów inwestycyjnych (ćwiczenia)
-UID:65ee63fe-139c-4211-92b5-e43976780448@65ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20250222T100000Z
-LOCATION:Paw.F 717
-DTSTART:20250222T074500Z
-SUMMARY:Analiza szeregów czasowych (egzamin)
-UID:fad305ab-477f-43f1-9f60-5bb6363d6b07@fad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Janus
-DTEND:20241221T161500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241221T140000Z
-SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
-UID:6027dd2b-bf0c-41f5-a2e3-e4aade90d9c9@6027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
-DTEND:20241122T170000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20241122T144500Z
-SUMMARY:Teoria wyboru publicznego (ćwiczenia)
-UID:b7d33e6a-d3e4-4e89-99ae-c177ba311727@b7d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Sordyl
-DTEND:20241005T141500Z
-DTSTART:20241005T120000Z
-SUMMARY:Ekonomia instytucjonalna (wykład)
-UID:ed84a3b1-49a5-4b15-8381-490209c892a9@ed84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Janus
-DTEND:20250125T161500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250125T140000Z
-SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
-UID:7c10ef59-5daa-4a75-8491-653770cc834b@7c10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Witoń
-DTEND:20250119T124500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250119T103000Z
-SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
-UID:de08fda6-320c-4d8a-8b6a-12bec0acaf2e@de08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20250223T101500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250223T084500Z
-SUMMARY: (egzamin)
-UID:fed03870-aa22-432a-8cec-e0cf6dcdbc0a@fed0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
-DTEND:20241215T143000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20241215T121500Z
-SUMMARY:Teoria wyboru publicznego (ćwiczenia)
-UID:56009b84-89e5-40f7-a1f5-6be2338c2f59@5600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Klimczyk
-DTEND:20250125T100000Z
-LOCATION:Paw.U sala O
-DTSTART:20250125T074500Z
-SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
-UID:e1a44e46-df67-4ab2-8532-7cc48bf6bd14@e1a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mirosław Raczyński
-DTEND:20250209T120000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250209T103000Z
-SUMMARY: (egzamin)
-UID:f3655a85-cd3e-4e06-a8df-6e1d2c1f32fd@f365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241220T194500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241220T173000Z
-SUMMARY:Analiza szeregów czasowych (ćwiczenia)
-UID:da67770c-ac3f-4ea2-a6ae-10105b09d167@da67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kawiorska
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
-SUMMARY:Teoria wyboru publicznego (wykład)
-UID:4bad9626-3249-4ed9-9c15-48f0909f23e0@4bad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Stańczyk
-DTEND:20241027T151500Z
-DTSTART:20241027T130000Z
-SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (wykład)
-UID:09e4898c-9e7e-4d2d-abc0-069bc55479da@09e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
-DTEND:20241027T124500Z
-DTSTART:20241027T103000Z
-SUMMARY:Modelowanie makroekonomiczne (wykład)
-UID:28e50b1c-9658-4954-bf85-6554645e27a0@28e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kawiorska
-DTEND:20250131T171500Z
-LOCATION:Paw.B 351
-DTSTART:20250131T154500Z
-SUMMARY: (egzamin)
-UID:64020d9e-5261-4391-b159-83d73ae40cdb@6402.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Janus
-DTEND:20250118T161500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250118T140000Z
-SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
-UID:716b3312-5f38-40d3-915f-a443fd68a613@716b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gabriela Wronowska
-DTEND:20250119T100000Z
-LOCATION:Paw.F 109
-DTSTART:20250119T074500Z
-SUMMARY:Ekonomia rynku pracy (ćwiczenia)
-UID:808a81de-14dc-43ed-91c5-1f94b60f7c6e@808a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Stańczyk
-DTEND:20250117T194500Z
-LOCATION:Paw.B 351
-DTSTART:20250117T173000Z
-SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (ćwiczenia)
-UID:6691826e-b761-4ce8-97a5-a4bebb117e1c@6691.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241213T194500Z
-LOCATION:link do zajęć
-DTSTART:20241213T173000Z
-SUMMARY:Doradztwo inwestycyjne (wykład)
-UID:73afc523-840b-45b6-b0d2-4af5eeedd26b@73af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241005T114500Z
-DTSTART:20241005T093000Z
-SUMMARY:Doradztwo inwestycyjne (wykład)
-UID:2072a4c6-49b7-491d-a7e9-b755097ad5e5@2072.org
+UID:68259d90-a78b-4591-b44b-47329811a493@6825.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
@@ -578,45 +29,7 @@ DTEND:20250201T100000Z
 LOCATION:Paw.F 717
 DTSTART:20250201T074500Z
 SUMMARY:Analiza szeregów czasowych (egzamin)
-UID:fcdc4f95-ac74-4a22-a60f-ec343b883b2d@fcdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Sordyl
-DTEND:20241214T143000Z
-LOCATION:Paw.F 413
-DTSTART:20241214T121500Z
-SUMMARY:Ekonomia instytucjonalna (ćwiczenia)
-UID:5625bb5c-0480-4e57-8b89-4af046bc601a@5625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
-DTEND:20241124T133000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241124T111500Z
-SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
-UID:86cb6602-88df-4675-a72b-c2ac9837479b@86cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Klimczyk
-DTEND:20241207T104500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20241207T074500Z
-SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
-UID:49590f2b-3ab7-4e59-b7b8-f4424304280f@4959.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gabriela Wronowska
-DTEND:20241027T100000Z
-DTSTART:20241027T074500Z
-SUMMARY:Ekonomia rynku pracy (wykład)
-UID:2b7b2dcf-7f4e-45d0-a4e3-cd432d76ea61@2b7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Analiza szeregów czasowych (wykład)
-UID:a1405f03-1e55-48e9-a030-bcdbe09fdb61@a140.org
+UID:a3ee9b41-ae8c-4982-92dc-69c8e4b69d35@a3ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mirosław Raczyński
@@ -624,6 +37,590 @@ DTEND:20241222T151500Z
 LOCATION:Paw.F 104
 DTSTART:20241222T130000Z
 SUMMARY:Polityka regulacji i konkurencji (ćwiczenia)
-UID:2ec955ef-539f-4890-af14-a875d2c59dd9@2ec9.org
+UID:7332f9f8-902f-47c8-8c73-96656f191a53@7332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20250126T100000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250126T074500Z
+SUMMARY:Analiza projektów inwestycyjnych (ćwiczenia)
+UID:5b103392-1ec8-4592-bf7c-4e5abcbcdda5@5b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241122T194500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241122T173000Z
+SUMMARY:Analiza szeregów czasowych (ćwiczenia)
+UID:b404872c-646b-41ee-a59c-66a7d6e02d1b@b404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241004T160000Z
+DTSTART:20241004T134500Z
+SUMMARY:Analiza szeregów czasowych (wykład)
+UID:69552de5-e547-442f-a016-ce01d491e434@6955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kawiorska
+DTEND:20250131T171500Z
+LOCATION:Paw.B 351
+DTSTART:20250131T154500Z
+SUMMARY: (egzamin)
+UID:4fb67f97-8132-455b-a040-ec633f97f46b@4fb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241214T170000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241214T144500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:46d4fa8f-d082-4d36-a76e-55a2bb92dc6b@46d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241124T161500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241124T140000Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:7e3a4b74-6da7-4bcc-a663-bb51a11e17f6@7e3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Klimczyk
+DTEND:20241222T100000Z
+LOCATION:Paw.F 109
+DTSTART:20241222T074500Z
+SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
+UID:2aa9ddd5-3321-4ca7-8b1b-b74691fa64c9@2aa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241208T124500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241208T103000Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:27f78dbc-6295-4f22-b001-42b690e90d21@27f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20250202T101500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250202T084500Z
+SUMMARY: (egzamin)
+UID:7f5bf533-010c-46bd-9dd8-a484a5276ad6@7f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241220T194500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241220T173000Z
+SUMMARY:Analiza szeregów czasowych (ćwiczenia)
+UID:eb3950e5-05c9-4f87-bcdb-beeb094ecaf3@eb39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241207T133000Z
+DTSTART:20241207T111500Z
+SUMMARY:Doradztwo inwestycyjne (Przeniesienie zajęć)
+UID:3cd3e9e6-a042-4011-a811-55118dab3c59@3cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Raczyński
+DTEND:20241005T090000Z
+DTSTART:20241005T064500Z
+SUMMARY:Polityka regulacji i konkurencji (wykład)
+UID:33cad041-4f70-46bc-8118-70d9ce6c0abe@33ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241207T184500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241207T163000Z
+SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
+UID:4dd36d0a-4d7e-4222-8039-69d18eb50cd2@4dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20250119T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250119T103000Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:56c4991f-690f-4811-a587-9aab884a9fe1@56c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Klimczyk
+DTEND:20241221T104500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241221T074500Z
+SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
+UID:b8a17698-73d5-4b7b-9f7a-a83f6b6bedeb@b8a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Raczyński
+DTEND:20241116T100000Z
+DTSTART:20241116T074500Z
+SUMMARY:Polityka regulacji i konkurencji (wykład)
+UID:f90ff17b-bae8-4552-9957-19b8c6d8e0bd@f90f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Raczyński
+DTEND:20250119T151500Z
+LOCATION:Paw.F 104
+DTSTART:20250119T130000Z
+SUMMARY:Polityka regulacji i konkurencji (ćwiczenia)
+UID:e1ebb1a5-68dd-4315-bb73-8f36efa43bed@e1eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241026T114500Z
+DTSTART:20241026T093000Z
+SUMMARY:Doradztwo inwestycyjne (wykład)
+UID:7b71ef1e-0d28-49d8-abed-658b994b7673@7b71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20250125T161500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250125T140000Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:dfc1bd52-97b2-40e0-8680-cca0752a2ef4@dfc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241221T184500Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20241221T163000Z
+SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
+UID:d5f5dfd3-9551-4959-b3e6-5c186fe286c7@d5f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Stańczyk
+DTEND:20241027T151500Z
+DTSTART:20241027T130000Z
+SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (wykład)
+UID:724c8e38-76c5-40c1-a127-3b572cc6e116@724c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kawiorska
+DTEND:20241123T124500Z
+LOCATION:link do zajęć
+DTSTART:20241123T103000Z
+SUMMARY:Teoria wyboru publicznego (wykład)
+UID:b3da3ff9-574d-4db2-a0f4-31ffab1be35c@b3da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Analiza szeregów czasowych (wykład)
+UID:c71898f1-f09d-412d-b769-5da1652feeef@c718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gabriela Wronowska
+DTEND:20250131T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250131T173000Z
+SUMMARY:Ekonomia rynku pracy (egzamin)
+UID:1d6d91e5-26e5-4a6f-ab1f-17ebcb08ef3d@1d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gabriela Wronowska
+DTEND:20241026T141500Z
+DTSTART:20241026T120000Z
+SUMMARY:Ekonomia rynku pracy (wykład)
+UID:d55ebeb3-e4ed-4df2-9596-7d39501877b8@d55e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241213T194500Z
+LOCATION:link do zajęć
+DTSTART:20241213T173000Z
+SUMMARY:Doradztwo inwestycyjne (wykład)
+UID:830ba541-445d-4c5b-8c7c-64bd99f69a64@830b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Klimczyk
+DTEND:20241124T104500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241124T074500Z
+SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
+UID:a2cbbf50-4a69-48ff-9c8e-b394845724f2@a2cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241221T133000Z
+DTSTART:20241221T111500Z
+SUMMARY:Doradztwo inwestycyjne (Przeniesienie zajęć)
+UID:381e377b-cff6-4437-b03e-9a8c20ddc97f@381e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20250118T124500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250118T103000Z
+SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
+UID:0cf203b8-1b34-4479-803f-a8558a1cf5ac@0cf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241222T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241222T103000Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:abc90ecd-71b6-4d3b-95a9-fd1b7ad341e3@abc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241214T114500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241214T093000Z
+SUMMARY:Analiza projektów inwestycyjnych (ćwiczenia)
+UID:a2aec0cb-8e76-4e7b-a923-53c0f98ccd85@a2ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Stańczyk
+DTEND:20250117T194500Z
+LOCATION:Paw.B 351
+DTSTART:20250117T173000Z
+SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (ćwiczenia)
+UID:253f4211-7936-4f7e-ad89-8754025520a7@253f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20250223T101500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250223T084500Z
+SUMMARY: (egzamin)
+UID:4424b1ef-e87f-49d8-981f-b653709d1908@4424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20250217T190000Z
+LOCATION:Paw.C sala C
+DTSTART:20250217T173000Z
+SUMMARY:Modelowanie makroekonomiczne (egzamin)
+UID:a4134dd0-87df-499c-86d5-ee9b66b71fa0@a413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Sordyl
+DTEND:20250124T170000Z
+LOCATION:Paw.F 413
+DTSTART:20250124T144500Z
+SUMMARY:Ekonomia instytucjonalna (ćwiczenia)
+UID:24e8a858-ded7-4a4b-b2ca-c7382e5b87fd@24e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241117T124500Z
+DTSTART:20241117T103000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:20238fc1-45c5-4faf-9fd1-52e4f6901db5@2023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Klimczyk
+DTEND:20250125T100000Z
+LOCATION:Paw.U sala O
+DTSTART:20250125T074500Z
+SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
+UID:93c437a8-6edb-40d7-bdc9-dc405084a339@93c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241116T124500Z
+DTSTART:20241116T103000Z
+SUMMARY:Doradztwo inwestycyjne (Przeniesienie zajęć)
+UID:2dfafc5a-ce9c-4478-b1f1-83d37ef25d6f@2dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Sordyl
+DTEND:20241005T141500Z
+DTSTART:20241005T120000Z
+SUMMARY:Ekonomia instytucjonalna (wykład)
+UID:b80f7c00-6b85-4187-b543-1a1b2e0888b9@b80f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Sordyl
+DTEND:20241214T143000Z
+LOCATION:Paw.F 413
+DTSTART:20241214T121500Z
+SUMMARY:Ekonomia instytucjonalna (ćwiczenia)
+UID:0cd27f38-10ba-414b-9a16-c6dc1e894e70@0cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241123T100000Z
+LOCATION:link do zajęć
+DTSTART:20241123T074500Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:354a7c6b-c8fa-49c7-b1df-a3eab59b94a4@354a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20250125T124500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250125T103000Z
+SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
+UID:04924390-40e9-440a-bc26-cd87f2740a3b@0492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Sordyl
+DTEND:20241220T170000Z
+LOCATION:Paw.F 413
+DTSTART:20241220T144500Z
+SUMMARY:Ekonomia instytucjonalna (ćwiczenia)
+UID:c1085c0c-2709-472e-ba2e-59bbe90fb521@c108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Raczyński
+DTEND:20250209T120000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250209T103000Z
+SUMMARY: (egzamin)
+UID:99dc2ba9-0fd5-43d1-800a-64b4be4d4146@99dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20250222T100000Z
+LOCATION:Paw.F 717
+DTSTART:20250222T074500Z
+SUMMARY:Analiza szeregów czasowych (egzamin)
+UID:a722649b-74a4-48da-9346-debd3e544166@a722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Analiza szeregów czasowych (wykład)
+UID:5c5db322-06c1-41b8-8423-2bfa0aaf8656@5c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gabriela Wronowska
+DTEND:20241208T100000Z
+LOCATION:Paw.F 109
+DTSTART:20241208T074500Z
+SUMMARY:Ekonomia rynku pracy (ćwiczenia)
+UID:76a08a3b-ba48-409e-b5e0-4426fd7afbe4@76a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20250124T194500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250124T173000Z
+SUMMARY:Analiza szeregów czasowych (ćwiczenia)
+UID:e1afa04a-a389-4650-91df-3659d8b3fd24@e1af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Analiza projektów inwestycyjnych (wykład)
+UID:db61be5f-c7e0-4276-a3bf-2a08e2809b02@db61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kawiorska
+DTEND:20241206T170000Z
+LOCATION:link do zajęć
+DTSTART:20241206T144500Z
+SUMMARY:Teoria wyboru publicznego (wykład)
+UID:f0b59dfe-36bb-4b2b-878e-fc248d72b8ac@f0b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241207T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241207T140000Z
+SUMMARY:Analiza projektów inwestycyjnych (ćwiczenia)
+UID:e660254a-4885-48a5-a61a-f816f364cc71@e660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Klimczyk
+DTEND:20241207T104500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241207T074500Z
+SUMMARY:Metody oceny sytuacji makroekonomicznej (ćwiczenia)
+UID:03f0562b-d425-44b6-a6c0-1380d7116b36@03f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kawiorska
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Teoria wyboru publicznego (wykład)
+UID:c95aa55f-4039-4c96-8591-739c988dcb94@c95a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Raczyński
+DTEND:20241208T151500Z
+LOCATION:Paw.F 104
+DTSTART:20241208T130000Z
+SUMMARY:Polityka regulacji i konkurencji (ćwiczenia)
+UID:fb59bf8b-f2fc-4394-8600-358ab08cf4a0@fb59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20250208T101500Z
+LOCATION:Paw.B 151
+DTSTART:20250208T084500Z
+SUMMARY:Modelowanie makroekonomiczne (egzamin)
+UID:90d599c1-7eaa-496a-8661-c9c5d17d0270@90d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241213T170000Z
+LOCATION:link do zajęć
+DTSTART:20241213T144500Z
+SUMMARY:Analiza projektów inwestycyjnych (wykład)
+UID:a32d3310-c19e-4055-ada7-5a0dca6b1a28@a32d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gabriela Wronowska
+DTEND:20241117T100000Z
+DTSTART:20241117T074500Z
+SUMMARY:Ekonomia rynku pracy (wykład)
+UID:965e9dc0-1892-4777-81db-2060c32ee5be@965e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20250118T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250118T140000Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:c2709f3d-f605-40d9-8de2-9cbbd76db0ee@c270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241027T124500Z
+DTSTART:20241027T103000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:b3a1917f-4abb-444d-a607-4e7c90ce1dec@b3a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241122T170000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241122T144500Z
+SUMMARY:Teoria wyboru publicznego (ćwiczenia)
+UID:96758b50-62e1-46ee-bec1-139eb4dd73c0@9675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Stańczyk
+DTEND:20250126T124500Z
+LOCATION:Paw.C sala F
+DTSTART:20250126T103000Z
+SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (ćwiczenia)
+UID:2ffb6a63-b12f-4028-8aeb-025b97dd3d81@2ffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241006T090000Z
+DTSTART:20241006T064500Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:470b7116-a274-4bdf-a8b1-deada9483645@470b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Stańczyk
+DTEND:20241215T114500Z
+LOCATION:Paw.B 351
+DTSTART:20241215T093000Z
+SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (ćwiczenia)
+UID:9e375199-e95c-4220-bc92-a55991b20d11@9e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Stańczyk
+DTEND:20241006T141500Z
+DTSTART:20241006T120000Z
+SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (wykład)
+UID:14a16f17-82d3-440b-bf07-6428df52cb0f@14a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241124T133000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241124T111500Z
+SUMMARY:Doradztwo inwestycyjne (ćwiczenia)
+UID:f3cb6360-8ec7-488f-ab5d-2604fe35b92e@f3cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20250117T170000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250117T144500Z
+SUMMARY:Teoria wyboru publicznego (ćwiczenia)
+UID:6d194887-9b1d-49e5-8b5d-c6a14dbaa0ee@6d19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gabriela Wronowska
+DTEND:20250118T100000Z
+LOCATION:Paw.U sala O
+DTSTART:20250118T074500Z
+SUMMARY:Ekonomia rynku pracy (ćwiczenia)
+UID:b494cbe8-aaf4-4872-821b-08cbe311ba76@b494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gabriela Wronowska
+DTEND:20241027T100000Z
+DTSTART:20241027T074500Z
+SUMMARY:Ekonomia rynku pracy (wykład)
+UID:19ed95ae-8107-4e92-a028-51463bf803aa@19ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241221T161500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241221T140000Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:32ce69b8-5fdd-42f2-8b07-388e872719c6@32ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241006T114500Z
+DTSTART:20241006T093000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:a35db05d-2e14-4ca0-85f2-ce8f5b0faffc@a35d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Stańczyk
+DTEND:20241123T151500Z
+LOCATION:link do zajęć
+DTSTART:20241123T130000Z
+SUMMARY:Strategie rozwojowe w gospodarkach wschodzących (wykład)
+UID:f53fae45-d6cb-40e4-9d47-e21540b87836@f53f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gabriela Wronowska
+DTEND:20250119T100000Z
+LOCATION:Paw.F 109
+DTSTART:20250119T074500Z
+SUMMARY:Ekonomia rynku pracy (ćwiczenia)
+UID:6c5d391d-bb5b-4824-82e9-68125029a433@6c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241215T143000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241215T121500Z
+SUMMARY:Teoria wyboru publicznego (ćwiczenia)
+UID:2a74afab-86a0-431d-9303-f4138aef1abd@2a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Raczyński
+DTEND:20241026T090000Z
+DTSTART:20241026T064500Z
+SUMMARY:Polityka regulacji i konkurencji (wykład)
+UID:be5b8fc2-56f7-4866-97f6-670e2a9dc886@be5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241005T114500Z
+DTSTART:20241005T093000Z
+SUMMARY:Doradztwo inwestycyjne (wykład)
+UID:7c0c4d5c-3642-44c0-bbbd-47a6c774d7c9@7c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241117T151500Z
+DTSTART:20241117T130000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:35c46854-9b29-474c-81a5-1dd1c40ce4f8@35c4.org
 END:VEVENT
 END:VCALENDAR
