@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20241122T194500Z
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20241206T170000Z
 LOCATION:link do zajęć
-DTSTART:20241122T173000Z
-SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (wykład do wyboru)
-UID:cf38e28a-34ca-4df4-af16-cc6390685e0e@cf38.org
+DTSTART:20241206T144500Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
+UID:c71b9f81-b584-4b75-a12a-5caa1df713f7@c71b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20241201T180000Z
+DTSTART:20241201T154500Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (Przeniesienie zajęć)
+UID:ae4708df-8dbe-41a9-bd4f-3c4455339148@ae47.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Bugajski
@@ -15,38 +22,7 @@ DTEND:20250204T190000Z
 LOCATION:Paw.C sala D
 DTSTART:20250204T173000Z
 SUMMARY:Ustroje małżeńskie majątkowe (egzamin)
-UID:f39e3e3f-19c5-4133-880f-4d1ef54efe3d@f39e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20241129T170000Z
-LOCATION:Paw.F 715
-DTSTART:20241129T144500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:fd7f71ed-c4b6-43ec-a394-b69a21f22499@fd7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20241123T114500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20241123T093000Z
-SUMMARY:Prawo karne skarbowe (konwersatorium)
-UID:7b0b6358-6692-472c-a729-07f32f2cca0e@7b0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20250125T170000Z
-LOCATION:Paw.C sala C
-DTSTART:20250125T144500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
-UID:c43c739a-436d-4839-a2d5-a7b070ed1e4c@c43c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20241020T170000Z
-DTSTART:20241020T144500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
-UID:6f6d0ea8-1183-4349-847b-bb094b8d4d12@6f6d.org
+UID:3e7ea73c-33f6-4d6f-a226-e393d8177838@3e7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Julia Szwiec
@@ -54,116 +30,21 @@ DTEND:20241026T173000Z
 LOCATION:Paw.E sala J
 DTSTART:20241026T134500Z
 SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:07f93061-669c-40c1-a92a-87e38e865b6f@07f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20241130T194500Z
-DTSTART:20241130T173000Z
-SUMMARY:Prawo cywilne i handlowe (Przeniesienie zajęć)
-UID:e6d8c29d-fab9-425a-92e4-4ab9f7d478d0@e6d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20241220T170000Z
-LOCATION:Paw.F 614
-DTSTART:20241220T144500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:f4c0e717-f44a-4a0f-af13-ba27b85b585b@f4c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20241208T180000Z
-LOCATION:Paw.F 111
-DTSTART:20241208T154500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:451ae846-658c-4ad7-b950-a0d3323b2602@451a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250223T093000Z
-LOCATION:Bibl. 441
-DTSTART:20250223T084500Z
-SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (egzamin)
-UID:0aab33de-2767-4067-a41c-6280aff7c626@0aab.org
+UID:43b2d936-3d1c-4d5a-81f3-99e04d5c31dc@43b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20241117T100000Z
-DTSTART:20241117T074500Z
+DTEND:20241027T100000Z
+DTSTART:20241027T074500Z
 SUMMARY:Prawo podatkowe materialne ogólne (wykład)
-UID:c465eab2-a6b1-4469-b61d-24071f3f9b34@c465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250119T100000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250119T074500Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:357538dd-e65e-4b63-b337-14a56766865c@3575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250118T083000Z
-LOCATION:Bibl. 441
-DTSTART:20250118T074500Z
-SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (egzamin)
-UID:4551d57c-6553-4878-8723-2875b6edb6f6@4551.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20241130T091500Z
-LOCATION:Paw.C sala C
-DTSTART:20241130T070000Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:df8ec117-dd01-42ce-a278-8ca6074209ee@df8e.org
+UID:f13658ac-00f2-4172-bbf3-06069beaad65@f136.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Oskar Pogorzelski
-DTEND:20241201T124500Z
-LOCATION:link do zajęć
-DTSTART:20241201T103000Z
+DTEND:20241117T151500Z
+DTSTART:20241117T130000Z
 SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
-UID:27d12167-2119-4f27-8053-70d4261413ba@27d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20241117T180000Z
-DTSTART:20241117T154500Z
-SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (wykład do wyboru)
-UID:601e070c-3c33-4b3d-af16-27e51bbdd14c@601e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20250125T194500Z
-LOCATION:Paw.F 516
-DTSTART:20250125T173000Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:bd14f8b4-0023-480a-a840-560d688383cb@bd14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20241221T091500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20241221T070000Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
-UID:18a5b5b8-6870-4b02-bf6f-2c15e52220c2@18a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20250119T171500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250119T154500Z
-SUMMARY: (egzamin)
-UID:fc9d9ede-f6a9-4774-84c2-34061b1198e7@fc9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20241129T194500Z
-LOCATION:Paw.C sala C
-DTSTART:20241129T173000Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:d6741035-5cfa-4f19-a73a-5bfd0ac82609@d674.org
+UID:f9b88a75-dd2e-4ffe-ba46-b06b40018cba@f9b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
@@ -171,46 +52,7 @@ DTEND:20241207T180000Z
 LOCATION:Paw.S sala 3
 DTSTART:20241207T163000Z
 SUMMARY:Prawo celne i dewizowe (konwersatorium)
-UID:f17ee312-cac2-4090-bf8a-568c69247d3c@f17e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Bugajski
-DTEND:20241122T170000Z
-LOCATION:link do zajęć
-DTSTART:20241122T144500Z
-SUMMARY:Ustroje małżeńskie majątkowe (wykład do wyboru)
-UID:f73b45f1-ed1a-4d5d-8a76-32e31e342dfe@f73b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Bugajski
-DTEND:20241027T124500Z
-DTSTART:20241027T103000Z
-SUMMARY:Ustroje małżeńskie majątkowe (wykład do wyboru)
-UID:2a1dec89-9c9f-4b8d-904c-55c94b1cb385@2a1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250119T124500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250119T103000Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:4b079b4c-5690-4ea6-8336-da4bfa349be1@4b07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20241123T194500Z
-LOCATION:Paw.F 416
-DTSTART:20241123T173000Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:ddb9a29a-faf7-4078-aedd-8cad962bd1da@ddb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20241221T180000Z
-LOCATION:Paw.S sala 3
-DTSTART:20241221T163000Z
-SUMMARY:Prawo celne i dewizowe (konwersatorium)
-UID:fbe08151-611b-4a77-8c02-6f282d1127e5@fbe0.org
+UID:ca7e8b33-8505-45a2-8930-7ac57b350c4e@ca7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Knawa
@@ -218,60 +60,7 @@ DTEND:20241116T170000Z
 LOCATION:Paw.B 054 (KSB)
 DTSTART:20241116T144500Z
 SUMMARY:Prawo karne skarbowe (konwersatorium)
-UID:663e1854-845e-4af9-8430-d68b564b44c1@663e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250125T143000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250125T121500Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:6a4697ce-b985-4fa3-829a-081909740701@6a46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20241117T124500Z
-DTSTART:20241117T103000Z
-SUMMARY:Prawo cywilne i handlowe (wykład)
-UID:0883633a-630d-4046-a28b-c261850c2551@0883.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20241027T180000Z
-DTSTART:20241027T154500Z
-SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (wykład do wyboru)
-UID:13f15923-6618-40c5-8c0e-69f5cf918571@13f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20241208T104500Z
-LOCATION:Paw.S sala 2
-DTSTART:20241208T074500Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:05a93ed5-69b1-4d5b-92ee-3b0f0daa4c9f@05a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20241027T100000Z
-DTSTART:20241027T074500Z
-SUMMARY:Prawo podatkowe materialne ogólne (wykład)
-UID:440b0276-1cf3-4d11-b612-4b8402b1fa25@440b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20241201T151500Z
-LOCATION:link do zajęć
-DTSTART:20241201T130000Z
-SUMMARY:Prawo podatkowe materialne ogólne (wykład)
-UID:8287b153-35a9-4817-a33b-a57a863b78d1@8287.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20241221T161500Z
-LOCATION:Bud.gł. 9
-DTSTART:20241221T140000Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:b8cc6565-9ac4-43aa-8a8a-b72571f9deda@b8cc.org
+UID:a1744109-09de-4198-97c7-d783f315bf56@a174.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
@@ -279,60 +68,30 @@ DTEND:20250118T160000Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20250118T130000Z
 SUMMARY:Prawo pracy i ubezpieczeń społecznych (konwersatorium)
-UID:419bfcf0-b775-4e7f-8c1e-b7be711524d1@419b.org
+UID:ca63a740-b663-446c-9c3c-51c6227b3385@ca63.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250202T111500Z
-LOCATION:Paw.C sala F
-DTSTART:20250202T103000Z
-SUMMARY:Prawo cywilne i handlowe (egzamin)
-UID:31274e7e-f1ce-429f-85d2-4dd5ebe06aa1@3127.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Pogorzelski
-DTEND:20241117T151500Z
-DTSTART:20241117T130000Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
-UID:5d3459ca-04e4-4640-8222-c31ee7fa455a@5d34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20241020T114500Z
-DTSTART:20241020T093000Z
-SUMMARY:Prawo cywilne i handlowe (wykład)
-UID:1ae7ccb0-9591-4508-8d62-154a1f5a6012@1ae7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20250126T100000Z
-LOCATION:Paw.C sala C
-DTSTART:20250126T074500Z
-SUMMARY:Prawo karne skarbowe (konwersatorium)
-UID:4c3c9461-b753-465b-a6aa-fe3f796d5ccc@4c3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20241201T180000Z
-DTSTART:20241201T154500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (Przeniesienie zajęć)
-UID:97e9b102-d613-484f-b0cb-c0999e0370bf@97e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20241206T170000Z
-LOCATION:link do zajęć
-DTSTART:20241206T144500Z
-SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
-UID:73d9f35f-5d9f-4dbe-b7e8-e4d08134aef0@73d9.org
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241221T180000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241221T163000Z
+SUMMARY:Prawo celne i dewizowe (konwersatorium)
+UID:53a75ea8-e10e-427f-847e-81a6bb01ec4b@53a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20241124T124500Z
-LOCATION:Paw.E sala J
-DTSTART:20241124T103000Z
+DTEND:20241220T170000Z
+LOCATION:Paw.F 614
+DTSTART:20241220T144500Z
 SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
-UID:981bc082-5396-4be0-bcd0-1b7da6ab4092@981b.org
+UID:c058f432-5dba-47ff-961e-7d805452c8c9@c058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241019T133000Z
+DTSTART:20241019T111500Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
+UID:e5e0d68e-2b55-4489-bfd1-f4aa1e34da46@e5e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
@@ -340,86 +99,15 @@ DTEND:20241116T194500Z
 LOCATION:Paw.F 715
 DTSTART:20241116T173000Z
 SUMMARY:Prawo pracy i ubezpieczeń społecznych (konwersatorium)
-UID:1e0e3feb-bf8a-4a43-a7c1-47de11ac265b@1e0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Knawa
-DTEND:20250201T111500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250201T103000Z
-SUMMARY:Prawo karne skarbowe (egzamin)
-UID:3bedc53c-1df4-481f-a154-e6844fb6b736@3bed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250202T093000Z
-LOCATION:Bibl. 441
-DTSTART:20250202T084500Z
-SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (egzamin)
-UID:fa1af4fb-8fa9-497f-b38d-5f76aefc9923@fa1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oskar Pogorzelski
-DTEND:20241019T133000Z
-DTSTART:20241019T111500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
-UID:2553bc1a-13a0-4516-a42e-9fe50b611e0c@2553.org
+UID:89f2face-e792-48d7-a1ea-91cce0eee0e6@89f2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20241123T143000Z
-LOCATION:Bibl. 441
-DTSTART:20241123T121500Z
+DTEND:20250119T100000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250119T074500Z
 SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:5adff8ed-abb2-48d1-863a-e28570bcbb0c@5adf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20241116T143000Z
-LOCATION:Paw.S sala 5
-DTSTART:20241116T121500Z
-SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
-UID:d50a00eb-ee95-4174-9da6-88913ce7b627@d50a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jacek Lachner
-DTEND:20241123T170000Z
-LOCATION:Paw.C sala C
-DTSTART:20241123T144500Z
-SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
-UID:db55ddb6-544d-41de-ae1b-7eda29dd9134@db55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Bugajski
-DTEND:20241214T114500Z
-LOCATION:link do zajęć
-DTSTART:20241214T093000Z
-SUMMARY:Ustroje małżeńskie majątkowe (wykład do wyboru)
-UID:532169f7-2448-406f-8efc-7accb66b031c@5321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250119T151500Z
-LOCATION:Bibl. 441
-DTSTART:20250119T130000Z
-SUMMARY:Prawo celne i dewizowe (konwersatorium)
-UID:0cede0ab-1c1e-40c6-ac13-3905d0602fc6@0ced.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241207T194500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241207T181500Z
-SUMMARY:Prawo pracy i ubezpieczeń społecznych (konwersatorium)
-UID:2f2dacf6-623b-4e9a-9df2-8a03a6edf27f@2f2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20241208T151500Z
-LOCATION:Bibl. 443
-DTSTART:20241208T130000Z
-SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
-UID:1c068cdf-d1c8-420e-b226-a4885d97038e@1c06.org
+UID:e93dda8c-cd05-4be7-a7c0-47672d8460e0@e93d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Bugajski
@@ -427,14 +115,176 @@ DTEND:20241222T143000Z
 LOCATION:Paw.C sala D
 DTSTART:20241222T130000Z
 SUMMARY:Ustroje małżeńskie majątkowe (egzamin)
-UID:2dbde3d3-daff-486a-b3e3-14a326d821b7@2dbd.org
+UID:ffc4fbf2-e19c-4b6c-8448-30c59e50f464@ffc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241207T194500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241207T181500Z
+SUMMARY:Prawo pracy i ubezpieczeń społecznych (konwersatorium)
+UID:81760d7a-041f-40ad-a25f-2a6b0e801525@8176.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
+DTEND:20241208T151500Z
+LOCATION:Bibl. 443
+DTSTART:20241208T130000Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:86e97640-7e8a-4db9-9d11-e59e616ecfaa@86e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20241221T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241221T070000Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
+UID:5d15c6ff-933c-472a-b834-7c1c77960d0c@5d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241201T124500Z
+LOCATION:link do zajęć
+DTSTART:20241201T103000Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (wykład)
+UID:942bf861-901b-49fd-af2e-8c2432a0bdb1@942b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20250201T111500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250201T103000Z
+SUMMARY:Prawo karne skarbowe (egzamin)
+UID:d000b128-446e-48f8-9af2-0316ec5aed17@d000.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250223T093000Z
+LOCATION:Bibl. 441
+DTSTART:20250223T084500Z
+SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (egzamin)
+UID:438351bf-8381-4fae-a7be-241910e152ae@4383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241117T180000Z
+DTSTART:20241117T154500Z
+SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (wykład do wyboru)
+UID:dc207a52-56e6-4aac-8292-94a09e9f13c6@dc20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241123T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241123T093000Z
+SUMMARY:Prawo karne skarbowe (konwersatorium)
+UID:340e314c-418a-456a-86e5-69d16bf5b1a9@340e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Bugajski
+DTEND:20241214T114500Z
+LOCATION:link do zajęć
+DTSTART:20241214T093000Z
+SUMMARY:Ustroje małżeńskie majątkowe (wykład do wyboru)
+UID:c4918478-c207-4424-8249-c4d077803012@c491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
+UID:815fe2e6-f4ea-4033-b9d2-299ae955527c@815f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Bugajski
+DTEND:20241027T124500Z
+DTSTART:20241027T103000Z
+SUMMARY:Ustroje małżeńskie majątkowe (wykład do wyboru)
+UID:0ac5c9f4-50f0-41b6-aa5d-897af899e2a9@0ac5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241122T194500Z
+DTSTART:20241122T173000Z
+SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (wykład do wyboru)
+UID:51fb948e-52c4-42a1-99f5-78b152d4d390@51fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241117T100000Z
+DTSTART:20241117T074500Z
+SUMMARY:Prawo podatkowe materialne ogólne (wykład)
+UID:ba7e8825-86b0-447f-ac2c-eb3de7c1086b@ba7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20250125T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20250125T144500Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
+UID:f6dc1b77-972c-4fff-abe3-ba48b42804ba@f6dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241129T194500Z
+LOCATION:Paw.C sala C
+DTSTART:20241129T173000Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:e7cb4891-7215-4f5c-9664-ceeec27efed8@e7cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241208T180000Z
+LOCATION:Paw.F 111
+DTSTART:20241208T154500Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:d08034a0-ad8a-4bd5-a48a-e5586b18c68e@d080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241116T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241116T121500Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:72b0f2ef-bd12-4854-9d12-c7857b136dbe@72b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241027T180000Z
+DTSTART:20241027T154500Z
+SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (wykład do wyboru)
+UID:f0aac23e-1b92-4c7d-97f7-17926ce053aa@f0aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241208T104500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241208T074500Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:cd5c3a82-f63b-46e4-aeb7-32b7b728acfa@cd5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250118T083000Z
+LOCATION:Bibl. 441
+DTSTART:20250118T074500Z
+SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (egzamin)
+UID:65e05592-ce53-4c06-ab43-5a47b8ae19f1@65e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20250119T171500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250119T154500Z
+SUMMARY: (egzamin)
+UID:93582688-f5cc-4502-a8a0-af17e661c3e2@9358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241117T124500Z
+DTSTART:20241117T103000Z
 SUMMARY:Prawo cywilne i handlowe (wykład)
-UID:f39122e1-44e2-45f4-be8c-4fa6227db54a@f391.org
+UID:914a9968-b9f0-4ecb-ac36-777d208ced7f@914a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
@@ -442,13 +292,161 @@ DTEND:20250118T180000Z
 LOCATION:Platforma Moodle
 DTSTART:20250118T163000Z
 SUMMARY:Prawo celne i dewizowe (Konwersatorium e-learning)
-UID:d9507c95-057b-4620-8728-b5538616f583@d950.org
+UID:fcfc644b-008b-4892-b87b-df2e7c6cac87@fcfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250119T151500Z
+LOCATION:Bibl. 441
+DTSTART:20250119T130000Z
+SUMMARY:Prawo celne i dewizowe (konwersatorium)
+UID:6b5e4a64-5acf-4ade-a3c4-62ac7a8d6160@6b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241130T091500Z
+LOCATION:Paw.C sala C
+DTSTART:20241130T070000Z
+SUMMARY:Prawo podatkowe materialne ogólne (ćwiczenia)
+UID:72ad78f6-97dd-4229-a358-fe79ae358ff3@72ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250119T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250119T103000Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:6d890bd4-497b-4bab-b6e5-1b8cb4350de8@6d89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241020T114500Z
+DTSTART:20241020T093000Z
+SUMMARY:Prawo cywilne i handlowe (wykład)
+UID:6c08baee-cdd0-4301-9628-bcae7e03e0aa@6c08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Prawo cywilne i handlowe (wykład)
+UID:61ecf698-8ace-443d-b873-891c802820f8@61ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241201T151500Z
+LOCATION:link do zajęć
+DTSTART:20241201T130000Z
+SUMMARY:Prawo podatkowe materialne ogólne (wykład)
+UID:363c1344-7186-415c-9f95-b7402b259de9@363c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Bugajski
+DTEND:20241122T170000Z
+DTSTART:20241122T144500Z
+SUMMARY:Ustroje małżeńskie majątkowe (wykład do wyboru)
+UID:d7b6d9f1-5d1e-4575-bef0-c78abbe3257a@d7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241123T143000Z
+LOCATION:Bibl. 441
+DTSTART:20241123T121500Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:03423308-1115-445e-a201-7a3fb8034cb8@0342.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241123T194500Z
+LOCATION:Paw.F 416
+DTSTART:20241123T173000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:bb231d2a-b1d7-4ca3-a728-5a3e8e2a79e9@bb23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241221T161500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241221T140000Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:4b7d6a0e-3456-483f-a8b9-e47f44a99a65@4b7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250202T093000Z
+LOCATION:Bibl. 441
+DTSTART:20250202T084500Z
+SUMMARY:Prawo upadłościowe i  restrukturyzacyjne (egzamin)
+UID:b35ac9e2-67c6-4e83-ad8d-f440b9300d47@b35a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
+DTEND:20241020T170000Z
+DTSTART:20241020T144500Z
 SUMMARY:Rachunkowość i sprawozdawczość finansowa (wykład)
-UID:e8af2e3d-df43-4d6f-a5e0-a530fd42e9ad@e8af.org
+UID:79d13b17-14f5-437d-ae21-82a281395dcc@79d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250202T111500Z
+LOCATION:Paw.C sala F
+DTSTART:20250202T103000Z
+SUMMARY:Prawo cywilne i handlowe (egzamin)
+UID:74e86e1c-94ca-40e3-a385-abd6064949ee@74e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241124T124500Z
+LOCATION:Paw.E sala J
+DTSTART:20241124T103000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:6b07d75f-1d34-4046-953f-ddf8756622ca@6b07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Lachner
+DTEND:20241123T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20241123T144500Z
+SUMMARY:�ródła i wykładnia prawa podatkowego (ćwiczenia)
+UID:d0089820-e9a5-4e37-a8e1-6a1ca1997792@d008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20250126T100000Z
+LOCATION:Paw.C sala C
+DTSTART:20250126T074500Z
+SUMMARY:Prawo karne skarbowe (konwersatorium)
+UID:b763f399-98f5-4be1-bd11-8d250ccb9852@b763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20250125T194500Z
+LOCATION:Paw.F 516
+DTSTART:20250125T173000Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:2a48748e-b6d6-4d77-8ec2-8d37e7a63d84@2a48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241130T194500Z
+DTSTART:20241130T173000Z
+SUMMARY:Prawo cywilne i handlowe (Przeniesienie zajęć)
+UID:78636804-25f1-4c9a-be06-11667b5e2092@7863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250125T143000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250125T121500Z
+SUMMARY:Prawo cywilne i handlowe (ćwiczenia)
+UID:dcf02b36-7f7d-492e-9ed8-fa874c3202ae@dcf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241129T170000Z
+LOCATION:Paw.F 715
+DTSTART:20241129T144500Z
+SUMMARY:Rachunkowość i sprawozdawczość finansowa (ćwiczenia)
+UID:e7708a14-c1f8-400b-90e4-787001c6bf0e@e770.org
 END:VEVENT
 END:VCALENDAR
