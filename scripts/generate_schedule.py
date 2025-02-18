@@ -18,7 +18,7 @@ def is_dst(date):
 
 def create_isc(id, isLecturer):
     # Step 1: Fetch the HTML content from the URL
-    url = f"https://planzajec.uek.krakow.pl/index.php?typ=G&id={id}&okres=3"
+    url = f"https://planzajec.uek.krakow.pl/index.php?typ=G&id={id}&okres=4"
     response = requests.get(url)
     response.encoding = 'utf-8'  # Set encoding to UTF-8 to handle Polish characters
     html_content = response.text
