@@ -2,11 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241027T091500Z
+DTSTART:20241027T070000Z
+SUMMARY:Partnerstwo publiczno - prywatne (wykład)
+UID:ddd095b9-6a42-49c4-9a7e-be259fe07655@ddd0.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241027T143000Z
-DTSTART:20241027T121500Z
-SUMMARY:Analiza ryzyka kraju (Przeniesienie zajęć)
-UID:d550e2eb-2149-475f-b8c0-1be1e6828f41@d550.org
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
+UID:dc09c968-8c32-4230-9805-41e1aabe43f7@dc09.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marcin Stanuch
@@ -14,65 +21,14 @@ DTEND:20241026T133000Z
 LOCATION:Paw.F 613
 DTSTART:20241026T111500Z
 SUMMARY:Analizy ekonomiczno-finansowe (ćwiczenia)
-UID:c9ea1c7e-8bc7-43ac-a705-56b7b658291c@c9ea.org
+UID:d7c06710-32ae-439a-b432-eae429feb2c5@d7c0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20241130T143000Z
-LOCATION:Paw.C sala D
-DTSTART:20241130T121500Z
-SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
-UID:8258f811-3b11-4670-a0c2-c5d43610a2a4@8258.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241213T170000Z
-DTSTART:20241213T144500Z
-SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
-UID:76e1fed1-acf3-40f9-8441-c8e66b296172@76e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20241027T091500Z
-DTSTART:20241027T070000Z
-SUMMARY:Partnerstwo publiczno - prywatne (wykład)
-UID:6c65b656-d88f-460c-b3cc-ce9d39e9b41c@6c65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20241201T143000Z
-DTSTART:20241201T121500Z
-SUMMARY:Partnerstwo publiczno - prywatne (wykład)
-UID:d8b70d7e-ea27-4de5-9938-9237b0b1a88d@d8b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Firlej
-DTEND:20241027T114500Z
-DTSTART:20241027T093000Z
-SUMMARY:Analizy ekonomiczno-finansowe (wykład)
-UID:0855c311-0a4e-4202-90ad-2113de360204@0855.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241129T194500Z
-DTSTART:20241129T173000Z
-SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
-UID:7c3f9781-219d-4d85-b817-09e95178a4ae@7c3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20250118T170000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20250118T144500Z
-SUMMARY:Partnerstwo publiczno - prywatne (ćwiczenia)
-UID:b59305dd-a344-4480-86d4-e916f6723034@b593.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241117T143000Z
-DTSTART:20241117T121500Z
-SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
-UID:1b7a0a5e-bd95-41e8-aaec-aa35342b7b9b@1b7a.org
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241213T194500Z
+DTSTART:20241213T173000Z
+SUMMARY:Handel międzynarodowy (wykład do wyboru)
+UID:514752f3-5d41-46e8-bb2a-71d6151ac577@5147.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Krzysztof Firlej
@@ -80,7 +36,14 @@ DTEND:20250201T111500Z
 LOCATION:Paw.U sala P (KatRozOrg)
 DTSTART:20250201T103000Z
 SUMMARY:Analizy ekonomiczno-finansowe (egzamin)
-UID:8c6fa135-e5ce-43cc-b028-a4421e9ab020@8c6f.org
+UID:d30b239f-526b-4541-9e6e-3124dc75794d@d30b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250117T170000Z
+DTSTART:20250117T144500Z
+SUMMARY:Handel międzynarodowy (wykład do wyboru)
+UID:901c6fe8-6aec-43ff-ac78-35863f01e9e4@901c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Mierzejewski
@@ -88,88 +51,22 @@ DTEND:20241208T114500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20241208T093000Z
 SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
-UID:36cd3402-08d8-4e28-9e23-bdf9b196fbe2@36cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marcin Stanuch
-DTEND:20241130T091500Z
-LOCATION:Bud.gł. 6
-DTSTART:20241130T070000Z
-SUMMARY:Analizy ekonomiczno-finansowe (ćwiczenia)
-UID:0935c6f6-6158-41bb-97d0-4cbd7070c3f6@0935.org
+UID:e2ef2146-cf19-42ea-beaf-a1e6086e998f@e2ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
+DTEND:20241117T143000Z
+DTSTART:20241117T121500Z
 SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
-UID:79065b97-5f97-4653-b102-33580653165c@7906.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20241130T170000Z
-LOCATION:Paw.U sala O
-DTSTART:20241130T144500Z
-SUMMARY:System podatkowy (konwersatorium)
-UID:59b1171f-84ad-4007-92f8-7ef66182bb2c@59b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241206T194500Z
-DTSTART:20241206T173000Z
-SUMMARY:Analiza ryzyka kraju (Przeniesienie zajęć)
-UID:a713535d-8562-4756-bd78-44a91c2bdc07@a713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20250117T170000Z
-DTSTART:20250117T144500Z
-SUMMARY:Handel międzynarodowy (wykład do wyboru)
-UID:4d207529-e5dd-456b-82a7-666bd193a82d@4d20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20250117T194500Z
-DTSTART:20250117T173000Z
-SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
-UID:d1577a27-25d6-4038-a7a1-4330242d109a@d157.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241213T194500Z
-DTSTART:20241213T173000Z
-SUMMARY:Handel międzynarodowy (wykład do wyboru)
-UID:99dbeec9-3bbc-46a9-931b-0444fec06d99@99db.org
+UID:209d7641-a50e-4e5e-9212-a2ba5d7969df@209d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20241222T091500Z
-DTSTART:20241222T070000Z
-SUMMARY:Partnerstwo publiczno - prywatne (Przeniesienie zajęć)
-UID:b3351455-2268-45b0-a985-1936aa8697a2@b335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20250119T091500Z
-LOCATION:Paw.F 415
-DTSTART:20250119T070000Z
+DTEND:20250118T170000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250118T144500Z
 SUMMARY:Partnerstwo publiczno - prywatne (ćwiczenia)
-UID:d9945e58-3bdd-404a-9f97-9a6569788689@d994.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20250201T124500Z
-LOCATION:Paw.F 106
-DTSTART:20250201T111500Z
-SUMMARY:Analiza ryzyka kraju (egzamin)
-UID:4e8f6b68-2438-4535-8030-f4a05c1a8821@4e8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Handel międzynarodowy (wykład do wyboru)
-UID:146aed3b-584e-4883-8648-5437ea4bd3a1@146a.org
+UID:2e0753ef-38e7-44e6-a9be-6899e292c7bf@2e07.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Kubala
@@ -177,110 +74,44 @@ DTEND:20241026T081500Z
 LOCATION:Paw.F 008
 DTSTART:20241026T060000Z
 SUMMARY:System podatkowy (konwersatorium)
-UID:db0c2040-4a8c-430f-be73-6f6b7ec6151e@db0c.org
+UID:e5fbe995-f49b-4796-a989-5cc8237aa608@e5fb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20241208T091500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20241208T070000Z
-SUMMARY:Partnerstwo publiczno - prywatne (ćwiczenia)
-UID:3cc4ee64-0c35-49ff-8f87-773d5ee67bca@3cc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Krzysztof Firlej
-DTEND:20241117T091500Z
-DTSTART:20241117T070000Z
-SUMMARY:Analizy ekonomiczno-finansowe (wykład)
-UID:8f5b734c-b9e5-4c26-a0b6-b3f2e5f2aac0@8f5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20250118T091500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250118T070000Z
-SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
-UID:232b8f7e-01db-4c9d-b666-1d88b8f2e015@232b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20250118T114500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250118T093000Z
-SUMMARY:System podatkowy (konwersatorium)
-UID:4dc40c6f-5a3b-4e35-99c9-a34e722b6d5e@4dc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Handel międzynarodowy (wykład do wyboru)
-UID:813614a5-c6fa-4a7e-a13e-21a0f47da632@8136.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20241221T114500Z
-LOCATION:Rakowicka 16 sala -103
-DTSTART:20241221T093000Z
-SUMMARY:System podatkowy (konwersatorium)
-UID:2a7ef75c-ec00-4b1c-b534-c4a027f41d2d@2a7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241129T170000Z
-DTSTART:20241129T144500Z
-SUMMARY:Handel międzynarodowy (wykład do wyboru)
-UID:47d8e962-1f1a-4856-8968-9c696974205f@47d8.org
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241130T091500Z
+LOCATION:Bud.gł. 6
+DTSTART:20241130T070000Z
+SUMMARY:Analizy ekonomiczno-finansowe (ćwiczenia)
+UID:25c91b73-bf73-4cde-a6c4-b79faebe4736@25c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Krzysztof Firlej
 DTEND:20241201T114500Z
 DTSTART:20241201T093000Z
 SUMMARY:Analizy ekonomiczno-finansowe (wykład)
-UID:52fcc85e-be60-46d1-9e92-80c9bdf8a3e9@52fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241206T170000Z
-DTSTART:20241206T144500Z
-SUMMARY:Handel międzynarodowy (wykład do wyboru)
-UID:d3e6c326-08a3-474e-b32a-eb9b6dba9b9f@d3e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241201T091500Z
-DTSTART:20241201T070000Z
-SUMMARY:Analiza ryzyka kraju (Przeniesienie zajęć)
-UID:2085b06c-4d79-4862-9d4b-f8c33fa99b35@2085.org
+UID:2278f009-ac41-4a5d-b846-294ff03e4a82@2278.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Mierzejewski
 DTEND:20241116T114500Z
 DTSTART:20241116T093000Z
 SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (Przeniesienie zajęć)
-UID:c4b6df59-417d-4512-b691-840b3d2f7d26@c4b6.org
+UID:810b5e50-506a-4106-913a-c1f7fc5cad47@810b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20250119T114500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250119T093000Z
-SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
-UID:cc4ab3b8-7807-40af-925a-85e3bba7bd18@cc4a.org
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241206T170000Z
+DTSTART:20241206T144500Z
+SUMMARY:Handel międzynarodowy (wykład do wyboru)
+UID:1cf59ec0-00a4-455f-ae8f-4d668a8fbcd2@1cf5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Kolasa
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
-UID:c9798452-963b-4051-bd4e-d72a7d4c44f5@c979.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20241220T194500Z
-DTSTART:20241220T173000Z
-SUMMARY:Partnerstwo publiczno - prywatne (wykład)
-UID:b7a23d04-6e58-4b0a-9096-039dcc149bd8@b7a2.org
+DTEND:20250201T124500Z
+LOCATION:Paw.F 106
+DTSTART:20250201T111500Z
+SUMMARY:Analiza ryzyka kraju (egzamin)
+UID:d772fefe-8536-414b-8693-cab7657f094b@d772.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marcin Stanuch
@@ -288,15 +119,14 @@ DTEND:20241116T143000Z
 LOCATION:Paw.S sala 1
 DTSTART:20241116T121500Z
 SUMMARY:Analizy ekonomiczno-finansowe (ćwiczenia)
-UID:e182a3db-f115-467d-bca5-24ecda3848eb@e182.org
+UID:94aebcc1-7c72-4b5c-a9f4-5debb5b25fc0@94ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20241222T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241222T093000Z
-SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
-UID:95064cb9-5a25-4dd2-81cb-4bc244af68cd@9506.org
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
+UID:3fecea7f-ac66-40d0-b85d-eff949c1bbb9@3fec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Mierzejewski
@@ -304,14 +134,59 @@ DTEND:20241026T104500Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20241026T083000Z
 SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
-UID:4829dbcb-982a-4e92-9c58-c5c6d9cb9810@4829.org
+UID:bd3b4dbe-4c67-43b4-a56e-837a2df9f6e3@bd3b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241220T170000Z
-DTSTART:20241220T144500Z
-SUMMARY:Handel międzynarodowy (Przeniesienie zajęć)
-UID:ba9ebf57-3cbb-4fe3-821d-3a2331dd4620@ba9e.org
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250118T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250118T070000Z
+SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
+UID:86801a0b-20a1-464e-bac5-3a071ee76826@8680.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20241130T170000Z
+LOCATION:Paw.U sala O
+DTSTART:20241130T144500Z
+SUMMARY:System podatkowy (konwersatorium)
+UID:140b74ac-80a4-4b13-9125-00921467bf96@140b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20250117T194500Z
+DTSTART:20250117T173000Z
+SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
+UID:e15b2153-2cff-4d78-9d73-c0f57286826b@e15b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20241201T091500Z
+DTSTART:20241201T070000Z
+SUMMARY:Analiza ryzyka kraju (Przeniesienie zajęć)
+UID:6ab3e4fa-dfc6-472f-b4f7-b5e348970eb6@6ab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Firlej
+DTEND:20241027T114500Z
+DTSTART:20241027T093000Z
+SUMMARY:Analizy ekonomiczno-finansowe (wykład)
+UID:f4a96f22-54cb-4301-ae10-e1c5ada898b4@f4a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241220T194500Z
+DTSTART:20241220T173000Z
+SUMMARY:Partnerstwo publiczno - prywatne (wykład)
+UID:c4f32f02-94f5-4201-bff5-0c23d62f08ed@c4f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250119T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250119T093000Z
+SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
+UID:3ee25d32-d195-4364-b451-d0a8e2f89f26@3ee2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Kubala
@@ -319,7 +194,72 @@ DTEND:20241116T170000Z
 LOCATION:Bud.gł. 5
 DTSTART:20241116T144500Z
 SUMMARY:System podatkowy (konwersatorium)
-UID:107b3296-116f-4afb-a2d1-193eb420705a@107b.org
+UID:89719b13-a55a-42f4-ad57-9ce87f690bc5@8971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20241129T194500Z
+DTSTART:20241129T173000Z
+SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
+UID:5033a61b-0e18-468a-bcc4-7c9745ff09a2@5033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20241213T170000Z
+DTSTART:20241213T144500Z
+SUMMARY:Analiza ryzyka kraju (wykład do wyboru)
+UID:f257d76f-0cf5-4e4e-91e7-dae86bd9eda8@f257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Firlej
+DTEND:20241117T091500Z
+DTSTART:20241117T070000Z
+SUMMARY:Analizy ekonomiczno-finansowe (wykład)
+UID:00187ecb-7026-48ed-ad10-68a6ad3d51de@0018.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Handel międzynarodowy (wykład do wyboru)
+UID:4f4be9e4-46ac-4b13-bd13-02c20dd831a9@4f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20241206T194500Z
+DTSTART:20241206T173000Z
+SUMMARY:Analiza ryzyka kraju (Przeniesienie zajęć)
+UID:0972b50e-1d58-4d27-a8bd-8beb5c2c203f@0972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241222T091500Z
+DTSTART:20241222T070000Z
+SUMMARY:Partnerstwo publiczno - prywatne (Przeniesienie zajęć)
+UID:89b09842-e379-4830-bca2-81a5085f6788@89b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Handel międzynarodowy (wykład do wyboru)
+UID:07fe267d-0611-440e-9787-0e23618b5d86@07fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20250118T114500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250118T093000Z
+SUMMARY:System podatkowy (konwersatorium)
+UID:41a73d1c-6336-4bc2-8782-34d799866f0a@41a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241222T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241222T093000Z
+SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
+UID:69a6ffba-6372-45c0-9c52-4944efab284a@69a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Kubala
@@ -327,6 +267,66 @@ DTEND:20241207T114500Z
 LOCATION:Rakowicka 16 sala -103
 DTSTART:20241207T093000Z
 SUMMARY:System podatkowy (konwersatorium)
-UID:490706a7-1301-47d9-b17a-45ffa1ab2470@4907.org
+UID:4e6b96e0-6d33-4cc5-a4ac-eca88d8ee0fa@4e6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Kolasa
+DTEND:20241027T143000Z
+DTSTART:20241027T121500Z
+SUMMARY:Analiza ryzyka kraju (Przeniesienie zajęć)
+UID:8557bab9-5799-4a7f-90d8-101ad003eb18@8557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241220T170000Z
+DTSTART:20241220T144500Z
+SUMMARY:Handel międzynarodowy (Przeniesienie zajęć)
+UID:a21e5b11-4d10-41d2-89af-dbc12bdb68e3@a21e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20241221T114500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241221T093000Z
+SUMMARY:System podatkowy (konwersatorium)
+UID:6fec3c02-ec93-4ec7-bbb2-3ba2db55b222@6fec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241129T170000Z
+DTSTART:20241129T144500Z
+SUMMARY:Handel międzynarodowy (wykład do wyboru)
+UID:b52cd054-1074-463c-8063-332e444be139@b52c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241130T143000Z
+LOCATION:Paw.C sala D
+DTSTART:20241130T121500Z
+SUMMARY:Narzędzia informatyczne w modelowaniu biznesu (konwersatorium)
+UID:9a0a9c5b-2d0c-461f-a532-2051caa0461d@9a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241208T091500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241208T070000Z
+SUMMARY:Partnerstwo publiczno - prywatne (ćwiczenia)
+UID:8a5f91b9-98a4-43a0-9d63-e43b4d7ab345@8a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20250119T091500Z
+LOCATION:Paw.F 415
+DTSTART:20250119T070000Z
+SUMMARY:Partnerstwo publiczno - prywatne (ćwiczenia)
+UID:25499ad2-1d60-49b0-a717-9d56e428fad4@2549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241201T143000Z
+DTSTART:20241201T121500Z
+SUMMARY:Partnerstwo publiczno - prywatne (wykład)
+UID:9d93dac9-9633-4903-9e03-47aada14fcb3@9d93.org
 END:VEVENT
 END:VCALENDAR
