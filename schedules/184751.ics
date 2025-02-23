@@ -3,25 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20241116T143000Z
-LOCATION:Paw.F 413
-DTSTART:20241116T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:188d6e5c-a328-4acf-9df7-8b0a53fe446b@188d.org
+DTEND:20250111T143000Z
+DTSTART:20250111T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:2c9ce7f1-e4f1-4908-85c3-48a4004888f0@2c9c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241012T133000Z
-DTSTART:20241012T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:c8859fed-106b-4118-a8f3-dd60b4df81c1@c885.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20241012T081500Z
-DTSTART:20241012T060000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:c8b8107e-66ba-4049-bf15-4f889f7536b3@c8b8.org
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241124T091500Z
+DTSTART:20241124T070000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:2f42d382-80d5-458f-96e5-5238ac550612@2f42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Bardel
@@ -29,7 +21,15 @@ DTEND:20250201T101500Z
 LOCATION:Paw.S sala 6
 DTSTART:20250201T084500Z
 SUMMARY: (rezerwacja)
-UID:baade949-1a71-4d60-be4d-e09695514fd3@baad.org
+UID:971dcc78-c206-4b04-80c0-8dd232e35192@971d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241116T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241116T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:0828a68d-7679-495f-acdc-e09715ea90e1@0828.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
@@ -37,499 +37,51 @@ DTEND:20241130T143000Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20241130T121500Z
 SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:f39a5c93-4693-4ad0-bc09-8fccebcffb74@f39a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20241206T170000Z
-DTSTART:20241206T144500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
-UID:deaacd96-b523-499a-92a9-ed1d01702d81@deaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20250131T171500Z
-LOCATION:Paw.C sala D
-DTSTART:20250131T154500Z
-SUMMARY:Socjologia (egzamin)
-UID:5735dc6f-5460-47f3-81fc-d77db0b0acce@5735.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20250118T120000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20250118T103000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (egzamin)
-UID:a3d9a7f8-eee1-41cd-8803-4fd77a252953@a3d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20241215T134500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241215T121500Z
-SUMMARY: (egzamin)
-UID:d7d7f83c-28d8-4f06-996a-c810bacdbe69@d7d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241116T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241116T093000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:8b860e0b-a9e7-4c27-8ee8-19ae3c8a8263@8b86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20250222T124500Z
-LOCATION:Paw.F 717
-DTSTART:20250222T103000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (egzamin)
-UID:8e6347b0-b863-48ef-b928-f901330bb814@8e63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20241208T114500Z
-DTSTART:20241208T093000Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:a666e259-b9ee-4af3-9d28-e977d62a1aff@a666.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Małecka
-DTEND:20241130T091500Z
-DTSTART:20241130T070000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (Przeniesienie zajęć)
-UID:edc488a9-cb05-4e53-b29c-e608a00c1da9@edc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20250125T143000Z
-LOCATION:Paw.F 717
-DTSTART:20250125T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:d16defb4-d4cf-4306-a42c-f04f2fb01a6d@d16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20241213T170000Z
-DTSTART:20241213T144500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
-UID:ac5f4786-ef6b-4c45-ae33-3d49a1000f05@ac5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20241123T143000Z
-LOCATION:Paw.F 614
-DTSTART:20241123T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:02c2be59-7156-4dd4-a7b2-2c6e99c2ffe9@02c2.org
+UID:372c408f-b421-439a-9b86-575ba81f6980@372c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
 DTEND:20241124T114500Z
 DTSTART:20241124T093000Z
 SUMMARY:Socjologia (Przeniesienie zajęć)
-UID:27900fa2-0799-44ee-b2b1-d22c82ca2984@2790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20241123T114500Z
-DTSTART:20241123T093000Z
-SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
-UID:f995d6c9-8f2b-4960-8c7c-2f188e4596dc@f995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20241117T091500Z
-DTSTART:20241117T070000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:6ad4e18d-1613-4188-bb14-01bf2cc410be@6ad4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241206T194500Z
-DTSTART:20241206T173000Z
-SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
-UID:e7411322-f2ca-42e5-a9e6-2812c1ea6c75@e741.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241221T161500Z
-LOCATION:Paw.S sala 9
-DTSTART:20241221T144500Z
-SUMMARY:Metody oceny projektów gospodarczych (egzamin)
-UID:9d39fcc0-4f5e-4c52-a043-b43d1112b4e4@9d39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20250111T143000Z
-DTSTART:20250111T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:735b4e38-ccec-45bd-97af-152aa1e20505@735b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20241026T081500Z
-DTSTART:20241026T060000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:06475a4c-9778-4690-ae69-fa5b3b1bb1ad@0647.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20241012T081500Z
-DTSTART:20241012T060000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:ca17782e-93c8-4c15-8cad-5424ee9a0b4a@ca17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20241026T133000Z
-DTSTART:20241026T111500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:96920e7e-ebba-49fd-ae93-1ac69e788834@9692.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20250110T194500Z
-DTSTART:20250110T173000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:a137bbf5-b798-479c-bb2c-2511b0031274@a137.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20241129T170000Z
-DTSTART:20241129T144500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
-UID:bf7fadeb-accc-4816-b2a0-16391d8de145@bf7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20241011T160000Z
-DTSTART:20241011T134500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:4f155932-1737-4e79-bad9-f397a2056ae5@4f15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241220T194500Z
-DTSTART:20241220T173000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:284a832b-41df-4708-91d9-51fb54972df6@284a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241117T114500Z
-DTSTART:20241117T093000Z
-SUMMARY:Filozofia (Przeniesienie zajęć)
-UID:f7e37d4a-5618-441b-8b64-9357dfc514c2@f7e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20241207T114500Z
-DTSTART:20241207T093000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:4a93e7ae-cff0-4752-8ab3-7d71b940ab43@4a93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20241130T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20241130T093000Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:7737fcd2-767c-4563-9616-cc4ffee74f72@7737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20241124T091500Z
-DTSTART:20241124T070000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:da762b6c-26ad-4e41-82ba-5fcd0647012d@da76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20241124T143000Z
-DTSTART:20241124T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:a0aaa3f8-2dc4-49a0-9c22-3e8859f54cee@a0aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20241027T091500Z
-DTSTART:20241027T070000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:ef3c3876-2a4c-4ca2-8183-e729a6b7d285@ef3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20241013T104500Z
-DTSTART:20241013T083000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:b55f6309-650b-4ef2-848c-53c9b615ca01@b55f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Małecka
-DTEND:20241214T091500Z
-LOCATION:Paw.F 413
-DTSTART:20241214T070000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
-UID:9e00448e-6ff7-4eb4-8fb0-66c7f1d23e45@9e00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20250223T120000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250223T103000Z
-SUMMARY: (egzamin)
-UID:bdefe712-80d6-449a-9fda-1f91695b5886@bdef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241027T091500Z
-DTSTART:20241027T070000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:b564264f-659c-4df5-9f76-a7ba1237cfdd@b564.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20241122T170000Z
-DTSTART:20241122T144500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
-UID:9fda1b1a-f2b5-471c-a643-32c320b597fe@9fda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241013T133000Z
-DTSTART:20241013T111500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:3179e06d-1627-4932-a9c9-fc7b5f515e50@3179.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241213T194500Z
-DTSTART:20241213T173000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:da293a37-5cf1-4126-9ca3-213fd9d77f25@da29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20241221T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20241221T093000Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:14925f2a-5530-48d0-9e32-7daec3e7474a@1492.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241123T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241123T093000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:14b2e9ee-8784-4e16-93ba-76ed56cc694e@14b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241208T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241208T093000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:c1121719-4a45-42bd-aeec-ce202de38471@c112.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20241220T170000Z
-DTSTART:20241220T144500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:1177c551-6554-47d9-b95f-1cc89bef50e5@1177.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
-SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
-UID:117ed78c-a08d-4b8a-9f5d-ad752737795e@117e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Małecka
-DTEND:20241123T091500Z
-LOCATION:Paw.F 413
-DTSTART:20241123T070000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
-UID:7b7b5fa1-3485-45df-b190-5dff902be910@7b7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20241221T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241221T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:0ae9c5c2-609e-4ad7-babb-a5f5d8c11e9d@0ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20241026T081500Z
-DTSTART:20241026T060000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:16ea8503-aca0-4548-a3d0-797ceb95da6a@16ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20241013T104500Z
-DTSTART:20241013T083000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:ee5089e2-60e0-48e9-8958-fef73476bea4@ee50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241214T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241214T093000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:1893ce1d-a6a6-4f6b-bad1-aba563ae8507@1893.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241201T143000Z
-DTSTART:20241201T121500Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:4cdeac4e-4b8c-45ab-886d-0303bdfcb0b2@4cde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
-UID:2ecffc84-1566-4bf7-ab11-2a30a507bb89@2ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20241124T114500Z
-DTSTART:20241124T093000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:7185701f-07df-4e5d-ab4e-e6e46c965c39@7185.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20250131T190000Z
-LOCATION:Paw.C sala E
-DTSTART:20250131T173000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (egzamin)
-UID:778942c8-35a1-4f58-a81b-5b1a16c9398e@7789.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241027T143000Z
-DTSTART:20241027T121500Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
-UID:263581b5-4f8a-4d0e-8dd7-b10aca48588e@2635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20250202T101500Z
-LOCATION:Paw.S sala 7
-DTSTART:20250202T093000Z
-SUMMARY: (egzamin)
-UID:2ce87f09-a647-42c0-b07b-3ddcc31adff2@2ce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20250110T153000Z
-DTSTART:20250110T144500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (Przeniesienie zajęć)
-UID:0c02aa03-1b8a-4f36-86b2-95180cb34baa@0c02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241027T143000Z
-DTSTART:20241027T121500Z
-SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
-UID:05bf481a-60d5-4e0d-bd49-0ada59d50db3@05bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20241214T114500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20241214T093000Z
-SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:aa381dfe-b860-42d9-b567-c67888dc1b13@aa38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20241013T081500Z
-DTSTART:20241013T060000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:96deea4e-7b14-42d9-a458-60332272d880@96de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241124T091500Z
-DTSTART:20241124T070000Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:656b993f-9962-4dab-8404-1ba4c45bff71@656b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20241027T114500Z
-DTSTART:20241027T093000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:e9b560a7-0901-4dd9-9796-fe48b19bde4b@e9b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241122T194500Z
-DTSTART:20241122T173000Z
-SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
-UID:2589d510-7d0b-489e-8131-718615487c8b@2589.org
+UID:177b0d60-4c39-44ca-b231-b52a876f864e@177b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
 DTEND:20250125T143000Z
+LOCATION:Paw.F 717
 DTSTART:20250125T121500Z
-SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
-UID:96336b87-ae7d-4b8b-a9dd-136637f8d222@9633.org
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:7c1e4b09-da19-4580-ba9e-7bd6c76b9bb2@7c1e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Małecka
-DTEND:20250125T114500Z
-LOCATION:Paw.F 106
-DTSTART:20250125T093000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
-UID:921564b2-f572-4d7d-a4fe-a3abbaa03920@9215.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20241207T091500Z
-DTSTART:20241207T070000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:350a5a5b-18a9-4008-aa7f-d85b6479bc00@350a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241207T170000Z
-DTSTART:20241207T144500Z
-SUMMARY:Filozofia (wykład do wyboru)
-UID:eabb7e33-aa44-4afd-a7e1-f1d95a2e2299@eabb.org
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241026T081500Z
+DTSTART:20241026T060000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:23ad0fd7-2c41-4027-914d-20da75b58dc4@23ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20241012T104500Z
-DTSTART:20241012T083000Z
+DTEND:20241117T114500Z
+DTSTART:20241117T093000Z
 SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:0c036f25-69bb-46f8-91a3-2a0a0d8dc1c1@0c03.org
+UID:4bc82559-a725-40b5-851a-6b7b8f59f0af@4bc8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20241221T091500Z
-LOCATION:Paw.F 616
-DTSTART:20241221T070000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
-UID:ab93937f-25b2-4d0a-8844-1fd50d141253@ab93.org
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241214T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241214T093000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:2573d989-6c9d-48f8-be99-8bc86818e3fa@2573.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Podsiadło
-DTEND:20241221T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241221T093000Z
-SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:972a7b57-a446-4cdb-ae2f-2b8cd08870a5@972a.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241027T143000Z
+DTSTART:20241027T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
+UID:6f561608-ca1b-4c8d-bfb7-59f2ac41ebe5@6f56.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
@@ -537,7 +89,36 @@ DTEND:20250111T114500Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20250111T093000Z
 SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
-UID:2c702d46-6c82-419c-92e3-128c19bf637a@2c70.org
+UID:ef25a977-f261-426f-a08b-2f6c276ec3c7@ef25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241123T114500Z
+DTSTART:20241123T093000Z
+SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
+UID:d7877dec-db45-46c7-9796-ded7a764a708@d787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241013T133000Z
+DTSTART:20241013T111500Z
+SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
+UID:0ab70ec3-739f-4b33-b369-3e23c4cb92b6@0ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241123T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241123T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:45bfa592-993a-46f9-ae2c-5ed031d99476@45bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241012T081500Z
+DTSTART:20241012T060000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:09057481-68a6-4b1b-8723-294f35920218@0905.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Podsiadło
@@ -545,117 +126,15 @@ DTEND:20241130T114500Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20241130T093000Z
 SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
-UID:64cd8f63-62a7-426c-acad-e09ca006bb07@64cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
-UID:d92ffcc7-185a-4c60-b515-b93e6d47c84e@d92f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20250112T143000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250112T121500Z
-SUMMARY: (egzamin)
-UID:83c7a256-6879-47ef-bd0a-3b9f46012c7a@83c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20250125T093000Z
-LOCATION:Paw.F 515
-DTSTART:20250125T084500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
-UID:acb9ce10-d700-4be7-a8f7-08465b39737d@acb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241013T133000Z
-DTSTART:20241013T111500Z
-SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
-UID:8c170e62-3e3d-4fae-a316-3c059d9e529a@8c17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20250110T171500Z
-DTSTART:20250110T154500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia zdalne)
-UID:1e05c9fb-f9dd-499f-b8f2-ecce211b790e@1e05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20241026T104500Z
-DTSTART:20241026T083000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:842fec4f-a554-4193-abc9-f464d498f3ea@842f.org
+UID:4e9e9961-6d0d-4513-b76d-506447740885@4e9e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20241116T114500Z
+DTEND:20241221T114500Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20241116T093000Z
+DTSTART:20241221T093000Z
 SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:7fa1d592-a5e8-406a-8190-edd37853df1d@7fa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20241117T114500Z
-DTSTART:20241117T093000Z
-SUMMARY:Historia gospodarcza (wykład do wyboru)
-UID:2e9b7008-b3c5-4a0c-ae6a-0957a14f11a2@2e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20241207T091500Z
-DTSTART:20241207T070000Z
-SUMMARY:Psychologia (wykład do wyboru)
-UID:66553c64-b64f-44c3-8224-294858da9f45@6655.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20250201T133000Z
-LOCATION:Paw.C sala F
-DTSTART:20250201T111500Z
-SUMMARY: (egzamin)
-UID:0a963261-00af-4836-a333-ac9c5d4a99db@0a96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
-DTEND:20241027T114500Z
-DTSTART:20241027T093000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:5a1c91f8-05c0-40b4-ae98-06eb8aac7562@5a1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20241117T151500Z
-DTSTART:20241117T130000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
-UID:496124fc-8d3b-436e-9bb7-23a0e5778f1d@4961.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20250118T143000Z
-DTSTART:20250118T121500Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (Przeniesienie zajęć)
-UID:73a66753-66a3-4f8a-a72a-94d39d660893@73a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241012T133000Z
-DTSTART:20241012T111500Z
-SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
-UID:cc7aa46c-dcfa-47e5-87f0-8296a93abd33@cc7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Patryk Dunal
-DTEND:20250111T091500Z
-LOCATION:Paw.F 413
-DTSTART:20250111T070000Z
-SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
-UID:07dc39ce-4f51-45bc-85b3-a96ebcf329a7@07dc.org
+UID:3814c999-c8d6-4621-a9b8-bb172dde0d9c@3814.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
@@ -663,6 +142,527 @@ DTEND:20241222T143000Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20241222T121500Z
 SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
-UID:bcc2dd67-6418-4bc2-99bd-e96665cf8611@bcc2.org
+UID:22f4b260-0b94-4f50-98fe-5510e0d71d54@22f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241012T104500Z
+DTSTART:20241012T083000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:c2895b7a-6c9b-4927-a9ac-afbeb42b6fb2@c289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:6bcbc144-f611-4f46-9df3-2708f2a0005a@6bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20241026T081500Z
+DTSTART:20241026T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:d93d5125-7b62-4db3-917e-42fb2e6e9905@d93d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Małecka
+DTEND:20241214T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241214T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:0c502f98-284b-42a5-8335-167f3030dd46@0c50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241221T091500Z
+LOCATION:Paw.F 616
+DTSTART:20241221T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:6c96b2a4-0998-4a42-822a-9a31939ab6de@6c96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241013T081500Z
+DTSTART:20241013T060000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:187df488-8958-4a58-8b35-f7277b583838@187d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:bbc6c76b-64bb-443f-a603-3cec67d7b8d1@bbc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20241221T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241221T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:7a7b35a3-d66b-470b-b9dd-1d03abe7a1a0@7a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20241116T143000Z
+LOCATION:Paw.F 413
+DTSTART:20241116T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:08546d32-7ec9-4825-a4d9-61d9f4ab7f98@0854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:3dfe0f7b-4def-47d6-a5d3-f871c86cb876@3dfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241122T170000Z
+DTSTART:20241122T144500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:7c827cc5-ab17-4ef5-89ff-e4e8a8bcca24@7c82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250118T143000Z
+DTSTART:20250118T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (Przeniesienie zajęć)
+UID:f3c0c0e0-ca4c-427e-ac87-d48c905dbf31@f3c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241213T194500Z
+DTSTART:20241213T173000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:8de42e6b-cdac-4b0d-814f-440dae658518@8de4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241208T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241208T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:8e744b1a-355b-425c-986e-9c20b68c7187@8e74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20241027T114500Z
+DTSTART:20241027T093000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:5121a2f5-4266-46e0-8fba-0bff05b116ff@5121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20241123T143000Z
+LOCATION:Paw.F 614
+DTSTART:20241123T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:352379b6-82aa-4471-a8e6-5251e3bf61c3@3523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241214T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241214T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:d9364413-dff0-4b6c-b70e-9f1954987b9f@d936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241207T170000Z
+DTSTART:20241207T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:0ae7a887-f4cb-48a0-9634-fc5cf2c2c490@0ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20241012T081500Z
+DTSTART:20241012T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:1c40fa27-c842-4874-b215-5bfcb0ca2710@1c40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250110T171500Z
+DTSTART:20250110T154500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia zdalne)
+UID:447c7322-1e98-4073-bba0-de4758ae3112@447c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250111T091500Z
+LOCATION:Paw.F 413
+DTSTART:20250111T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:1f7807e1-2a20-4cf4-986d-7b9193554427@1f78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Małecka
+DTEND:20241130T091500Z
+DTSTART:20241130T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (Przeniesienie zajęć)
+UID:156b1a90-05f2-4bab-a77e-81fbfb71b912@156b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20241124T143000Z
+DTSTART:20241124T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:4fd5b818-fdc4-41cf-9178-9d6550ba1825@4fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250223T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250223T103000Z
+SUMMARY: (egzamin)
+UID:b65f6099-c435-48eb-9dcf-7507d0d7ad2a@b65f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241027T143000Z
+DTSTART:20241027T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:130cf7d1-466c-43fb-90cc-ccf9c4d7bdbf@130c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20241207T091500Z
+DTSTART:20241207T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:55a3b38c-9caf-4164-8015-7f7ea1757937@55a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241012T133000Z
+DTSTART:20241012T111500Z
+SUMMARY:Metody oceny projektów gospodarczych (Przeniesienie zajęć)
+UID:e6f58669-bf7e-4df8-98c5-3382e85616f4@e6f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241027T091500Z
+DTSTART:20241027T070000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:8cee9670-24b2-46bf-b4d2-e922db91f285@8cee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241213T170000Z
+DTSTART:20241213T144500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:d75418f4-8873-4a27-ab8e-8f99372dde60@d754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241206T170000Z
+DTSTART:20241206T144500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:62bc3cd7-21de-46e3-a967-7e31b4d1167a@62bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241117T114500Z
+DTSTART:20241117T093000Z
+SUMMARY:Filozofia (Przeniesienie zajęć)
+UID:81ef6f93-78b8-4cec-a8c4-1b5fe10a1f26@81ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20250110T194500Z
+DTSTART:20250110T173000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:3a7d788b-7eba-4be2-afa4-c85db18cb8ab@3a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241026T104500Z
+DTSTART:20241026T083000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:a2f58a8f-75f2-4005-ab59-42bb703d31aa@a2f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241013T133000Z
+DTSTART:20241013T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:fb78120b-e251-4af7-bfb7-cf5dbc42304f@fb78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241130T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241130T093000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:bfde3ac2-059d-41f6-9c22-a8688e0df0a4@bfde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250202T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250202T093000Z
+SUMMARY: (egzamin)
+UID:2190d1e9-f0f1-40dc-8948-981990976981@2190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241221T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241221T144500Z
+SUMMARY:Metody oceny projektów gospodarczych (egzamin)
+UID:a777a6ea-d2f5-4353-8469-7d404c309c72@a777.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250131T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20250131T173000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (egzamin)
+UID:c462beb1-01d7-4578-a1b6-96bc578163b0@c462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241013T104500Z
+DTSTART:20241013T083000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:c10aaea9-b9fd-4e22-b2b3-2daeaca8c808@c10a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241012T133000Z
+DTSTART:20241012T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:4e726666-305f-409f-b099-492bc77891ec@4e72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241215T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241215T121500Z
+SUMMARY: (egzamin)
+UID:58a1641a-0c6d-44ea-b975-427d15b2c6d4@58a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241124T114500Z
+DTSTART:20241124T093000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:27455acc-6b92-42df-b2f1-efddb4ea6f47@2745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20250131T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20250131T154500Z
+SUMMARY:Socjologia (egzamin)
+UID:682ef73a-692e-4d34-ada9-d08162ea8d30@682e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20241026T133000Z
+DTSTART:20241026T111500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:0b3c22b6-1e45-400d-974d-76c9dadaec5a@0b3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241207T091500Z
+DTSTART:20241207T070000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:9c06ee75-fe70-4701-be79-ca53c7e42ae8@9c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241116T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241116T093000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:5350be97-b8a3-48db-9a4f-e959659b3ae3@5350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241220T194500Z
+DTSTART:20241220T173000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:b2d45870-42f7-446c-864b-546e4747c6d3@b2d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241221T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241221T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:0c111619-d9d3-4fc3-9606-e30cd25ee4ad@0c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20250222T124500Z
+LOCATION:Paw.F 717
+DTSTART:20250222T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (egzamin)
+UID:c6531bc6-9cfd-4c2b-9c8b-966f62daf824@c653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20241207T114500Z
+DTSTART:20241207T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:9274f111-9d96-4fee-b338-bb8326ee6856@9274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20250201T133000Z
+LOCATION:Paw.C sala F
+DTSTART:20250201T111500Z
+SUMMARY: (egzamin)
+UID:df59a828-0fa1-43a4-9013-ba6c23db9db4@df59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241117T151500Z
+DTSTART:20241117T130000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:a91ca88f-735a-462b-acd8-f4612084e75c@a91c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241027T091500Z
+DTSTART:20241027T070000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:6f4e1f6d-942b-45e0-9f46-fd37830aa24f@6f4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241208T114500Z
+DTSTART:20241208T093000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:1268216b-aa13-4421-9d8b-e7be8d92a62f@1268.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20241013T104500Z
+DTSTART:20241013T083000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:caaba3d1-8558-4bf5-bdbc-873ecb49dfaf@caab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250112T143000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250112T121500Z
+SUMMARY: (egzamin)
+UID:805403ec-fb53-4251-bfba-74b67e340811@8054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20241011T160000Z
+DTSTART:20241011T134500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:5e55d2ca-1685-4e1a-b0b3-fbc28e2b1897@5e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250125T093000Z
+LOCATION:Paw.F 515
+DTSTART:20250125T084500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:47c5db2f-f52f-4f4e-be76-6c7e694cb8f5@47c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241122T194500Z
+DTSTART:20241122T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:aac03d4c-7b86-4599-996f-eeed845d88c8@aac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241129T170000Z
+DTSTART:20241129T144500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:39499e99-f794-4d73-b080-515d75dacf68@3949.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Łuszczyńska
+DTEND:20241220T170000Z
+DTSTART:20241220T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:b42bffe8-a994-4c9b-a00b-8785bf6f0cdc@b42b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250118T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250118T103000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (egzamin)
+UID:9a9f51ae-4ecb-4b81-afc6-8bb0f6f04782@9a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241124T091500Z
+DTSTART:20241124T070000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:5ca6152c-eb34-448e-babf-b63fd2a9675a@5ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20250125T143000Z
+DTSTART:20250125T121500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (Przeniesienie zajęć)
+UID:385a99f4-2361-4f85-8a95-94e133a1ce2b@385a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250110T153000Z
+DTSTART:20250110T144500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (Przeniesienie zajęć)
+UID:ff21641c-c190-4245-996f-c1a814d38d03@ff21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20241117T091500Z
+DTSTART:20241117T070000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:06b12de9-f041-4031-aad1-80b2277dae98@06b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241201T143000Z
+DTSTART:20241201T121500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:616a0880-dcd0-407a-990a-eb38ba6eb466@616a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241206T194500Z
+DTSTART:20241206T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:ee32fd7d-44ca-46ce-b4b9-642029bd5b32@ee32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Małecka
+DTEND:20250125T114500Z
+LOCATION:Paw.F 106
+DTSTART:20250125T093000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:e094a4b4-a772-4f3c-a2c8-99820ff82eab@e094.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Małecka
+DTEND:20241123T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241123T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:24fb7e4a-5330-40a4-9584-350d22d98581@24fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241027T114500Z
+DTSTART:20241027T093000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:d3c5841d-e272-416c-80f9-4441d7113b90@d3c5.org
 END:VEVENT
 END:VCALENDAR
