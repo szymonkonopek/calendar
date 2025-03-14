@@ -2,11 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
-UID:1de58c67-f9d4-4ec2-a701-713a20942f3e@1de5.org
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20250125T133000Z
+LOCATION:Paw.U sala K
+DTSTART:20250125T111500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:782e12bc-5c3d-43ab-9321-8f2676e3e2ee@782e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Garncarz
@@ -14,81 +15,28 @@ DTEND:20241124T091500Z
 LOCATION:Bud.gł. 2
 DTSTART:20241124T070000Z
 SUMMARY:Finanse międzynarodowe (ćwiczenia)
-UID:059c1a3c-fa9f-4f5b-a764-6a22cc00fbaf@059c.org
+UID:dfdc94e1-b273-4c5d-91f1-864b15c72f96@dfdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Garncarz
+DTEND:20241221T133000Z
+DTSTART:20241221T111500Z
+SUMMARY:Finanse międzynarodowe (Przeniesienie zajęć)
+UID:fb22ceb7-2428-4c53-8187-e09588d7472d@fb22.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241201T170000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20241201T144500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:4cc0fac4-cf35-43b5-9c09-5575b63d91a8@4cc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241130T124500Z
-DTSTART:20241130T103000Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
-UID:4f748f21-098f-4e37-a626-de7aca48c9c5@4f74.org
+DTEND:20241116T170000Z
+DTSTART:20241116T140000Z
+SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
+UID:37514cfa-f6a8-4e32-8f8a-32d51b9496af@3751.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
+DTEND:20241011T184500Z
+DTSTART:20241011T163000Z
 SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:afeb51f8-76a4-4c20-a356-8ea4b86d5b0e@afeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
-DTEND:20241026T090000Z
-DTSTART:20241026T064500Z
-SUMMARY:Finanse międzynarodowe (wykład)
-UID:5afb4644-b903-4219-bd8c-9087ede3bbde@5afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20250125T110000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20250125T084500Z
-SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (ćwiczenia)
-UID:e532b262-0df1-4a35-9101-491ad20f61a8@e532.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20250222T101500Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20250222T084500Z
-SUMMARY:Dokumentacja w handlu zagranicznym\, Międzynarodowe transakcje gospodarcze (egzamin)
-UID:9d097a23-e9c6-4577-94e1-d19ffcd4eb5a@9d09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20241124T143000Z
-LOCATION:Paw.B 351
-DTSTART:20241124T121500Z
-SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
-UID:bb1e17e5-1a8c-40db-b0fa-91ef99fc9025@bb1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241214T100000Z
-DTSTART:20241214T070000Z
-SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
-UID:e0672d37-aa60-48d7-9d32-86ba5d91abe4@e067.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20241116T124500Z
-DTSTART:20241116T103000Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:2803230e-03be-40e0-ad0d-ad4a640a7afe@2803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241012T141500Z
-DTSTART:20241012T120000Z
-SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
-UID:70462a09-faae-4a39-875e-201ef94f8f9e@7046.org
+UID:b1777fcd-3145-445f-8d6b-8d0beccf99ae@b177.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Garncarz
@@ -96,161 +44,7 @@ DTEND:20241215T091500Z
 LOCATION:Paw.E sala H (KSB)
 DTSTART:20241215T070000Z
 SUMMARY:Finanse międzynarodowe (ćwiczenia)
-UID:04b192ba-c17c-4746-8c18-bdab986e3130@04b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Stanisława Klima
-DTEND:20241123T124500Z
-DTSTART:20241123T103000Z
-SUMMARY:Międzynarodowe porównania gospodarcze (wykład)
-UID:03dbf49e-028c-49d9-91a1-0bf6cf35041b@03db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241026T114500Z
-DTSTART:20241026T093000Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
-UID:b3067892-88f1-4340-bca1-60e8a616acd3@b306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Garncarz
-DTEND:20250111T100000Z
-LOCATION:Bud.gł. 2
-DTSTART:20250111T074500Z
-SUMMARY:Finanse międzynarodowe (ćwiczenia)
-UID:8fd53982-4c57-4a6d-ac73-23336faf86fa@8fd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20250201T134500Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20250201T121500Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (egzamin)
-UID:001a7b17-c9f9-4c53-b98a-ed01f464935e@001a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241116T170000Z
-DTSTART:20241116T140000Z
-SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
-UID:2290929b-ba42-42f9-9a2e-31ae535c53c2@2290.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20241123T151500Z
-DTSTART:20241123T130000Z
-SUMMARY:Przedsiębiorczość międzynarodowa (wykład)
-UID:35cc8fbb-bee9-4fe2-9a73-fbb851ef1130@35cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Garncarz
-DTEND:20241221T133000Z
-DTSTART:20241221T111500Z
-SUMMARY:Finanse międzynarodowe (Przeniesienie zajęć)
-UID:c24955d3-42e7-465f-86db-d52c0a8695b7@c249.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20241027T151500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20241027T121500Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (ćwiczenia)
-UID:4b01061f-a2c7-46e4-905d-fb34321e3b1b@4b01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
-UID:78abb3e3-5839-4e7f-9f98-b09c5bd316b2@78ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
-DTEND:20241206T170000Z
-DTSTART:20241206T144500Z
-SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
-UID:b2b8909e-68ae-4d10-b72e-68c9148fe7e7@b2b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241222T143000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20241222T121500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:3c708bfb-2921-4797-a3cb-4e7557c983af@3c70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20250125T133000Z
-LOCATION:Paw.U sala K
-DTSTART:20250125T111500Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
-UID:400dc9ba-0198-4d6d-8efe-4eb61246b388@400d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241026T141500Z
-DTSTART:20241026T120000Z
-SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
-UID:594dc65e-99ab-4998-9547-3fd831b30bbe@594d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20241221T104500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20241221T074500Z
-SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
-UID:c600ff61-3a9c-4864-a61d-dd33337f9755@c600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20241220T194500Z
-DTSTART:20241220T173000Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:5ac3b93d-a7d0-4253-b23b-4ab46b9a8b41@5ac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20241011T184500Z
-DTSTART:20241011T163000Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:63d34afe-3973-43f5-bd79-4d5cbe158892@63d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20250110T174500Z
-DTSTART:20250110T144500Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
-UID:8c5b0357-fc2b-4aff-9550-0ac6932cb754@8c5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
-DTEND:20250201T120000Z
-LOCATION:Paw.B 251
-DTSTART:20250201T103000Z
-SUMMARY:Funkcjonowanie Unii Europejskiej (egzamin)
-UID:f4d2d3e8-e0d6-4546-9c82-022d7928fd55@f4d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
-DTEND:20241011T160000Z
-DTSTART:20241011T134500Z
-SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
-UID:867003b9-36ff-4f9d-a854-786e3e7956bf@8670.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241130T160000Z
-DTSTART:20241130T130000Z
-SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
-UID:84794ada-abb1-4a59-912b-f44a3d93cce3@8479.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
-DTEND:20241220T170000Z
-DTSTART:20241220T144500Z
-SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
-UID:f40461f6-ef6f-48b4-b72b-d9dc90b2eb15@f404.org
+UID:9e810e0b-f000-448e-add7-908c70a1c17f@9e81.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Adam Michalik
@@ -258,81 +52,7 @@ DTEND:20250111T133000Z
 LOCATION:Bud.gł. 2
 DTSTART:20250111T103000Z
 SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
-UID:4af053dd-4779-4c7c-916f-4ea5f95ef58c@4af0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241222T170000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20241222T144500Z
-SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (ćwiczenia)
-UID:a16632de-4f07-4bd3-a684-6b38343dfe72@a166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bożena Pera
-DTEND:20241123T100000Z
-DTSTART:20241123T070000Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
-UID:d9e1ab7a-ccb9-4a09-bc5d-d3fbf922cb3a@d9e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Stanisława Klima
-DTEND:20241130T100000Z
-DTSTART:20241130T074500Z
-SUMMARY:Międzynarodowe porównania gospodarcze (wykład)
-UID:2336a63d-aa4a-41dd-b7e9-07f58ffd84d4@2336.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
-DTEND:20241012T090000Z
-DTSTART:20241012T064500Z
-SUMMARY:Finanse międzynarodowe (wykład)
-UID:4f214f9e-28b0-44d8-bf1f-8ad3830e3267@4f21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20241122T194500Z
-DTSTART:20241122T173000Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:fc95fd89-cf3d-4b77-93c7-8972c39fd8f3@fc95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20241012T114500Z
-DTSTART:20241012T093000Z
-SUMMARY:Przedsiębiorczość międzynarodowa (wykład)
-UID:3504e1a7-cfc7-42c0-9b6a-aadeaa226adc@3504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Stanisława Klima
-DTEND:20241215T143000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20241215T121500Z
-SUMMARY:Międzynarodowe porównania gospodarcze (ćwiczenia)
-UID:ac7bc0be-17cd-4793-a409-9c1fc4cfd469@ac7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20250125T083000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20250125T074500Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (ćwiczenia)
-UID:e6458096-3f52-48b5-a35b-abb82ad29b20@e645.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20241206T194500Z
-DTSTART:20241206T173000Z
-SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
-UID:66b5af3f-cee3-4c6a-87eb-9cba0773dc5a@66b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20241108T184500Z
-LOCATION:Platforma Moodle
-DTSTART:20241108T154500Z
-SUMMARY:Międzynarodowe transakcje gospodarcze (Ćwiczenia e-learningowe)
-UID:5491ad23-a574-4897-9176-55cdf65ed03a@5491.org
+UID:97fba8cb-c09b-4685-858b-0e5d406f5721@97fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Stanisława Klima
@@ -340,38 +60,141 @@ DTEND:20250125T161500Z
 LOCATION:309  paw. U (tylko KatHZ)
 DTSTART:20250125T140000Z
 SUMMARY:Międzynarodowe porównania gospodarcze (ćwiczenia)
-UID:f7c14ee7-00cd-405e-bea6-7597bb9574d9@f7c1.org
+UID:98476be2-e53b-461d-9cee-e0615ee6b09f@9847.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Stanisława Klima
-DTEND:20250112T143000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20250112T121500Z
-SUMMARY:Międzynarodowe porównania gospodarcze (ćwiczenia)
-UID:ef036803-40d3-457b-bbed-2227f3fcde74@ef03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20241208T151500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20241208T121500Z
-SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
-UID:2a225a33-49f5-433d-9ac3-2ffb9181972e@2a22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Stanisława Klima
-DTEND:20241214T161500Z
-DTSTART:20241214T140000Z
-SUMMARY:Międzynarodowe porównania gospodarcze (wykład)
-UID:e666a0f8-0d8b-4f0e-9fc5-0c8c5cb18dd0@e666.org
+DESCRIPTION:Instructor: mgr Jakub Garncarz
+DTEND:20250111T100000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250111T074500Z
+SUMMARY:Finanse międzynarodowe (ćwiczenia)
+UID:361eae4d-8b6f-47f2-a0c9-2140b5e83a91@361e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Kwaśny
-DTEND:20241201T143000Z
+DTEND:20241130T160000Z
+DTSTART:20241130T130000Z
+SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
+UID:100548a8-e7c7-438f-b166-91fdadd1c1b5@1005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241222T143000Z
 LOCATION:Paw.B 053 (KSB)
-DTSTART:20241201T121500Z
+DTSTART:20241222T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:20544738-53ea-43c0-b8aa-656c4faabb6b@2054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241123T100000Z
+DTSTART:20241123T070000Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
+UID:bad91db7-5683-45e7-9089-6fee8362e98a@bad9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241220T194500Z
+DTSTART:20241220T173000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:c4f3b181-b4be-478a-85e5-945cfeddc57f@c4f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241215T143000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241215T121500Z
+SUMMARY:Międzynarodowe porównania gospodarcze (ćwiczenia)
+UID:e66b6ae2-2572-4fe9-8b6e-34a1fa659b23@e66b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241130T124500Z
+DTSTART:20241130T103000Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
+UID:4940ce7e-fcea-442c-ac65-358c67f4a276@4940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20241221T104500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241221T074500Z
+SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
+UID:c92df041-96f1-474e-b116-9fc75952ec1b@c92d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250110T174500Z
+DTSTART:20250110T144500Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
+UID:4126156b-6536-4a9e-94d2-18b74f7d8a77@4126.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241220T170000Z
+DTSTART:20241220T144500Z
+SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
+UID:75af7ffd-f169-4bd8-a9c8-11346eedb846@75af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241011T160000Z
+DTSTART:20241011T134500Z
+SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
+UID:4b283c79-9730-412e-b264-ac9a244082a5@4b28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20241123T151500Z
+DTSTART:20241123T130000Z
+SUMMARY:Przedsiębiorczość międzynarodowa (wykład)
+UID:96b2b38f-e630-4297-bc5a-dd9f061adf98@96b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250201T134500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250201T121500Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (egzamin)
+UID:13860349-383d-4bc3-a240-13fe59eb8fd1@1386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250201T120000Z
+LOCATION:Paw.B 251
+DTSTART:20250201T103000Z
+SUMMARY:Funkcjonowanie Unii Europejskiej (egzamin)
+UID:737c1731-50af-4162-a8c3-cf6caf811b1e@737c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20250125T110000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250125T084500Z
 SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (ćwiczenia)
-UID:fa759749-9623-4849-82ac-33378516fe24@fa75.org
+UID:ff0ea4cb-eadc-4b57-b497-58fb374daefd@ff0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
+UID:e53f617c-d31d-48c7-a989-3fe13ff737b7@e53f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250222T101500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250222T084500Z
+SUMMARY:Dokumentacja w handlu zagranicznym\, Międzynarodowe transakcje gospodarcze (egzamin)
+UID:0d73bd45-9a2b-4e43-b9fb-0dfa477e4aa1@0d73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241206T170000Z
+DTSTART:20241206T144500Z
+SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
+UID:2cdf094a-1bfa-4c27-a8af-5299658e24a2@2cdf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Adam Michalik
@@ -379,34 +202,211 @@ DTEND:20250126T143000Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20250126T121500Z
 SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
-UID:d9495d5b-34e0-487f-839c-f2a43abb2cfe@d949.org
+UID:9598227d-198b-4ca5-9bff-d25f971ec192@9598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20250112T143000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250112T121500Z
+SUMMARY:Międzynarodowe porównania gospodarcze (ćwiczenia)
+UID:40595946-35b9-4514-aae4-52d3eb0c1739@4059.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241026T114500Z
+DTSTART:20241026T093000Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
+UID:83674e0b-be6c-4bed-a233-3444b4507df1@8367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241026T141500Z
+DTSTART:20241026T120000Z
+SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
+UID:f842c05f-63d7-44e8-9c23-6e1a2ea2cc71@f842.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
 DTEND:20241116T100000Z
 DTSTART:20241116T074500Z
 SUMMARY:Finanse międzynarodowe (wykład)
-UID:405e5d5c-5d42-4f88-a824-3e4ba33b6008@405e.org
+UID:0a04c5cc-8c9a-42bb-b255-f0de485d2fd3@0a04.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Przedsiębiorczość międzynarodowa (wykład)
-UID:e79c408c-4d53-4b19-88e0-d288cff5c80f@e79c.org
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241123T124500Z
+DTSTART:20241123T103000Z
+SUMMARY:Międzynarodowe porównania gospodarcze (wykład)
+UID:014b02f4-fc74-42a1-908e-da2e7b7df580@014b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
 DTEND:20241122T170000Z
 DTSTART:20241122T144500Z
 SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
-UID:3fa3308b-e3be-4bdf-970d-13dbdb310380@3fa3.org
+UID:3198840b-d473-4d83-8bf3-99f19fc57e94@3198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241201T143000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241201T121500Z
+SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (ćwiczenia)
+UID:2ca4ef30-956c-45a9-b3cd-cd1e5a8913ed@2ca4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bożena Pera
 DTEND:20241214T133000Z
 DTSTART:20241214T103000Z
 SUMMARY:Międzynarodowe transakcje gospodarcze (wykład)
-UID:f66a8182-382e-4fea-8215-c0976ce796b6@f66a.org
+UID:b6db89e4-fd94-48a1-b61f-537c8431507c@b6db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
+DTEND:20241012T090000Z
+DTSTART:20241012T064500Z
+SUMMARY:Finanse międzynarodowe (wykład)
+UID:20d7a56d-57f8-4083-93db-1aa4e62fd97d@20d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20241208T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241208T121500Z
+SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
+UID:cd98c1ff-b016-4732-b779-b6d7514ecd82@cd98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241214T100000Z
+DTSTART:20241214T070000Z
+SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
+UID:a5fbf189-2452-4191-8f49-060a4290bf65@a5fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241222T170000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241222T144500Z
+SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (ćwiczenia)
+UID:61a729fb-1c44-4696-90db-d52ac8fbf227@61a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241012T141500Z
+DTSTART:20241012T120000Z
+SUMMARY:Protokół dyplomatyczny i etykieta w biznesie (wykład)
+UID:f903fcf7-8fb6-438f-9a47-1fab44133b7c@f903.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241027T151500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241027T121500Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (ćwiczenia)
+UID:b4a71a3a-6cc4-451d-9de1-0fa075135e92@b4a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241201T170000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241201T144500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:e209a5e7-eb8f-47d7-9c60-ccdc50e68138@e209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
+DTEND:20241026T090000Z
+DTSTART:20241026T064500Z
+SUMMARY:Finanse międzynarodowe (wykład)
+UID:63a664a9-e54b-48c4-9630-9ba2e43d11fb@63a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241116T124500Z
+DTSTART:20241116T103000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:2ed82c64-72d7-47e8-bbe0-3a86934d6a90@2ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250125T083000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250125T074500Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (ćwiczenia)
+UID:e2019eaa-8ece-4056-84e4-7bb9a5dfb344@e201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Przedsiębiorczość międzynarodowa (wykład)
+UID:a67e15f2-33d9-4110-b97c-31800bba88b4@a67e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20241012T114500Z
+DTSTART:20241012T093000Z
+SUMMARY:Przedsiębiorczość międzynarodowa (wykład)
+UID:7f9a431f-b779-49e4-8f1d-4764be20eb74@7f9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241206T194500Z
+DTSTART:20241206T173000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:33e6b495-488e-4d88-b8ed-80fc0b37ddd0@33e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241214T161500Z
+DTSTART:20241214T140000Z
+SUMMARY:Międzynarodowe porównania gospodarcze (wykład)
+UID:e1cd2975-f520-476b-a1b7-3fe9c12ac32a@e1cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241108T184500Z
+LOCATION:Platforma Moodle
+DTSTART:20241108T154500Z
+SUMMARY:Międzynarodowe transakcje gospodarcze (Ćwiczenia e-learningowe)
+UID:c2cc8f7e-db2e-4515-8045-f40b059f84eb@c2cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Funkcjonowanie Unii Europejskiej (wykład)
+UID:a79b1e11-7431-4830-8124-00a8f328c54c@a79b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241130T100000Z
+DTSTART:20241130T074500Z
+SUMMARY:Międzynarodowe porównania gospodarcze (wykład)
+UID:5672620f-3c60-461a-9ec0-33316c1aa0e2@5672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241122T194500Z
+DTSTART:20241122T173000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:dcff477d-13c5-43d1-b55d-f23e9e13b32f@dcff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:b8d5c4df-4b1f-47de-a12e-9712bd829b1a@b8d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20241124T143000Z
+LOCATION:Paw.B 351
+DTSTART:20241124T121500Z
+SUMMARY:Przedsiębiorczość międzynarodowa (ćwiczenia)
+UID:8861c0ed-2ee5-458a-a842-305aeb5d09d2@8861.org
 END:VEVENT
 END:VCALENDAR
