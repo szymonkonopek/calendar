@@ -2,28 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
-DTEND:20250523T184500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250523T163000Z
-SUMMARY:e-ZZL (konwersatorium)
-UID:4d37fd96-cd54-4e0c-af66-a6c554b751d9@4d37.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20250426T114500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250426T093000Z
+DTEND:20250406T123000Z
+LOCATION:Paw.E sala J
+DTSTART:20250406T101500Z
 SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
-UID:7eb3ea03-5bdc-4000-b1ba-de5b17672776@7eb3.org
+UID:25bf9c5d-7edd-4868-8893-babb6d0d51ca@25bf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Szydło
-DTEND:20250308T110000Z
-LOCATION:Bibl.425
-DTSTART:20250308T084500Z
-SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
-UID:292b9b84-37c0-4773-be70-3685f0c60e4c@292b.org
+DESCRIPTION:Instructor: mgr Anna Trybulec
+DTEND:20250405T174500Z
+DTSTART:20250405T153000Z
+SUMMARY:Systemy motywowania (Przeniesienie zajęć)
+UID:eade1871-7d70-4aeb-9475-3f62f86815be@eade.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Alicja Dudek
@@ -31,39 +22,7 @@ DTEND:20250607T090000Z
 LOCATION:L Paw.A 401
 DTSTART:20250607T064500Z
 SUMMARY:Zarządzanie karierą zawodową (ćwiczenia)
-UID:9566b22d-9558-47c5-a9e9-26699d9c8366@9566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Szydło
-DTEND:20250405T114500Z
-LOCATION:Paw.S sala 10
-DTSTART:20250405T093000Z
-SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
-UID:9b4bc401-6b3f-4aee-beec-f58dc2e03fbf@9b4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20250509T160000Z
-LOCATION:Paw.E sala J
-DTSTART:20250509T134500Z
-SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
-UID:65e4b13d-6fa8-4c7e-b08b-3be92ba9ef16@65e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Szydło
-DTEND:20250606T160000Z
-LOCATION:Paw.B 451
-DTSTART:20250606T134500Z
-SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
-UID:12337b82-fa30-45d7-9f5b-9b7dce7f199b@1233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Karwiński
-DTEND:20250307T194500Z
-LOCATION:link do zajęć
-DTSTART:20250307T173000Z
-SUMMARY:Zarządzanie karierą zawodową (wykład)
-UID:09f68626-c955-4fd6-94da-220598aaeb8d@09f6.org
+UID:df868495-6e65-4772-9df6-4a74e86c5fbc@df86.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
@@ -71,70 +30,15 @@ DTEND:20250510T174500Z
 LOCATION:Paw.E sala G (KSB)
 DTSTART:20250510T153000Z
 SUMMARY:Audyt i controlling personalny (konwersatorium)
-UID:9911754f-55ab-4daf-80eb-59348d759a95@9911.org
+UID:9b486d3a-2409-4009-aa10-85a75ad6fc27@9b48.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Anna Trybulec
-DTEND:20250607T114500Z
-LOCATION:Paw.S sala 10
-DTSTART:20250607T093000Z
+DTEND:20250405T090000Z
+LOCATION:Paw.B 251
+DTSTART:20250405T064500Z
 SUMMARY:Systemy motywowania (konwersatorium)
-UID:3ae95cc4-3f32-425e-816d-a23e9518c9e3@3ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Trybulec
-DTEND:20250510T114500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20250510T093000Z
-SUMMARY:Systemy motywowania (konwersatorium)
-UID:e99550ff-2cbe-4054-b92d-5f69f0a7dd42@e995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Alicja Dudek
-DTEND:20250525T114500Z
-LOCATION:Platforma Moodle
-DTSTART:20250525T093000Z
-SUMMARY:Zarządzanie karierą zawodową (Ćwiczenia e-learningowe)
-UID:7f14cbf9-72f0-42c9-a6b4-0fbf2d37c181@7f14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20250323T100000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20250323T074500Z
-SUMMARY:Audyt i controlling personalny (konwersatorium)
-UID:3ca39a10-2dfc-4cd4-9f07-02db79e16745@3ca3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20250308T133000Z
-LOCATION:Paw.U sala M
-DTSTART:20250308T111500Z
-SUMMARY:Audyt i controlling personalny (konwersatorium)
-UID:a230ed89-1404-49a2-a5e6-3ff3be714f35@a230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20250309T133000Z
-LOCATION:Paw.E sala J
-DTSTART:20250309T111500Z
-SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
-UID:d946ad6f-a969-4523-9bd3-534c9d29a193@d946.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Alicja Dudek
-DTEND:20250425T184500Z
-DTSTART:20250425T163000Z
-SUMMARY:Zarządzanie karierą zawodową (Przeniesienie zajęć)
-UID:33f06a6b-bf84-46ac-bfec-50bdab35e855@33f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20250426T090000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20250426T064500Z
-SUMMARY:Audyt i controlling personalny (konwersatorium)
-UID:2638438b-2454-43cc-86b6-6dd6906e3fb3@2638.org
+UID:42c1eea4-8e7d-40f3-904f-5ba6b6a4c95f@42c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
@@ -142,95 +46,15 @@ DTEND:20250524T174500Z
 LOCATION:Paw.U sala T (Kat. ZKL)
 DTSTART:20250524T153000Z
 SUMMARY:Audyt i controlling personalny (konwersatorium)
-UID:0f4a2f18-c40e-43aa-9260-3eb3eb465ba6@0f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
-DTEND:20250509T184500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250509T163000Z
-SUMMARY:e-ZZL (konwersatorium)
-UID:927abe15-1164-4a0b-8a5f-3fe7619d226a@927a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Trybulec
-DTEND:20250309T110000Z
-LOCATION:Paw.U sala O
-DTSTART:20250309T084500Z
-SUMMARY:Systemy motywowania (konwersatorium)
-UID:c9f4b6eb-78ff-4914-81e5-9a2bdb4f3407@c9f4.org
+UID:50935a53-c6d2-4594-8e0d-44187cb690b5@5093.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20250406T123000Z
+DTEND:20250509T160000Z
 LOCATION:Paw.E sala J
-DTSTART:20250406T101500Z
+DTSTART:20250509T134500Z
 SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
-UID:7ebfb1f2-5262-4a37-97a2-6244bb40a681@7ebf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Szydło
-DTEND:20250524T151500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20250524T130000Z
-SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
-UID:6c76372c-6e51-481f-8971-b9b43b7927cc@6c76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Trybulec
-DTEND:20250322T124500Z
-LOCATION:Paw.U sala O
-DTSTART:20250322T103000Z
-SUMMARY:Systemy motywowania (konwersatorium)
-UID:f7592ea6-375e-4416-b99c-42db1578c527@f759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
-DTEND:20250606T184500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250606T163000Z
-SUMMARY:e-ZZL (konwersatorium)
-UID:442c3823-b561-48ce-bedd-1c8bf93b8251@442c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Szydło
-DTEND:20250510T151500Z
-LOCATION:L Paw.A 401
-DTSTART:20250510T130000Z
-SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
-UID:cce28fac-7c59-44fa-95cb-f0d1337403df@cce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Szydło
-DTEND:20250426T174500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250426T153000Z
-SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
-UID:d4ed3085-6030-45ef-83c6-d50b721af2a6@d4ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20250523T160000Z
-LOCATION:Paw.C sala D
-DTSTART:20250523T134500Z
-SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
-UID:0b7adc2b-eac8-439d-8c4a-17e4f59a20e6@0b7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Karwiński
-DTEND:20250321T194500Z
-LOCATION:link do zajęć
-DTSTART:20250321T173000Z
-SUMMARY:Zarządzanie karierą zawodową (wykład)
-UID:e7daee0a-8af4-4a38-b7c6-d5c5e6c74703@e7da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20250406T100000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20250406T074500Z
-SUMMARY:Audyt i controlling personalny (konwersatorium)
-UID:cce67446-b54a-4876-b4fa-68e987a5da74@cce6.org
+UID:a68f4e5c-7b58-498a-87d3-bf72a54cc156@a68f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Karwiński
@@ -238,7 +62,23 @@ DTEND:20250404T160000Z
 LOCATION:link do zajęć
 DTSTART:20250404T134500Z
 SUMMARY:Zarządzanie karierą zawodową (wykład)
-UID:ff1116ca-af6d-46c4-85d3-4a298b163074@ff11.org
+UID:732cf7ed-08a3-42c0-81c4-ef0a3b17d5ee@732c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Trybulec
+DTEND:20250309T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20250309T084500Z
+SUMMARY:Systemy motywowania (konwersatorium)
+UID:8d32f22e-a2f2-4cbc-8050-5e4bcc9a2283@8d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
+DTEND:20250523T184500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250523T163000Z
+SUMMARY:e-ZZL (konwersatorium)
+UID:cf007550-9846-484d-8500-3d351b1a0b30@cf00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Alicja Dudek
@@ -246,23 +86,31 @@ DTEND:20250524T100000Z
 LOCATION:Rakowicka 16 sala 12
 DTSTART:20250524T074500Z
 SUMMARY:Zarządzanie karierą zawodową (ćwiczenia)
-UID:898c992a-78bf-443b-ad50-500882bfe3c0@898c.org
+UID:304ab1a2-dcdb-4182-9321-7525eadb45ee@304a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20250426T090000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250426T064500Z
+SUMMARY:Audyt i controlling personalny (konwersatorium)
+UID:f2d7185e-2ecb-4ee9-adbe-1a0edf53c1da@f2d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250524T151500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250524T130000Z
+SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
+UID:ca698387-58f9-4da8-9ad2-eedb642781af@ca69.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
-DTEND:20250323T124500Z
-LOCATION:Paw.E sala J
-DTSTART:20250323T103000Z
+DTEND:20250426T114500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250426T093000Z
 SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
-UID:e36c1976-af32-4cbc-af8c-741dca4f6992@e36c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Trybulec
-DTEND:20250405T174500Z
-LOCATION:Paw.S sala 10
-DTSTART:20250405T153000Z
-SUMMARY:Systemy motywowania (konwersatorium)
-UID:3f7e3547-10da-473e-98f4-297a440959a5@3f7e.org
+UID:42809df1-0c8b-446b-8669-d4fc320d8fd3@4280.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Anna Trybulec
@@ -270,6 +118,165 @@ DTEND:20250426T151500Z
 LOCATION:Paw.F 616
 DTSTART:20250426T130000Z
 SUMMARY:Systemy motywowania (konwersatorium)
-UID:98ce7fdf-1fdd-4536-9165-c363b7849863@98ce.org
+UID:39f4ae60-4681-44bd-825b-9dc559e3dcb1@39f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Trybulec
+DTEND:20250510T114500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250510T093000Z
+SUMMARY:Systemy motywowania (konwersatorium)
+UID:d1a7b6c2-2337-4da0-bbb1-a3ba17e49027@d1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20250323T124500Z
+LOCATION:Paw.E sala J
+DTSTART:20250323T103000Z
+SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
+UID:2cdda16a-26f4-4d26-9e80-f6b3280dea26@2cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Trybulec
+DTEND:20250322T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20250322T103000Z
+SUMMARY:Systemy motywowania (konwersatorium)
+UID:d31487d0-5f65-41a2-bca1-aa419018ef29@d314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250405T114500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250405T093000Z
+SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
+UID:96e01ecf-eb2d-472c-a876-22d767573009@96e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Trybulec
+DTEND:20250607T114500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250607T093000Z
+SUMMARY:Systemy motywowania (konwersatorium)
+UID:2c24bdf2-807d-4e1c-8a4c-7ebac4bfaca5@2c24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20250323T100000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250323T074500Z
+SUMMARY:Audyt i controlling personalny (konwersatorium)
+UID:7683957e-38ff-4bc9-8766-6ca859bd26c6@7683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20250308T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20250308T111500Z
+SUMMARY:Audyt i controlling personalny (konwersatorium)
+UID:3fe46ffc-ad81-44e5-9ef2-52a9fae0b041@3fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
+DTEND:20250606T184500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250606T163000Z
+SUMMARY:e-ZZL (konwersatorium)
+UID:ef0b710d-502d-44f7-a06a-825eccab6e01@ef0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20250523T160000Z
+LOCATION:Paw.C sala D
+DTSTART:20250523T134500Z
+SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
+UID:6be30bd3-4eda-47a4-bf96-60c364c50cd4@6be3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Karwiński
+DTEND:20250321T194500Z
+LOCATION:link do zajęć
+DTSTART:20250321T173000Z
+SUMMARY:Zarządzanie karierą zawodową (wykład)
+UID:4eae5bd2-21ec-4bbe-8f31-1876de5135d5@4eae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
+DTEND:20250509T184500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250509T163000Z
+SUMMARY:e-ZZL (konwersatorium)
+UID:d7172cbc-8608-4502-a092-3a98ebd5c88d@d717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250606T160000Z
+LOCATION:Paw.B 451
+DTSTART:20250606T134500Z
+SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
+UID:f9bbd542-3f84-488e-b4cd-0b0c515ddf34@f9bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20250406T100000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250406T074500Z
+SUMMARY:Audyt i controlling personalny (konwersatorium)
+UID:6edba8e1-ae7f-47f1-8e79-cc30e5834527@6edb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Karwiński
+DTEND:20250307T194500Z
+LOCATION:link do zajęć
+DTSTART:20250307T173000Z
+SUMMARY:Zarządzanie karierą zawodową (wykład)
+UID:e93e194a-0ffa-4956-9af4-6a8b80f1923f@e93e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Piotr Zając
+DTEND:20250309T133000Z
+LOCATION:Paw.E sala J
+DTSTART:20250309T111500Z
+SUMMARY:Indywidualne i zespołowe formy rozwoju pracowników (konwersatorium)
+UID:55eac3f9-80da-4cec-bbf0-101c7134dd24@55ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20250425T184500Z
+DTSTART:20250425T163000Z
+SUMMARY:Zarządzanie karierą zawodową (Przeniesienie zajęć)
+UID:c778dda2-a419-4fae-b651-2a46e7a27b44@c778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250426T174500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250426T153000Z
+SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
+UID:ed5b2f7f-857f-4e96-8d72-a79a84b6e464@ed5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250510T151500Z
+LOCATION:L Paw.A 401
+DTSTART:20250510T130000Z
+SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
+UID:9d749f34-c770-4589-af32-9a29e404e3ea@9d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20250525T114500Z
+LOCATION:Platforma Moodle
+DTSTART:20250525T093000Z
+SUMMARY:Zarządzanie karierą zawodową (Ćwiczenia e-learningowe)
+UID:8c4267f5-66a1-41aa-b95b-e678dec56b35@8c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250308T110000Z
+LOCATION:Bibl.425
+DTSTART:20250308T084500Z
+SUMMARY:Testy psychologiczne w zarządzaniu zasobami ludzkimi (konwersatorium do wyboru)
+UID:74ddaca2-ada7-4f85-a236-2a6f8b0a8a0a@74dd.org
 END:VEVENT
 END:VCALENDAR
