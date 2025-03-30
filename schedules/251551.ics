@@ -2,12 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241120T190000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241120T173000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:01bca82a-c92c-49d9-8e0b-cf6a33027d4e@01bc.org
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241218T083000Z
+DTSTART:20241218T070000Z
+SUMMARY:Teoria wzrostu gospodarczego (wykład)
+UID:2ea2c77f-0e09-410f-a431-0b07e2e33aaa@2ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250107T083000Z
+DTSTART:20250107T070000Z
+SUMMARY:Statystyka społeczna (wykład)
+UID:117c08c0-8f0f-455c-b434-31f69698a9bc@117c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ilona Ćwięczek
@@ -15,389 +21,21 @@ DTEND:20241016T110000Z
 LOCATION:Paw.F 613
 DTSTART:20241016T093000Z
 SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
-UID:a667eaca-f843-4a36-b42e-f8975b6d487d@a667.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241203T134500Z
-DTSTART:20241203T121500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:dc54ba7a-b22d-44ec-a363-199f7900338d@dc54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241119T134500Z
-DTSTART:20241119T121500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:762d5dcd-793b-4f70-be3e-9a20fbc441d1@762d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20241106T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241106T140000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:e0eeb917-2c5c-45a8-a225-6f75f10ea185@e0ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20241108T124500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241108T103000Z
-SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
-UID:35b17340-6e59-42de-9e3c-e6521704cee2@35b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241015T110000Z
-DTSTART:20241015T093000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:b0a38187-0768-415f-b949-1edd460cc316@b0a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241009T180000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241009T163000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:33bf2dca-7c4a-4f15-81fc-9094551912d4@33bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20241029T083000Z
-DTSTART:20241029T070000Z
-SUMMARY:Statystyka społeczna (wykład)
-UID:4bd4ebf6-1e43-41c1-b2d3-13b6d48e3dde@4bd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241023T073000Z
-DTSTART:20241023T060000Z
-SUMMARY:Teoria wzrostu gospodarczego (wykład)
-UID:fbb0b3f9-0791-4482-b98e-01610a2aeafb@fbb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241211T120000Z
-LOCATION:Paw.F 613
-DTSTART:20241211T103000Z
-SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
-UID:76b2cf96-d1da-4d52-a9a2-85c65e0cb721@76b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241015T091500Z
-DTSTART:20241015T074500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:06228b5a-8990-49b1-b1bb-c36c09317cb9@0622.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20250108T120000Z
-LOCATION:Paw.F 613
-DTSTART:20250108T103000Z
-SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
-UID:2f29ec30-d3ed-484a-8a82-9ff926d26611@2f29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241126T120000Z
-DTSTART:20241126T103000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:06fb95fc-b76e-4915-a440-ce090ea1fe5d@06fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20241001T073000Z
-DTSTART:20241001T060000Z
-SUMMARY:Statystyka społeczna (wykład)
-UID:d0aacbe8-045f-41da-91f6-086db57a9a85@d0aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241029T101500Z
-DTSTART:20241029T084500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:f677d183-16cf-4c7c-b2c7-b0fd3b969537@f677.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20241009T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241009T130000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:58738a44-d92b-44f0-962c-7bf6db641bf8@5873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241217T134500Z
-DTSTART:20241217T121500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:18c5bbee-9914-4221-8168-890ef72aa770@18c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241106T190000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241106T173000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:4eeef473-47e8-419e-9dbd-026381531b08@4eee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20241112T083000Z
-DTSTART:20241112T070000Z
-SUMMARY:Statystyka społeczna (wykład)
-UID:55e9842d-1db0-48fd-b68d-6f599182fe72@55e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20241023T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241023T130000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:3aa42833-5795-4197-af2f-00e820ca18d8@3aa4.org
+UID:14291c9c-6e52-4519-a605-9602e7d8132a@1429.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
 DTEND:20241015T073000Z
 DTSTART:20241015T060000Z
 SUMMARY:Statystyka społeczna (wykład)
-UID:5d4129b1-96f1-41d9-a60e-07d725cc04d2@5d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20241210T083000Z
-DTSTART:20241210T070000Z
-SUMMARY:Statystyka społeczna (wykład)
-UID:fed223bb-bf1f-458a-bdc8-734ed1723d00@fed2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241029T120000Z
-DTSTART:20241029T103000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:aa192f95-d476-4f03-b3e1-fa1e719e65d7@aa19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20250122T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250122T154500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:c8a23420-182f-4c32-9794-4d041a93543e@c8a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241219T134500Z
-DTSTART:20241219T121500Z
-SUMMARY: (rezerwacja)
-UID:0cf911fe-d46a-4b61-ab15-a8103ffb536b@0cf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20250114T134500Z
-DTSTART:20250114T121500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:d8520642-49e4-4e02-b824-a7dd70f0f5dc@d852.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20250123T161500Z
-LOCATION:Paw.G 12
-DTSTART:20250123T140000Z
-SUMMARY: (zaliczenie)
-UID:bc9abf9f-8e35-4767-84bd-3b596cb1d59b@bc9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241210T120000Z
-DTSTART:20241210T103000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:9447fd1c-9b22-40fd-94bc-4ce9d08873eb@9447.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20241004T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241004T093000Z
-SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
-UID:d1d0bd41-0794-499e-8fb4-1a9aa94a9ec8@d1d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20250107T083000Z
-DTSTART:20250107T070000Z
-SUMMARY:Statystyka społeczna (wykład)
-UID:02477a5d-6bda-4a27-814d-e1c998f70ee7@0247.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20250115T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250115T140000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:d6f0a40a-0633-4cbe-a4a9-7c75846b4e3c@d6f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20250121T093000Z
-DTSTART:20250121T084500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:2cb88133-ec14-4f6b-b5df-98313d4b82f9@2cb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241001T091500Z
-DTSTART:20241001T074500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:13654f12-8061-476b-ac2e-04297b9f16c8@1365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20250121T120000Z
-DTSTART:20250121T111500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:5ab830a6-dd8b-4d88-8f92-148662402235@5ab8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20241204T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241204T140000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:74dd8a4f-c2c2-41a8-a137-c7491ea604a2@74dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20250108T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250108T154500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:4529f093-dd77-46c9-8c50-332f611e4350@4529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241001T110000Z
-DTSTART:20241001T093000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:3ef3c61a-022e-4bf7-90af-c3728d97936f@3ef3.org
+UID:a6b57989-0fb3-4d7c-b155-7320884ef0c0@a6b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241127T120000Z
-LOCATION:Paw.F 613
-DTSTART:20241127T103000Z
-SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
-UID:e669f012-1417-4972-8dd7-faf63cd69ee5@e669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241016T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241016T144500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:8730727c-17c7-4410-8932-e6d24f2f48ab@8730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241106T083000Z
-DTSTART:20241106T070000Z
+DTEND:20241023T073000Z
+DTSTART:20241023T060000Z
 SUMMARY:Teoria wzrostu gospodarczego (wykład)
-UID:d109ca5c-ce8a-4770-8837-12c4bccde3ae@d109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241218T190000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241218T173000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:fbe967de-8299-4e2b-adb2-a1eb8c8a100f@fbe9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20250122T124500Z
-LOCATION:Paw.F 613
-DTSTART:20250122T103000Z
-SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
-UID:141a07c7-67e6-4f94-b446-5380f143a955@141a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241105T134500Z
-DTSTART:20241105T121500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:330d6b6b-ed91-4d0a-b723-a60f5b0eeab8@330d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241210T101500Z
-DTSTART:20241210T084500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:0cc76df6-5753-4a78-962a-d0c1496cb4f9@0cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250122T093000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250122T084500Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:364427c5-ff08-4acb-a712-95dae97b1029@3644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20250130T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20250130T140000Z
-SUMMARY: (egzamin)
-UID:812fc05d-2ec6-4eb7-9e06-8d6c3d6c50d0@812f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241127T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241127T154500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:a5225e29-f192-40a3-9622-f9164f7e393a@a522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20250123T181500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250123T173000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:a04267cb-dea6-4222-925b-b3ce4cde3243@a042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20241126T083000Z
-DTSTART:20241126T070000Z
-SUMMARY:Statystyka społeczna (wykład)
-UID:217ee497-4085-4de4-9812-540382752fa9@217e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241113T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241113T154500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:e2562e7e-d533-4f0f-a963-c27cbbda98e3@e256.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20241025T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241025T093000Z
-SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
-UID:73c5a685-09e1-4cb4-ac89-45b82186765d@73c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241030T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241030T154500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:49d13e8c-53e1-4f11-b294-0cdecf487d7e@49d1.org
+UID:9e90da21-d9e9-4af2-ba82-b61e40009258@9e90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
@@ -405,161 +43,128 @@ DTEND:20241018T091500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20241018T074500Z
 SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
-UID:75a2b098-f6dd-4f0f-b513-fca4811e15a2@75a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241126T101500Z
-DTSTART:20241126T084500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:6b977480-1e64-4d60-8ccc-53e19cdcd97e@6b97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241120T083000Z
-DTSTART:20241120T070000Z
-SUMMARY:Teoria wzrostu gospodarczego (wykład)
-UID:3cb267d5-d97c-4ab6-a529-06ae0baa7057@3cb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241204T083000Z
-DTSTART:20241204T070000Z
-SUMMARY:Teoria wzrostu gospodarczego (wykład)
-UID:70bfe3e8-0039-43cc-a264-7867b788585e@70bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241023T180000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241023T163000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:2845ef0e-ad94-447c-90fc-9d65057060c5@2845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250115T190000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250115T173000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:375d4bf6-8833-448e-857c-74e863dd3b13@375d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241022T124500Z
-DTSTART:20241022T111500Z
-SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:686412b7-e263-4aef-9e17-1c7ebc66a54f@6864.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20250107T101500Z
-DTSTART:20250107T084500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:96c25cc7-d16c-417e-9c23-83c2ac35bb43@96c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241112T120000Z
-DTSTART:20241112T103000Z
-SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:a699d342-ce33-4b16-ada5-f8f70cd4d7a4@a699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241112T101500Z
-DTSTART:20241112T084500Z
-SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
-UID:d4d68381-8445-40b7-a2ad-3291d4c90368@d4d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20241011T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241011T093000Z
-SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
-UID:b708ffaf-1743-43dc-9bb7-d9c2b806825a@b708.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20241120T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241120T140000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:7dd846e7-1732-4d97-a53a-4ebf8bdd3cf7@7dd8.org
+UID:1e01dfec-a8ed-423a-93bb-e04fe4074880@1e01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Mazur
 DTEND:20241008T124500Z
 DTSTART:20241008T111500Z
 SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
-UID:674fa2b6-d6c1-4d40-afd4-9a0e1fe9dd2f@674f.org
+UID:5044d899-8dc2-4708-a559-e4da9408df82@5044.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241030T120000Z
-LOCATION:Paw.F 613
-DTSTART:20241030T103000Z
-SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
-UID:e4c6ca4b-c369-4acd-8982-6fed7d1596c5@e4c6.org
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241105T134500Z
+DTSTART:20241105T121500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
+UID:acc28df0-763b-49b1-8b8f-0774817244d8@acc2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20250115T091500Z
-DTSTART:20250115T070000Z
-SUMMARY:Teoria wzrostu gospodarczego (wykład)
-UID:618f7cc3-e104-4013-aba7-67f1a84591ec@618f.org
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241022T124500Z
+DTSTART:20241022T111500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
+UID:0303c056-49af-4a96-9849-72d1c0abd388@0303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241015T091500Z
+DTSTART:20241015T074500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:c9b7ab8f-f5c8-4007-a27f-1d195d9345ba@c9b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
-DTEND:20250121T083000Z
-DTSTART:20250121T074500Z
+DTEND:20241001T073000Z
+DTSTART:20241001T060000Z
 SUMMARY:Statystyka społeczna (wykład)
-UID:9c7ade70-660f-4202-8af3-722f1a8a6d9b@9c7a.org
+UID:37d2dc4c-d322-4828-8d5a-cb716ae20ea5@37d2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241218T083000Z
-DTSTART:20241218T070000Z
-SUMMARY:Teoria wzrostu gospodarczego (wykład)
-UID:8a57d11f-635d-4173-9bce-79319c34b8c5@8a57.org
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241108T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241108T103000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:394da38d-aa93-42ae-8b49-b8d51753876b@394d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20241204T190000Z
+DTEND:20241009T180000Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241204T173000Z
+DTSTART:20241009T163000Z
 SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
-UID:b329e019-5d1f-4a85-bf29-06ef007e9d1c@b329.org
+UID:18ef2b6d-d9b6-47a7-ad46-83acab320817@18ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241004T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241004T093000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:cc6bbc9b-76df-414a-a486-cb6ddda4ef5e@cc6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250130T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20250130T140000Z
+SUMMARY: (egzamin)
+UID:a031bc6e-972c-448c-beca-a29b272e4b54@a031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241127T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241127T103000Z
+SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
+UID:631b39d4-0cab-4aac-a27e-03b7c3e4db2a@631b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241127T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241127T154500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
+UID:f3f32d6d-5cbd-41bc-a60b-2407f46fb153@f3f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250107T120000Z
-DTSTART:20250107T103000Z
+DTEND:20241029T120000Z
+DTSTART:20241029T103000Z
 SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:35e3649e-f847-491d-9275-511f2881cbb5@35e3.org
+UID:fb765a67-f545-48cb-b168-100e3abf3978@fb76.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241010T123000Z
-DTSTART:20241010T093000Z
-SUMMARY: (rezerwacja)
-UID:5740301c-da5c-4498-a746-588588668650@5740.org
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250114T134500Z
+DTSTART:20250114T121500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
+UID:fd7c2c2e-49b2-4dba-a405-3618b9ca2c2e@fd7c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241009T073000Z
-DTSTART:20241009T060000Z
-SUMMARY:Teoria wzrostu gospodarczego (wykład)
-UID:7c6417e4-e7e6-481c-90a1-d51f22756cac@7c64.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20250115T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250115T140000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:6336e4fd-3ac2-48e4-8ee6-bdd3a59b722e@6336.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ilona Ćwięczek
-DTEND:20241113T120000Z
-LOCATION:Paw.F 613
-DTSTART:20241113T103000Z
-SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
-UID:6fb6120f-0a1e-445f-9e42-a5fff68bf868@6fb6.org
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241120T190000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241120T173000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
+UID:bd7b611b-ece4-40a9-a4dc-2744c0276ba2@bd7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241218T190000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241218T173000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
+UID:865a7762-018d-4c7f-97c8-3bcfdd286330@865a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Mazur
@@ -567,30 +172,151 @@ DTEND:20241211T171500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20241211T154500Z
 SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:136452f6-b943-4714-836f-1567f398a025@1364.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20241218T153000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241218T140000Z
-SUMMARY:Statystyka społeczna (ćwiczenia)
-UID:bfde3426-efbe-429b-8961-ab9b2e5784a3@bfde.org
+UID:6833833a-5b01-430b-a37f-41988d95455e@6833.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20250122T181500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250122T173000Z
+DTEND:20241217T134500Z
+DTSTART:20241217T121500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
+UID:2ab5567b-caf7-48dd-b8d4-13213be5c35d@2ab5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241211T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241211T103000Z
+SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
+UID:6a639e7f-c7c7-4d83-a079-ae1a1494a6f9@6a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20250115T091500Z
+DTSTART:20250115T070000Z
+SUMMARY:Teoria wzrostu gospodarczego (wykład)
+UID:51bfd521-e0c3-4593-a0e6-54704f01c76e@51bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20241009T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241009T130000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:9a4beea3-77c2-4054-8003-7291e857548e@9a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241112T101500Z
+DTSTART:20241112T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:4ff4758d-7dee-4143-82ad-04ea6d63d189@4ff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250108T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250108T154500Z
 SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
-UID:0e37ce51-dd78-46fa-8316-f35022e42051@0e37.org
+UID:7eeb10e1-09ca-44d6-959f-d11b496a684e@7eeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241106T083000Z
+DTSTART:20241106T070000Z
+SUMMARY:Teoria wzrostu gospodarczego (wykład)
+UID:2272e40f-36e2-4b3f-a96d-717e76219f54@2272.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20250108T120000Z
+LOCATION:Paw.F 613
+DTSTART:20250108T103000Z
+SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
+UID:1e2d8878-36c3-4cf0-bde7-c17775981818@1e2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241120T083000Z
+DTSTART:20241120T070000Z
+SUMMARY:Teoria wzrostu gospodarczego (wykład)
+UID:d505c36b-f2bc-4e2c-87ea-2bb49afc2137@d505.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250121T111500Z
-DTSTART:20250121T103000Z
+DTEND:20241106T190000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241106T173000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
+UID:50055004-63ac-45fa-b7dd-c693865c7749@5005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241126T101500Z
+DTSTART:20241126T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:cf4d181c-6a06-478d-a9c6-1e4755f46df4@cf4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250107T101500Z
+DTSTART:20250107T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:01e00395-5614-4535-aa99-66f7e4404ade@01e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250115T190000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250115T173000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
+UID:2bfde08d-7261-4566-b556-7ac567eab77d@2bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20241120T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241120T140000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:f78d2dd6-eec8-475e-904e-21ab5083e7a0@f78d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241204T190000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241204T173000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
+UID:309e5950-1f6d-4bcf-91f0-abbd49a8c5ae@309e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241113T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241113T103000Z
+SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
+UID:9964c7ad-ac12-4bd2-b710-bc2278c5940b@9964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241030T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241030T103000Z
+SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
+UID:52d29516-2ee6-414f-9627-c83889441811@52d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250122T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250122T154500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
+UID:693761ce-213b-4ea3-859b-740c07dae01c@6937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241210T120000Z
+DTSTART:20241210T103000Z
 SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
-UID:3707a3ba-de5d-4760-809e-c1f56f9762ac@3707.org
+UID:dc4b0ee4-81d7-47d2-b563-7d40c1988878@dc4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
@@ -598,6 +324,280 @@ DTEND:20241018T101500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20241018T093000Z
 SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
-UID:639b4570-0f80-4cf7-abcb-0794e58a24ef@639b.org
+UID:00c1ebed-b20f-4b4d-a07a-84d1a6163522@00c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241203T134500Z
+DTSTART:20241203T121500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
+UID:bfb9a6ba-b5e1-477d-b30e-a81be68384b4@bfb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250121T093000Z
+DTSTART:20250121T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:5d8f7e43-fa53-4f19-8370-296c2d9af52d@5d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241113T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241113T154500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
+UID:6a7409a9-3d89-4845-bd77-2423d5b617bf@6a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241029T101500Z
+DTSTART:20241029T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:79ec5626-0b25-4e09-9dce-383306c242a7@79ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241030T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241030T154500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
+UID:03baf98d-1732-41d1-85ed-4f4b883b802f@03ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241210T101500Z
+DTSTART:20241210T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:14ec0841-f3cb-4fc4-95d4-50c29db2800e@14ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241204T083000Z
+DTSTART:20241204T070000Z
+SUMMARY:Teoria wzrostu gospodarczego (wykład)
+UID:9d1181d8-0fc2-4e0a-a728-297eec2e1f17@9d11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241210T083000Z
+DTSTART:20241210T070000Z
+SUMMARY:Statystyka społeczna (wykład)
+UID:8da60629-c3b5-4287-9c1e-585e85b4faff@8da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241112T120000Z
+DTSTART:20241112T103000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
+UID:10d462d4-400c-483e-b726-e5478ca43698@10d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250121T083000Z
+DTSTART:20250121T074500Z
+SUMMARY:Statystyka społeczna (wykład)
+UID:32d20678-addd-416d-b921-7785087c7260@32d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241016T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241016T144500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
+UID:ed527e12-ea03-4737-a49e-6eb27d1e7700@ed52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20241204T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241204T140000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:50e5c824-2884-439f-8988-63d58fa0700f@50e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241126T120000Z
+DTSTART:20241126T103000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
+UID:fa72c797-9b44-4ae1-bb66-30386ee0006d@fa72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241029T083000Z
+DTSTART:20241029T070000Z
+SUMMARY:Statystyka społeczna (wykład)
+UID:7e98e9a8-c7f7-4689-93a3-7fd26fb7d33d@7e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250122T181500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250122T173000Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (laboratorium)
+UID:4a052564-7f92-4d57-ab26-e594c88ce368@4a05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250123T161500Z
+LOCATION:Paw.G 12
+DTSTART:20250123T140000Z
+SUMMARY: (zaliczenie)
+UID:30ab5173-6a3c-4e66-adc3-6eff0fde821e@30ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20241106T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241106T140000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:fd30c488-ed42-4cab-bc18-d84531b148fb@fd30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250121T111500Z
+DTSTART:20250121T103000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
+UID:b20eea1a-4482-4600-8b04-b910a677ae61@b20e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20241009T073000Z
+DTSTART:20241009T060000Z
+SUMMARY:Teoria wzrostu gospodarczego (wykład)
+UID:fd43381b-6330-4d68-a685-ace9cddb2d6f@fd43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ilona Ćwięczek
+DTEND:20250122T124500Z
+LOCATION:Paw.F 613
+DTSTART:20250122T103000Z
+SUMMARY:Teoria wzrostu gospodarczego (ćwiczenia)
+UID:527812b9-950a-4396-ba25-775358772e88@5278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250122T093000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250122T084500Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
+UID:3d85390b-6c27-4ad2-9d2b-26393a5459bd@3d85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241001T091500Z
+DTSTART:20241001T074500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:99903f5b-a9b8-4a33-a0d9-b4530b039998@9990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241119T134500Z
+DTSTART:20241119T121500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
+UID:4472b7ab-2726-49dd-bcbb-3d2aa574a851@4472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:a0cd2675-9b82-4203-a8f3-a1e39f0f3c6c@a0cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241001T110000Z
+DTSTART:20241001T093000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
+UID:125495d0-8135-4fe1-a971-7f97b704c8f6@1254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241025T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241025T093000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:818aba92-7bb2-4404-9edb-e8be2adb5171@818a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:737b6779-b47e-4b3a-a96d-3070b100c151@737b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20250123T181500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250123T173000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:deb83377-a6c3-4839-991a-35a482957c60@deb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241015T110000Z
+DTSTART:20241015T093000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
+UID:9d084338-b495-49f1-80ca-30b2ed8c8507@9d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241011T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241011T093000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:816a4978-4db7-4285-b44c-6f140d6bb9eb@816a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241126T083000Z
+DTSTART:20241126T070000Z
+SUMMARY:Statystyka społeczna (wykład)
+UID:6f744a75-776a-41cc-92e0-122ec333d222@6f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241023T180000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241023T163000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (laboratorium)
+UID:eac3eeea-686a-44ef-9c4c-e812d9644bde@eac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241112T083000Z
+DTSTART:20241112T070000Z
+SUMMARY:Statystyka społeczna (wykład)
+UID:fdb2a710-4f05-4fcd-88a9-7e912f927c4a@fdb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250121T120000Z
+DTSTART:20250121T111500Z
+SUMMARY:Ekonometria wahań aktywności gospodarczej (wykład)
+UID:e657bc9e-98c3-40d6-a3dc-ae9dbd185dcf@e657.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20241023T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241023T130000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:1211a278-c6f5-49e7-916e-ec85e6b56109@1211.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20241218T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241218T140000Z
+SUMMARY:Statystyka społeczna (ćwiczenia)
+UID:b433745a-5504-415b-9f02-1a10aa635b2e@b433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250107T120000Z
+DTSTART:20250107T103000Z
+SUMMARY:Ekonometria wzrostu i porównań międzynarodowych (wykład)
+UID:d9fbf40a-c250-4da1-ad38-114afbe277e0@d9fb.org
 END:VEVENT
 END:VCALENDAR
