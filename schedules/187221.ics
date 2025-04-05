@@ -2,12 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241207T091500Z
-LOCATION:Bud.gł. 8
-DTSTART:20241207T070000Z
-SUMMARY:Prawo gospodarcze i bankowe (ćwiczenia)
-UID:0555f5a4-ba88-4b21-a871-0b4368a5ca43@0555.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250131T194500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21\, Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250131T181500Z
+SUMMARY:Teoria ryzyka (egzamin)
+UID:06b7902b-a0db-4be3-85c5-6a893120ec00@06b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
+DTEND:20241018T160000Z
+DTSTART:20241018T134500Z
+SUMMARY:Ryzyko w bankowości komercyjnej (wykład)
+UID:3efc1dd5-2c58-40d6-98cc-6389fe7a99f8@3efc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20241027T124500Z
+DTSTART:20241027T103000Z
+SUMMARY:Rachunkowość instytucji finansowych (wykład)
+UID:f98a1a91-99c8-4bb7-8286-0b05a37e21ad@f98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241117T100000Z
+DTSTART:20241117T074500Z
+SUMMARY:Teoria ryzyka (wykład)
+UID:49c4af55-81fb-4848-b05f-197be462144d@49c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Kil
@@ -15,23 +36,7 @@ DTEND:20241207T170000Z
 LOCATION:Paw.S sala 10
 DTSTART:20241207T144500Z
 SUMMARY:Ryzyko w bankowości komercyjnej (ćwiczenia)
-UID:8b3be3ba-777d-4315-814b-902849a99d67@8b3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250208T091500Z
-LOCATION:Paw.F 715
-DTSTART:20250208T074500Z
-SUMMARY:Ryzyko w bankowości komercyjnej (egzamin)
-UID:0df67670-abdf-4554-adc6-c77e718e85f7@0df6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20250126T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250126T121500Z
-SUMMARY:Rachunkowość instytucji finansowych (egzamin)
-UID:77070815-6e21-4092-80f2-3e234e76c88c@7707.org
+UID:f2687428-927c-4b8a-ab04-7fd1e49a023c@f268.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
@@ -39,181 +44,21 @@ DTEND:20241201T100000Z
 LOCATION:Paw.F 715
 DTSTART:20241201T074500Z
 SUMMARY:Rynek ubezpieczeń i reasekuracja (laboratorium)
-UID:bf8f1086-420d-4d9c-a8a5-21348245b447@bf8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241018T184500Z
-DTSTART:20241018T163000Z
-SUMMARY:Prawo gospodarcze i bankowe (wykład)
-UID:cfb53470-bb5c-40ba-93aa-58fd7fd3a816@cfb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (wykład)
-UID:9f984ea0-4b4b-40c6-805c-4a6759b0d8c7@9f98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20241130T170000Z
-LOCATION:Paw.S sala 4
-DTSTART:20241130T144500Z
-SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (ćwiczenia)
-UID:e851826a-d654-4031-82dd-7603c1cb4005@e851.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250110T170000Z
-DTSTART:20250110T144500Z
-SUMMARY:Prawo gospodarcze i bankowe (wykład)
-UID:5c368cdf-38e0-4646-af2b-b8ed091a2a2e@5c36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20241019T133000Z
-DTSTART:20241019T111500Z
-SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (wykład)
-UID:894ba531-8f9f-427c-9af2-21f1b9324f25@894b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20241201T124500Z
-LOCATION:Paw.F 717
-DTSTART:20241201T103000Z
-SUMMARY:Rachunkowość instytucji finansowych (ćwiczenia)
-UID:8ec4b7b3-2d8d-4320-a610-16c2d19522c3@8ec4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20250131T194500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21\, Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250131T181500Z
-SUMMARY:Teoria ryzyka (egzamin)
-UID:1f2a9639-1ba0-4ecf-8a0e-94ee439c88c3@1f2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250111T194500Z
-DTSTART:20250111T173000Z
-SUMMARY:Ryzyko w bankowości komercyjnej (Przeniesienie zajęć)
-UID:78b221ab-be14-4e6c-b557-df348ed6247e@78b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241116T143000Z
-LOCATION:Paw.B 251
-DTSTART:20241116T121500Z
-SUMMARY:Prawo gospodarcze i bankowe (ćwiczenia)
-UID:ededa8b2-1d99-4ac9-8adb-14ed17401ded@eded.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20250112T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250112T103000Z
-SUMMARY:Rynek ubezpieczeń i reasekuracja (laboratorium)
-UID:314fa67c-5ea6-422e-9c01-bdf5c28a7e29@314f.org
+UID:e31a2138-b285-4112-b68d-3217d50c463f@e31a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
 DTEND:20241129T170000Z
 DTSTART:20241129T144500Z
 SUMMARY:Prawo gospodarcze i bankowe (wykład)
-UID:dffccc93-5664-47b4-a839-8e5531df52d9@dffc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
-DTEND:20241208T124500Z
-DTSTART:20241208T103000Z
-SUMMARY:Ryzyko w bankowości komercyjnej (wykład)
-UID:7f2a11b7-7f16-4d4d-b7a5-41fcd11774f8@7f2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241130T194500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241130T173000Z
-SUMMARY:Teoria ryzyka (ćwiczenia)
-UID:d3b96aff-e120-4ae5-b3f2-9116d4090823@d3b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241206T170000Z
-DTSTART:20241206T144500Z
-SUMMARY:Teoria ryzyka (wykład)
-UID:5c7c31b3-fa33-4549-bd4d-e2b3d6fa64ba@5c7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250223T101500Z
-LOCATION:Paw.F 715
-DTSTART:20250223T084500Z
-SUMMARY:Ryzyko w bankowości komercyjnej (egzamin)
-UID:2ae522db-6067-4fce-8b4c-f43daa5a9cd6@2ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
-DTEND:20241117T124500Z
-DTSTART:20241117T103000Z
-SUMMARY:Ryzyko w bankowości komercyjnej (wykład)
-UID:5062e44c-b841-41bb-bd60-23152c07fbb9@5062.org
+UID:1b5c9b1d-9458-47c3-8ddd-3832f3176bf9@1b5c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241026T081500Z
-DTSTART:20241026T060000Z
-SUMMARY:Prawo gospodarcze i bankowe (Przeniesienie zajęć)
-UID:8d988cfc-6f4e-45f9-940d-327a2ba314c3@8d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20250112T100000Z
-LOCATION:Paw.F 109
-DTSTART:20250112T074500Z
-SUMMARY:Rachunkowość instytucji finansowych (ćwiczenia)
-UID:7ec042b8-0521-4ee2-bf7f-4ae4fbb4b75f@7ec0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250118T143000Z
-LOCATION:Paw.S sala 10
-DTSTART:20250118T121500Z
-SUMMARY:Ryzyko w bankowości komercyjnej (ćwiczenia)
-UID:a30f2591-f3b7-4a86-8642-aeff8212e5c8@a30f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20241221T130000Z
-LOCATION:Paw.F 613
-DTSTART:20241221T121500Z
-SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (ćwiczenia)
-UID:a07f654b-b164-408a-8919-f722f71e2daf@a07f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20250118T170000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250118T144500Z
-SUMMARY:Teoria ryzyka (ćwiczenia)
-UID:9a42b7ac-ade0-4a13-b649-30a34d8f2385@9a42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20241116T170000Z
-LOCATION:Paw.F 109
-DTSTART:20241116T144500Z
-SUMMARY:Rachunkowość instytucji finansowych (ćwiczenia)
-UID:d9c65bf8-3cee-40a4-a2b1-3d1491e1dd38@d9c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20241222T124500Z
-LOCATION:Paw.S sala 10
-DTSTART:20241222T103000Z
-SUMMARY:Rynek ubezpieczeń i reasekuracja (laboratorium)
-UID:cc727dba-e307-4c1a-b8e6-77f1bf60beeb@cc72.org
+DTEND:20241018T184500Z
+DTSTART:20241018T163000Z
+SUMMARY:Prawo gospodarcze i bankowe (wykład)
+UID:84442109-106b-4406-8c8e-85945cc09b97@8444.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Jarosz
@@ -221,7 +66,112 @@ DTEND:20241221T143000Z
 LOCATION:Paw.S sala 3
 DTSTART:20241221T130000Z
 SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (ćwiczenia)
-UID:dc115506-e775-4954-a1ee-0910b8eb4e35@dc11.org
+UID:7b08affc-2a67-42e4-852c-f1676a2dad46@7b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20241117T151500Z
+DTSTART:20241117T130000Z
+SUMMARY:Rachunkowość instytucji finansowych (wykład)
+UID:9886a0c7-77c0-4ecf-a32a-7bf74e47c5bb@9886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20241208T151500Z
+DTSTART:20241208T130000Z
+SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (wykład)
+UID:5770def5-105b-497f-948a-a8c5f7096701@5770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Prawo gospodarcze i bankowe (Przeniesienie zajęć)
+UID:89c55dac-7cdc-4498-93a6-9a3ca72e0906@89c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241207T091500Z
+LOCATION:Bud.gł. 8
+DTSTART:20241207T070000Z
+SUMMARY:Prawo gospodarcze i bankowe (ćwiczenia)
+UID:a35e0a26-abba-4d8b-ba2b-76e7883ef432@a35e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250118T170000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250118T144500Z
+SUMMARY:Teoria ryzyka (ćwiczenia)
+UID:f3158262-1462-454a-9e36-65a7eca415da@f315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241221T130000Z
+LOCATION:Paw.F 613
+DTSTART:20241221T121500Z
+SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (ćwiczenia)
+UID:3b85ecda-d7ec-4cd2-b77b-85d67dd53e34@3b85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250223T101500Z
+LOCATION:Paw.F 715
+DTSTART:20250223T084500Z
+SUMMARY:Ryzyko w bankowości komercyjnej (egzamin)
+UID:39279be8-9c3d-48d8-a0b7-02d737d19529@3927.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250110T170000Z
+DTSTART:20250110T144500Z
+SUMMARY:Prawo gospodarcze i bankowe (wykład)
+UID:129040f6-5325-4825-90dd-e5c573a23bff@1290.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20250112T100000Z
+LOCATION:Paw.F 109
+DTSTART:20250112T074500Z
+SUMMARY:Rachunkowość instytucji finansowych (ćwiczenia)
+UID:7249a329-97a9-4e80-9963-0729230eedd5@7249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241019T160000Z
+DTSTART:20241019T134500Z
+SUMMARY:Teoria ryzyka (wykład)
+UID:94cc0a26-b2b9-4cc7-8fda-283b25aedcd5@94cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241026T081500Z
+DTSTART:20241026T060000Z
+SUMMARY:Prawo gospodarcze i bankowe (Przeniesienie zajęć)
+UID:3ab70be9-c74f-4d06-acfb-ca1728ebe205@3ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250111T194500Z
+DTSTART:20250111T173000Z
+SUMMARY:Ryzyko w bankowości komercyjnej (Przeniesienie zajęć)
+UID:55759ead-80ec-4577-a327-8bc0dd5e75ff@5575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250112T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250112T103000Z
+SUMMARY:Rynek ubezpieczeń i reasekuracja (laboratorium)
+UID:3ba0499a-635b-42c5-8559-940e2cf87552@3ba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20241201T124500Z
+LOCATION:Paw.F 717
+DTSTART:20241201T103000Z
+SUMMARY:Rachunkowość instytucji finansowych (ćwiczenia)
+UID:2093b2fe-9a9b-481d-acf5-8c9ee9239979@2093.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Jarosz
@@ -229,96 +179,45 @@ DTEND:20250112T151500Z
 LOCATION:Paw.F 717
 DTSTART:20250112T130000Z
 SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (ćwiczenia)
-UID:4a970a76-cafb-4c79-9a76-54dbc33600fa@4a97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241019T160000Z
-DTSTART:20241019T134500Z
-SUMMARY:Teoria ryzyka (wykład)
-UID:9f160596-fca1-42e5-8435-3a6378f295a8@9f16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241221T170000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241221T144500Z
-SUMMARY:Teoria ryzyka (ćwiczenia)
-UID:17d4b38a-d1e4-4912-9015-f631cb3760fb@17d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
-DTEND:20241018T160000Z
-DTSTART:20241018T134500Z
-SUMMARY:Ryzyko w bankowości komercyjnej (wykład)
-UID:c9c44557-f25d-4227-9f6a-271c4a614480@c9c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241117T100000Z
-DTSTART:20241117T074500Z
-SUMMARY:Teoria ryzyka (wykład)
-UID:87e64af7-04e2-4a9c-a060-66452e8e03fa@87e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250111T091500Z
-LOCATION:Paw.S sala 1
-DTSTART:20250111T070000Z
-SUMMARY:Ryzyko w bankowości komercyjnej (ćwiczenia)
-UID:1595186e-1f9d-44b9-abbf-a2a8507c0f33@1595.org
+UID:5db7c3c5-d390-4639-aa39-e5e5af601283@5db7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
-SUMMARY:Prawo gospodarcze i bankowe (Przeniesienie zajęć)
-UID:2f2d287e-f297-49ef-afe9-0316f612cf65@2f2d.org
+DTEND:20241116T143000Z
+LOCATION:Paw.B 251
+DTSTART:20241116T121500Z
+SUMMARY:Prawo gospodarcze i bankowe (ćwiczenia)
+UID:8be1a19f-b1b9-4a92-a812-7f673175b94d@8be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241130T194500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241130T173000Z
+SUMMARY:Teoria ryzyka (ćwiczenia)
+UID:46416a2a-295c-4acf-9102-5a0c5a040cef@4641.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
+DTEND:20241208T124500Z
+DTSTART:20241208T103000Z
+SUMMARY:Ryzyko w bankowości komercyjnej (wykład)
+UID:82f2b0a0-d864-418d-8156-bc1b448aac2e@82f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20250126T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250126T121500Z
+SUMMARY:Rachunkowość instytucji finansowych (egzamin)
+UID:078d560a-8259-4d82-bcc6-8db1729b1bd1@078d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Igor Styn
 DTEND:20241206T194500Z
 DTSTART:20241206T173000Z
 SUMMARY:Rachunkowość instytucji finansowych (wykład)
-UID:14b35a58-aece-4faf-8be2-2c39252bfb68@14b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20241208T151500Z
-DTSTART:20241208T130000Z
-SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (wykład)
-UID:f79ffbd1-e3c4-4682-8c18-8895050a44e9@f79f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250201T091500Z
-LOCATION:Paw.E sala J
-DTSTART:20250201T074500Z
-SUMMARY:Ryzyko w bankowości komercyjnej (egzamin)
-UID:4278cb00-fab2-47c6-9c07-3bb2eee4aed2@4278.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250125T093000Z
-LOCATION:Paw.S sala 7
-DTSTART:20250125T084500Z
-SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (egzamin)
-UID:5fdb15e1-23d0-4534-9696-a1e4e6bed0a0@5fdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241207T143000Z
-LOCATION:Paw.B 251
-DTSTART:20241207T121500Z
-SUMMARY:Prawo gospodarcze i bankowe (ćwiczenia)
-UID:90f7ff57-fc4b-40f0-8d84-4fae93e4c867@90f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20241027T124500Z
-DTSTART:20241027T103000Z
-SUMMARY:Rachunkowość instytucji finansowych (wykład)
-UID:1bb164cc-394b-49bf-af71-e8615ef3d685@1bb1.org
+UID:6f111ed0-9853-4651-b980-5814fa84f290@6f11.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
@@ -326,13 +225,114 @@ DTEND:20250125T101500Z
 LOCATION:Paw.F 109
 DTSTART:20250125T093000Z
 SUMMARY:Prawo gospodarcze i bankowe (egzamin)
-UID:e8d08542-ea56-49fe-b05b-6c4d4512ac13@e8d0.org
+UID:d0689001-3fdb-408f-b664-71eb3b03fe42@d068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250118T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250118T121500Z
+SUMMARY:Ryzyko w bankowości komercyjnej (ćwiczenia)
+UID:ad2573b3-edc9-4b56-9969-46236dff3452@ad25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
+DTEND:20241117T124500Z
+DTSTART:20241117T103000Z
+SUMMARY:Ryzyko w bankowości komercyjnej (wykład)
+UID:3c4bf27a-ab0f-4d22-b5c6-1cd4ab5a339d@3c4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241221T170000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241221T144500Z
+SUMMARY:Teoria ryzyka (ćwiczenia)
+UID:8e9523ec-47b3-48a8-8937-3227dbd880fd@8e95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (wykład)
+UID:3dc91db6-a8cb-48fc-a533-76ebe3938237@3dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241206T170000Z
+DTSTART:20241206T144500Z
+SUMMARY:Teoria ryzyka (wykład)
+UID:5d91b69b-1a94-410d-894d-98b85a23d7be@5d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241130T170000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241130T144500Z
+SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (ćwiczenia)
+UID:6a3fade1-7500-4e05-9449-dac507658597@6a3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250111T091500Z
+LOCATION:Paw.S sala 1
+DTSTART:20250111T070000Z
+SUMMARY:Ryzyko w bankowości komercyjnej (ćwiczenia)
+UID:4b358979-4ac1-46b1-9053-1410f5f4400a@4b35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241222T124500Z
+LOCATION:Paw.S sala 10
+DTSTART:20241222T103000Z
+SUMMARY:Rynek ubezpieczeń i reasekuracja (laboratorium)
+UID:bd84c32f-b68b-41b5-be34-d648371460c4@bd84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20241117T151500Z
-DTSTART:20241117T130000Z
-SUMMARY:Rachunkowość instytucji finansowych (wykład)
-UID:3ec118cc-5be1-4f6d-bd18-d32534b8f5da@3ec1.org
+DTEND:20241116T170000Z
+LOCATION:Paw.F 109
+DTSTART:20241116T144500Z
+SUMMARY:Rachunkowość instytucji finansowych (ćwiczenia)
+UID:bf164d81-8b94-49dd-9f7e-32a3b2b64ab7@bf16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250125T093000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250125T084500Z
+SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (egzamin)
+UID:0f74b7bb-d0b4-441e-abaa-41aaa7b9aea4@0f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241207T143000Z
+LOCATION:Paw.B 251
+DTSTART:20241207T121500Z
+SUMMARY:Prawo gospodarcze i bankowe (ćwiczenia)
+UID:11b060c1-a6de-47be-8e7c-95412753cd4b@11b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250201T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20250201T074500Z
+SUMMARY:Ryzyko w bankowości komercyjnej (egzamin)
+UID:d4ddde45-b636-4239-a843-2f2686a29251@d4dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20241019T133000Z
+DTSTART:20241019T111500Z
+SUMMARY:Stabilność finansowa i polityka makroostrożnościowa (wykład)
+UID:20986b53-5d07-4a48-9fd1-e366dbf1b3a9@2098.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250208T091500Z
+LOCATION:Paw.F 715
+DTSTART:20250208T074500Z
+SUMMARY:Ryzyko w bankowości komercyjnej (egzamin)
+UID:1a670f47-d2ff-41b2-ab7d-9f0bebe88763@1a67.org
 END:VEVENT
 END:VCALENDAR
