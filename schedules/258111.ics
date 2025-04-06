@@ -2,19 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Zatorski
+DTEND:20250412T111500Z
+DTSTART:20250412T064500Z
+SUMMARY:Rozwiązywanie konfliktów w grupie (Studia podyplomowe)
+UID:c0a2ef95-3f0a-44cf-94dd-d2b39ecc86b0@c0a2.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
 DTEND:20250329T121500Z
 LOCATION:Paw.F 416
 DTSTART:20250329T074500Z
 SUMMARY:Budżetowanie i rachunkowość projektów (Studia podyplomowe)
-UID:37667d78-07dc-42b1-a9d7-33a3bdc65f93@3766.org
+UID:a57a16ba-8f5a-4799-9df8-a2eb30589b61@a57a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
 DTEND:20250606T181500Z
 DTSTART:20250606T134500Z
 SUMMARY:Tworzenie zespołów projektowych (Studia podyplomowe)
-UID:81be46fd-e4c2-459d-a09e-4ec3ba8d5f08@81be.org
+UID:459fd303-08b9-4799-93fa-816895c04a7d@459f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250510T111500Z
+DTSTART:20250510T064500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:a8c8e500-f0b2-4bd6-aff1-63486791fe2b@a8c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Teczke
@@ -22,57 +36,28 @@ DTEND:20250315T121500Z
 LOCATION:Paw.E sala J
 DTSTART:20250315T074500Z
 SUMMARY:Podstawy zarządzania (Studia podyplomowe)
-UID:a27bebf8-b353-45e1-995a-42b81fda6a70@a27b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
-DTEND:20250607T111500Z
-DTSTART:20250607T064500Z
-SUMMARY:Motywowanie zespołów projektowych (Studia podyplomowe)
-UID:7a35be5a-6a05-4276-a590-10dfed753ae9@7a35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Zatorski
-DTEND:20250411T181500Z
-DTSTART:20250411T134500Z
-SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
-UID:8de8923a-d705-4e6e-9b01-8f544d5b9e36@8de8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20250510T111500Z
-DTSTART:20250510T064500Z
-SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:0c08d41e-6cda-4725-8cac-8b22cfcb6d26@0c08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Peszko
-DTEND:20250314T191500Z
-LOCATION:Paw.E sala J
-DTSTART:20250314T144500Z
-SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
-UID:3169d4ca-b97a-4c4d-85be-a2b314195371@3169.org
+UID:3ff35fe1-e9ca-4086-ab40-316f9bd7e3bc@3ff3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Miś
 DTEND:20250524T111500Z
 DTSTART:20250524T064500Z
 SUMMARY:Prawne zagadnienia zarządzania projektami (Studia podyplomowe)
-UID:15caae12-cbd3-44be-9f62-ea0488b00717@15ca.org
+UID:3bb5ce30-00e8-4bc5-8293-2f7a2203e4d7@3bb5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
 DTEND:20250628T111500Z
 DTSTART:20250628T064500Z
 SUMMARY:Techniki twórczego myślenia (Studia podyplomowe)
-UID:4bc8baa5-9a55-4603-b53b-d04d121402ab@4bc8.org
+UID:895e5211-3ccc-4f50-a20a-89f502280cc2@895e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kołodziej
-DTEND:20250523T181500Z
-DTSTART:20250523T134500Z
-SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
-UID:4c4c97ae-82b0-48de-a331-1b7395546da0@4c4c.org
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250509T181500Z
+DTSTART:20250509T134500Z
+SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
+UID:988940a3-c372-4da8-9cb4-8e84098561dc@9889.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Schmidt
@@ -80,27 +65,42 @@ DTEND:20250328T191500Z
 LOCATION:Paw.F 416
 DTSTART:20250328T144500Z
 SUMMARY:Metodyki zarządzania projektami (Studia podyplomowe)
-UID:5cb360a6-a0a7-4cf9-adb0-1c28c6f4763a@5cb3.org
+UID:30194759-775f-494f-9eb4-f59b34b71cda@3019.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250509T181500Z
-DTSTART:20250509T134500Z
-SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
-UID:2a55151e-7bad-4c6f-b1c9-0b598536dfdd@2a55.org
+DESCRIPTION:Instructor: dr Jerzy Kołodziej
+DTEND:20250523T181500Z
+DTSTART:20250523T134500Z
+SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
+UID:cd957c9e-e61e-438c-bc6d-994bdc8d871a@cd95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
+DTEND:20250607T111500Z
+DTSTART:20250607T064500Z
+SUMMARY:Motywowanie zespołów projektowych (Studia podyplomowe)
+UID:6dabee31-301e-4fa2-857c-eb6ec56c9708@6dab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Peszko
+DTEND:20250314T191500Z
+LOCATION:Paw.E sala J
+DTSTART:20250314T144500Z
+SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
+UID:a33e217d-19a5-4560-984f-35bbdd007be5@a33e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Zatorski
+DTEND:20250411T181500Z
+DTSTART:20250411T134500Z
+SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
+UID:3c7e0230-1789-450f-8a50-c3d8391a93dd@3c7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Teczke
 DTEND:20250628T124500Z
 DTSTART:20250628T120000Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:afdb25b7-4f0b-48c0-8453-b2d8cb4446f1@afdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Zatorski
-DTEND:20250412T111500Z
-DTSTART:20250412T064500Z
-SUMMARY:Rozwiązywanie konfliktów w grupie (Studia podyplomowe)
-UID:7b967c47-fdc0-4e50-af58-9cd14cd41af3@7b96.org
+UID:af409890-dbe5-4a87-8cd3-f80935b33ea2@af40.org
 END:VEVENT
 END:VCALENDAR
