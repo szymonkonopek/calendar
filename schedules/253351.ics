@@ -2,19 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250329T180000Z
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250315T100000Z
 LOCATION:link do zajęć
-DTSTART:20250329T154500Z
-SUMMARY:Systemy wspomagania decyzji (wykład)
-UID:1dcec508-70a7-47f7-9ccb-8b8612552bf1@1dce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250301T124500Z
-DTSTART:20250301T103000Z
-SUMMARY:Systemy wspomagania decyzji (wykład)
-UID:eb9469d4-51e4-4b02-9202-357e62216ea3@eb94.org
+DTSTART:20250315T074500Z
+SUMMARY:Przemysł Nowych Możliwości (wykład)
+UID:efe72f44-8d19-4b30-a0cb-7f2b00abc73c@efe7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jowita Świerczyńska
@@ -22,7 +15,14 @@ DTEND:20250315T161500Z
 LOCATION:link do zajęć
 DTSTART:20250315T140000Z
 SUMMARY:Negocjacje w biznesie (wykład do wyboru)
-UID:aa8d6934-0eb7-4ee6-bb14-c062c20ff5c0@aa8d.org
+UID:294be42d-7b5f-42c6-b2bb-2d7cfa0afb34@294b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250301T124500Z
+DTSTART:20250301T103000Z
+SUMMARY:Systemy wspomagania decyzji (wykład)
+UID:951c2bde-bd71-436d-b758-d00fb2c53326@951c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jan Trąbka
@@ -30,181 +30,7 @@ DTEND:20250615T090000Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20250615T064500Z
 SUMMARY:Modelowanie i doskonalenie procesów biznesowych (ćwiczenia)
-UID:61acf1c1-89f8-427f-9568-012033a8f485@61ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250524T114500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250524T093000Z
-SUMMARY:Start-upy technologiczne (ćwiczenia)
-UID:e5d682e1-a4b1-454c-ba83-a9e03e837e99@e5d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20250523T184500Z
-LOCATION:link do zajęć
-DTSTART:20250523T163000Z
-SUMMARY:Wizerunek Pracodawcy (wykład do wyboru)
-UID:81f925eb-e455-42c5-8de3-ae4cc2f19e92@81f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250328T194500Z
-LOCATION:link do zajęć
-DTSTART:20250328T173000Z
-SUMMARY:Modelowanie i doskonalenie procesów biznesowych (wykład)
-UID:db3d4a80-e76e-42d4-9c0c-82d774b950bc@db3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
-DTEND:20250411T184500Z
-DTSTART:20250411T163000Z
-SUMMARY:Start-upy technologiczne (Przeniesienie zajęć)
-UID:1242d845-6768-4776-ba19-679bd1127214@1242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
-DTEND:20250329T133000Z
-LOCATION:link do zajęć
-DTSTART:20250329T111500Z
-SUMMARY:Start-upy technologiczne (wykład)
-UID:f8e1fc7a-689c-4d5b-a862-910c3eec5da1@f8e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Łukasik
-DTEND:20250302T124500Z
-DTSTART:20250302T103000Z
-SUMMARY:Przemysł Nowych Możliwości (wykład)
-UID:b6b4ab6c-147a-4c01-b5a8-b8fb473210d9@b6b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250330T114500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250330T093000Z
-SUMMARY:Start-upy technologiczne (ćwiczenia)
-UID:1ee3f849-fd2a-42ca-8aff-61080610a889@1ee3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250524T151500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250524T130000Z
-SUMMARY:Modelowanie i doskonalenie procesów biznesowych (ćwiczenia)
-UID:5783bd77-e5a6-4bc6-b8db-b883b06f07e9@5783.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
-DTEND:20250509T160000Z
-LOCATION:link do zajęć
-DTSTART:20250509T134500Z
-SUMMARY:Start-upy technologiczne (wykład)
-UID:bef8fd49-8676-41ad-91ee-34b1a5eaed97@bef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
-DTEND:20250510T114500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250510T093000Z
-SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
-UID:b71e135c-2377-418f-9256-8b5d9ba531ea@b71e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250413T090000Z
-LOCATION:link do zajęć
-DTSTART:20250413T064500Z
-SUMMARY:Systemy wspomagania decyzji (wykład)
-UID:1ad2b401-5bc9-42ad-a6a5-969037083614@1ad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Łukasik
-DTEND:20250621T110000Z
-LOCATION:Paw.C sala A
-DTSTART:20250621T093000Z
-SUMMARY:Przemysł Nowych Możliwości (egzamin)
-UID:b0ae4b5f-6f85-4a82-a019-21b92102042c@b0ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20250613T184500Z
-LOCATION:link do zajęć
-DTSTART:20250613T163000Z
-SUMMARY:Wizerunek Pracodawcy (wykład do wyboru)
-UID:63fb370a-5c7e-4ee0-8324-129138e54d60@63fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
-DTEND:20250425T184500Z
-LOCATION:link do zajęć
-DTSTART:20250425T163000Z
-SUMMARY:Start-upy technologiczne (wykład)
-UID:97a8114d-8f2a-4c13-a035-a0b97d76c147@97a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
-DTEND:20250906T104500Z
-LOCATION:Paw.U sala O
-DTSTART:20250906T074500Z
-SUMMARY: (egzamin)
-UID:a0a46d9f-0c11-4738-a844-e1d98cf62d19@a0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
-DTEND:20250524T090000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250524T064500Z
-SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
-UID:0bf53b78-7e67-41e8-af91-437e1fab1195@0bf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250427T123000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250427T101500Z
-SUMMARY:Systemy wspomagania decyzji (ćwiczenia)
-UID:2e76c328-9d8b-4e00-9f9b-8f2320c4af8b@2e76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
-DTEND:20250620T174500Z
-LOCATION:Paw.C sala A
-DTSTART:20250620T144500Z
-SUMMARY: (egzamin)
-UID:4a62ffae-8b47-4936-9ac9-0b8358a93970@4a62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250511T090000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250511T064500Z
-SUMMARY:Modelowanie i doskonalenie procesów biznesowych (ćwiczenia)
-UID:2e2a4c86-6aac-4504-8d88-bf92b7a77755@2e2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250316T100000Z
-LOCATION:link do zajęć
-DTSTART:20250316T074500Z
-SUMMARY:Systemy wspomagania decyzji (wykład)
-UID:92c34d7a-695d-426e-9ce7-514179522b29@92c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250412T151500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250412T130000Z
-SUMMARY:Systemy wspomagania decyzji (ćwiczenia)
-UID:6bf57eb5-db67-46d8-b959-cf6fc8e5de96@6bf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250510T090000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250510T064500Z
-SUMMARY:Start-upy technologiczne (ćwiczenia)
-UID:189ab7b7-f343-4c33-b193-da773f334b64@189a.org
+UID:28539df0-b615-44c3-9ec8-52e7e6118ac3@2853.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Magdalena Prorok
@@ -212,100 +38,38 @@ DTEND:20250412T114500Z
 LOCATION:Paw.E sala H (KSB)
 DTSTART:20250412T093000Z
 SUMMARY:Start-upy technologiczne (ćwiczenia)
-UID:86237d10-bc86-4ec2-83bc-2a596a2b4298@8623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250426T090000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250426T064500Z
-SUMMARY:Start-upy technologiczne (ćwiczenia)
-UID:2fe43932-79e9-4862-bff5-b5bc1a2e7ddb@2fe4.org
+UID:84ed8750-a1d5-4950-9387-9c2d9d4a1e78@84ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250615T114500Z
+DTEND:20250427T123000Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250615T093000Z
+DTSTART:20250427T101500Z
 SUMMARY:Systemy wspomagania decyzji (ćwiczenia)
-UID:2c0ede7f-1f46-472b-a38f-7c7ac7c89023@2c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
-DTEND:20250412T090000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250412T064500Z
-SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
-UID:c1cc78bb-2024-40cd-9bc5-568b7580055f@c1cc.org
+UID:54af62f4-cf0a-4548-b8fb-877664956a3f@54af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jowita Świerczyńska
 DTEND:20250301T161500Z
 DTSTART:20250301T140000Z
 SUMMARY:Negocjacje w biznesie (wykład do wyboru)
-UID:625cd0af-727a-4b74-a472-36b8ae5bca84@625c.org
+UID:ea694c1d-9ce8-4eb4-bab0-0d05ea8c8fd1@ea69.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250301T100000Z
-DTSTART:20250301T074500Z
-SUMMARY:Modelowanie i doskonalenie procesów biznesowych (wykład)
-UID:5e5c592a-bdad-463b-9e73-4ab6c57a8ad7@5e5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250413T114500Z
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250413T090000Z
 LOCATION:link do zajęć
-DTSTART:20250413T093000Z
-SUMMARY:Modelowanie i doskonalenie procesów biznesowych (wykład)
-UID:2935249a-75aa-4deb-99d8-5a3bf23af6e6@2935.org
+DTSTART:20250413T064500Z
+SUMMARY:Systemy wspomagania decyzji (wykład)
+UID:02201033-bc00-4613-8e23-95856c0fd0cb@0220.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250511T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250511T093000Z
-SUMMARY:Systemy wspomagania decyzji (ćwiczenia)
-UID:a980763a-099d-4e4e-af75-b54bf6b62a84@a980.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20250509T184500Z
-LOCATION:link do zajęć
-DTSTART:20250509T163000Z
-SUMMARY:Wizerunek Pracodawcy (wykład do wyboru)
-UID:f3ffb0e9-8ef1-4a25-952c-07e0df832e0b@f3ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
-DTEND:20250614T090000Z
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250524T114500Z
 LOCATION:Paw.E sala H (KSB)
-DTSTART:20250614T064500Z
-SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
-UID:d1be2ac5-da1e-4fbd-9593-3ca03c04402f@d1be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
-DTEND:20250330T090000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250330T064500Z
-SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
-UID:6a0c54b3-ee82-4833-8920-d5b9f3630e71@6a0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
-DTEND:20250302T100000Z
-DTSTART:20250302T074500Z
-SUMMARY:Start-upy technologiczne (Przeniesienie zajęć)
-UID:cd2d526d-4f2d-4b3d-a397-67074e6a2646@cd2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Łukasik
-DTEND:20250315T100000Z
-LOCATION:link do zajęć
-DTSTART:20250315T074500Z
-SUMMARY:Przemysł Nowych Możliwości (wykład)
-UID:498c3d2a-d4e9-4bf6-b25b-699c2cdda91e@498c.org
+DTSTART:20250524T093000Z
+SUMMARY:Start-upy technologiczne (ćwiczenia)
+UID:f17d49fa-a912-4dce-819c-aa4a1fa07f08@f17d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
@@ -313,39 +77,107 @@ DTEND:20250426T114500Z
 LOCATION:Paw.E sala H (KSB)
 DTSTART:20250426T093000Z
 SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
-UID:b8bc60c9-6538-426f-900a-2d619a37781e@b8bc.org
+UID:5d84146c-cd00-4639-a439-21041f3840c5@5d84.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250614T114500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250614T093000Z
-SUMMARY:Start-upy technologiczne (ćwiczenia)
-UID:91b268ae-0c47-434f-b98c-651cefd37728@91b2.org
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250425T184500Z
+LOCATION:link do zajęć
+DTSTART:20250425T163000Z
+SUMMARY:Start-upy technologiczne (wykład)
+UID:cf3152cf-3af2-44a8-84aa-eb027bf657ba@cf31.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250427T100000Z
+DTEND:20250511T090000Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250427T074500Z
+DTSTART:20250511T064500Z
 SUMMARY:Modelowanie i doskonalenie procesów biznesowych (ćwiczenia)
-UID:fd9045d6-9cbd-4bd3-bcb5-86f1c35bb69f@fd90.org
+UID:e595e6a3-60ac-44c7-8a6b-6dae76fe3d78@e595.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20250330T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250330T064500Z
+SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
+UID:b23a9c2e-7933-4436-b973-6e971b224b93@b23a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250302T100000Z
+DTSTART:20250302T074500Z
+SUMMARY:Start-upy technologiczne (Przeniesienie zajęć)
+UID:f376e6c3-ab97-4554-a31b-acec18c770ef@f376.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Łukasik
-DTEND:20250329T100000Z
-LOCATION:link do zajęć
-DTSTART:20250329T074500Z
+DTEND:20250302T124500Z
+DTSTART:20250302T103000Z
 SUMMARY:Przemysł Nowych Możliwości (wykład)
-UID:157af20c-93b0-41cb-8385-650ed90fb8c4@157a.org
+UID:2ad1b9e6-1b15-4c0b-b289-f2d3ddd633a6@2ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20250509T184500Z
+LOCATION:link do zajęć
+DTSTART:20250509T163000Z
+SUMMARY:Wizerunek Pracodawcy (wykład do wyboru)
+UID:c84250f3-a1d3-402f-8886-daaa1b24c01a@c842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250906T104500Z
+LOCATION:Paw.U sala O
+DTSTART:20250906T074500Z
+SUMMARY: (egzamin)
+UID:bac3951e-da57-47cb-bd76-d9ed81516b31@bac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20250510T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250510T093000Z
+SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
+UID:d131549f-5217-4706-b5c3-b6372806e6d0@d131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20250614T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250614T064500Z
+SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
+UID:a8445c98-dfe6-47a4-8034-88bdad6597a7@a844.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250315T124500Z
-LOCATION:link do zajęć
-DTSTART:20250315T103000Z
+DTEND:20250301T100000Z
+DTSTART:20250301T074500Z
 SUMMARY:Modelowanie i doskonalenie procesów biznesowych (wykład)
-UID:b489c272-ac86-44cc-a6d6-8996cd35d1d1@b489.org
+UID:19e3370d-d957-45b5-a94d-dee335205be6@19e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250411T184500Z
+DTSTART:20250411T163000Z
+SUMMARY:Start-upy technologiczne (Przeniesienie zajęć)
+UID:95efec14-b662-4771-9708-c04d4139a517@95ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250329T180000Z
+LOCATION:link do zajęć
+DTSTART:20250329T154500Z
+SUMMARY:Systemy wspomagania decyzji (wykład)
+UID:0a71e2c6-2cda-4008-97fb-6c3c1e979309@0a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250329T133000Z
+LOCATION:link do zajęć
+DTSTART:20250329T111500Z
+SUMMARY:Start-upy technologiczne (wykład)
+UID:dc64db14-421b-40b3-ad5b-3f00079e2dc4@dc64.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jowita Świerczyńska
@@ -353,6 +185,174 @@ DTEND:20250413T151500Z
 LOCATION:link do zajęć
 DTSTART:20250413T130000Z
 SUMMARY:Negocjacje w biznesie (wykład do wyboru)
-UID:63d5b7d6-bf12-4b13-844b-49140acebc39@63d5.org
+UID:bf19b694-e187-49f7-a70f-a7ac1e10c607@bf19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250621T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20250621T093000Z
+SUMMARY:Przemysł Nowych Możliwości (egzamin)
+UID:03c2e28c-b370-4aee-96f4-fd861e4106fa@03c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250510T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250510T064500Z
+SUMMARY:Start-upy technologiczne (ćwiczenia)
+UID:0286e885-e676-4e3a-87b7-2f5fa25e01cb@0286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250330T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250330T093000Z
+SUMMARY:Start-upy technologiczne (ćwiczenia)
+UID:b7dc8072-25de-414f-aedb-cbce01033d26@b7dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Trąbka
+DTEND:20250328T194500Z
+LOCATION:link do zajęć
+DTSTART:20250328T173000Z
+SUMMARY:Modelowanie i doskonalenie procesów biznesowych (wykład)
+UID:d7c9eea4-bc66-4999-98d9-fa1dfdcd8b85@d7c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Trąbka
+DTEND:20250427T100000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250427T074500Z
+SUMMARY:Modelowanie i doskonalenie procesów biznesowych (ćwiczenia)
+UID:5971855b-c9f9-4fd1-9ed2-0d8ac71c1197@5971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Trąbka
+DTEND:20250413T114500Z
+LOCATION:link do zajęć
+DTSTART:20250413T093000Z
+SUMMARY:Modelowanie i doskonalenie procesów biznesowych (wykład)
+UID:1a619cdc-945d-43d3-8d8b-8316a1e1ca81@1a61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20250523T184500Z
+LOCATION:link do zajęć
+DTSTART:20250523T163000Z
+SUMMARY:Wizerunek Pracodawcy (wykład do wyboru)
+UID:1120d957-ec50-4549-b7ac-eff493f7d215@1120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250316T100000Z
+LOCATION:link do zajęć
+DTSTART:20250316T074500Z
+SUMMARY:Systemy wspomagania decyzji (wykład)
+UID:3b47efb6-6e04-49aa-938c-e5d2c364182d@3b47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Trąbka
+DTEND:20250524T151500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250524T130000Z
+SUMMARY:Modelowanie i doskonalenie procesów biznesowych (ćwiczenia)
+UID:a1847495-b82b-4a5a-98d2-fd5c0d87e946@a184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20250613T184500Z
+LOCATION:link do zajęć
+DTSTART:20250613T163000Z
+SUMMARY:Wizerunek Pracodawcy (wykład do wyboru)
+UID:cdd35661-d720-4e98-bde1-f0dc08f25ff0@cdd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250511T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250511T093000Z
+SUMMARY:Systemy wspomagania decyzji (ćwiczenia)
+UID:b69720eb-9766-4d61-9ec3-263e5be38fac@b697.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250620T174500Z
+LOCATION:Paw.C sala A
+DTSTART:20250620T144500Z
+SUMMARY: (egzamin)
+UID:22e3f5b9-f708-49a1-8aab-9ac531850e10@22e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20250412T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250412T064500Z
+SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
+UID:2f8b927e-542e-4ca2-82bf-5daa140c6734@2f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250412T151500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250412T130000Z
+SUMMARY:Systemy wspomagania decyzji (ćwiczenia)
+UID:9a9ca3d8-f972-49e0-81b5-828c74707cc3@9a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250615T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250615T093000Z
+SUMMARY:Systemy wspomagania decyzji (ćwiczenia)
+UID:62e1b37c-5cc6-4e46-9417-ba0b057e15e7@62e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250426T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250426T064500Z
+SUMMARY:Start-upy technologiczne (ćwiczenia)
+UID:ea4ebfd9-a738-40da-aa5e-de423a618b48@ea4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Trąbka
+DTEND:20250315T124500Z
+LOCATION:link do zajęć
+DTSTART:20250315T103000Z
+SUMMARY:Modelowanie i doskonalenie procesów biznesowych (wykład)
+UID:b44e7acb-3752-4d86-b38c-476eec5c7bba@b44e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250509T160000Z
+LOCATION:link do zajęć
+DTSTART:20250509T134500Z
+SUMMARY:Start-upy technologiczne (wykład)
+UID:5d22b575-4986-4f92-9965-8a333abe69da@5d22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250614T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250614T093000Z
+SUMMARY:Start-upy technologiczne (ćwiczenia)
+UID:de9aa1dc-8c05-4320-87d9-1cc71f31d32d@de9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20250524T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250524T064500Z
+SUMMARY:Przemysł Nowych Możliwości (ćwiczenia)
+UID:c6cd020e-c826-4a28-abaa-4e38a02bef11@c6cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250329T100000Z
+LOCATION:link do zajęć
+DTSTART:20250329T074500Z
+SUMMARY:Przemysł Nowych Możliwości (wykład)
+UID:b514ab2b-6ea5-41a9-98ea-02f921e2d551@b514.org
 END:VEVENT
 END:VCALENDAR
