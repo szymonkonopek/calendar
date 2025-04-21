@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250601T124500Z
+DTSTART:20250601T064500Z
+SUMMARY:Wykład do wyboru (Studia podyplomowe)
+UID:dd5e83bd-6c70-40ea-bdd1-287c17cacdfe@dd5e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
 DTEND:20250111T130000Z
 LOCATION:Paw.B 057 (KSB)
 DTSTART:20250111T074500Z
 SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:1e28d56a-cb39-4e5f-9ee3-4613fefb2143@1e28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250530T183000Z
-DTSTART:20250530T144500Z
-SUMMARY:Wykład do wyboru (Studia podyplomowe)
-UID:c16d8e9b-b9d1-4811-aee7-0fe4d1676b2c@c16d.org
+UID:752ca464-7193-4311-b1fe-2a80583b11a5@752c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
@@ -22,31 +22,7 @@ DTEND:20241018T183000Z
 LOCATION:Paw.G - 2
 DTSTART:20241018T144500Z
 SUMMARY:Controlling operacyjny (Studia podyplomowe)
-UID:9cd6417e-2791-461e-b493-cf0e30386619@9cd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
-DTEND:20250125T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250125T074500Z
-SUMMARY:Controlling produkcji i logistyki (Studia podyplomowe)
-UID:a0d28b0c-240d-4e19-9043-36d44eb61821@a0d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250208T083000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250208T070000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:b8cca000-cde9-4365-bb41-4c90ecdcfd85@b8cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Płonka
-DTEND:20250222T134500Z
-LOCATION:Paw.G - 1
-DTSTART:20250222T074500Z
-SUMMARY:Bankowa obsługa przedsiębiorstw (Studia podyplomowe)
-UID:e6dbc0d4-f118-43eb-a6bb-d375d61c182c@e6db.org
+UID:aeab7ba5-89b9-4a5a-af07-10250b717b32@aeab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -54,86 +30,7 @@ DTEND:20241220T193000Z
 LOCATION:Zajęcia Online
 DTSTART:20241220T154500Z
 SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:f6ea428d-5adc-4239-aaa5-22972c4d78cf@f6ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Płonka
-DTEND:20250307T193000Z
-LOCATION:Paw.G - 2
-DTSTART:20250307T154500Z
-SUMMARY:Rynek finansowy (Studia podyplomowe)
-UID:c4d5cbff-767e-4843-b8a2-2d2ee0d2da57@c4d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250308T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250308T074500Z
-SUMMARY:Planowanie finansowe (Studia podyplomowe)
-UID:384294b6-ef06-4ec6-982c-769f4a7ce453@3842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250516T183000Z
-LOCATION:Zajęcia Online
-DTSTART:20250516T144500Z
-SUMMARY:Metodyka wdrażania controllingu w przedsiębiorstwie (Studia podyplomowe)
-UID:8a5860db-2490-409d-a3ca-23b09f555cf2@8a58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20241108T193000Z
-LOCATION:Paw.G  9
-DTSTART:20241108T154500Z
-SUMMARY:Budżetowanie (Studia podyplomowe)
-UID:d36ec320-6c0a-4cd6-9f0e-ad2dc552e589@d36e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
-DTEND:20250221T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20250221T154500Z
-SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
-UID:c741e5ce-151a-4944-91f6-afd2fec2c400@c741.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Rojek
-DTEND:20241207T140000Z
-LOCATION:Paw.G  8
-DTSTART:20241207T093000Z
-SUMMARY:Analiza finansowa (Studia podyplomowe)
-UID:b1b5b851-cd68-40f4-9437-dc3959e1fb89@b1b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
-DTEND:20250426T103000Z
-LOCATION:Paw.G - 1
-DTSTART:20250426T064500Z
-SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
-UID:0b416f29-44ff-4a65-ab11-29aa061cf44b@0b41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250517T120000Z
-DTSTART:20250517T064500Z
-SUMMARY:Narzędzia informatyczne w controllingu (Studia podyplomowe)
-UID:a76c8b72-7afe-4f7a-b726-8825f0d1a25a@a76c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Płonka
-DTEND:20250322T130000Z
-LOCATION:Paw.G  9
-DTSTART:20250322T074500Z
-SUMMARY:Rynek finansowy (Studia podyplomowe)
-UID:f33732d2-136d-4e92-ab21-2491b0b21071@f337.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20241221T121500Z
-LOCATION:Zajęcia Online
-DTSTART:20241221T074500Z
-SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:c6fd159a-7f4c-478a-8ec3-29192b1ee3e1@c6fd.org
+UID:98fa2ebf-2b56-47c6-ba32-eaf950e3b53f@98fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
@@ -141,94 +38,15 @@ DTEND:20250208T131500Z
 LOCATION:Paw.B 057 (KSB)
 DTSTART:20250208T084500Z
 SUMMARY:Controlling personalny (Studia podyplomowe)
-UID:77417c94-7c12-419d-be66-14c49445b4f3@7741.org
+UID:566d8409-9d95-4484-8700-d763045e3a39@566d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
-DTEND:20250207T193000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20250207T154500Z
-SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
-UID:a9c982bf-c902-4200-ba0a-ba88da40abd7@a9c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20250614T120000Z
+DESCRIPTION:Instructor: mgr Andrzej Płonka
+DTEND:20250307T193000Z
 LOCATION:Paw.G - 2
-DTSTART:20250614T064500Z
-SUMMARY:Controlling strategiczny (Studia podyplomowe)
-UID:6819d8f0-d203-4b0c-90de-d791162caa92@6819.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250406T103000Z
-LOCATION:Zajęcia Online
-DTSTART:20250406T064500Z
-SUMMARY:Długotermin. decyzje finansowe (Studia podyplomowe)
-UID:81c51a6c-9783-4b30-96dd-36a381e7136d@81c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250601T124500Z
-DTSTART:20250601T064500Z
-SUMMARY:Wykład do wyboru (Studia podyplomowe)
-UID:40efda0a-9875-487c-95c5-47703f273a31@40ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250110T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20250110T154500Z
-SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:f9efe130-7eba-4ac3-bd49-13705b1defff@f9ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Rojek
-DTEND:20241122T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20241122T154500Z
-SUMMARY:Analiza finansowa (Studia podyplomowe)
-UID:e85547b6-e1e2-47a8-bedb-f8d0105572f3@e855.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
-DTEND:20250124T193000Z
-LOCATION:Paw.G 10
-DTSTART:20250124T154500Z
-SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:9902a125-55bd-4bdb-8c1c-af0568290525@9902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
-DTEND:20250425T181500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250425T134500Z
-SUMMARY:Metody wyceny przedsiębiorstw (Studia podyplomowe)
-UID:6735b26a-5923-4ec3-a685-8d8e39b316ae@6735.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20250613T183000Z
-LOCATION:Paw.G - 2
-DTSTART:20250613T144500Z
-SUMMARY:Controlling strategiczny (Studia podyplomowe)
-UID:a47f54da-f853-4e69-92b7-b0e560c290c2@a47f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250404T183000Z
-LOCATION:Paw.G - 2
-DTSTART:20250404T144500Z
-SUMMARY:Długotermin. decyzje finansowe (Studia podyplomowe)
-UID:3699d788-3002-47d7-99ac-c64e03dee9f5@3699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Rojek
-DTEND:20241123T130000Z
-LOCATION:Paw.G - 1
-DTSTART:20241123T074500Z
-SUMMARY:Analiza finansowa (Studia podyplomowe)
-UID:870209b9-e2be-40d1-a87a-bd957b4d8b9f@8702.org
+DTSTART:20250307T154500Z
+SUMMARY:Rynek finansowy (Studia podyplomowe)
+UID:fb6986cf-a9e5-4db1-af93-457f40c81fed@fb69.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogusław Niedbała
@@ -236,23 +54,61 @@ DTEND:20250405T111500Z
 LOCATION:Paw.G - 2
 DTSTART:20250405T064500Z
 SUMMARY:Controlling projektów (Studia podyplomowe)
-UID:cd6e733c-2f95-4dba-8877-89487b9891b8@cd6e.org
+UID:763c06aa-3bc5-4279-a4aa-e868f41c6007@763c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20241109T130000Z
-LOCATION:Paw.G  9
-DTSTART:20241109T074500Z
-SUMMARY:Budżetowanie (Studia podyplomowe)
-UID:7e1a5313-5719-44b8-9d82-c26f70dfb358@7e1a.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20250124T193000Z
+LOCATION:Paw.G 10
+DTSTART:20250124T154500Z
+SUMMARY:Rachunek kosztów (Studia podyplomowe)
+UID:04b940bc-341c-4d33-8d7b-67b0504cb31c@04b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250530T183000Z
+DTSTART:20250530T144500Z
+SUMMARY:Wykład do wyboru (Studia podyplomowe)
+UID:974c2d1d-bd7d-462d-9426-58800c212815@974c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20241018T143000Z
+DTEND:20250614T143000Z
+DTSTART:20250614T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:1a98d999-824a-4382-bb62-61232aae1c6b@1a98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20250613T183000Z
 LOCATION:Paw.G - 2
-DTSTART:20241018T134500Z
-SUMMARY: (Studia podyplomowe)
-UID:0d9ad215-39e9-4806-ac00-21d835ccdd0a@0d9a.org
+DTSTART:20250613T144500Z
+SUMMARY:Controlling strategiczny (Studia podyplomowe)
+UID:d97bbcc3-44c6-447d-a4a7-bba5b2a047ae@d97b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250406T103000Z
+LOCATION:Zajęcia Online
+DTSTART:20250406T064500Z
+SUMMARY:Długotermin. decyzje finansowe (Studia podyplomowe)
+UID:a84db35c-6515-4142-ba5e-5090f4496ea8@a84d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241123T130000Z
+LOCATION:Paw.G - 1
+DTSTART:20241123T074500Z
+SUMMARY:Analiza finansowa (Studia podyplomowe)
+UID:0dc57da0-ba14-4e6a-94b1-168d2b36edac@0dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20250125T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250125T074500Z
+SUMMARY:Controlling produkcji i logistyki (Studia podyplomowe)
+UID:7e15da75-dfb1-49a0-a79c-2e69cc61bc69@7e15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -260,21 +116,141 @@ DTEND:20241208T113000Z
 LOCATION:Paw.G  8
 DTSTART:20241208T074500Z
 SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
-UID:e5123743-7e12-4a78-877c-a7b3caf4c301@e512.org
+UID:82695014-245e-4631-a8f7-41e575eaf19f@8269.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250404T183000Z
+LOCATION:Paw.G - 2
+DTSTART:20250404T144500Z
+SUMMARY:Długotermin. decyzje finansowe (Studia podyplomowe)
+UID:0d8a470f-2c8d-4598-924d-6e01e766cd1b@0d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241122T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20241122T154500Z
+SUMMARY:Analiza finansowa (Studia podyplomowe)
+UID:84b954cf-f66f-4c0d-9b68-4e4dddf109d9@84b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250516T183000Z
+LOCATION:Zajęcia Online
+DTSTART:20250516T144500Z
+SUMMARY:Metodyka wdrażania controllingu w przedsiębiorstwie (Studia podyplomowe)
+UID:01f18705-f886-4f8c-a3ef-942f87d6012f@01f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250308T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250308T074500Z
+SUMMARY:Planowanie finansowe (Studia podyplomowe)
+UID:d65b0da9-0201-4d6d-a141-5fb709732fb7@d65b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20241109T130000Z
+LOCATION:Paw.G  9
+DTSTART:20241109T074500Z
+SUMMARY:Budżetowanie (Studia podyplomowe)
+UID:62a00ab7-ec24-4857-84af-7e1312ac3d50@62a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20250425T181500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250425T134500Z
+SUMMARY:Metody wyceny przedsiębiorstw (Studia podyplomowe)
+UID:f6ef2d4b-0c49-462a-bd9d-fec1201cbe61@f6ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20241221T121500Z
+LOCATION:Zajęcia Online
+DTSTART:20241221T074500Z
+SUMMARY:Rachunek kosztów (Studia podyplomowe)
+UID:0ade7358-e999-465b-b09b-e3d59322ea33@0ade.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250110T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20250110T154500Z
+SUMMARY:Rachunkowość finansowa (Studia podyplomowe)
+UID:93adc87d-205e-4446-b610-df307895a4d3@93ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20250531T124500Z
 DTSTART:20250531T064500Z
 SUMMARY:Wykład do wyboru (Studia podyplomowe)
-UID:e5e2222b-1cd5-4b8e-81da-86ea47119bad@e5e2.org
+UID:97cc922d-b6aa-4765-8af5-d2239fc62922@97cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Płonka
+DTEND:20250222T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20250222T074500Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (Studia podyplomowe)
+UID:1d59ae55-51e2-4231-84ad-0dfb943d51c7@1d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20241108T193000Z
+LOCATION:Paw.G  9
+DTSTART:20241108T154500Z
+SUMMARY:Budżetowanie (Studia podyplomowe)
+UID:6bcba34a-c9d3-4501-964c-e6e3bd4f8d8d@6bcb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250614T143000Z
-DTSTART:20250614T130000Z
+DTEND:20241018T143000Z
+LOCATION:Paw.G - 2
+DTSTART:20241018T134500Z
+SUMMARY: (Studia podyplomowe)
+UID:c5137001-781e-464e-a406-ec2e462a4dad@c513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250208T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250208T070000Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:13417799-d8a0-4832-bb1c-f8e7dec59e52@1341.org
+UID:8bff76ac-d06f-4e61-8e8d-1d4f03a84dd4@8bff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
+DTEND:20250221T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20250221T154500Z
+SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
+UID:35f4fba8-ab56-4ebe-85b8-c7c180cb7bec@35f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Płonka
+DTEND:20250322T130000Z
+LOCATION:Paw.G  9
+DTSTART:20250322T074500Z
+SUMMARY:Rynek finansowy (Studia podyplomowe)
+UID:ee50e113-d8c6-4409-89b8-07630a4c543d@ee50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
+DTEND:20250426T103000Z
+LOCATION:Paw.G - 1
+DTSTART:20250426T064500Z
+SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
+UID:27391583-2d8a-4ae7-b0ab-ab127b86b8d4@2739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250517T120000Z
+DTSTART:20250517T064500Z
+SUMMARY:Narzędzia informatyczne w controllingu (Studia podyplomowe)
+UID:299a4f9f-f293-4353-9b7d-d2cf17f1f8a3@299a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
@@ -282,6 +258,30 @@ DTEND:20241019T124500Z
 LOCATION:Paw.G - 2
 DTSTART:20241019T064500Z
 SUMMARY:Controlling operacyjny (Studia podyplomowe)
-UID:d4cf5429-2faa-4852-8a88-f528ddab35ce@d4cf.org
+UID:0ca205c4-0e70-4471-acd2-2ff0d8c709d0@0ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
+DTEND:20250207T193000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250207T154500Z
+SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
+UID:bd685f43-1b38-4873-a8a6-27ffe364245b@bd68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20250614T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20250614T064500Z
+SUMMARY:Controlling strategiczny (Studia podyplomowe)
+UID:2dee5de5-a0df-4e4f-8ddc-78ebfcb25148@2dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241207T140000Z
+LOCATION:Paw.G  8
+DTSTART:20241207T093000Z
+SUMMARY:Analiza finansowa (Studia podyplomowe)
+UID:16dcdeea-298b-4187-bc43-69be240f6151@16dc.org
 END:VEVENT
 END:VCALENDAR
