@@ -2,12 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sobura
-DTEND:20241116T091500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241116T070000Z
-SUMMARY:Modele i strategie e-handlu (ćwiczenia)
-UID:21685b67-efee-4320-bf69-57eb67eb2178@2168.org
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20250221T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250221T144500Z
+SUMMARY: (egzamin)
+UID:b87c2161-6b32-438c-b900-d25a77a72d06@b87c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241011T160000Z
+DTSTART:20241011T134500Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:d2299650-9e39-443b-9da2-c2b8bbb8496d@d229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241020T104500Z
+DTSTART:20241020T083000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:4c1f8dc0-49bb-4207-86e4-89ad6b25b24e@4c1f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Konkol
@@ -15,38 +29,21 @@ DTEND:20241214T184500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20241214T163000Z
 SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
-UID:cc06e849-e1cc-4116-be26-84fc7ca4d10c@cc06.org
+UID:f03574b9-522b-4a3c-9581-5c590b0ee29d@f035.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241012T104500Z
+DTSTART:20241012T083000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:2915bdf5-e073-40aa-8091-2b3965cf079e@2915.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Maria Bajak
-DTEND:20241130T114500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20241130T093000Z
-SUMMARY:Marketing społeczny (ćwiczenia)
-UID:604e959a-fc04-47c4-a04d-bc870890c60f@604e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sobura
-DTEND:20241213T170000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241213T144500Z
-SUMMARY:Modele i strategie e-handlu (ćwiczenia)
-UID:b1f4d816-50e9-49c1-a2c5-8aef7776ab76@b1f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
-DTEND:20241018T160000Z
-DTSTART:20241018T134500Z
-SUMMARY:Marketing społeczny (wykład)
-UID:c7293d39-62bb-44b7-9559-358ab1897391@c729.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Kuziak
-DTEND:20250221T161500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250221T144500Z
-SUMMARY: (egzamin)
-UID:03d23fa6-867a-441c-a97c-495d6483b64a@03d2.org
+DTEND:20241214T134500Z
+DTSTART:20241214T121500Z
+SUMMARY:Marketing społeczny (Przeniesienie zajęć)
+UID:8b26e9f0-56d2-42cd-a28b-cad4f7640072@8b26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Konkol
@@ -54,95 +51,14 @@ DTEND:20250111T184500Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20250111T163000Z
 SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
-UID:248d8903-e6fb-4f6a-8349-92f2cb75690b@248d.org
+UID:f79829a5-f0bc-461b-9119-89ebd3f26cc7@f798.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
-DTEND:20241019T160000Z
-DTSTART:20241019T134500Z
+DTEND:20241013T081500Z
+DTSTART:20241013T060000Z
 SUMMARY:Marketing społeczny (wykład)
-UID:473ac210-d3b5-457b-b914-f0f869e0d316@473a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20241019T133000Z
-DTSTART:20241019T111500Z
-SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
-UID:dab29856-768d-43af-a852-74677c71d6e3@dab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
-UID:cc975abd-5d14-4c5b-a0b2-ffd48b8abe8d@cc97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Bajak
-DTEND:20241215T114500Z
-LOCATION:Paw.F 109
-DTSTART:20241215T093000Z
-SUMMARY:Marketing społeczny (ćwiczenia)
-UID:eea788db-f0c2-4ea9-a71c-3fe94b8f44fe@eea7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20241012T104500Z
-DTSTART:20241012T083000Z
-SUMMARY:Technologie internetowe i mobilne (wykład)
-UID:4c7793cc-f521-4072-9bbe-1f9e82439f6a@4c77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20241117T091500Z
-DTSTART:20241117T070000Z
-SUMMARY:Technologie internetowe i mobilne (wykład)
-UID:1e846530-0bdb-467b-b615-806eab03a5ad@1e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20241201T091500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241201T070000Z
-SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
-UID:3f7643b8-11cc-4132-85e3-6e50ce76eeee@3f76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20241213T194500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241213T173000Z
-SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
-UID:3e823857-3829-4875-97ee-236b9dd2acff@3e82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Kuziak
-DTEND:20241011T160000Z
-DTSTART:20241011T134500Z
-SUMMARY:Modele i strategie e-handlu (wykład)
-UID:d2b71119-d91c-4435-b9b3-24c94bfb6e8d@d2b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20241019T104500Z
-DTSTART:20241019T083000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:1e957e7c-6ce1-4f92-890a-139cc859d965@1e95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20241116T114500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241116T093000Z
-SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
-UID:ac4ccc80-8d9e-4271-8f0d-513d4cbd27ad@ac4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:a5b7fc0c-9487-4d35-a52b-d4404dfed35e@a5b7.org
+UID:bd67fee2-18f9-413c-9288-d7709edaed04@bd67.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Joanna Sobura
@@ -150,74 +66,7 @@ DTEND:20241201T114500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20241201T093000Z
 SUMMARY:Modele i strategie e-handlu (ćwiczenia)
-UID:2d1a02fc-4fc9-4a2f-bb64-d064a479b378@2d1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariusz Kuziak
-DTEND:20241215T143000Z
-DTSTART:20241215T121500Z
-SUMMARY:Modele i strategie e-handlu (wykład)
-UID:e1c58da7-b960-4ff4-a789-d7cdfab55a8f@e1c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sobura
-DTEND:20241129T170000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20241129T144500Z
-SUMMARY:Modele i strategie e-handlu (ćwiczenia)
-UID:0fae1dc8-1d85-4064-bd3d-c626b5525933@0fae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Bajak
-DTEND:20250110T170000Z
-LOCATION:Paw.C sala B
-DTSTART:20250110T144500Z
-SUMMARY:Marketing społeczny (ćwiczenia)
-UID:7fe9c2c5-1c85-4d5d-997a-1599e69adc13@7fe9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Bajak
-DTEND:20241214T134500Z
-DTSTART:20241214T121500Z
-SUMMARY:Marketing społeczny (Przeniesienie zajęć)
-UID:2844541f-7923-4fe0-8a43-f9192d84b61c@2844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
-DTEND:20241020T133000Z
-DTSTART:20241020T111500Z
-SUMMARY:Marketing społeczny (Przeniesienie zajęć)
-UID:c9960d6d-c925-4920-a975-5ad8eeaae1ff@c996.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20241012T081500Z
-DTSTART:20241012T060000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:412a581d-97a1-49bb-abe1-713238ad5323@412a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20241129T194500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241129T173000Z
-SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
-UID:de698ca2-831c-4fda-ac43-9e92dfed7786@de69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sobura
-DTEND:20241214T161500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241214T140000Z
-SUMMARY:Modele i strategie e-handlu (ćwiczenia)
-UID:c4f62839-0e9a-4fcc-b2cf-d173b0e40087@c4f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20241011T184500Z
-DTSTART:20241011T163000Z
-SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
-UID:067fdcd6-5d7f-450f-bb95-8945e4c12d0e@067f.org
+UID:547228f3-f006-425f-a439-7412a07de22c@5472.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Joanna Sobura
@@ -225,27 +74,178 @@ DTEND:20250111T161500Z
 LOCATION:208 paw.U (tylko Kat. Rach)
 DTSTART:20250111T140000Z
 SUMMARY:Modele i strategie e-handlu (ćwiczenia)
-UID:8e327347-54a0-444a-b028-414126ac0d9e@8e32.org
+UID:c8ba7952-b23c-40d3-853d-bea66acfa0a5@c8ba.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
-DTEND:20241013T081500Z
-DTSTART:20241013T060000Z
-SUMMARY:Marketing społeczny (wykład)
-UID:c61e4216-af60-4664-b4dd-812c431be360@c61e.org
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241012T081500Z
+DTSTART:20241012T060000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:c5a2416d-3fc8-4c9c-a874-d57190758b0a@c5a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariusz Kuziak
-DTEND:20241020T104500Z
-DTSTART:20241020T083000Z
+DTEND:20241215T143000Z
+DTSTART:20241215T121500Z
 SUMMARY:Modele i strategie e-handlu (wykład)
-UID:a8ae7c04-ccaa-48e4-a4eb-e61fe76a85d5@a8ae.org
+UID:1f46959f-dcc8-4462-9dd0-fb353f8fa805@1f46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241117T091500Z
+DTSTART:20241117T070000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:30ac2c5a-fdf9-4738-94ee-91a73ebbb213@30ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241019T104500Z
+DTSTART:20241019T083000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:617a2ca2-4cfa-4b21-953a-fc784b94b105@617a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:bf57125b-a224-49dd-a297-2d7bedfa3bac@bf57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241018T160000Z
+DTSTART:20241018T134500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:71f29014-8127-4bc8-ac67-0d564b9f4cbb@71f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241201T091500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241201T070000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:56c7ebd5-62c5-4885-8db7-740d36f1f844@56c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20250110T170000Z
+LOCATION:Paw.C sala B
+DTSTART:20250110T144500Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:6dddf029-dffb-457b-a323-93b9b5cdc832@6ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241215T114500Z
+LOCATION:Paw.F 109
+DTSTART:20241215T093000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:7e36fcff-fe33-42fb-9a08-e10340ee50de@7e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241116T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241116T070000Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:ea1e3042-5d96-48ae-bf51-033432d8429d@ea1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241129T170000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241129T144500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:c76de66b-c993-44d0-ba3a-8a183993a127@c76d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241019T160000Z
+DTSTART:20241019T134500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:d2f3e95e-0343-4580-bf95-8f35cfab3cd4@d2f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Konkol
 DTEND:20241018T184500Z
 DTSTART:20241018T163000Z
 SUMMARY:Technologie internetowe i mobilne (wykład)
-UID:69e12245-a685-4c0a-a6b8-9e69d263f64a@69e1.org
+UID:7f947bd3-ea79-461c-9279-93a04f244ea9@7f94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241213T170000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241213T144500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:9218f883-6f73-44a6-aca7-ed2a564f9762@9218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241020T133000Z
+DTSTART:20241020T111500Z
+SUMMARY:Marketing społeczny (Przeniesienie zajęć)
+UID:716e86ba-8cd3-451d-a61a-28b1be36f89b@716e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241213T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241213T173000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:2dfcfb6f-fd52-420a-aa2e-a473f3e72a1c@2dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241116T114500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241116T093000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:f6c7145f-25f7-4ede-8335-c15d5a48c2d3@f6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241129T194500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241129T173000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:338794c6-638b-4e59-be3c-848ef7baf434@3387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
+UID:73c56e2a-7a89-42c2-891a-93413232068a@73c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241011T184500Z
+DTSTART:20241011T163000Z
+SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
+UID:c1775555-2786-4c56-99e8-cce231278ce9@c177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241130T114500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241130T093000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:99f7144e-7307-4e1b-acc9-e700227cad56@99f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241019T133000Z
+DTSTART:20241019T111500Z
+SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
+UID:9852e92c-4646-4263-9239-5e7f6f07fb68@9852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241214T161500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241214T140000Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:10146e03-7042-4090-b376-444f060e0d70@1014.org
 END:VEVENT
 END:VCALENDAR
