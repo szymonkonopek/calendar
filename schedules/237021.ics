@@ -2,71 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241130T161500Z
+DTSTART:20241130T140000Z
+SUMMARY:Ekonometria dynamiczna (wykład)
+UID:cecfad37-03da-4dca-974b-681f90d3789d@cecf.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20241129T194500Z
-DTSTART:20241129T173000Z
+DTEND:20241020T090000Z
+DTSTART:20241020T064500Z
 SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (wykład do wyboru)
-UID:bfbd0446-f475-4e1e-84bd-7a9172a713d3@bfbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20250126T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250126T093000Z
-SUMMARY:Ekonometria dynamiczna (ćwiczenia)
-UID:7d677bed-43db-4235-81da-89f47f87637c@7d67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241129T170000Z
-DTSTART:20241129T144500Z
-SUMMARY:Ekonometria dynamiczna (wykład)
-UID:53b90f9d-5732-488b-96b9-747660ea37fa@53b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241213T170000Z
-DTSTART:20241213T144500Z
-SUMMARY:Ekonometria dynamiczna (wykład)
-UID:8b3459a2-7bcc-4db1-b2ba-44e40733dd4d@8b34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20241019T114500Z
-DTSTART:20241019T093000Z
-SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
-UID:6b372feb-ca4b-4ad5-905f-bb17d9d3383a@6b37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Sadko
-DTEND:20250124T180000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250124T154500Z
-SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
-UID:169f34e9-2309-41f5-95cc-1afd38e801ed@169f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241026T164500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241026T134500Z
-SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
-UID:cfb75509-3cb0-4268-9eed-4ade1c17095f@cfb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
-SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
-UID:6027dc2b-ee4c-479f-b87c-e4b7b753fb29@6027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Sadko
-DTEND:20250119T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250119T093000Z
-SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
-UID:1bba35f4-a654-4726-889e-00dbdfac6c2e@1bba.org
+UID:cc7de33b-e7a1-43c8-9063-8f5b0b9b2cfd@cc7d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
@@ -74,38 +21,7 @@ DTEND:20241215T091500Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20241215T070000Z
 SUMMARY:Ekonometria dynamiczna (ćwiczenia)
-UID:b6e83456-ec1f-4cd7-aa74-e3074b74b0b9@b6e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241027T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20241027T070000Z
-SUMMARY:Ekonometria dynamiczna (ćwiczenia)
-UID:833c59ad-22a7-45ef-9073-39c84f1f2fa6@833c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20250118T170000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250118T140000Z
-SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
-UID:b22a42ec-96fc-4657-9ab2-ea2e2660b83f@b22a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Sadko
-DTEND:20241201T114500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241201T093000Z
-SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
-UID:92d92f37-80d1-4a10-b0aa-29541d20018d@92d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Prognozowanie gospodarcze (wykład)
-UID:0f5d09fc-9d5a-4140-9a0e-0a886d29dba7@0f5d.org
+UID:a5cecc83-3cae-417d-b070-be4d2fe979e7@a5ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
@@ -113,118 +29,7 @@ DTEND:20250208T134500Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20250208T121500Z
 SUMMARY: (egzamin)
-UID:233e1c41-469e-4d6a-9823-c50644e6680d@233e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20241116T151500Z
-DTSTART:20241116T130000Z
-SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (Przeniesienie zajęć)
-UID:499b95c2-3183-4f9b-a24b-e5da4044a3a2@499b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241116T100000Z
-DTSTART:20241116T074500Z
-SUMMARY:Prognozowanie gospodarcze (wykład)
-UID:49930ae5-f84f-48cb-b5b7-7a3f2c2c69c4@4993.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20250202T134500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250202T121500Z
-SUMMARY: (egzamin)
-UID:a75d8b7f-680c-405b-b5e4-489218931990@a75d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Ekonometria dynamiczna (Przeniesienie zajęć)
-UID:efd22bd1-827e-4b27-97eb-d447690f9e9d@efd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241214T194500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241214T173000Z
-SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
-UID:7ed79b65-bf20-402b-a288-c1da16615bce@7ed7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Sadko
-DTEND:20241117T114500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241117T093000Z
-SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
-UID:6d2cecb3-54f8-4a93-bcd4-67e9ccd4b1bb@6d2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241117T091500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241117T070000Z
-SUMMARY:Ekonometria dynamiczna (ćwiczenia)
-UID:d090dda1-ae87-4372-9168-48597613f514@d090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20250118T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250118T070000Z
-SUMMARY:Ekonometria dynamiczna (ćwiczenia)
-UID:e95f68d7-79ee-4c77-88b2-c9b0c32458da@e95f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20250118T114500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250118T093000Z
-SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (ćwiczenia do wyboru)
-UID:44e0541b-0981-4560-88e7-a927086eb85f@44e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241019T090000Z
-DTSTART:20241019T064500Z
-SUMMARY:Ekonometria dynamiczna (wykład)
-UID:265e4333-a7b1-4ba3-a71a-34dc9c3018de@265e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20241213T194500Z
-DTSTART:20241213T173000Z
-SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (wykład do wyboru)
-UID:108834a3-45fa-49f6-a7d2-3e14f1755f17@1088.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241130T100000Z
-DTSTART:20241130T074500Z
-SUMMARY:Prognozowanie gospodarcze (wykład)
-UID:3800820a-5ede-4865-a427-a2f121ef0c42@3800.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20241130T133000Z
-DTSTART:20241130T111500Z
-SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
-UID:6872d823-29d3-4b73-bd50-29854315823f@6872.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20250117T170000Z
-DTSTART:20250117T144500Z
-SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
-UID:5385b881-5509-4a7d-a2f3-e4d45e7157b5@5385.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20241130T161500Z
-DTSTART:20241130T140000Z
-SUMMARY:Ekonometria dynamiczna (wykład)
-UID:4b948c4f-69fd-4049-8a9a-45776652d166@4b94.org
+UID:093e3c59-8305-4b3a-9d58-667cbe09b83f@093e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Maria Sadko
@@ -232,63 +37,14 @@ DTEND:20241215T114500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20241215T093000Z
 SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
-UID:7205680b-bb70-435c-9805-6ccd12fb369d@7205.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20241124T114500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241124T093000Z
-SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (ćwiczenia do wyboru)
-UID:9749e256-2ff6-456b-a324-3490f62a7404@9749.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20250201T101500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250201T093000Z
-SUMMARY: (egzamin)
-UID:298b1d90-fe3a-4a42-9f3d-803a411cd7fe@298b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241122T194500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241122T173000Z
-SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
-UID:cc573986-42cb-4416-a760-285c1d22eeae@cc57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241124T151500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241124T121500Z
-SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
-UID:949a1246-8345-488b-86dc-f871df0d7dd5@949a.org
+UID:1a403928-a0d0-492b-8993-64493966d6e6@1a40.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20250119T091500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250119T070000Z
-SUMMARY:Ekonometria dynamiczna (ćwiczenia)
-UID:fec75dc6-8287-4d57-a076-0b7b814b18b3@fec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20250223T134500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250223T121500Z
-SUMMARY: (egzamin)
-UID:f9980e5b-1555-455c-9d77-2447cdd95f2d@f998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maria Sadko
-DTEND:20241027T114500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241027T093000Z
-SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
-UID:14204a96-2f86-4186-9d6c-6b657645dbce@1420.org
+DTEND:20241019T090000Z
+DTSTART:20241019T064500Z
+SUMMARY:Ekonometria dynamiczna (wykład)
+UID:277b1e8a-3fdd-41f4-8df1-ffd39975ae43@277b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
@@ -296,20 +52,264 @@ DTEND:20241214T170000Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20241214T144500Z
 SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (ćwiczenia do wyboru)
-UID:95cbeca6-16ce-4449-a775-95c2c412386b@95cb.org
+UID:3defc505-da34-469f-a129-df20946497c0@3def.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Sadko
+DTEND:20250119T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250119T093000Z
+SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
+UID:91622775-7e2f-4f4d-83b9-629f7a86bd39@9162.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Sadko
+DTEND:20241117T114500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241117T093000Z
+SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
+UID:c748b193-f6cb-47d0-9819-17df8246c76d@c748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241027T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241027T070000Z
+SUMMARY:Ekonometria dynamiczna (ćwiczenia)
+UID:235de410-8233-4d10-848b-73278b98bb64@235d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20250118T170000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250118T140000Z
+SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
+UID:510c0e94-430f-4b8e-b54c-977a64439cdf@510c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20250202T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250202T121500Z
+SUMMARY: (egzamin)
+UID:0ca97256-7ae3-421e-b231-c9747a1400ff@0ca9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20250117T170000Z
+DTSTART:20250117T144500Z
+SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
+UID:21fd2331-8a25-4a3c-933f-f3894321403b@21fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241122T194500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241122T173000Z
+SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
+UID:508f346a-8868-4bfd-b827-83ec47e218b8@508f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250126T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250126T093000Z
+SUMMARY:Ekonometria dynamiczna (ćwiczenia)
+UID:6bdab6e7-8ccb-445d-be1b-9a79d2714039@6bda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241124T151500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241124T121500Z
+SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
+UID:1de306d5-ed72-44ec-a205-4b3ca676452b@1de3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Sadko
+DTEND:20241027T114500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241027T093000Z
+SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
+UID:66c932c8-0561-4bc5-8fb8-1e6eea1a92b4@66c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241124T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241124T093000Z
+SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (ćwiczenia do wyboru)
+UID:4c6106c8-6191-4083-9f9b-c299c9f7bac5@4c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241214T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241214T173000Z
+SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
+UID:c750c3c7-72c4-4d1c-80cf-d8f7714ee560@c750.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241213T194500Z
+DTSTART:20241213T173000Z
+SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (wykład do wyboru)
+UID:52730753-6c6b-4ed9-9b68-c2bcfccf84db@5273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20250201T101500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250201T093000Z
+SUMMARY: (egzamin)
+UID:020114d7-a22c-4f85-8325-1e0cb938f455@0201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241129T194500Z
+DTSTART:20241129T173000Z
+SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (wykład do wyboru)
+UID:9691cfb2-93fc-4663-87ba-4fc9ca58deb2@9691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241213T170000Z
+DTSTART:20241213T144500Z
+SUMMARY:Ekonometria dynamiczna (wykład)
+UID:0ed711b2-9c6c-4d42-b79f-1e580eb1b63f@0ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20250118T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250118T093000Z
+SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (ćwiczenia do wyboru)
+UID:f555581e-84fe-4c5d-953a-f711e3ebb710@f555.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
 DTEND:20241116T124500Z
 DTSTART:20241116T103000Z
 SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
-UID:80242ad1-bb2e-4dfd-b4bd-c6424f44e705@8024.org
+UID:a52ed2b5-1f26-49c4-9b83-cc1568d39887@a52e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241130T100000Z
+DTSTART:20241130T074500Z
+SUMMARY:Prognozowanie gospodarcze (wykład)
+UID:eaf7bac8-0f37-4288-a59d-d3880fab39bb@eaf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250119T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250119T070000Z
+SUMMARY:Ekonometria dynamiczna (ćwiczenia)
+UID:efcacfef-0a60-4d89-aa9d-96b108a3f094@efca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20241130T133000Z
+DTSTART:20241130T111500Z
+SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
+UID:f775d923-24db-49c8-9124-dfc9f3c6cd3b@f775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241117T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241117T070000Z
+SUMMARY:Ekonometria dynamiczna (ćwiczenia)
+UID:0e69e440-27f4-43e4-be58-55d8105a7f3b@0e69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Sadko
+DTEND:20241201T114500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241201T093000Z
+SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
+UID:a528fd43-e969-42e9-bff2-f320becaa7a4@a528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Sadko
+DTEND:20250124T180000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250124T154500Z
+SUMMARY:Statystyczna analiza wielowymiarowa (ćwiczenia do wyboru)
+UID:daa6d97a-2a92-4199-afd1-a990f673e06b@daa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250223T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250223T121500Z
+SUMMARY: (egzamin)
+UID:cd017c1a-6672-4f1b-94d2-bde443fdd274@cd01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241026T164500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241026T134500Z
+SUMMARY:Prognozowanie gospodarcze (ćwiczenia)
+UID:22b17b6a-3ab7-476d-bf77-d21f76828190@22b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Prognozowanie gospodarcze (wykład)
+UID:c46edd30-2898-4875-995b-00da7a8731f2@c46e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Ekonometria dynamiczna (Przeniesienie zajęć)
+UID:1a7500aa-ff2b-4db1-ba28-ca0764c9b3f2@1a75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241116T100000Z
+DTSTART:20241116T074500Z
+SUMMARY:Prognozowanie gospodarcze (wykład)
+UID:5f4ccc80-e722-4d91-a67b-1c44f32c1834@5f4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20241019T114500Z
+DTSTART:20241019T093000Z
+SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
+UID:dbfab487-a1a1-4a3d-8b45-1267b852d9e6@dbfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241129T170000Z
+DTSTART:20241129T144500Z
+SUMMARY:Ekonometria dynamiczna (wykład)
+UID:8da56ba0-ce94-43a1-a3c3-64645de02bf2@8da5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250118T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250118T070000Z
+SUMMARY:Ekonometria dynamiczna (ćwiczenia)
+UID:3db607a8-95dc-410b-9827-f35283d584df@3db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Statystyczna analiza wielowymiarowa (wykład do wyboru)
+UID:85982b2b-9739-44b4-bce7-83b8c2c6abf2@8598.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20241020T090000Z
-DTSTART:20241020T064500Z
-SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (wykład do wyboru)
-UID:beb3dd70-44ec-4239-9392-585b7e7c739d@beb3.org
+DTEND:20241116T151500Z
+DTSTART:20241116T130000Z
+SUMMARY:Wnioskowanie bayesowskie w ekonomii empirycznej (Przeniesienie zajęć)
+UID:6dd154e8-170d-43cb-bfbd-734366a0b262@6dd1.org
 END:VEVENT
 END:VCALENDAR
