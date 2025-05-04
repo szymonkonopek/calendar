@@ -2,12 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250511T114500Z
-LOCATION:link do zajęć
-DTSTART:20250511T093000Z
-SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
-UID:35759879-cc38-4dae-8d56-916c8a0a8d9d@3575.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250510T151500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250510T130000Z
+SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
+UID:27b78473-9d4d-457c-8859-87abcbf9abaf@27b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250330T151500Z
+DTSTART:20250330T130000Z
+SUMMARY:Negocjacje i gry biznesowe (Przeniesienie zajęć)
+UID:9c220cbe-61ab-4fcf-9756-72437ffd5d3d@9c22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250329T124500Z
+DTSTART:20250329T103000Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:84f9b8c6-7d31-41a1-8156-848b482cea1c@84f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Kędziera
@@ -15,417 +29,7 @@ DTEND:20250524T101500Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20250524T093000Z
 SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (zaliczenie)
-UID:c9f98797-13d0-46d4-bc19-681a2469a0d5@c9f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20250301T100000Z
-DTSTART:20250301T074500Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:0018607a-82ca-4f76-b601-7b5045c239c9@0018.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250404T160000Z
-LOCATION:Bibl.425
-DTSTART:20250404T134500Z
-SUMMARY:Marketing produktów innowacyjnych (ćwiczenia)
-UID:f2bab8c2-5be2-4945-8b3b-3dcc2bd33172@f2ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250607T141500Z
-LOCATION:Paw.C sala D
-DTSTART:20250607T120000Z
-SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
-UID:32347af3-4a21-4958-8b46-7bb1fbf83748@3234.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250329T124500Z
-DTSTART:20250329T103000Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:a9e6d102-58df-49b1-a7f9-7d59a5f35e3b@a9e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250426T114500Z
-LOCATION:Paw.S sala 10
-DTSTART:20250426T093000Z
-SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
-UID:c268c746-c9fc-40dd-9b88-af7d1bd9a963@c268.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250511T151500Z
-LOCATION:Platforma Moodle
-DTSTART:20250511T130000Z
-SUMMARY:Marketing produktów innowacyjnych (wykład e-learningowy)
-UID:41a3c304-418d-4f30-b783-0c3ef08e660d@41a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250427T170000Z
-LOCATION:Platforma Moodle
-DTSTART:20250427T144500Z
-SUMMARY:Marketing produktów innowacyjnych (Ćwiczenia e-learningowe)
-UID:b78ee0e1-e4e8-4aee-99c5-7af79ed364aa@b78e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20250510T174500Z
-DTSTART:20250510T153000Z
-SUMMARY:Instytucje rynkowe (Przeniesienie zajęć)
-UID:9e54d045-a440-4b49-80c4-ebbe1b07ac02@9e54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250314T170000Z
-LOCATION:Bibl.425
-DTSTART:20250314T144500Z
-SUMMARY:Marketing produktów innowacyjnych (ćwiczenia)
-UID:c0435037-542c-4f90-858a-0df708089108@c043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250330T151500Z
-LOCATION:Platforma Moodle
-DTSTART:20250330T130000Z
-SUMMARY:Marketing produktów innowacyjnych (Ćwiczenia e-learningowe)
-UID:d872c999-521f-4787-ae43-c98217ac7624@d872.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20250405T174500Z
-LOCATION:Bibl. 443
-DTSTART:20250405T153000Z
-SUMMARY:Instytucje rynkowe (ćwiczenia)
-UID:3f65d638-2a68-42cb-8b97-cadb2fa652b8@3f65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20250308T161500Z
-DTSTART:20250308T140000Z
-SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
-UID:09f777cc-4767-49c3-aa1d-9f3874c184a6@09f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250525T100000Z
-LOCATION:link do zajęć
-DTSTART:20250525T074500Z
-SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
-UID:7c43cd8c-6a21-4c02-80b1-80378b7eaa1a@7c43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20250330T151500Z
-DTSTART:20250330T130000Z
-SUMMARY:Negocjacje i gry biznesowe (Przeniesienie zajęć)
-UID:1a548b82-b106-42eb-af76-d98a080d9196@1a54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250315T161500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250315T140000Z
-SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
-UID:15417751-070d-46da-a4b4-bf61f2f896f0@1541.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250524T114500Z
-DTSTART:20250524T093000Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:b38ede69-8c7d-49e4-8313-03349c757a70@b38e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
-DTEND:20250406T114500Z
-LOCATION:link do zajęć
-DTSTART:20250406T093000Z
-SUMMARY:Instytucje rynkowe (wykład)
-UID:3a672756-9983-46b3-ac6d-0807f024f6f9@3a67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250329T184500Z
-DTSTART:20250329T163000Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:1fe89e1a-a61f-4257-9902-5815d4e175c4@1fe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Kędziera
-DTEND:20250329T161500Z
-DTSTART:20250329T140000Z
-SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (wykład)
-UID:f8d7b3a6-3c80-496a-aa61-9d6883c5549f@f8d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20250315T133000Z
-LOCATION:Paw.F 413
-DTSTART:20250315T111500Z
-SUMMARY:Zarządzanie wiedzą (ćwiczenia)
-UID:a49d9f94-b8f6-49fd-8328-87ae8fe2ca43@a49d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250427T090000Z
-LOCATION:link do zajęć
-DTSTART:20250427T064500Z
-SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
-UID:eebfd302-ae00-4136-9ca7-68f6c2b0177b@eebf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250510T151500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250510T130000Z
-SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
-UID:fed9a223-065e-4186-9708-b45940b37c16@fed9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250510T090000Z
-DTSTART:20250510T064500Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:d90f3da9-82f6-4156-a610-f7c9ec3a29c9@d90f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250524T123000Z
-LOCATION:Paw.F 616
-DTSTART:20250524T101500Z
-SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
-UID:bc49a969-1428-475c-aa9c-583351cbc063@bc49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
-DTEND:20250302T124500Z
-DTSTART:20250302T103000Z
-SUMMARY:Instytucje rynkowe (wykład)
-UID:d47a0d53-aefa-4cfc-9796-9111e7aa6087@d47a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250615T101500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250615T093000Z
-SUMMARY:Marketing produktów innowacyjnych (egzamin)
-UID:a2c224b4-3e06-4490-98c3-9e3e75dd5fb5@a2c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Łukasik
-DTEND:20250316T200000Z
-DTSTART:20250316T191500Z
-SUMMARY:Praktyka zawodowa (rezerwacja)
-UID:bd42f8d3-7e4e-48dd-aeaa-804bea72017e@bd42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20250412T151500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20250412T130000Z
-SUMMARY:Instytucje rynkowe (ćwiczenia)
-UID:ab854b4b-a46c-4aaa-9555-ae8357e3a0ac@ab85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20250427T141500Z
-LOCATION:link do zajęć
-DTSTART:20250427T120000Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:fc385e69-d14f-416c-ba8c-fa08c5a57752@fc38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20250406T090000Z
-LOCATION:link do zajęć
-DTSTART:20250406T064500Z
-SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
-UID:60915469-91f5-43f8-8402-7e87ed5006f5@6091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
-DTEND:20250330T114500Z
-DTSTART:20250330T093000Z
-SUMMARY:Instytucje rynkowe (wykład)
-UID:b4afea47-238a-46e6-9ada-d68f27b753d9@b4af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250406T151500Z
-LOCATION:Platforma Moodle
-DTSTART:20250406T130000Z
-SUMMARY:Marketing produktów innowacyjnych (Ćwiczenia e-learningowe)
-UID:32f868b3-daa8-4d2b-9ca0-1ef021720a5e@32f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20250413T114500Z
-LOCATION:link do zajęć
-DTSTART:20250413T093000Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:889abcf3-73a4-4ce2-935d-d0219df6776a@889a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20250425T160000Z
-LOCATION:Paw.F 413
-DTSTART:20250425T134500Z
-SUMMARY:Zarządzanie wiedzą (ćwiczenia)
-UID:ed089344-e0f3-4dbd-848f-685fe5fccb00@ed08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250427T114500Z
-DTSTART:20250427T093000Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:50407899-cf51-4d89-8523-308abbdc2e6a@5040.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250524T151500Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20250524T130000Z
-SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
-UID:00c29b19-1706-46f2-b463-7a76584e5e47@00c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250607T174500Z
-DTSTART:20250607T153000Z
-SUMMARY:Rozwój kompetencji pracowniczych (Przeniesienie zajęć)
-UID:e6e596fa-8386-4f7d-9da9-d027d14ebab4@e6e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Prorok
-DTEND:20250607T151500Z
-DTSTART:20250607T130000Z
-SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (Przeniesienie zajęć)
-UID:532ce7f5-6c49-47e6-b8a9-f65c6fba24f5@532c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250524T174500Z
-DTSTART:20250524T153000Z
-SUMMARY:Rozwój kompetencji pracowniczych (Przeniesienie zajęć)
-UID:ee8e461f-7d3c-4fe2-b8ba-01e8d8ee87d4@ee8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20250301T161500Z
-DTSTART:20250301T140000Z
-SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
-UID:a2e8a22b-d23c-40f1-bf13-41c1bee7dcd1@a2e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Chałupczak
-DTEND:20250405T151500Z
-LOCATION:Paw.F 413
-DTSTART:20250405T130000Z
-SUMMARY:Zarządzanie wiedzą (ćwiczenia)
-UID:d7fc70c5-e08c-4f2e-a199-5d3a0493e776@d7fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20250316T100000Z
-DTSTART:20250316T074500Z
-SUMMARY:Rozwój kompetencji pracowniczych (wykład)
-UID:6728f4f1-2f2e-437c-a552-0ce05572e1de@6728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Kędziera
-DTEND:20250302T100000Z
-DTSTART:20250302T074500Z
-SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (wykład)
-UID:a4863f43-4eab-4f05-b196-ce73504f166e@a486.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250426T151500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250426T130000Z
-SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
-UID:c8aa364e-6757-416c-9a08-390576607280@c8aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20250308T124500Z
-DTSTART:20250308T103000Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:8663b1f9-4f7e-4345-99de-533507e2315a@8663.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250525T123000Z
-LOCATION:link do zajęć
-DTSTART:20250525T101500Z
-SUMMARY:Marketing produktów innowacyjnych (wykład)
-UID:207f0d45-0748-47c3-8d25-91586c29ecfe@207f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20250607T114500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20250607T093000Z
-SUMMARY:Instytucje rynkowe (ćwiczenia)
-UID:1c303b6e-624f-485b-a55e-450c44da6bff@1c30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20250330T090000Z
-LOCATION:Platforma Moodle
-DTSTART:20250330T064500Z
-SUMMARY:Rozwój kompetencji pracowniczych (wykład e-learningowy)
-UID:f33a49c8-15ce-42dd-9ae4-6f635b192462@f33a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250413T090000Z
-DTSTART:20250413T064500Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:370a8fbc-118b-4eee-89d2-cb74369df213@370a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250413T160000Z
-LOCATION:Platforma Moodle
-DTSTART:20250413T134500Z
-SUMMARY:Marketing produktów innowacyjnych (wykład e-learningowy)
-UID:26e39df8-e7e2-4b6a-830d-91321e85e761@26e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250412T090000Z
-LOCATION:Paw.B 056 (KSB)
-DTSTART:20250412T064500Z
-SUMMARY:Marketing produktów innowacyjnych (ćwiczenia)
-UID:876fe4e1-f193-4da8-8679-ed139c5625e4@876f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20250524T090000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20250524T064500Z
-SUMMARY:Instytucje rynkowe (ćwiczenia)
-UID:b8439eaa-1194-46c0-9f52-b75201f68664@b843.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250412T114500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250412T093000Z
-SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
-UID:60dfec09-43ae-4a2e-8dd5-b46d2bfdf693@60df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Kędziera
-DTEND:20250308T100000Z
-DTSTART:20250308T074500Z
-SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (wykład)
-UID:a07650f3-cb1e-4646-b768-1b9a1f8fadf7@a076.org
+UID:6e8baced-f7e9-4d53-b809-997936109f1f@6e8b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Magdalena Prorok
@@ -433,29 +37,88 @@ DTEND:20250412T174500Z
 LOCATION:Paw.B 055 (KSB)
 DTSTART:20250412T153000Z
 SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
-UID:47610911-22f9-4e3e-acd8-44cb8e2fc090@4761.org
+UID:ddcb332d-628b-4bbc-9a3a-1687776c5fb2@ddcb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iryna Manczak
-DTEND:20250413T090000Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20250413T114500Z
 LOCATION:link do zajęć
-DTSTART:20250413T064500Z
-SUMMARY:Instytucje rynkowe (ćwiczenia zdalne)
-UID:7122e774-9859-4d3c-a26b-aaaf08f893e2@7122.org
+DTSTART:20250413T093000Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:817d6017-189e-45cf-b51e-e5938976bab2@817d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sylwia Wiśniewska
-DTEND:20250301T124500Z
-DTSTART:20250301T103000Z
-SUMMARY:Rozwój kompetencji pracowniczych (wykład)
-UID:6d3b9fef-ebcf-4d70-b2ee-06d9b1dda58c@6d3b.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250524T174500Z
+DTSTART:20250524T153000Z
+SUMMARY:Rozwój kompetencji pracowniczych (Przeniesienie zajęć)
+UID:1a9893c8-6e8c-46cc-914a-eb51df04ba55@1a98.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250426T090000Z
-DTSTART:20250426T064500Z
+DTEND:20250524T114500Z
+DTSTART:20250524T093000Z
 SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:1462f911-bbe1-49de-8281-67522ffff2eb@1462.org
+UID:c5b26656-bad5-498b-8312-bea6485b369a@c5b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250301T161500Z
+DTSTART:20250301T140000Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:dfaef8fe-ea74-4df2-b9fd-20799fbed467@dfae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250607T090000Z
+DTSTART:20250607T064500Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:12c82e31-e0dc-43e8-aedf-d603a2c541cf@12c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250615T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250615T093000Z
+SUMMARY:Marketing produktów innowacyjnych (egzamin)
+UID:feb34b0f-10a4-4933-8623-71df9d94d7cb@feb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
+DTEND:20250302T124500Z
+DTSTART:20250302T103000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:4abcbf2f-512c-4039-a5ff-3fc21402fa29@4abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250607T151500Z
+DTSTART:20250607T130000Z
+SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (Przeniesienie zajęć)
+UID:86fa0448-b6e6-4dce-98ff-261c483835d7@86fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250412T090000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250412T064500Z
+SUMMARY:Marketing produktów innowacyjnych (ćwiczenia)
+UID:73614d7d-36b8-48c1-bba1-c85e2a6163c7@7361.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20250301T100000Z
+DTSTART:20250301T074500Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:98107508-bafc-4ba3-bb1f-a9d7ed23cc31@9810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250426T151500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250426T130000Z
+SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
+UID:e935eb73-f0e2-4272-a1d5-39b224a9434a@e935.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Magdalena Prorok
@@ -463,43 +126,66 @@ DTEND:20250510T114500Z
 LOCATION:L Paw.A 401
 DTSTART:20250510T093000Z
 SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
-UID:e1d3af5c-459a-4d54-ac24-c0330febf099@e1d3.org
+UID:b5e10e0f-ff0f-4f20-9644-4a5e4a155df8@b5e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250524T090000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250524T064500Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:98010552-e0a6-4f13-b5f5-1c02c7075293@9801.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250524T123000Z
+LOCATION:Paw.F 616
+DTSTART:20250524T101500Z
+SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
+UID:9bf982e4-d2a6-493d-959e-05f171412e67@9bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20250427T141500Z
+LOCATION:link do zajęć
+DTSTART:20250427T120000Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:391aa862-0be9-4b98-be84-8f01244c74b7@391a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20250301T124500Z
+DTSTART:20250301T103000Z
+SUMMARY:Rozwój kompetencji pracowniczych (wykład)
+UID:9c230842-c7e5-4567-913b-59610452e46a@9c23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20250308T124500Z
+DTSTART:20250308T103000Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:d6ec9c8e-a5f7-4ae7-9330-11633b78c7cf@d6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250308T161500Z
+DTSTART:20250308T140000Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:084637cc-26f5-4921-a9b4-37bd76bd87a9@0846.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
 DTEND:20250329T100000Z
 DTSTART:20250329T074500Z
 SUMMARY:Zarządzanie wiedzą (wykład)
-UID:dce4f217-6e48-4ff3-8f4d-eb24a5290b4c@dce4.org
+UID:a0f23b1b-5973-4280-82e8-d501b0d9bd30@a0f2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
-DTEND:20250511T090000Z
-LOCATION:link do zajęć
-DTSTART:20250511T064500Z
-SUMMARY:Zarządzanie wiedzą (wykład)
-UID:a3862b80-8b01-42cf-a63e-b365d7f54a9a@a386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250607T090000Z
-DTSTART:20250607T064500Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:796387dd-bcd4-4f15-9a9d-b80aa6a100d2@7963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250405T090000Z
-DTSTART:20250405T064500Z
-SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
-UID:e43f1ffa-a930-44f3-926b-1ecee0e7f5f8@e43f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
-DTEND:20250316T124500Z
-DTSTART:20250316T103000Z
-SUMMARY:Instytucje rynkowe (wykład)
-UID:ec74122b-2854-48df-92c2-bde6e61e09af@ec74.org
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20250316T100000Z
+DTSTART:20250316T074500Z
+SUMMARY:Rozwój kompetencji pracowniczych (wykład)
+UID:da3fd2e1-7a7e-466a-acca-2e6393c83223@da3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Magdalena Prorok
@@ -507,7 +193,53 @@ DTEND:20250405T114500Z
 LOCATION:Paw.B 055 (KSB)
 DTSTART:20250405T093000Z
 SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
-UID:ff184d01-8724-4035-b486-ceddb436fee2@ff18.org
+UID:f760c61a-0af3-4eab-aae3-7ff8cf966503@f760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kędziera
+DTEND:20250308T100000Z
+DTSTART:20250308T074500Z
+SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (wykład)
+UID:e145f930-7527-490a-85e0-6e407c501382@e145.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250316T200000Z
+DTSTART:20250316T191500Z
+SUMMARY:Praktyka zawodowa (rezerwacja)
+UID:200b8ad2-4e1c-4580-9769-7adba66e253f@200b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bogusz Mikuła
+DTEND:20250511T090000Z
+LOCATION:link do zajęć
+DTSTART:20250511T064500Z
+SUMMARY:Zarządzanie wiedzą (wykład)
+UID:41fd29e2-2530-484a-b7a2-0651661ce9e4@41fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250511T114500Z
+LOCATION:link do zajęć
+DTSTART:20250511T093000Z
+SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
+UID:8d4d61d5-6bf0-42e0-95a8-db28a1c379a6@8d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250511T151500Z
+LOCATION:Platforma Moodle
+DTSTART:20250511T130000Z
+SUMMARY:Marketing produktów innowacyjnych (wykład e-learningowy)
+UID:74afd967-eee9-46fe-be81-6a9829242305@74af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250404T160000Z
+LOCATION:Bibl.425
+DTSTART:20250404T134500Z
+SUMMARY:Marketing produktów innowacyjnych (ćwiczenia)
+UID:75fda47a-f40c-47f3-aa4c-c540299d4d44@75fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Magdalena Prorok
@@ -515,6 +247,274 @@ DTEND:20250523T160000Z
 LOCATION:L Paw.A 401
 DTSTART:20250523T134500Z
 SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
-UID:da070ccc-d466-4aff-a8e9-f5e5f6fe58b8@da07.org
+UID:4d20ea22-de64-43b7-bf2a-b799f93cf1a7@4d20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250405T151500Z
+LOCATION:Paw.F 413
+DTSTART:20250405T130000Z
+SUMMARY:Zarządzanie wiedzą (ćwiczenia)
+UID:ed6779cd-bc66-4a24-ac55-d7235e5de8d5@ed67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250607T174500Z
+DTSTART:20250607T153000Z
+SUMMARY:Rozwój kompetencji pracowniczych (Przeniesienie zajęć)
+UID:83a9f76d-937b-4655-a642-ab6291751999@83a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250315T133000Z
+LOCATION:Paw.F 413
+DTSTART:20250315T111500Z
+SUMMARY:Zarządzanie wiedzą (ćwiczenia)
+UID:51241ffc-615d-469c-83e6-8182c96ce673@5124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250524T151500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250524T130000Z
+SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
+UID:bd51484a-bb69-4cca-b740-224b40a3fa9b@bd51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250510T174500Z
+DTSTART:20250510T153000Z
+SUMMARY:Instytucje rynkowe (Przeniesienie zajęć)
+UID:47837868-d99d-4a4c-8b1f-50d9cbd69f83@4783.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250413T160000Z
+LOCATION:Platforma Moodle
+DTSTART:20250413T134500Z
+SUMMARY:Marketing produktów innowacyjnych (wykład e-learningowy)
+UID:d014d825-a1ad-4bf4-972a-1076f55e05b1@d014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250525T100000Z
+LOCATION:link do zajęć
+DTSTART:20250525T074500Z
+SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
+UID:4e00e8a5-6fe3-4228-823e-8ad3dc1bd4e4@4e00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250314T170000Z
+LOCATION:Bibl.425
+DTSTART:20250314T144500Z
+SUMMARY:Marketing produktów innowacyjnych (ćwiczenia)
+UID:b28c8480-a2bb-49bc-8964-c1addf2eda4b@b28c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250510T090000Z
+DTSTART:20250510T064500Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:f9773828-e746-4ef0-a084-e695d14e69f2@f977.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250607T114500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250607T093000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:07cf977a-a957-4c36-ac06-1ead327cb0da@07cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250330T151500Z
+LOCATION:Platforma Moodle
+DTSTART:20250330T130000Z
+SUMMARY:Marketing produktów innowacyjnych (Ćwiczenia e-learningowe)
+UID:410d18ab-9167-4f41-a5c0-4ecb7512b6f7@410d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250427T090000Z
+LOCATION:link do zajęć
+DTSTART:20250427T064500Z
+SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
+UID:2922ba20-5392-4f04-90d6-cd98758b27db@2922.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250425T160000Z
+LOCATION:Paw.F 413
+DTSTART:20250425T134500Z
+SUMMARY:Zarządzanie wiedzą (ćwiczenia)
+UID:509c7a62-f888-4ac5-91e9-99cb1945a998@509c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
+DTEND:20250406T114500Z
+LOCATION:link do zajęć
+DTSTART:20250406T093000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:cfdd5e70-c678-4145-9837-147641920f29@cfdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250412T151500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250412T130000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:f06e5c19-4deb-49f7-a3de-ba05ff07d6d1@f06e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250406T090000Z
+LOCATION:link do zajęć
+DTSTART:20250406T064500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:a068209c-0ed8-4e7a-8b09-58e30d3b3f8a@a068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250406T151500Z
+LOCATION:Platforma Moodle
+DTSTART:20250406T130000Z
+SUMMARY:Marketing produktów innowacyjnych (Ćwiczenia e-learningowe)
+UID:5080f876-6be2-4779-9b8c-9cb11852f2eb@5080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250329T184500Z
+DTSTART:20250329T163000Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:e8be36c3-37cb-488f-9266-f3403c6e25fe@e8be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
+DTEND:20250316T124500Z
+DTSTART:20250316T103000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:e6ba5900-6ea5-44d6-abec-4f5c9430532b@e6ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250426T090000Z
+DTSTART:20250426T064500Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:6f06cb69-ecc8-468a-8cbe-5670e58b8772@6f06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Prorok
+DTEND:20250426T114500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250426T093000Z
+SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (ćwiczenia)
+UID:af52532d-2e37-4891-92e2-aaf18c7d116a@af52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250427T170000Z
+LOCATION:Platforma Moodle
+DTSTART:20250427T144500Z
+SUMMARY:Marketing produktów innowacyjnych (Ćwiczenia e-learningowe)
+UID:c5c09413-34c8-4ec2-9064-757ee16adcb3@c5c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kędziera
+DTEND:20250302T100000Z
+DTSTART:20250302T074500Z
+SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (wykład)
+UID:ef11ccb5-2b6b-43bf-b7f1-e97205745516@ef11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250405T090000Z
+DTSTART:20250405T064500Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:ff6b14d1-8c34-4b6d-a067-2fde7f0ef377@ff6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250607T141500Z
+LOCATION:Paw.C sala D
+DTSTART:20250607T120000Z
+SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
+UID:d3a80c78-21e5-4d73-a726-cf02b27cb1bd@d3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250525T123000Z
+LOCATION:link do zajęć
+DTSTART:20250525T101500Z
+SUMMARY:Marketing produktów innowacyjnych (wykład)
+UID:bdd2368e-020c-4e71-929d-97cabc4f0301@bdd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20250330T090000Z
+LOCATION:Platforma Moodle
+DTSTART:20250330T064500Z
+SUMMARY:Rozwój kompetencji pracowniczych (wykład e-learningowy)
+UID:9199c916-e488-47ea-9ded-e2c251b9fc19@9199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250405T174500Z
+LOCATION:Bibl. 443
+DTSTART:20250405T153000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:dfa60b36-f41d-4de3-b44b-dd9c0e02636d@dfa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adam Figiel
+DTEND:20250330T114500Z
+DTSTART:20250330T093000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:e4cd3f09-28ff-40e1-bac7-2b841cc13943@e4cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250413T090000Z
+DTSTART:20250413T064500Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:7d33dc6e-7a1f-458c-bd5e-36af9b09bed8@7d33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250412T114500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250412T093000Z
+SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
+UID:d6ddd894-d097-467a-a20f-2a26a023b0ef@d6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250315T161500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250315T140000Z
+SUMMARY:Rozwój kompetencji pracowniczych (ćwiczenia)
+UID:d0c438ed-d53e-47dd-afbb-d517a538e5bf@d0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kędziera
+DTEND:20250329T161500Z
+DTSTART:20250329T140000Z
+SUMMARY:Zakładanie i prowadzenie działalności gospodarczej (wykład)
+UID:3805ce25-9d0e-466f-928e-4075e8f9d55e@3805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250427T114500Z
+DTSTART:20250427T093000Z
+SUMMARY:Marketing produktów innowacyjnych (Przeniesienie zajęć)
+UID:866d390f-a280-44cb-9c2b-8740012486ea@866d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250413T090000Z
+LOCATION:link do zajęć
+DTSTART:20250413T064500Z
+SUMMARY:Instytucje rynkowe (ćwiczenia zdalne)
+UID:f568ab19-1636-4308-bb21-ee989df649df@f568.org
 END:VEVENT
 END:VCALENDAR
