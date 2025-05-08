@@ -2,12 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20250524T104500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250524T083000Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
-UID:e38e94b7-2206-4e78-ad5e-295ff667083e@e38e.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20250314T194500Z
+DTSTART:20250314T173000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (wykład)
+UID:c95733a3-2ac2-4ef6-82f2-4a5afaec9f8c@c957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250509T184500Z
+DTSTART:20250509T163000Z
+SUMMARY:Instrumenty dłużne i pochodne (Przeniesienie zajęć)
+UID:2cedfcda-310e-4390-aa71-9d103b96102e@2ced.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20250301T170000Z
+DTSTART:20250301T144500Z
+SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (wykład)
+UID:19978eae-fc85-4cce-a409-2751cff6cfc1@1997.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Jarosz
@@ -15,358 +28,7 @@ DTEND:20250525T081500Z
 LOCATION:Paw.F 102
 DTSTART:20250525T060000Z
 SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
-UID:d7575a25-8b78-464d-a2a0-ebb72ac4e239@d757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250426T081500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250426T060000Z
-SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
-UID:14f2075b-a9ec-46af-9af7-e3905c8411e8@14f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250321T170000Z
-DTSTART:20250321T144500Z
-SUMMARY:Zarządzanie inwestycjami (wykład)
-UID:e9cb7b41-e300-485e-83e5-1d8c3ab96d5c@e9cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250323T091500Z
-DTSTART:20250323T070000Z
-SUMMARY:Zarządzanie inwestycjami (wykład)
-UID:bcabf990-88bb-4f48-b6b8-3405a4b9c498@bcab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250330T104500Z
-DTSTART:20250330T083000Z
-SUMMARY:Instrumenty dłużne i pochodne (wykład)
-UID:77de37ea-b289-4d22-97d6-49434d32c2f0@77de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250309T114500Z
-DTSTART:20250309T093000Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
-UID:1516d37b-f171-43f8-afc5-77ae02f908ad@1516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250524T081500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250524T060000Z
-SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
-UID:0d2a7f33-f1d4-4894-b3a0-7e6fe503515e@0d2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20250607T133000Z
-LOCATION:Paw.F 102
-DTSTART:20250607T111500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
-UID:a4333d5f-b028-4b80-a2e8-b45cbded71e3@a433.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Rafał Sieradzki
-DTEND:20250307T194500Z
-DTSTART:20250307T173000Z
-SUMMARY:Instrumenty dłużne i pochodne (wykład)
-UID:f332165a-60eb-4b3c-b023-cb0d6b5a414c@f332.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250404T160000Z
-DTSTART:20250404T134500Z
-SUMMARY:Zarządzanie inwestycjami (wykład)
-UID:4f4d9160-aa46-4bc1-9ec6-3835a08a5285@4f4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250406T133000Z
-DTSTART:20250406T111500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
-UID:b4b6e685-93ca-4dc3-a8c5-d3764ce06e62@b4b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250316T114500Z
-DTSTART:20250316T093000Z
-SUMMARY:Instrumenty dłużne i pochodne (wykład)
-UID:53984df2-c57d-4c7a-88d9-fb0048db7050@5398.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marcin Rychlak
-DTEND:20250511T081500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250511T060000Z
-SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
-UID:d5b4c4c6-d490-4520-9040-059eba288677@d5b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250329T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250329T070000Z
-SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
-UID:5c1f88f0-4407-4b68-80d3-33eaf10c4942@5c1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20250228T194500Z
-DTSTART:20250228T173000Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (wykład)
-UID:404b0b9e-24db-41ab-a2bc-b4985c743a24@404b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20250329T114500Z
-LOCATION:Bibl. 440
-DTSTART:20250329T093000Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
-UID:8e68ad05-996a-4652-b90f-73dae91c0eb0@8e68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250323T143000Z
-DTSTART:20250323T121500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
-UID:34089972-b356-4ec8-befe-49b0353a349a@3408.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20250412T133000Z
-LOCATION:Paw.F 102
-DTSTART:20250412T111500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
-UID:1f7a5551-f21c-43d5-9102-17ded18d98ad@1f7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ryz. I Ubez. 1 Wakat Kat. Zarz.
-DTEND:20250607T104500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250607T083000Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
-UID:84098daf-ffc4-429a-942e-4ed588492359@8409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250316T091500Z
-DTSTART:20250316T070000Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
-UID:d8872328-a35e-4281-bc06-514e062127fa@d887.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20250323T114500Z
-DTSTART:20250323T093000Z
-SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (wykład)
-UID:51ca6f42-21e7-466a-9ecc-b489ffdd8979@51ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Rafał Sieradzki
-DTEND:20250411T184500Z
-LOCATION:link do zajęć
-DTSTART:20250411T163000Z
-SUMMARY:Instrumenty dłużne i pochodne (wykład)
-UID:54f5eb61-9760-4a60-8665-d0934c34e626@54f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20250511T104500Z
-LOCATION:Paw.F 102
-DTSTART:20250511T083000Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
-UID:62f66c60-3c80-459a-b13b-272fd58cadc9@62f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Dominik Fudali
-DTEND:20250322T114500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250322T093000Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
-UID:c02fab01-fa8e-44be-be22-d38e11fdf954@c02f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Rafał Sieradzki
-DTEND:20250301T114500Z
-DTSTART:20250301T093000Z
-SUMMARY:Instrumenty dłużne i pochodne (wykład)
-UID:50d37f4b-771e-44fd-8267-04287aee9e48@50d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250412T081500Z
-DTSTART:20250412T060000Z
-SUMMARY:Instrumenty dłużne i pochodne (Przeniesienie zajęć)
-UID:b63200bf-8690-4ad2-9eaa-e4650ec89e67@b632.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250308T091500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250308T070000Z
-SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
-UID:ffe878b0-7140-4b7f-a9de-fd79c9c7829b@ffe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grażyna Sordyl
-DTEND:20250426T104500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250426T083000Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
-UID:6903b5dc-3056-4c93-9bcf-359e2b9204d2@6903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250328T194500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250328T173000Z
-SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
-UID:deead579-9bfd-473b-a9bc-8b49daa5278a@deea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20250301T170000Z
-DTSTART:20250301T144500Z
-SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (wykład)
-UID:9963e61f-16c4-44a1-bad5-74c1dda4173f@9963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250307T170000Z
-DTSTART:20250307T144500Z
-SUMMARY:Zarządzanie inwestycjami (wykład)
-UID:6f752ba7-42b3-48a0-86de-28bdfd88917b@6f75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Dominik Fudali
-DTEND:20250308T114500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250308T093000Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
-UID:87e6c2b5-7c22-463b-b80b-d71131c24c22@87e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250411T160000Z
-DTSTART:20250411T134500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (Przeniesienie zajęć)
-UID:32155d13-03d1-43de-9bae-d8d8b26df684@3215.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250607T081500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250607T060000Z
-SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
-UID:4d6f2f43-138b-4f51-9789-0c46e890369b@4d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250406T081500Z
-DTSTART:20250406T060000Z
-SUMMARY:Zarządzanie inwestycjami (wykład)
-UID:00ddd379-0133-41a7-88d7-39ecc1da4437@00dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250427T133000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250427T111500Z
-SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
-UID:b7224fc2-b2a0-47c2-b069-669ee0e068ea@b722.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marcin Rychlak
-DTEND:20250606T160000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250606T134500Z
-SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
-UID:a41cdc98-d245-4639-8150-b7f2e634e8e6@a41c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20250316T143000Z
-DTSTART:20250316T121500Z
-SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (wykład)
-UID:37d7f0e1-ea0a-41fb-9178-d7002b8c257f@37d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Dominik Fudali
-DTEND:20250405T104500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250405T083000Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
-UID:00244c6e-343a-4435-bcf8-a3784c81bede@0024.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250309T091500Z
-DTSTART:20250309T070000Z
-SUMMARY:Zarządzanie inwestycjami (wykład)
-UID:e9c1e52a-757c-4a14-9a08-2956460d1b52@e9c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250322T091500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250322T070000Z
-SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
-UID:e3995160-9976-4b01-a294-d4515cd69a62@e399.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250509T184500Z
-DTSTART:20250509T163000Z
-SUMMARY:Instrumenty dłużne i pochodne (Przeniesienie zajęć)
-UID:434895a7-9928-4364-acf7-cfd7e1a9fd23@4348.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20250330T133000Z
-DTSTART:20250330T111500Z
-SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (wykład)
-UID:da5921ee-8794-4218-974a-afa90e224f54@da59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250301T143000Z
-DTSTART:20250301T121500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
-UID:a1159742-f69d-4b17-82a7-3be8f3f50348@a115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marcin Rychlak
-DTEND:20250525T104500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250525T083000Z
-SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
-UID:df00ad3c-273d-442b-adc8-01c919236c1c@df00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250406T104500Z
-DTSTART:20250406T083000Z
-SUMMARY:Instrumenty dłużne i pochodne (wykład)
-UID:25914c8d-42b6-4876-a230-1063405de9fd@2591.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20250523T160000Z
-LOCATION:Paw.F 008
-DTSTART:20250523T134500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
-UID:ce8e7249-0954-4033-8f14-040f5d53706e@ce8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Jarosz
-DTEND:20250426T133000Z
-DTSTART:20250426T111500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (Przeniesienie zajęć)
-UID:5739194f-f885-4126-9139-12f4ad4a6c3f@5739.org
+UID:0771606f-2e23-4210-8a6b-c9b25c53fb10@0771.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Cycoń  prof. UEK dr hab. Tomasz Jedynak  prof. UEK dr hab. Grzegorz Strupczewski
@@ -374,22 +36,174 @@ DTEND:20250629T110000Z
 LOCATION:Paw.S sala 9
 DTSTART:20250629T093000Z
 SUMMARY: (egzamin)
-UID:5ab3a4b9-9b89-4811-9f4a-1bcd2a99f1c1@5ab3.org
+UID:27e61dd7-d7e1-4652-8922-e83786a52c3e@27e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250404T160000Z
+DTSTART:20250404T134500Z
+SUMMARY:Zarządzanie inwestycjami (wykład)
+UID:fdad3781-cce9-47c6-b479-73d499026de4@fdad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20250606T160000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250606T134500Z
+SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
+UID:79b8b742-cc38-49a9-80e1-698b9f7061f9@79b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250329T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250329T070000Z
+SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
+UID:3bcd670a-2943-4170-8534-2f375e190773@3bcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250412T081500Z
+DTSTART:20250412T060000Z
+SUMMARY:Instrumenty dłużne i pochodne (Przeniesienie zajęć)
+UID:bd6ff232-8b74-4cce-a0aa-f3864a15aa5c@bd6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20250525T104500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250525T083000Z
+SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
+UID:9a185c2f-023b-4ae5-81a8-06b0df1f7f19@9a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250524T081500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250524T060000Z
+SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
+UID:9632e87d-29fd-4296-8a34-3d2026fcda70@9632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250307T170000Z
+DTSTART:20250307T144500Z
+SUMMARY:Zarządzanie inwestycjami (wykład)
+UID:2461adf9-431b-4d0e-b642-9627194d76f6@2461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250308T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250308T070000Z
+SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
+UID:972c3333-0182-47ec-9679-4fb51d4288b0@972c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20250509T160000Z
-LOCATION:link do zajęć
-DTSTART:20250509T134500Z
-SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
-UID:9579725a-3b24-465b-aec3-157cb39701ae@9579.org
+DTEND:20250411T160000Z
+DTSTART:20250411T134500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (Przeniesienie zajęć)
+UID:63e29de1-08b4-4b92-bb26-160cea3a4c90@63e2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
-DTEND:20250314T194500Z
-DTSTART:20250314T173000Z
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250321T170000Z
+DTSTART:20250321T144500Z
+SUMMARY:Zarządzanie inwestycjami (wykład)
+UID:4d53ce89-972c-49e0-a69a-085ae7abe416@4d53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20250411T184500Z
+LOCATION:link do zajęć
+DTSTART:20250411T163000Z
+SUMMARY:Instrumenty dłużne i pochodne (wykład)
+UID:4b28a54a-6f33-4035-b456-006d73c25bda@4b28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250426T081500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250426T060000Z
+SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
+UID:5d2fd80e-8fab-49ae-b03e-a7f4acae71b2@5d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250330T133000Z
+DTSTART:20250330T111500Z
 SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (wykład)
-UID:efc61ed6-de04-4807-bdbc-eb516e049ebd@efc6.org
+UID:5989fc01-3876-44a7-8e79-748645f09251@5989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250511T104500Z
+LOCATION:Paw.F 102
+DTSTART:20250511T083000Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
+UID:816a8d89-3660-4739-9bc2-3530240d1570@816a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20250323T114500Z
+DTSTART:20250323T093000Z
+SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (wykład)
+UID:e7b338d3-5eb2-418e-9aab-7be2a9f93a6d@e7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250228T194500Z
+DTSTART:20250228T173000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (wykład)
+UID:7aff748f-4ed8-4046-a664-d12ac1addd5a@7aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20250307T194500Z
+DTSTART:20250307T173000Z
+SUMMARY:Instrumenty dłużne i pochodne (wykład)
+UID:5ed10da9-1faa-446b-a20e-73687d9c9116@5ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dominik Fudali
+DTEND:20250308T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250308T093000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
+UID:1af8ebad-a097-41e1-8a8b-bf0bc48fde7e@1af8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20250524T104500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250524T083000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
+UID:bcb4b7db-b150-422e-907f-ebabb06bf363@bcb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250328T194500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250328T173000Z
+SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
+UID:96dba9df-340d-42eb-8e44-bdf5952c92e8@96db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dominik Fudali
+DTEND:20250322T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250322T093000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
+UID:6dd66739-3b57-4a9f-a74b-aba7c08bc870@6dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20250511T081500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250511T060000Z
+SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
+UID:bfb00d36-1e60-4293-ab84-5e8a9dd82cc6@bfb0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Oleksy
@@ -397,6 +211,192 @@ DTEND:20250405T081500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20250405T060000Z
 SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
-UID:25e070bf-4781-4bdd-b477-70d6cb487bab@25e0.org
+UID:4265839a-1d91-43fa-bdf6-8724cc11ac63@4265.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20250301T114500Z
+DTSTART:20250301T093000Z
+SUMMARY:Instrumenty dłużne i pochodne (wykład)
+UID:7c05bac5-ee80-40ed-ad49-4c6d59969a1e@7c05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250607T133000Z
+LOCATION:Paw.F 102
+DTSTART:20250607T111500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
+UID:4353fea0-aca5-4fa1-baf9-a889ddcf246f@4353.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250301T143000Z
+DTSTART:20250301T121500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
+UID:7ed0957c-3dd8-4725-baf8-0896e44eefbc@7ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250330T104500Z
+DTSTART:20250330T083000Z
+SUMMARY:Instrumenty dłużne i pochodne (wykład)
+UID:d0e83544-0eb1-4578-b0d8-a39bd890c4f3@d0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250329T114500Z
+LOCATION:Bibl. 440
+DTSTART:20250329T093000Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
+UID:50f28582-9be5-4d8c-a86b-e6165b3d6dbb@50f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250607T081500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250607T060000Z
+SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
+UID:93362df1-430b-40eb-b92a-69a16679e8d3@9336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20250426T104500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250426T083000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
+UID:8e9edede-ad18-4be4-8f39-9a5fbb754709@8e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250426T133000Z
+DTSTART:20250426T111500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (Przeniesienie zajęć)
+UID:747e2675-8981-4fe8-9a02-bb354f6282cd@747e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250406T081500Z
+DTSTART:20250406T060000Z
+SUMMARY:Zarządzanie inwestycjami (wykład)
+UID:52ac79f8-e8ac-41f2-a0cb-176e7ebb15c0@52ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250323T143000Z
+DTSTART:20250323T121500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
+UID:ef9fb364-5566-4701-b651-68718cdf0da8@ef9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dominik Fudali
+DTEND:20250405T104500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250405T083000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
+UID:0ed0cc90-1326-4480-ada9-b71023af4e31@0ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250316T114500Z
+DTSTART:20250316T093000Z
+SUMMARY:Instrumenty dłużne i pochodne (wykład)
+UID:17a40bdb-9688-4d8f-b50a-9925a63f999b@17a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ryz. I Ubez. 1 Wakat Kat. Zarz.
+DTEND:20250607T104500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250607T083000Z
+SUMMARY:Zarządzanie ryzykiem w ubezpieczeniach (ćwiczenia)
+UID:e6b542b9-35d5-4822-8dc5-2a6ec723f9bf@e6b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250322T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250322T070000Z
+SUMMARY:Zarządzanie inwestycjami (ćwiczenia)
+UID:a48ec3cb-1d8b-4de0-a0a3-c17f36b2e900@a48e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250323T091500Z
+DTSTART:20250323T070000Z
+SUMMARY:Zarządzanie inwestycjami (wykład)
+UID:dccaf8a9-2be1-4f25-9914-9cc10fb8c8c5@dcca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20250316T143000Z
+DTSTART:20250316T121500Z
+SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (wykład)
+UID:45a34985-92a3-4826-886f-f31492530e68@45a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250523T160000Z
+LOCATION:Paw.F 008
+DTSTART:20250523T134500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
+UID:63b2090c-919e-4dac-84ab-ee6cde7b58f4@63b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250316T091500Z
+DTSTART:20250316T070000Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
+UID:1a9a0e94-554f-43f2-b718-2237640b2074@1a9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250427T133000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250427T111500Z
+SUMMARY:Instrumenty dłużne i pochodne (ćwiczenia)
+UID:b3946e82-759b-4df9-94ee-5ba68136dc87@b394.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250412T133000Z
+LOCATION:Paw.F 102
+DTSTART:20250412T111500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (ćwiczenia)
+UID:2dc669e8-0581-4a48-8acc-6ec9de311da4@2dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250309T091500Z
+DTSTART:20250309T070000Z
+SUMMARY:Zarządzanie inwestycjami (wykład)
+UID:055e9fbd-8382-4eb1-b970-17fc426ff9dd@055e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250406T104500Z
+DTSTART:20250406T083000Z
+SUMMARY:Instrumenty dłużne i pochodne (wykład)
+UID:f5ca369b-52c6-40dd-8da1-843e48f9626e@f5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250309T114500Z
+DTSTART:20250309T093000Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
+UID:c2bd7ea2-6a21-4069-922b-168c8af12bfb@c2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250406T133000Z
+DTSTART:20250406T111500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
+UID:613f7ff8-1ed5-46f4-bee9-a516acf0ca96@613f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20250509T160000Z
+LOCATION:link do zajęć
+DTSTART:20250509T134500Z
+SUMMARY:Zarządzanie Ryzykiem Bankowym (wykład)
+UID:37ae48cd-db54-44ed-823f-7cb360178687@37ae.org
 END:VEVENT
 END:VCALENDAR
