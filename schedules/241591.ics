@@ -2,12 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20250621T100000Z
-LOCATION:Paw.F 106
-DTSTART:20250621T083000Z
-SUMMARY: (egzamin)
-UID:2d955ae7-6e9d-46e4-a562-138f13c169f5@2d95.org
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250509T184500Z
+LOCATION:Paw.F 715
+DTSTART:20250509T163000Z
+SUMMARY:Logistyka produkcji (konwersatorium)
+UID:aece2825-8f54-4af3-9e09-204ba85f3a80@aece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250427T090000Z
+DTSTART:20250427T064500Z
+SUMMARY:Zarządzanie ryzykiem w produkcji (wykład)
+UID:04dc5d92-3741-4271-a00d-eb47ff45aa0d@04dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250315T100000Z
+DTSTART:20250315T074500Z
+SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
+UID:104c730b-65c5-4496-836c-cccd25cd9167@104c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
@@ -15,266 +29,42 @@ DTEND:20250413T104500Z
 LOCATION:Sienk. 4 sala audio
 DTSTART:20250413T083000Z
 SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
-UID:d471eb9e-a5b4-4bc5-9b24-a099ee8e7c46@d471.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20250315T124500Z
-DTSTART:20250315T103000Z
-SUMMARY:Narzędzia sterowania jakością w produkcji (wykład)
-UID:8e32f049-fad0-4cb7-a9fb-c343c064707e@8e32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250322T100000Z
-DTSTART:20250322T074500Z
-SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
-UID:89a13008-5a75-4c19-b495-35e2c1950519@89a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20250321T184500Z
-DTSTART:20250321T163000Z
-SUMMARY:Narzędzia sterowania jakością w produkcji (Przeniesienie zajęć)
-UID:ca0947d9-c2c6-47d2-9d77-d8787882752a@ca09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250509T184500Z
-LOCATION:Paw.F 715
-DTSTART:20250509T163000Z
-SUMMARY:Logistyka produkcji (konwersatorium)
-UID:bb19dd6b-c60a-4123-98c6-7faea6de2f74@bb19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250615T081500Z
-LOCATION:Paw.U sala O
-DTSTART:20250615T060000Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
-UID:f07088ac-d212-4449-83fa-7720d4256333@f070.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20250524T081500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250524T060000Z
-SUMMARY:Narzędzia sterowania jakością w produkcji (ćwiczenia)
-UID:a9569c55-3b4c-415b-be95-539d04e0818c@a956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250322T124500Z
-DTSTART:20250322T103000Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (wykład)
-UID:4cdad8a2-8c35-44aa-88b6-77086af35e20@4cda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20250427T114500Z
-DTSTART:20250427T093000Z
-SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
-UID:cb1be71d-ec55-462d-bdcd-8bd15452103a@cb1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250511T160000Z
-LOCATION:Paw.F 109
-DTSTART:20250511T134500Z
-SUMMARY:Logistyka produkcji (konwersatorium)
-UID:eae59a5b-0a00-479c-8d48-76916ddd38f3@eae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20250427T090000Z
-DTSTART:20250427T064500Z
-SUMMARY:Zarządzanie ryzykiem w produkcji (wykład)
-UID:a84f86f4-6f94-4d43-b675-234baeed6196@a84f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250316T100000Z
-DTSTART:20250316T074500Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (wykład)
-UID:c6f435ca-e529-4530-8cfc-8a579b813123@c6f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250525T160000Z
-LOCATION:Paw.F 104
-DTSTART:20250525T134500Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
-UID:d654db45-0842-49b7-930c-c627390412ec@d654.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250315T100000Z
-DTSTART:20250315T074500Z
-SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
-UID:7d8f8bdc-67a8-4ec3-896b-389d47a801cd@7d8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250525T081500Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20250525T060000Z
-SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
-UID:e4cde6d3-0717-429f-a026-7a1b441c718d@e4cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250524T104500Z
-LOCATION:Paw.F 613
-DTSTART:20250524T083000Z
-SUMMARY:Logistyka produkcji (konwersatorium)
-UID:358b7fef-0326-4901-a359-6eb4fdb01525@358b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20250615T143000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250615T134500Z
-SUMMARY: (rezerwacja)
-UID:fdd2016f-ac0a-4873-a05f-356dfa2c8551@fdd2.org
+UID:0ad77cde-776e-4f51-9a76-f1f162f9e58a@0ad7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
 DTEND:20250412T081500Z
 DTSTART:20250412T060000Z
 SUMMARY:Zarządzanie ryzykiem w produkcji (wykład)
-UID:2c9a7160-d785-4f5d-bd48-25597d31be5c@2c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20250531T104500Z
-LOCATION:Paw.F 717
-DTSTART:20250531T083000Z
-SUMMARY:Zarządzanie ryzykiem w produkcji (ćwiczenia)
-UID:74859da1-02d1-48ba-9459-fe2f82830799@7485.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20250316T124500Z
-DTSTART:20250316T103000Z
-SUMMARY:Zarządzanie ryzykiem w produkcji (wykład)
-UID:487ea623-275f-4f6c-9a11-a4f802ade973@487e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250426T184500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250426T163000Z
-SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
-UID:2d23fce7-c04f-4ade-af8c-f863f983f3d4@2d23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20250509T160000Z
-LOCATION:Paw.F 715
-DTSTART:20250509T134500Z
-SUMMARY:Narzędzia sterowania jakością w produkcji (ćwiczenia)
-UID:acf50c06-6bb1-445f-bb52-360c4a0788ff@acf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250511T104500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250511T083000Z
-SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
-UID:f5b448ac-e011-4207-9c6a-d04089042507@f5b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20250425T170000Z
-DTSTART:20250425T144500Z
-SUMMARY:Narzędzia sterowania jakością w produkcji (wykład)
-UID:d5d0fe69-24bc-46f6-a8c0-e40bbbd53cb2@d5d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20250510T104500Z
-LOCATION:link do zajęć
-DTSTART:20250510T083000Z
-SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
-UID:75c06d0b-6270-4e96-b27f-217ec9aa59a0@75c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250323T091500Z
-LOCATION:Paw.U sala O
-DTSTART:20250323T070000Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
-UID:ac88ed4b-03c5-45b1-8327-4d1a2359e7c6@ac88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250601T104500Z
-LOCATION:Paw.F 104
-DTSTART:20250601T083000Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
-UID:fca387d0-5db3-4e19-86ed-f9afec4faca8@fca3.org
+UID:e7da8ac3-ebc4-4515-b7c2-642689e62e9a@e7da.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
 DTEND:20250412T133000Z
 DTSTART:20250412T111500Z
 SUMMARY:Narzędzia sterowania jakością w produkcji (wykład)
-UID:56636583-c765-458b-bd56-4c3de64a2553@5663.org
+UID:4e506185-2f38-4b23-b04e-6c37085f2f31@4e50.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250412T104500Z
-DTSTART:20250412T083000Z
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20250427T114500Z
+DTSTART:20250427T093000Z
 SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
-UID:87e8be58-27dc-46df-80f1-dc571f932ecc@87e8.org
+UID:fd6f5b23-b136-4299-ae6b-72a70890b2c8@fd6f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250510T081500Z
-LOCATION:link do zajęć
-DTSTART:20250510T060000Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (wykład)
-UID:d5aa114f-6a42-464b-b120-870972dbbc9b@d5aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250413T160000Z
-LOCATION:Paw.S sala 7
-DTSTART:20250413T134500Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
-UID:9b3c10aa-9028-4ae3-aac2-635c803ca139@9b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250615T170000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20250615T144500Z
-SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
-UID:2a748e1c-3182-4b41-a945-92d561ab71e5@2a74.org
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20250321T184500Z
+DTSTART:20250321T163000Z
+SUMMARY:Narzędzia sterowania jakością w produkcji (Przeniesienie zajęć)
+UID:b425d5f0-aaa8-47df-b7f9-0e653bb81eb3@b425.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20250426T133000Z
-LOCATION:Paw.F 717
-DTSTART:20250426T111500Z
-SUMMARY:Zarządzanie ryzykiem w produkcji (ćwiczenia)
-UID:215310ed-f746-465d-b430-4bbfe59a8464@2153.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250511T081500Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20250511T060000Z
-SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
-UID:d6cbc218-194a-460c-b186-470b8cbd69fd@d6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250426T104500Z
-LOCATION:Paw.F 102
-DTSTART:20250426T083000Z
-SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
-UID:f13fd9d6-b673-4f47-aa69-65cfb081750c@f13f.org
+DTEND:20250316T124500Z
+DTSTART:20250316T103000Z
+SUMMARY:Zarządzanie ryzykiem w produkcji (wykład)
+UID:dfeb7f6c-e69f-4f75-a889-55eec67fcf11@dfeb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
@@ -282,7 +72,94 @@ DTEND:20250531T081500Z
 LOCATION:Paw.S sala 7
 DTSTART:20250531T060000Z
 SUMMARY:Narzędzia sterowania jakością w produkcji (ćwiczenia)
-UID:5b9029a3-0d1a-434c-9eec-30a490db9eaf@5b90.org
+UID:8b5abae2-d5cf-4571-bc59-4de4db116116@8b5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250525T081500Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20250525T060000Z
+SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
+UID:35e015d5-29aa-4a56-9e99-b157a5c3e964@35e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250511T081500Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20250511T060000Z
+SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
+UID:e2d9ceae-62e2-4022-8829-9fffd97ae47c@e2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20250621T100000Z
+LOCATION:Paw.F 106
+DTSTART:20250621T083000Z
+SUMMARY: (egzamin)
+UID:178c3f40-06de-4fec-8407-381a2fa47be5@178c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250601T104500Z
+LOCATION:Paw.F 104
+DTSTART:20250601T083000Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
+UID:9549bb75-3ff1-40e8-bb7f-14d4f9dc94ce@9549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20250524T081500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250524T060000Z
+SUMMARY:Narzędzia sterowania jakością w produkcji (ćwiczenia)
+UID:31bba61a-1386-42a6-91d3-b8f9d22dc68c@31bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250426T104500Z
+LOCATION:Paw.F 102
+DTSTART:20250426T083000Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
+UID:12638686-a40a-4865-9399-09292e9ee9d0@1263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250511T104500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250511T083000Z
+SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
+UID:0051f8a6-29af-49a4-9f8a-0f9f8ec47929@0051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20250615T143000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250615T134500Z
+SUMMARY: (rezerwacja)
+UID:567d8033-2074-414e-a499-31e54c6f3ec8@567d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250426T184500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250426T163000Z
+SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
+UID:eb202499-4f76-4f31-ac9c-231c49fa1a6e@eb20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250412T104500Z
+DTSTART:20250412T083000Z
+SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
+UID:e8c23cd6-f38c-48e0-b4f0-f89dcee80405@e8c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250413T160000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250413T134500Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
+UID:8115adc3-8421-4162-842b-3e5525f2c1d7@8115.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
@@ -290,7 +167,62 @@ DTEND:20250323T114500Z
 LOCATION:Paw.F 717
 DTSTART:20250323T093000Z
 SUMMARY:Zarządzanie ryzykiem w produkcji (ćwiczenia)
-UID:bc644ca2-ec4d-4f20-b655-6ce9cecef9e2@bc64.org
+UID:05835900-6e81-4c36-bca8-543cfb07c156@0583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250615T170000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20250615T144500Z
+SUMMARY:Jakość i bezpieczeństwo produktów (laboratorium)
+UID:ce04cf1a-7a57-4067-aa7f-df7dc4227ca3@ce04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250510T081500Z
+LOCATION:link do zajęć
+DTSTART:20250510T060000Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (wykład)
+UID:d0507228-34a3-4f05-ab90-9f336180dd84@d050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250524T104500Z
+LOCATION:Paw.F 613
+DTSTART:20250524T083000Z
+SUMMARY:Logistyka produkcji (konwersatorium)
+UID:6f6b8c10-609c-4c71-9cef-0807d020f7a3@6f6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250322T124500Z
+DTSTART:20250322T103000Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (wykład)
+UID:829f2da0-1e4b-4963-8752-4da0950d711d@829f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250511T160000Z
+LOCATION:Paw.F 109
+DTSTART:20250511T134500Z
+SUMMARY:Logistyka produkcji (konwersatorium)
+UID:8420474d-320c-4fce-a262-c7f199d90a1a@8420.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250615T081500Z
+LOCATION:Paw.U sala O
+DTSTART:20250615T060000Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
+UID:358d4711-acf6-4733-aaa6-84a9e52a0da2@358d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250426T133000Z
+LOCATION:Paw.F 717
+DTSTART:20250426T111500Z
+SUMMARY:Zarządzanie ryzykiem w produkcji (ćwiczenia)
+UID:ce8fbaec-4de0-4d4e-893c-56126d952e00@ce8f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
@@ -298,6 +230,74 @@ DTEND:20250523T184500Z
 LOCATION:link do zajęć
 DTSTART:20250523T163000Z
 SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
-UID:42edce55-c982-47ea-a9e9-79382ad26070@42ed.org
+UID:cdf05ada-3fc4-48bd-bd5f-003f828bf383@cdf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250525T160000Z
+LOCATION:Paw.F 104
+DTSTART:20250525T134500Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
+UID:ea07040d-e151-4f14-b23f-8bba35a3f6a1@ea07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250531T104500Z
+LOCATION:Paw.F 717
+DTSTART:20250531T083000Z
+SUMMARY:Zarządzanie ryzykiem w produkcji (ćwiczenia)
+UID:3ec9e154-f672-4350-8d31-5b9d423e565d@3ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20250315T124500Z
+DTSTART:20250315T103000Z
+SUMMARY:Narzędzia sterowania jakością w produkcji (wykład)
+UID:99bcdc44-838c-4faf-82bd-d49e89a33786@99bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20250510T104500Z
+LOCATION:link do zajęć
+DTSTART:20250510T083000Z
+SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
+UID:9abe5421-07d4-4587-a64d-0f1d0a4b723e@9abe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250316T100000Z
+DTSTART:20250316T074500Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (wykład)
+UID:3210c4c3-18fb-4c8e-9586-974a2898c15e@3210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20250509T160000Z
+LOCATION:Paw.F 715
+DTSTART:20250509T134500Z
+SUMMARY:Narzędzia sterowania jakością w produkcji (ćwiczenia)
+UID:6c9eb8b6-21f9-469f-b87d-47b19778cff1@6c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250323T091500Z
+LOCATION:Paw.U sala O
+DTSTART:20250323T070000Z
+SUMMARY:Zarządzanie przedsiębiorstwem produkcyjnym (ćwiczenia)
+UID:a77a4827-599b-4700-af27-5d98881833c8@a77a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250322T100000Z
+DTSTART:20250322T074500Z
+SUMMARY:Jakość i bezpieczeństwo produktów (wykład)
+UID:941d159a-0e25-40c4-93d6-911b3dc06355@941d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20250425T170000Z
+DTSTART:20250425T144500Z
+SUMMARY:Narzędzia sterowania jakością w produkcji (wykład)
+UID:ae062d26-8278-4d8b-9096-565977c49fe0@ae06.org
 END:VEVENT
 END:VCALENDAR
