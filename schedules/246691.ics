@@ -2,11 +2,74 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Jaśkowski
+DTEND:20250510T124500Z
+DTSTART:20250510T064500Z
+SUMMARY:Case Study - media w sytuacji zagrożenia (Studia podyplomowe)
+UID:1b38d825-7de4-4f60-b60e-6bb993bea4fa@1b38.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
 DTEND:20241109T143000Z
 DTSTART:20241109T074500Z
 SUMMARY:Komunikacja społeczna w JST (Studia podyplomowe)
-UID:3286cf0b-9eec-4bbd-a5f1-979cee31df14@3286.org
+UID:cda7ae23-e5e0-4756-87ff-352320715600@cda7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20250412T073000Z
+DTSTART:20250412T064500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:1cf2a7ce-197a-4654-9d0e-2ddfba4a65da@1cf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Wójcik
+DTEND:20250330T120000Z
+DTSTART:20250330T064500Z
+SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
+UID:73c2ec0e-1dba-4736-abda-d5b9bfe62737@73c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Miksa
+DTEND:20250309T143000Z
+DTSTART:20250309T074500Z
+SUMMARY:Etyczne uwarunkowania pracy menedżera JST (Studia podyplomowe)
+UID:1eead68b-7ec0-4d97-99b1-40c0eed17f14@1eea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241123T143000Z
+DTSTART:20241123T074500Z
+SUMMARY:Trendy rozwojowe miast. Miasta przyszłości. (Studia podyplomowe)
+UID:7d8c857d-c3b4-4e19-9c45-1aae9406aa02@7d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250112T143000Z
+DTSTART:20250112T074500Z
+SUMMARY:Zamówienia publiczne. Partnerstwo publiczno-prywatne (Studia podyplomowe)
+UID:5f8d1966-280a-4951-818c-1330597d704d@5f8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Cetera
+DTEND:20250308T143000Z
+DTSTART:20250308T074500Z
+SUMMARY:Case Study - mediacje w samorządzie (Studia podyplomowe)
+UID:8a0ef5b5-a54c-4da0-b1a7-c0577aee557e@8a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241124T143000Z
+DTSTART:20241124T074500Z
+SUMMARY:Programowanie i finansowanie polityk publicznych (Studia podyplomowe)
+UID:77d1d200-8f87-495f-b1f3-5ea2dac5e040@77d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Oczkoś
+DTEND:20250413T111500Z
+DTSTART:20250413T064500Z
+SUMMARY:Wystąpienia publiczne (Studia podyplomowe)
+UID:09a2d52a-05bb-4e22-953b-5fb04be1a158@09a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
@@ -14,28 +77,14 @@ DTEND:20241207T101500Z
 LOCATION:Paw.G  9
 DTSTART:20241207T084500Z
 SUMMARY:Metodyka przygotowania projektów (Studia podyplomowe)
-UID:a9310e77-7ac5-491a-b347-623350a0347f@a931.org
+UID:2f30e89e-69cc-4146-971a-a3e2d607bdd5@2f30.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mirosław Oczkoś
-DTEND:20250413T111500Z
-DTSTART:20250413T064500Z
-SUMMARY:Wystąpienia publiczne (Studia podyplomowe)
-UID:18ff9eef-2da8-4a34-b720-d7364dc4f9c4@18ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250112T143000Z
-DTSTART:20250112T074500Z
-SUMMARY:Zamówienia publiczne. Partnerstwo publiczno-prywatne (Studia podyplomowe)
-UID:33674551-37c9-4b0a-aadb-4843a7b3a578@3367.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Olszewska
-DTEND:20241012T133000Z
-DTSTART:20241012T064500Z
-SUMMARY:Cyberbezpieczeństwo (Studia podyplomowe)
-UID:a5a3726f-ac10-441f-a3d0-3cb8ee59e67a@a5a3.org
+DESCRIPTION:Instructor: dr Kacper Siwek
+DTEND:20241110T143000Z
+DTSTART:20241110T074500Z
+SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
+UID:747e4fed-feac-4557-bdb3-ec68d17e9eae@747e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Kwaśny
@@ -43,92 +92,35 @@ DTEND:20250208T143000Z
 LOCATION:Zajęcia Online
 DTSTART:20250208T074500Z
 SUMMARY:Teoria i praktyka samorządu terytorialnego w Polsce (Studia podyplomowe)
-UID:3aa2a65e-5f43-42af-9a20-a34cec0ab7be@3aa2.org
+UID:cea7e0e3-7f58-4408-a0d7-94ad72eaa055@cea7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kacper Siwek
-DTEND:20241110T143000Z
-DTSTART:20241110T074500Z
-SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
-UID:143fcd0e-f74c-4bef-9947-2ef392e58bf3@143f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Miksa
-DTEND:20250309T143000Z
-DTSTART:20250309T074500Z
-SUMMARY:Etyczne uwarunkowania pracy menedżera JST (Studia podyplomowe)
-UID:fb3cd075-da9b-4481-8d15-fe5a02da7b2c@fb3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr\, prof. KAAFM Tomasz Orłowski
-DTEND:20241013T133000Z
-DTSTART:20241013T064500Z
-SUMMARY:Protokół dyplomatyczny i etykieta w samorządzie (Studia podyplomowe)
-UID:c042eb42-8681-49be-9e52-18dad989293a@c042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marek Wójcik
-DTEND:20250330T120000Z
-DTSTART:20250330T064500Z
-SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
-UID:9284a7f8-b6fa-44d7-9a36-7cf1693e7b7e@9284.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250111T143000Z
-DTSTART:20250111T074500Z
-SUMMARY:Prawne uwarunkowania działalności JST (Studia podyplomowe)
-UID:60747c45-e244-4f6e-97da-d5916258425e@6074.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Magdalena Cetera
-DTEND:20250308T143000Z
-DTSTART:20250308T074500Z
-SUMMARY:Case Study - mediacje w samorządzie (Studia podyplomowe)
-UID:b6160395-3c51-46bb-85b0-3f9fe40de01c@b616.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
-DTEND:20241123T143000Z
-DTSTART:20241123T074500Z
-SUMMARY:Trendy rozwojowe miast. Miasta przyszłości. (Studia podyplomowe)
-UID:614e7028-4ee9-4ca6-a826-f428b583070e@614e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Rafał Jaśkowski
-DTEND:20250510T124500Z
-DTSTART:20250510T064500Z
-SUMMARY:Case Study - media w sytuacji zagrożenia (Studia podyplomowe)
-UID:fb1c49cd-0b15-42bc-ab3d-f04d68c6ce40@fb1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Głuc
-DTEND:20241026T133000Z
-DTSTART:20241026T064500Z
-SUMMARY:Zarządzanie publiczne (Studia podyplomowe)
-UID:13243ba4-0efb-473c-a9ed-79df740e5370@1324.org
+DESCRIPTION:Instructor: mgr Katarzyna Olszewska
+DTEND:20241012T133000Z
+DTSTART:20241012T064500Z
+SUMMARY:Cyberbezpieczeństwo (Studia podyplomowe)
+UID:452251e2-aa77-4202-b823-d70f6f56e1a7@4522.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mirosław Oczkoś
 DTEND:20250412T134500Z
 DTSTART:20250412T074500Z
 SUMMARY:Wystąpienia publiczne (Studia podyplomowe)
-UID:a5297aea-8a37-4e99-a9a4-e5f5529befaa@a529.org
+UID:6589bf43-787a-43f5-a42c-28a769f104f2@6589.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Markiewicz
-DTEND:20241207T171500Z
-LOCATION:Paw.G  9
-DTSTART:20241207T103000Z
-SUMMARY:Zarządzanie zmianą w sytuacji kryzysowej (Studia podyplomowe)
-UID:3842876b-aa25-4f81-b99b-bf3d426eeb5a@3842.org
+DESCRIPTION:Instructor: mgr Anna Jasinowska-Czarny
+DTEND:20241027T143000Z
+DTSTART:20241027T074500Z
+SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
+UID:1f98dfa0-bab4-41fa-bb4c-fe608ef8690f@1f98.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marek Wójcik
-DTEND:20250329T143000Z
-DTSTART:20250329T074500Z
-SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
-UID:abe4c5f2-375e-4af7-9eef-290079eddee0@abe4.org
+DESCRIPTION:Instructor: dr\, prof. KAAFM Tomasz Orłowski
+DTEND:20241013T133000Z
+DTSTART:20241013T064500Z
+SUMMARY:Protokół dyplomatyczny i etykieta w samorządzie (Studia podyplomowe)
+UID:b6a5f4b5-d5c4-4f37-b7af-ce04de23a6ee@b6a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Dolot
@@ -136,14 +128,15 @@ DTEND:20250209T143000Z
 LOCATION:Zajęcia Online
 DTSTART:20250209T074500Z
 SUMMARY:Case Study - HR w samorządzie. Motywowanie pracowników (Studia podyplomowe)
-UID:ee6008c4-d70f-4056-baca-f268d6bb1206@ee60.org
+UID:2eb60f2b-de61-45eb-99a8-841125459a7c@2eb6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20250412T073000Z
-DTSTART:20250412T064500Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:27417deb-13e6-4794-a14b-30e45806f442@2741.org
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241207T171500Z
+LOCATION:Paw.G  9
+DTSTART:20241207T103000Z
+SUMMARY:Zarządzanie zmianą w sytuacji kryzysowej (Studia podyplomowe)
+UID:8321d01f-43ac-4886-ac0b-21a285f00cbb@8321.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
@@ -151,7 +144,28 @@ DTEND:20241207T083000Z
 LOCATION:Paw.G  9
 DTSTART:20241207T074500Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:af017e47-f356-45c8-b08a-e5248d03f38f@af01.org
+UID:f3f29679-c541-4379-ab92-963e68bf3204@f3f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241026T133000Z
+DTSTART:20241026T064500Z
+SUMMARY:Zarządzanie publiczne (Studia podyplomowe)
+UID:65ffb73e-5120-4114-83a8-a0e6f248aa5e@65ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250111T143000Z
+DTSTART:20250111T074500Z
+SUMMARY:Prawne uwarunkowania działalności JST (Studia podyplomowe)
+UID:7601b3cb-dde3-4b92-a0a1-2303c2ac379c@7601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20250511T133000Z
+DTSTART:20250511T064500Z
+SUMMARY:Obrony prac końcowych (Studia podyplomowe)
+UID:bd0f004a-9e5d-400d-970c-b640e71485d6@bd0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
@@ -159,27 +173,13 @@ DTEND:20241208T143000Z
 LOCATION:Paw.G  9
 DTSTART:20241208T074500Z
 SUMMARY:Nadzór właścicielski w JST. Analiza sprawozdań finansowych (Studia podyplomowe)
-UID:31b68272-11f6-456d-b6e1-17311851e613@31b6.org
+UID:cf57311f-7b39-48ee-a522-a359d03966d6@cf57.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
-DTEND:20250511T133000Z
-DTSTART:20250511T064500Z
-SUMMARY:Obrony prac końcowych (Studia podyplomowe)
-UID:606758e7-e3ab-4bb3-8da0-6351376a0566@6067.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
-DTEND:20241124T143000Z
-DTSTART:20241124T074500Z
-SUMMARY:Programowanie i finansowanie polityk publicznych (Studia podyplomowe)
-UID:ca470c2f-1c89-4381-bde1-98759dd6df81@ca47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Jasinowska-Czarny
-DTEND:20241027T143000Z
-DTSTART:20241027T074500Z
-SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
-UID:96f6de68-bdfb-4847-a603-307a4d26b338@96f6.org
+DESCRIPTION:Instructor: mgr Marek Wójcik
+DTEND:20250329T143000Z
+DTSTART:20250329T074500Z
+SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
+UID:bb36763b-3503-4334-922b-4db11e3dca71@bb36.org
 END:VEVENT
 END:VCALENDAR
