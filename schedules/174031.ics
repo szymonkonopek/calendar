@@ -2,20 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250426T094500Z
-LOCATION:Paw.F 717
-DTSTART:20250426T064500Z
-SUMMARY:Wycena nieruchomości (ćwiczenia)
-UID:f5220320-9932-4559-8a9c-2b588802a5f9@f522.org
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250525T123000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250525T101500Z
+SUMMARY:Nieruchomość w mieście zrównoważonym (ćwiczenia)
+UID:1d0559a2-154d-4147-a1f8-dc8beabb8fb4@1d05.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250524T090000Z
-LOCATION:Paw.S sala 6
-DTSTART:20250524T064500Z
-SUMMARY:Zarządzanie emocjami i gniewem (ćwiczenia do wyboru)
-UID:78448d4b-0468-467a-8486-11d48cf34218@7844.org
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250301T100000Z
+DTSTART:20250301T074500Z
+SUMMARY:Wycena nieruchomości dla celów szczególnych (wykład do wyboru)
+UID:1c72afae-3e67-4a12-86bd-b4ddfb709c93@1c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20250301T124500Z
+DTSTART:20250301T103000Z
+SUMMARY:Wycena nieruchomości (wykład)
+UID:7de3a31d-d8da-49ca-bcbe-68fc1894014d@7de3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20250405T114500Z
+DTSTART:20250405T093000Z
+SUMMARY:Wycena nieruchomości (wykład)
+UID:0e682a41-d9e6-46f6-b82b-43b929cdac4e@0e68.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Uhruska
@@ -23,14 +36,21 @@ DTEND:20250427T090000Z
 LOCATION:Paw.F 415
 DTSTART:20250427T064500Z
 SUMMARY:Wycena nieruchomości dla celów szczególnych (ćwiczenia do wyboru)
-UID:601ab961-c458-4bdd-b206-d9087aa1d8a9@601a.org
+UID:b810861c-ba06-4433-b63c-7139ab234130@b810.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Uhruska
 DTEND:20250404T184500Z
 DTSTART:20250404T163000Z
 SUMMARY:Wycena nieruchomości dla celów szczególnych (wykład do wyboru)
-UID:12809504-209d-4396-9701-3e73490ad46d@1280.org
+UID:ea68e75e-d294-44d4-82d7-8f731b246862@ea68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250524T141500Z
+DTSTART:20250524T120000Z
+SUMMARY:Nieruchomość w mieście zrównoważonym (Przeniesienie zajęć)
+UID:35f216d0-bc2e-44f1-8925-c3a01c2cdf11@35f2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Uhruska
@@ -38,66 +58,7 @@ DTEND:20250607T141500Z
 LOCATION:Paw.C sala E
 DTSTART:20250607T120000Z
 SUMMARY:Wycena nieruchomości (ćwiczenia)
-UID:11102b7a-7847-4229-a080-8a57919f006b@1110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250314T194500Z
-DTSTART:20250314T173000Z
-SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
-UID:a5aedbf3-d575-4801-a35c-98e950d1b61c@a5ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20250524T141500Z
-DTSTART:20250524T120000Z
-SUMMARY:Nieruchomość w mieście zrównoważonym (Przeniesienie zajęć)
-UID:2b4c8c9b-51b3-4141-a6de-db89fc0fadcc@2b4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250301T100000Z
-DTSTART:20250301T074500Z
-SUMMARY:Wycena nieruchomości dla celów szczególnych (wykład do wyboru)
-UID:d33fd1ce-492c-4aae-bce8-f3480154b21d@d33f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tomal
-DTEND:20250621T083000Z
-LOCATION:Paw.B 151
-DTSTART:20250621T074500Z
-SUMMARY:Wycena nieruchomości (egzamin)
-UID:94ccb07f-45cd-411f-9f1c-3ca3f1e34e77@94cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tomal
-DTEND:20250913T083000Z
-LOCATION:Paw.B 151
-DTSTART:20250913T074500Z
-SUMMARY:Ekonomiczna efektywność inwestycji\, Wycena nieruchomości (egzamin)
-UID:ae197174-edc3-4e8d-94bc-5833b15b3ab1@ae19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250315T100000Z
-DTSTART:20250315T074500Z
-SUMMARY:Wycena nieruchomości dla celów szczególnych (wykład do wyboru)
-UID:7926d172-e456-4262-adea-b000196effe2@7926.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250427T114500Z
-LOCATION:Bibl. 441
-DTSTART:20250427T093000Z
-SUMMARY:Zarządzanie emocjami i gniewem (ćwiczenia do wyboru)
-UID:d9aab698-e598-4dfc-8951-60e570b58cbb@d9aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20250406T123000Z
-DTSTART:20250406T101500Z
-SUMMARY:Nieruchomość w mieście zrównoważonym (Przeniesienie zajęć)
-UID:409486ef-a169-477b-a2c5-39a3ac9ca665@4094.org
+UID:5b71a818-9873-402b-b8b8-046c2f3284bc@5b71.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Uhruska
@@ -105,30 +66,14 @@ DTEND:20250607T170000Z
 LOCATION:Paw.B 054 (KSB)
 DTSTART:20250607T144500Z
 SUMMARY:Wycena nieruchomości dla celów szczególnych (ćwiczenia do wyboru)
-UID:d824beec-fd28-4de0-8b56-a6eb1fa25187@d824.org
+UID:13f62dcc-da4f-4ea3-a6af-e87300a29717@13f6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250406T094500Z
-LOCATION:Paw.S sala 10
-DTSTART:20250406T064500Z
-SUMMARY:Wycena nieruchomości (ćwiczenia)
-UID:0072bd1f-da5d-4b0e-af61-aaf99fbb6f73@0072.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tomal
-DTEND:20250301T124500Z
-DTSTART:20250301T103000Z
-SUMMARY:Wycena nieruchomości (wykład)
-UID:d9f413a2-a55a-4a56-9dd6-247d69bf3922@d9f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250525T094500Z
-LOCATION:Paw.S sala 10
-DTSTART:20250525T064500Z
-SUMMARY:Wycena nieruchomości (ćwiczenia)
-UID:f3822da9-bed0-438c-8126-7f545105a7d7@f382.org
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250406T123000Z
+DTSTART:20250406T101500Z
+SUMMARY:Nieruchomość w mieście zrównoważonym (Przeniesienie zajęć)
+UID:77e99294-e44c-42b3-9a27-5c229772dd45@77e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
@@ -136,44 +81,30 @@ DTEND:20250426T123000Z
 LOCATION:Paw.U sala O
 DTSTART:20250426T101500Z
 SUMMARY:Nieruchomość w mieście zrównoważonym (ćwiczenia)
-UID:d714d6f4-beaf-4f55-be2d-7d2d872eae4d@d714.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tomal
-DTEND:20250405T114500Z
-DTSTART:20250405T093000Z
-SUMMARY:Wycena nieruchomości (wykład)
-UID:b900b150-800f-4de0-96b3-52ac19d59401@b900.org
+UID:67790ca6-08ee-4b8f-9d90-072c4281a590@6779.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250405T090000Z
-DTSTART:20250405T064500Z
-SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
-UID:0c5fc08c-eb95-4fc0-9dc5-390cb9d9ab56@0c5f.org
+DTEND:20250427T114500Z
+LOCATION:Bibl. 441
+DTSTART:20250427T093000Z
+SUMMARY:Zarządzanie emocjami i gniewem (ćwiczenia do wyboru)
+UID:5da1e30a-4174-4dff-a883-d313fc87c781@5da1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250524T114500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20250524T093000Z
-SUMMARY:Wycena nieruchomości dla celów szczególnych (ćwiczenia do wyboru)
-UID:28eee1ad-1b20-416a-926c-40021b311908@28ee.org
+DTEND:20250315T100000Z
+DTSTART:20250315T074500Z
+SUMMARY:Wycena nieruchomości dla celów szczególnych (wykład do wyboru)
+UID:618c3ded-1f15-4858-a5f2-011dd2ebea98@618c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20250525T123000Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20250525T101500Z
-SUMMARY:Nieruchomość w mieście zrównoważonym (ćwiczenia)
-UID:fe9525b8-432e-4db8-ad8b-49194969eed7@fe95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tomal
-DTEND:20250315T124500Z
-DTSTART:20250315T103000Z
-SUMMARY:Wycena nieruchomości (wykład)
-UID:eb120a70-fc2f-4f66-96c9-2d0abf535729@eb12.org
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250525T094500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250525T064500Z
+SUMMARY:Wycena nieruchomości (ćwiczenia)
+UID:d265ffaa-eb62-4d20-ac64-e08650c1d149@d265.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
@@ -181,7 +112,21 @@ DTEND:20250607T114500Z
 LOCATION:Paw.S sala 6
 DTSTART:20250607T093000Z
 SUMMARY:Zarządzanie emocjami i gniewem (ćwiczenia do wyboru)
-UID:eaa8a695-705b-4412-a8c5-01ef89348bd3@eaa8.org
+UID:25018af0-4d5f-4de9-814e-a0af477cad4d@2501.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20250315T124500Z
+DTSTART:20250315T103000Z
+SUMMARY:Wycena nieruchomości (wykład)
+UID:a6cae260-c089-415b-928d-f0adbcbd2e01@a6ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250405T090000Z
+DTSTART:20250405T064500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:e36d42af-4d54-42ce-81d4-61fcec3dfb65@e36d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
@@ -189,13 +134,68 @@ DTEND:20250606T160000Z
 LOCATION:Paw.C sala A
 DTSTART:20250606T134500Z
 SUMMARY:Nieruchomość w mieście zrównoważonym (ćwiczenia)
-UID:b367f793-6f12-479b-ad85-8d35cc58349e@b367.org
+UID:7314cea0-3d09-4cc5-90a2-4628141e56c4@7314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20250913T083000Z
+LOCATION:Paw.B 151
+DTSTART:20250913T074500Z
+SUMMARY:Ekonomiczna efektywność inwestycji\, Wycena nieruchomości (egzamin)
+UID:ae7b46ab-2b94-4769-aa60-ec840194a50f@ae7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250314T194500Z
+DTSTART:20250314T173000Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:ccb8c493-f3c8-484e-bdce-6d4976593839@ccb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250524T090000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250524T064500Z
+SUMMARY:Zarządzanie emocjami i gniewem (ćwiczenia do wyboru)
+UID:922c913b-5623-44f7-9255-c755cea83614@922c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
 DTEND:20250425T184500Z
 DTSTART:20250425T163000Z
 SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
-UID:05628004-3964-45b1-b2d3-449cdfbe36c8@0562.org
+UID:5e1a2200-a53c-4f37-89b4-377f0f9689d1@5e1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250426T094500Z
+LOCATION:Paw.F 717
+DTSTART:20250426T064500Z
+SUMMARY:Wycena nieruchomości (ćwiczenia)
+UID:390e6601-a41d-4db1-8588-c0dbdfae00a5@390e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250406T094500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250406T064500Z
+SUMMARY:Wycena nieruchomości (ćwiczenia)
+UID:6a5a5af3-f0bc-4635-a1db-f9dc28642874@6a5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20250621T083000Z
+LOCATION:Paw.B 151
+DTSTART:20250621T074500Z
+SUMMARY:Wycena nieruchomości (egzamin)
+UID:7700230d-10e4-4b10-be42-d7a7d261eceb@7700.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250524T114500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250524T093000Z
+SUMMARY:Wycena nieruchomości dla celów szczególnych (ćwiczenia do wyboru)
+UID:2bafe100-a0a9-4bf5-a711-690a36ff5501@2baf.org
 END:VEVENT
 END:VCALENDAR
