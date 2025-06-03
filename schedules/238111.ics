@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250604T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250604T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:67c4df03-2dcd-4b9c-82c9-1d8534d32c11@67c4.org
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250319T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250319T103000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
+UID:7bab99b4-fef9-4907-a38e-fcb2974a27f5@7bab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250602T110000Z
+DTSTART:20250602T093000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
+UID:5d26f702-1be5-4c1d-9938-333e68f5d5c3@5d26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
@@ -15,29 +22,7 @@ DTEND:20250310T151500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20250310T130000Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:b66892e7-2afd-49f8-b37a-fd424c994632@b668.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250507T161500Z
-LOCATION:Paw.B 151
-DTSTART:20250507T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:69b57cf6-a159-4871-8f9f-43582a1fd946@69b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250326T114500Z
-DTSTART:20250326T084500Z
-SUMMARY: (rezerwacja)
-UID:e06f18ba-18c0-4e19-ab3a-1c83ebb4f9a6@e06f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250327T150000Z
-DTSTART:20250327T103000Z
-SUMMARY: (rezerwacja)
-UID:7b0fa04e-d25f-4226-8da6-bc9be74fcc90@7b0f.org
+UID:2b516c2b-7383-4979-b75c-020041f610f8@2b51.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
@@ -45,487 +30,7 @@ DTEND:20250602T141500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20250602T120000Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:e6f66e74-2b4a-4641-b5c8-cc03aa5853d9@e6f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250611T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250611T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:e6ee35fd-58e4-48d2-848c-e3257363dfa9@e6ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250611T110000Z
-LOCATION:Paw.C sala E
-DTSTART:20250611T093000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:ab2842e0-e5c6-43b1-8b16-8672410509fa@ab28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250319T181500Z
-DTSTART:20250319T173000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
-UID:edaa04b8-f792-4d35-875b-108d8f408715@edaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250507T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250507T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:cf02175f-85e0-4bb8-9567-a616d78a024a@cf02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250430T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250430T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:d39ce855-ed03-4211-81d6-d86d6178bda4@d39c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250521T141500Z
-DTSTART:20250521T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (Przeniesienie zajęć)
-UID:5c0e5734-d961-4551-90af-a8d64443314a@5c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250428T141500Z
-DTSTART:20250428T120000Z
-SUMMARY:Narzędzia informatyczne w controllingu (Przeniesienie zajęć)
-UID:e294c99f-a1ae-4022-83c6-4bcaa45f87ff@e294.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250402T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250402T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:bab33a63-9f8f-421f-9e25-5ee1835bd9cd@bab3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250305T171500Z
-LOCATION:Paw.B 151
-DTSTART:20250305T154500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:981944ed-8798-4822-a53f-69137969db89@9819.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250328T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20250328T070000Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:f85c1745-b3a8-464b-baff-0cc81a4daf17@f85c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250305T151500Z
-LOCATION:Paw.G  9
-DTSTART:20250305T121500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:1bfb7465-0f1a-4c78-8000-9f049039e903@1bfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250331T141500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250331T120000Z
-SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:c9e0f2d4-d322-4af5-b3c7-abe19b1557ab@c9e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250416T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250416T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:8edad8a5-c645-40a4-96b1-8a1cc89ea20e@8eda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250505T141500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250505T120000Z
-SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:23a64b51-3c2d-4c27-9efc-42a9d88c6fdb@23a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250416T161500Z
-LOCATION:Paw.B 151
-DTSTART:20250416T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:19837d13-15c1-47da-aeb7-aa2973b9754c@1983.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250514T161500Z
-DTSTART:20250514T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
-UID:6b595a33-71a4-46b1-bc52-12edf3c151e1@6b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250407T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250407T060000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:d07632de-4dc7-4e2e-8d0c-b67589d49a46@d076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250319T120000Z
-LOCATION:Paw.S sala 9
-DTSTART:20250319T103000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:51469bd8-8364-4456-aff2-7d7aa1ba520b@5146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250310T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250310T070000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:950f3e30-9fe2-4abe-9733-8678d6a556c8@950f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250228T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20250228T070000Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:1b01022f-65fd-464b-a73c-61ca99e8961e@1b01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250521T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250521T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:1cc095d0-5e8a-465e-9085-ce5201b4e545@1cc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250319T171500Z
-LOCATION:Paw.B 151
-DTSTART:20250319T154500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:174cb434-37b2-4b15-aa55-d9009a6d3904@174c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250226T171500Z
-LOCATION:Paw.B 151
-DTSTART:20250226T154500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:87f36fa4-c019-4b31-a417-b422863cc5cb@87f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250611T091500Z
-LOCATION:Paw.F 111
-DTSTART:20250611T083000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:8df42d9b-aa1a-4375-856e-1e0aa233e0ab@8df4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250507T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250507T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:18694fef-8659-4d9f-aedc-aa537e07d046@1869.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250317T101500Z
-LOCATION:Paw.B 451
-DTSTART:20250317T084500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:2a8570e0-9c47-4893-9b4b-c1c12d737b5d@2a85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250611T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250611T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:af985a22-3133-4924-adef-88558cde94b7@af98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250324T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250324T070000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:9e3c7356-86c6-4c85-b542-d9aa1901be29@9e3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250416T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250416T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:95ace3d1-f3da-4b2e-8e19-221f2289f41f@95ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250423T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250423T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:e38671f6-ec44-4a0b-828a-c70d08b563ae@e386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250416T110000Z
-LOCATION:Paw.B 251
-DTSTART:20250416T093000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:640cb74f-ac97-4dc0-a98f-29e9811bbed9@640c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250305T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250305T070000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:7d531b4f-1d44-49cc-984f-c0b6d57beccc@7d53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250602T110000Z
-LOCATION:Paw.C sala A
-DTSTART:20250602T093000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:379d1b62-aae7-4fe5-8100-34c82791a356@379d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250414T174500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250414T144500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:90d0f6ee-28f8-46f5-aa7e-f9d95435e10c@90d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250303T151500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250303T130000Z
-SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:eb61ac9b-2644-48bf-9cd0-ca029af4b380@eb61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250312T171500Z
-LOCATION:Paw.B 151
-DTSTART:20250312T154500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:f9df5ffb-2032-4e24-b930-09af65c36ca8@f9df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250514T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250514T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:e7698193-de74-44b2-b7ca-27b7b83dcbe7@e769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250428T073000Z
-DTSTART:20250428T064500Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru zdalny)
-UID:ed4fad18-5606-4d08-8de9-eeace15347bb@ed4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250523T103000Z
-LOCATION:Platforma Moodle
-DTSTART:20250523T060000Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:0d60df0d-2e36-4ebf-8693-d477ffc9a87c@0d60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250304T133000Z
-DTSTART:20250304T103000Z
-SUMMARY: (rezerwacja)
-UID:837a3a0d-461a-42b9-bc1e-cb918cdaf244@837a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250611T161500Z
-LOCATION:Paw.B 151
-DTSTART:20250611T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:c846e955-3ccb-4d71-9ab6-17e4cdc4cfe6@c846.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250226T151500Z
-LOCATION:Paw.G  9
-DTSTART:20250226T121500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:0f6758d5-1984-43ff-8208-7639c3e964d5@0f67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250430T110000Z
-LOCATION:Paw.B 251
-DTSTART:20250430T093000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:0f4f850e-2606-4773-a156-eac7323e16a5@0f4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250321T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20250321T070000Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:ea4309e5-81e3-4e76-b755-64e8a5c8a10a@ea43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250319T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250319T070000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:d37defd9-936e-4403-a1c3-b59869ae7149@d37d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250512T141500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250512T120000Z
-SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:76cf853d-98c9-439f-a21d-4209e192470f@76cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250402T141500Z
-LOCATION:Paw.G  9
-DTSTART:20250402T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:cabc5695-3a87-4fb0-ab47-0be32e32754c@cabc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250331T110000Z
-LOCATION:Paw.S sala 6
-DTSTART:20250331T093000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:bdaf50f4-59d2-4ee7-9ade-3081b9f2d84b@bdaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250326T151500Z
-LOCATION:Paw.G  9
-DTSTART:20250326T121500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:0f5bd86a-9125-4e2e-b5c4-886aff294b68@0f5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250603T181500Z
-LOCATION:Platforma Moodle
-DTSTART:20250603T134500Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:d411d60b-9d3a-4e3c-82b0-4cfcd72e3f64@d411.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250226T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250226T070000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:fca099d7-c674-42f6-9cf6-291b844893a2@fca0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250317T083000Z
-LOCATION:Paw.C sala B
-DTSTART:20250317T070000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:3d9b8bc2-ec9f-48e6-a589-76b3f45b1eac@3d9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250409T141500Z
-DTSTART:20250409T111500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (Przeniesienie zajęć)
-UID:6f5e0a25-8360-458f-a113-40adb7e76cb7@6f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250224T151500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250224T130000Z
-SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:a5c7a8cb-8872-4826-9fed-adb116fc963c@a5c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250423T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250423T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:ae2db15e-8fff-40f9-a80c-bf0b4d421dd4@ae2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250514T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250514T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:06b3e2a5-4a57-4308-8d3b-1a3f5fb2e0b3@06b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250521T161500Z
-LOCATION:Paw.B 151
-DTSTART:20250521T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:78707f19-3017-4640-914f-49c0540d7cad@7870.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250312T120000Z
-DTSTART:20250312T103000Z
-SUMMARY:Techniki negocjacji biznesowych (Przeniesienie zajęć)
-UID:7fb69493-48fb-4217-bb77-b36923a354a7@7fb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250402T161500Z
-LOCATION:Paw.B 151
-DTSTART:20250402T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:e86cfa8f-1da0-4e2c-b3d3-69605a9ba854@e86c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250430T161500Z
-LOCATION:Paw.B 151
-DTSTART:20250430T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:9cc88f25-af47-42f0-8c7f-cb9142b809d9@9cc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250326T171500Z
-LOCATION:Paw.B 151
-DTSTART:20250326T154500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:1a639283-286b-4fff-a7cc-2fdb77b682d8@1a63.org
+UID:d78567f2-22db-44d7-a537-7587a13fe66f@d785.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
@@ -533,39 +38,15 @@ DTEND:20250407T141500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20250407T120000Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:28f8b4d3-404e-4d2e-86aa-31539435dd19@28f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250307T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20250307T070000Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:4e53ad80-08a9-4f58-b7fb-1058368eaa8e@4e53.org
+UID:71e22b4f-ca25-4ea4-8b67-faf2b1a85cb7@71e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250519T141500Z
+DTEND:20250505T141500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250519T120000Z
+DTSTART:20250505T120000Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:1642c771-b97d-4095-93d2-bf0481642d10@1642.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250303T120000Z
-LOCATION:Paw.S sala 6
-DTSTART:20250303T103000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:557cb508-219c-4974-994c-722abf827f85@557c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250314T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20250314T070000Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:6f9ae2d9-eeab-4d81-912c-df009d8d5032@6f9a.org
+UID:2d9242c3-2fa8-4701-9637-3c61cc50b447@2d92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
@@ -573,86 +54,30 @@ DTEND:20250410T090000Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20250410T064500Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:740f0542-8ec5-4308-8964-a630f8eb95ee@740f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250423T161500Z
-LOCATION:Paw.B 151
-DTSTART:20250423T144500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:55e72970-9b51-4fd4-acc5-a83ae69c1db1@55e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250414T141500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250414T120000Z
-SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:536789f0-c6fb-411e-a5aa-491fd7a9da07@5367.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250526T141500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250526T120000Z
-SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:0fa82a50-4b73-4ed4-a569-693ccb991b76@0fa8.org
+UID:61694a1b-068c-4f93-81e1-93fb4643044a@6169.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250526T104500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250526T074500Z
+DTEND:20250514T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250514T111500Z
 SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:97ca7fdc-84e5-4571-af82-509efacc34ac@97ca.org
+UID:74092af3-817b-4d29-aa96-273e7fdac424@7409.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250414T110000Z
-LOCATION:Paw.S sala 5
-DTSTART:20250414T093000Z
+DTEND:20250317T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20250317T070000Z
 SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:bc80437a-fbef-44fd-8ad5-6fa6f5908c17@bc80.org
+UID:31ac7fbd-e6ec-4d14-8173-adad1e921870@31ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250317T120000Z
-LOCATION:Paw.C sala D
-DTSTART:20250317T103000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:ada3f021-340d-4a05-bfa4-59699a455a34@ada3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250326T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250326T070000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:988fe569-820a-47cd-a1f7-5ad98ee183e0@988f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250514T110000Z
-DTSTART:20250514T093000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
-UID:a833273a-decf-4b75-804d-26cb0ed5efa1@a833.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250402T110000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250402T093000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:a92d1e60-900b-43e0-aea7-ca7dc99b93b0@a92d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20250513T181500Z
-LOCATION:Platforma Moodle
-DTSTART:20250513T134500Z
-SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:b028af51-073e-4fb2-962f-5e1a65a2c693@b028.org
+DESCRIPTION:Instructor: 
+DTEND:20250304T133000Z
+DTSTART:20250304T103000Z
+SUMMARY: (rezerwacja)
+UID:f1b62b9b-5747-4f92-9118-a510ff775082@f1b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
@@ -660,39 +85,23 @@ DTEND:20250609T141500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20250609T120000Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:50dcf124-fd93-4614-9a94-4650cfef8275@50dc.org
+UID:f4a7a93d-314d-413e-9c84-1b158dbb57cd@f4a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250604T161500Z
+DTEND:20250611T161500Z
 LOCATION:Paw.B 151
-DTSTART:20250604T144500Z
+DTSTART:20250611T144500Z
 SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:4d6e2a7d-8e0f-4219-a790-ef0e840839d3@4d6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20250319T151500Z
-LOCATION:Paw.G  9
-DTSTART:20250319T121500Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:415751f8-df8f-4010-aa5f-82d251ed7089@4157.org
+UID:89c9e446-9703-48d1-aa17-6aec2b49d453@89c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250317T151500Z
+DTEND:20250224T151500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250317T130000Z
+DTSTART:20250224T130000Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:ac771f9d-50f0-4fbe-bdff-4b3909d1936e@ac77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20250409T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250409T060000Z
-SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:4616b6ef-8e25-4ad9-8148-cc45c7c78ac4@4616.org
+UID:def80152-74aa-4d15-972b-8671c5be69cd@def8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Beata Kulisa
@@ -700,30 +109,117 @@ DTEND:20250409T161500Z
 LOCATION:Paw.B 151
 DTSTART:20250409T144500Z
 SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
-UID:0778255f-fc5b-47c2-9128-dc06f6b9ada2@0778.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250603T124500Z
-LOCATION:Paw.F 104
-DTSTART:20250603T111500Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:51066662-79f0-4749-8fbb-666739951fa2@5106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Kulisa
-DTEND:20250319T120000Z
-DTSTART:20250319T103000Z
-SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
-UID:6b9f65a9-7e5d-45ff-9654-84cd3e34eb87@6b9f.org
+UID:98073c41-f3c2-4ed0-9f86-94aa64454ae5@9807.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20250404T073000Z
+DTEND:20250307T104500Z
 LOCATION:Platforma Moodle
-DTSTART:20250404T060000Z
+DTSTART:20250307T070000Z
 SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
-UID:83c0160c-c654-4e4b-8e11-d0cfa5c1a19f@83c0.org
+UID:e5946d22-c745-47cb-8187-8f977f90abb4@e594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250409T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250409T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:f3cad259-cd39-47bf-a4b7-d7db4835e697@f3ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250319T181500Z
+DTSTART:20250319T173000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
+UID:c92cc336-23e3-4a2e-a887-8507aceb9005@c92c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250312T120000Z
+DTSTART:20250312T103000Z
+SUMMARY:Techniki negocjacji biznesowych (Przeniesienie zajęć)
+UID:9604e69d-5e73-4187-b6ee-e3edddaa78c6@9604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250523T103000Z
+LOCATION:Platforma Moodle
+DTSTART:20250523T060000Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:5753be2c-c848-499b-994c-960e428fb438@5753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250513T181500Z
+LOCATION:Platforma Moodle
+DTSTART:20250513T134500Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:21cec714-3e9b-4802-b3e3-c489ba4b5823@21ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250331T141500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250331T120000Z
+SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
+UID:2d177a7b-dc04-4194-a506-69afe08c54cc@2d17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250317T101500Z
+LOCATION:Paw.B 451
+DTSTART:20250317T084500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:dd5b7c70-0839-4c92-942f-981664a7af73@dd5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250226T151500Z
+LOCATION:Paw.G  9
+DTSTART:20250226T121500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:2f89a968-2c61-4c92-ad33-7ea8cef47d24@2f89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250326T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250326T070000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:09cd6415-3a82-46c6-a310-f311252c331c@09cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250521T161500Z
+LOCATION:Paw.B 151
+DTSTART:20250521T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:1766736f-6b06-4bac-9d86-865a70b3576e@1766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250416T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250416T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:daa2f8af-b667-4b84-ae28-dd9cbcc86e72@daa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250402T161500Z
+LOCATION:Paw.B 151
+DTSTART:20250402T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:cc09ddab-7ff0-4d38-9360-7125822ddaeb@cc09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250610T161500Z
+LOCATION:Paw.B 251
+DTSTART:20250610T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:e372d8cc-69b0-4870-bbde-1142c1c4e4cd@e372.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marek Dziura
@@ -731,7 +227,39 @@ DTEND:20250312T151500Z
 LOCATION:Paw.G  9
 DTSTART:20250312T121500Z
 SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
-UID:5ef9edee-3883-4bb6-b40b-2654824da547@5ef9.org
+UID:69485967-4bb2-4ddf-976d-ab4653abcd73@6948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250603T124500Z
+LOCATION:Paw.F 104
+DTSTART:20250603T111500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
+UID:24113ed0-ab5f-46e7-9203-0ddbd6afbc81@2411.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250423T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250423T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:7c735c36-861d-40f5-a054-af55a59ce179@7c73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250321T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20250321T070000Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:4b65a9c3-7ce2-4d93-9194-5d487f4e004b@4b65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250526T141500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250526T120000Z
+SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
+UID:2947635c-9ed5-4ec4-98d1-b694a351aa90@2947.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
@@ -739,7 +267,401 @@ DTEND:20250324T151500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20250324T130000Z
 SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
-UID:f015be85-f1cc-4719-a323-5658f11b4b4f@f015.org
+UID:94aa30fa-f9d7-401b-8664-fb09af136aca@94aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250611T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250611T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:9633fb0f-ec1f-47b4-be5a-5064efad2d1b@9633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250416T110000Z
+LOCATION:Paw.B 251
+DTSTART:20250416T093000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
+UID:6e8d473d-3160-4495-9a3b-b38650302b21@6e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250416T161500Z
+LOCATION:Paw.B 151
+DTSTART:20250416T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:41efd850-d1df-406e-8ede-32561cc4782e@41ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250409T141500Z
+DTSTART:20250409T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (Przeniesienie zajęć)
+UID:d895f921-1b7a-4022-b405-bde4ff308003@d895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250611T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250611T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:9a1f3607-9b10-4748-a5eb-833116efe5a7@9a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250414T110000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250414T093000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:551f8943-1019-40ca-a389-34baca875915@551f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250303T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250303T103000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:bb682ab0-170d-4d05-834e-65f65370f4f3@bb68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250414T141500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250414T120000Z
+SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
+UID:3e7c8da7-9267-44c9-843b-452d97b78e68@3e7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250317T151500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250317T130000Z
+SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
+UID:2b24d084-1f32-4984-844e-8da55cb0f93a@2b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250326T114500Z
+DTSTART:20250326T084500Z
+SUMMARY: (rezerwacja)
+UID:8e91f3c1-4985-47b1-8c3d-78c7e413c6e4@8e91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250326T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250326T154500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:4bd47422-2a88-4e0e-9d20-17cf3ac6b44c@4bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250312T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250312T154500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:29fec62c-46ce-48f6-81d4-5b568aaa6f80@29fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250604T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250604T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:a41ece42-8be9-4f87-9af3-ce71a11455a9@a41e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250521T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250521T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:73fb92e1-c8b2-4b43-8102-40027d4a36af@73fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250319T151500Z
+LOCATION:Paw.G  9
+DTSTART:20250319T121500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:e18eea16-8423-46a5-9d68-2b31232c992d@e18e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250416T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250416T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:d7dbdfe4-eba5-4a9a-9422-d045c9fc7440@d7db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250521T141500Z
+DTSTART:20250521T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (Przeniesienie zajęć)
+UID:4e36a4be-bbc5-4e01-b09c-18e623123cb6@4e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250310T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250310T070000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:fb30bfdc-1090-4cf4-bd54-00244fa35146@fb30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250319T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250319T070000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:5de6e377-b3c9-4074-aa03-826199c66635@5de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250331T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250331T093000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:b7fb3f87-1725-4740-864b-8b522d3b096b@b7fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250611T091500Z
+LOCATION:Paw.F 111
+DTSTART:20250611T083000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
+UID:63638926-db7c-4292-8374-c67d90d762e6@6363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250402T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250402T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:12e970bb-3ca9-4d78-9c33-64d6772674e5@12e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250423T161500Z
+LOCATION:Paw.B 151
+DTSTART:20250423T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:7dc5cc41-d8a1-4a43-aaf0-ea77c8d0d4c1@7dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250404T073000Z
+LOCATION:Platforma Moodle
+DTSTART:20250404T060000Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:d6acffef-a3c9-4736-8482-89905f34fffc@d6ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250603T181500Z
+LOCATION:Platforma Moodle
+DTSTART:20250603T134500Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:365388da-e94d-48d0-8e1f-407dc34b1ddf@3653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250430T161500Z
+LOCATION:Paw.B 151
+DTSTART:20250430T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:0bc9e730-813d-4972-8d41-bbb81af38094@0bc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250507T161500Z
+LOCATION:Paw.B 151
+DTSTART:20250507T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:4847f29b-a9e1-4b5b-98c5-80ad51c6fa6e@4847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250319T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250319T154500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:e8ce324a-3391-4603-896f-c3f4472dfd17@e8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250507T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250507T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:6c982640-de7b-4a50-8b01-dbc0165af028@6c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250228T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20250228T070000Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:0426caaf-7a08-4b70-bd13-2ce1e4451de1@0426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250430T110000Z
+LOCATION:Paw.B 251
+DTSTART:20250430T093000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
+UID:9075970a-3a94-4ea8-9b8d-44737a529735@9075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250305T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250305T070000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:e226cb19-ab4d-49b8-a902-8b3c6e8fe90a@e226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250423T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250423T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:bd1782d0-594c-4924-a5fe-e9970a5da747@bd17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250428T073000Z
+DTSTART:20250428T064500Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru zdalny)
+UID:94e045bc-de35-485a-b31d-9b4394ffc885@94e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250317T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20250317T103000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:a4c94179-5848-454c-a971-e2d8db160397@a4c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250604T161500Z
+LOCATION:Paw.B 151
+DTSTART:20250604T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:cc70408d-5826-4289-ba0d-b418e1082593@cc70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250514T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250514T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:00fdbd8e-3197-4fda-bd17-7b2373277cef@00fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250402T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250402T093000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
+UID:1004b676-f77a-401a-9daf-f429acd58761@1004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250305T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250305T154500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:c2fa337b-4bf1-46e4-a843-14f2f4f0db25@c2fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250326T151500Z
+LOCATION:Paw.G  9
+DTSTART:20250326T121500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:c5490193-44aa-43d2-ac53-9cfc69e052e6@c549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250611T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20250611T093000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
+UID:0176e0fe-cd05-4fcd-b609-b74f14b38799@0176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250226T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250226T154500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (ćwiczenia)
+UID:460805aa-7a61-4dc9-9fd0-fd2525465574@4608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250314T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20250314T070000Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:e04757d7-99f9-4ab1-9978-4ed6dc580742@e047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250514T110000Z
+DTSTART:20250514T093000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
+UID:ae24d3f2-0308-40cb-81b3-889adfb4229f@ae24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250519T141500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250519T120000Z
+SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
+UID:f9617bf7-2270-4911-8f92-4f984859c1c0@f961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250512T141500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250512T120000Z
+SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
+UID:5562b93b-cf94-45e9-aad3-e1e7f7a85966@5562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250402T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250402T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:0858be14-d5ba-4301-8121-aaf40f6b6f9e@0858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250328T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20250328T070000Z
+SUMMARY:Narzędzia informatyczne w controllingu (Ćwiczenia e-learningowe)
+UID:22f223d7-24ac-47f4-ae42-604c8c9b5c04@22f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250319T120000Z
+DTSTART:20250319T103000Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
+UID:913014e8-21de-40a4-81b3-265bf1ad4943@9130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250226T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250226T070000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:9649ad33-7b39-4856-b694-9db0eb56e718@9649.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Beata Kulisa
@@ -747,7 +669,69 @@ DTEND:20250305T120000Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20250305T103000Z
 SUMMARY:Systemy motywacji i premiowania w controllingu (wykład)
-UID:a434475b-d41a-4c84-b6f0-9e9fb3f6010e@a434.org
+UID:8f1a5360-07e1-4f25-a5cc-4116274e1b24@8f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250327T150000Z
+DTSTART:20250327T103000Z
+SUMMARY: (rezerwacja)
+UID:a15af723-104e-40c5-98df-831359871525@a15a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250414T174500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250414T144500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:85823d9e-1ab6-495e-9091-854161ec8900@8582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250507T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250507T060000Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
+UID:5d23bd5f-b7fd-4016-819f-9a446bae824d@5d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250324T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250324T070000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:e1dfddb6-d6fa-48e8-a83c-a537d1ad0756@e1df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250407T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250407T060000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:95ba6ada-e795-4528-bd0c-6d2736279ad1@95ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Kulisa
+DTEND:20250514T161500Z
+DTSTART:20250514T144500Z
+SUMMARY:Systemy motywacji i premiowania w controllingu (Przeniesienie zajęć)
+UID:0565ea5b-5078-420f-96f4-f2138ccfa5d7@0565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250430T141500Z
+LOCATION:Paw.G  9
+DTSTART:20250430T111500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:0cde59b3-e062-43f2-894e-9001437cd8ed@0cde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250305T151500Z
+LOCATION:Paw.G  9
+DTSTART:20250305T121500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:35515081-7e73-4801-a84e-c051b46d11f5@3551.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
@@ -755,6 +739,29 @@ DTEND:20250312T083000Z
 LOCATION:Paw.C sala F
 DTSTART:20250312T070000Z
 SUMMARY:Analiza i diagnostyka ekonomiczna (wykład)
-UID:a2091fcb-3c63-40c5-a344-54fc8859032b@a209.org
+UID:83722714-6bc3-4ba7-b876-396c8fad12eb@8372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250428T141500Z
+DTSTART:20250428T120000Z
+SUMMARY:Narzędzia informatyczne w controllingu (Przeniesienie zajęć)
+UID:eb097d63-edc0-4e59-98db-af202e5ac475@eb09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250526T104500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250526T074500Z
+SUMMARY:Analiza i diagnostyka ekonomiczna (ćwiczenia)
+UID:d13ea8ac-e5be-4d79-8a02-29faf1cf1f51@d13e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250303T151500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250303T130000Z
+SUMMARY:Narzędzia informatyczne w controllingu (ćwiczenia)
+UID:80e5c80e-0dd6-43f2-b538-a92daa60bf71@80e5.org
 END:VEVENT
 END:VCALENDAR
