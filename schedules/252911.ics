@@ -2,50 +2,81 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250328T170000Z
-LOCATION:Paw.C sala A
-DTSTART:20250328T144500Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:0b74d653-afa7-40da-bb82-7b3581238ba0@0b74.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250330T160000Z
+DTSTART:20250330T134500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
+UID:fa8c82f4-aadc-4f14-9855-71a68073ba4b@fa8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250315T114500Z
+DTSTART:20250315T093000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
+UID:55411c98-017d-4d54-933c-b53113793ade@5541.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Tomasz Małkus
 DTEND:20250426T081500Z
 DTSTART:20250426T060000Z
 SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
-UID:599403be-18d2-4766-a788-cbddb1fe040e@5994.org
+UID:8139b2f2-8e23-42c1-b231-c95cbc1afece@8139.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250309T091500Z
-DTSTART:20250309T070000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
-UID:ae2995ff-d5ed-4563-810d-dc3aa2fc69e2@ae29.org
+DTEND:20250316T091500Z
+DTSTART:20250316T070000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
+UID:f9bd5080-74af-43b2-b566-0a6902e4ebe2@f9bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sonia Żemła
-DTEND:20250607T081500Z
-LOCATION:Bud.gł. 6
-DTSTART:20250607T060000Z
-SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
-UID:05754db0-0712-4dfa-9fe1-0cd6ea94933f@0575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250316T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20250316T111500Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład e-learningowy)
-UID:a4eac98b-228b-460a-b866-8a51eabb8f4c@a4ea.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250308T114500Z
+DTSTART:20250308T093000Z
+SUMMARY:Zarządzanie jakością w projekcie (wykład)
+UID:1696eab9-d6c6-4d08-bd2c-d78857594752@1696.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250607T133000Z
-LOCATION:Bibl. 443
-DTSTART:20250607T120000Z
-SUMMARY:Zarządzanie czasem w projekcie (rezerwacja)
-UID:8d434b6d-b1da-4879-b10f-e67ec3b0ea84@8d43.org
+DTEND:20250330T104500Z
+DTSTART:20250330T083000Z
+SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
+UID:a49ec8aa-c371-44e9-9ce3-7af4dc56ea57@a49e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250309T143000Z
+DTSTART:20250309T121500Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:bbb065d3-4ad5-41c9-a658-57c73c61eb86@bbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250426T104500Z
+DTSTART:20250426T083000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
+UID:483c3048-f955-484f-819f-02c569cd9f8b@483c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20250316T110000Z
+DTSTART:20250316T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:9b2dfcd5-92ca-419c-a7ab-31f2ca320e11@9b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
+UID:51baa2ba-3c27-41eb-97cd-2b6e01cb6334@51ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250427T133000Z
+DTSTART:20250427T111500Z
+SUMMARY:Zarządzanie jakością w projekcie (wykład)
+UID:04971406-db37-46a3-8a60-9d17f9c0f1b4@0497.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bernard Bińczycki
@@ -53,228 +84,7 @@ DTEND:20250427T081500Z
 LOCATION:Platforma Moodle
 DTSTART:20250427T060000Z
 SUMMARY:Ergonomia w pracy menedżera (wykład e-learningowy)
-UID:e4fdad2e-38bf-4b52-bf60-5e244105f9b0@e4fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250330T160000Z
-DTSTART:20250330T134500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
-UID:e32bb56a-38d3-450b-9e77-9e2941e3c8c7@e32b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250425T160000Z
-LOCATION:Paw.C sala C
-DTSTART:20250425T134500Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:fe5d28c0-e69f-4e61-855e-2517ac7baad2@fe5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sonia Żemła
-DTEND:20250511T081500Z
-LOCATION:Paw.F 109
-DTSTART:20250511T060000Z
-SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
-UID:53669d2b-6ce7-471e-9010-3a5d551bebab@5366.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250406T104500Z
-DTSTART:20250406T083000Z
-SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
-UID:81386e98-a3d3-4e0f-9f67-10a2bf780202@8138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250308T143000Z
-DTSTART:20250308T121500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
-UID:2ab38726-3762-4b3d-baea-d84c1ad6a62d@2ab3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250510T104500Z
-LOCATION:link do zajęć
-DTSTART:20250510T083000Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:e5a88a5b-f703-4fab-904e-057f2b7ee232@e5a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250511T133000Z
-LOCATION:Paw.C sala A
-DTSTART:20250511T111500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (rezerwacja)
-UID:9b05d9d4-cae7-4471-b224-63d5dce987d0@9b05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20250330T133000Z
-DTSTART:20250330T111500Z
-SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
-UID:f3780955-f937-419b-90c7-183dda41c648@f378.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250316T143000Z
-DTSTART:20250316T121500Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
-UID:f8a4e75f-3dad-49e9-b78d-3c1b8e38496c@f8a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20250301T091500Z
-DTSTART:20250301T070000Z
-SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
-UID:e2cdef0c-e04b-48d3-9617-57d49d2370e3@e2cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20250412T110000Z
-DTSTART:20250412T093000Z
-SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
-UID:4e54adf8-a3a0-42db-ba59-b3781c73fb10@4e54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250309T143000Z
-DTSTART:20250309T121500Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:788d237b-161a-4a63-89ba-bba9f65af1cd@788d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250426T133000Z
-DTSTART:20250426T111500Z
-SUMMARY:Zarządzanie czasem w projekcie (wykład)
-UID:55973a8d-8361-4e45-92a7-c03971d1a300@5597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250412T081500Z
-LOCATION:Platforma Moodle
-DTSTART:20250412T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład e-learningowy)
-UID:13a7399f-919a-41d5-a6a8-80b50c91c4af@13a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250510T081500Z
-LOCATION:link do zajęć
-DTSTART:20250510T060000Z
-SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
-UID:4a174b88-5272-4a8c-89bd-e1a799833920@4a17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250315T114500Z
-DTSTART:20250315T093000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
-UID:64fa9ad4-ccd3-4e69-b020-14dd47957c3f@64fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250309T114500Z
-DTSTART:20250309T093000Z
-SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
-UID:56239cdc-e386-4ca9-86cd-aa8f277c34ec@5623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20250315T143000Z
-DTSTART:20250315T121500Z
-SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
-UID:b1949125-ba95-4044-86f1-00b80caf6ae1@b194.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20250406T133000Z
-DTSTART:20250406T111500Z
-SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
-UID:a07ae564-708f-42c6-ba6a-5eadf06e7356@a07a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sonia Żemła
-DTEND:20250413T104500Z
-LOCATION:Paw.F 416
-DTSTART:20250413T083000Z
-SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
-UID:2e507534-2d96-4235-9a64-ba4322d72450@2e50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250606T160000Z
-LOCATION:Paw.F 107
-DTSTART:20250606T134500Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:9de5203b-f30c-4ea6-98b2-f873b185eb1b@9de5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20250427T104500Z
-DTSTART:20250427T083000Z
-SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
-UID:2bcbbf6c-d6a6-494f-9880-f094d15a9b50@2bcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250620T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20250620T144500Z
-SUMMARY:Zarządzanie jakością w projekcie (egzamin)
-UID:881e28d2-2e89-4b50-acf4-076036eac225@881e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20250315T091500Z
-DTSTART:20250315T070000Z
-SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
-UID:ead3c8bf-abc6-4dbd-aa6f-45e11fa0f06c@ead3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250614T091500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250614T074500Z
-SUMMARY:Zarządzanie czasem w projekcie (rezerwacja)
-UID:aee786e7-9622-477b-a35b-7c6a89967f29@aee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20250510T133000Z
-LOCATION:Platforma Moodle
-DTSTART:20250510T111500Z
-SUMMARY:Ergonomia w pracy menedżera (wykład e-learningowy)
-UID:9f5eef79-b665-4e7e-a728-f15da52a1f18@9f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250330T104500Z
-DTSTART:20250330T083000Z
-SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
-UID:53dda9e1-3cba-40e5-9f3b-852a2561af08@53dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20250302T114500Z
-DTSTART:20250302T093000Z
-SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
-UID:d95c8677-bbae-4ff1-9eef-c67a8b557c95@d95c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250406T081500Z
-DTSTART:20250406T060000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
-UID:5262a80e-4f7a-4acd-9139-f33d3d416675@5262.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Małkus
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
-UID:3389277d-4715-4900-9fa7-913f64d14b32@3389.org
+UID:c0305110-398e-4a85-bc34-1b2ff3ab0e06@c030.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Wesołowska
@@ -282,81 +92,60 @@ DTEND:20250510T174500Z
 LOCATION:Platforma Moodle
 DTSTART:20250510T153000Z
 SUMMARY:Zarządzanie zasobami ludzkimi (wykład e-learningowy)
-UID:3ea13912-609f-4370-b406-aec837074aaf@3ea1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250524T133000Z
-LOCATION:Paw.S sala 7
-DTSTART:20250524T120000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (egzamin)
-UID:0e69107c-4b8a-4199-880b-6b9ef9a98363@0e69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20250412T133000Z
-DTSTART:20250412T111500Z
-SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
-UID:c7d6bd2e-97de-4847-a733-62774f3c0bd1@c7d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250404T160000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250404T134500Z
-SUMMARY:Zarządzanie jakością w projekcie (ćwiczenia)
-UID:b416dfc9-4c42-4f70-ad76-d5e32ba467db@b416.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250316T091500Z
-DTSTART:20250316T070000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
-UID:db2105ef-cc0c-4aa9-9902-99fca4d5a2e4@db21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250427T133000Z
-DTSTART:20250427T111500Z
-SUMMARY:Zarządzanie jakością w projekcie (wykład)
-UID:fb588b5a-e78a-4946-888f-3793f5068e34@fb58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250330T081500Z
-DTSTART:20250330T060000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
-UID:e7db5bc9-6aeb-4414-aa2a-c89b1d5ba923@e7db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250405T104500Z
-DTSTART:20250405T083000Z
-SUMMARY:Zarządzanie jakością w projekcie (wykład)
-UID:8980ba54-2d6a-402d-8f56-36ae012ce35d@8980.org
+UID:c434974c-7531-48c1-abff-741a1f51dfc6@c434.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20250412T091500Z
-LOCATION:Platforma Moodle
-DTSTART:20250412T083000Z
-SUMMARY:Ergonomia w pracy menedżera (wykład e-learningowy)
-UID:ca437544-0074-4660-9ca9-7b842a93757e@ca43.org
+DTEND:20250315T091500Z
+DTSTART:20250315T070000Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:f0eea256-1221-4be3-9168-d1fd9fbd098b@f0ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250426T104500Z
-DTSTART:20250426T083000Z
-SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
-UID:310cf1cf-9302-490a-b2e5-19cf4786256e@310c.org
+DTEND:20250511T133000Z
+LOCATION:Paw.C sala A
+DTSTART:20250511T111500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (rezerwacja)
+UID:b9ed8dbc-53d7-4159-947f-8b46bda80673@b9ed.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250607T104500Z
-LOCATION:Bud.gł. 9
-DTSTART:20250607T083000Z
-SUMMARY:Zarządzanie jakością w projekcie (ćwiczenia)
-UID:f635d8b4-2ac5-45c6-9b7c-e98186348087@f635.org
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20250316T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20250316T111500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład e-learningowy)
+UID:38ce1e31-a808-4fbb-950f-473c8012f072@38ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20250413T104500Z
+LOCATION:Paw.F 416
+DTSTART:20250413T083000Z
+SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
+UID:5bdae388-a484-42e0-be15-87cad4741165@5bda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20250511T081500Z
+LOCATION:Paw.F 109
+DTSTART:20250511T060000Z
+SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
+UID:4122c622-0de3-4e9c-a8ba-86eaa93dbffa@4122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250406T133000Z
+DTSTART:20250406T111500Z
+SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
+UID:d3b58049-701f-4fae-bde7-2d5f558305d3@d3b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250302T114500Z
+DTSTART:20250302T093000Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:278a7b89-186d-471e-91d7-0aa6e0488c96@278a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bernard Bińczycki
@@ -364,7 +153,66 @@ DTEND:20250524T081500Z
 LOCATION:link do zajęć
 DTSTART:20250524T060000Z
 SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
-UID:4817f5f5-a67a-4376-b074-27bb9bd86d23@4817.org
+UID:276939c0-6f21-4f25-8669-a24f8cd5db45@2769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250330T133000Z
+DTSTART:20250330T111500Z
+SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
+UID:ab09ebf2-69fd-4641-8f4c-af96d245e302@ab09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250308T143000Z
+DTSTART:20250308T121500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
+UID:7e5050b5-bb02-4506-bbef-230ada84d1dd@7e50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250412T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20250412T083000Z
+SUMMARY:Ergonomia w pracy menedżera (wykład e-learningowy)
+UID:b29902fb-6b17-4a6e-abe8-209eaf93f393@b299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250406T104500Z
+DTSTART:20250406T083000Z
+SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
+UID:03eaa001-5a89-4f06-b9ad-95d443c291a7@03ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250510T081500Z
+LOCATION:link do zajęć
+DTSTART:20250510T060000Z
+SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
+UID:79dae5e7-a9c3-441d-897f-8a1dd3b787ff@79da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20250606T160000Z
+LOCATION:Paw.F 107
+DTSTART:20250606T134500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:8fd87b75-ac76-4fbf-a70e-1b8431574685@8fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250330T081500Z
+DTSTART:20250330T060000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
+UID:69a5ec4d-9d83-4ac2-aaf1-854eb3733767@69a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250426T133000Z
+DTSTART:20250426T111500Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:ae0fab6b-a4cd-475c-b8ae-cb4112fb66c7@ae0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
@@ -372,28 +220,15 @@ DTEND:20250511T104500Z
 LOCATION:Paw.F 104
 DTSTART:20250511T083000Z
 SUMMARY:Zarządzanie jakością w projekcie (ćwiczenia)
-UID:00be6bdd-9ce2-45d8-a671-1052fa505e57@00be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250308T114500Z
-DTSTART:20250308T093000Z
-SUMMARY:Zarządzanie jakością w projekcie (wykład)
-UID:0f539837-3e80-4f4f-8ae1-3a75e6206db3@0f53.org
+UID:025b1d3b-7969-4bdd-a6e3-5c5b54fb1be1@025b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250301T143000Z
-DTSTART:20250301T121500Z
-SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
-UID:bd255656-71b9-4ef1-972e-fc2a8ef4b438@bd25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Wesołowska
-DTEND:20250316T110000Z
-DTSTART:20250316T093000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:c709d1ad-5930-425d-b592-cb834438a236@c709.org
+DTEND:20250524T133000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250524T120000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (egzamin)
+UID:c9e94acd-4ef8-4386-8b39-1afb59627404@c9e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
@@ -401,6 +236,171 @@ DTEND:20250413T133000Z
 LOCATION:Paw.F 008
 DTSTART:20250413T111500Z
 SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
-UID:f500b243-b901-4da9-8e02-4606ea903104@f500.org
+UID:4034b15c-1f48-4848-aee9-aa6deaa6a9b1@4034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20250425T160000Z
+LOCATION:Paw.C sala C
+DTSTART:20250425T134500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:9bf0aded-b1b3-400e-af35-59e9e152f180@9bf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20250301T143000Z
+DTSTART:20250301T121500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
+UID:e7011138-8779-4742-a7cf-29b1de4666be@e701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250309T091500Z
+DTSTART:20250309T070000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (Przeniesienie zajęć)
+UID:3b937789-6f47-4aac-bdac-b5304996728a@3b93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250412T110000Z
+DTSTART:20250412T093000Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:178012eb-c1d5-4218-983a-4463e87f2238@1780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250316T143000Z
+DTSTART:20250316T121500Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
+UID:ed30a9dd-5631-4a8a-b3c7-aa60d2ffbce2@ed30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250614T091500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250614T074500Z
+SUMMARY:Zarządzanie czasem w projekcie (rezerwacja)
+UID:3b9ea79f-69c3-4d8a-989e-b96a72bfa8e0@3b9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250405T104500Z
+DTSTART:20250405T083000Z
+SUMMARY:Zarządzanie jakością w projekcie (wykład)
+UID:57b444a1-3d53-422a-b536-2efba6ccc394@57b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250607T104500Z
+LOCATION:Bud.gł. 9
+DTSTART:20250607T083000Z
+SUMMARY:Zarządzanie jakością w projekcie (ćwiczenia)
+UID:3a54fcfb-36ab-495c-ae3e-5f2e0d01679e@3a54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250406T081500Z
+DTSTART:20250406T060000Z
+SUMMARY:Korporacje międzynarodowe i grupy kapitałowe (wykład do wyboru)
+UID:c02ada23-2b17-4a31-a59e-35bfa07a18ef@c02a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250301T091500Z
+DTSTART:20250301T070000Z
+SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
+UID:b025a8d8-b2c7-49e5-8365-eb262e35321c@b025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250427T104500Z
+DTSTART:20250427T083000Z
+SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
+UID:0f66d397-102a-4be0-9c12-2743c49d7ad2@0f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250510T133000Z
+LOCATION:Platforma Moodle
+DTSTART:20250510T111500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład e-learningowy)
+UID:afa9c536-d292-4583-8333-6731d709b983@afa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20250328T170000Z
+LOCATION:Paw.C sala A
+DTSTART:20250328T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:8f4eebcf-a9f4-4528-a0c7-cca0442cd30a@8f4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250309T114500Z
+DTSTART:20250309T093000Z
+SUMMARY:Przedsiębiorstwo w układach kooperacyjnych (wykład do wyboru)
+UID:966b2d58-81ee-458b-a54a-261746a79db8@966b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250404T160000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250404T134500Z
+SUMMARY:Zarządzanie jakością w projekcie (ćwiczenia)
+UID:9049cae1-07ec-4886-a0dd-240fff6d56e4@9049.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250412T133000Z
+DTSTART:20250412T111500Z
+SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
+UID:5410ffa7-191a-4455-a304-8445f7fcd212@5410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20250607T081500Z
+LOCATION:Bud.gł. 6
+DTSTART:20250607T060000Z
+SUMMARY:Zarządzanie czasem w projekcie (ćwiczenia)
+UID:65c96037-69a1-4528-bc37-569a84711f21@65c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Wesołowska
+DTEND:20250412T081500Z
+LOCATION:Platforma Moodle
+DTSTART:20250412T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład e-learningowy)
+UID:1dd5365d-64cf-47e3-b43a-2331398d773a@1dd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250620T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250620T144500Z
+SUMMARY:Zarządzanie jakością w projekcie (egzamin)
+UID:e21d7e28-b59b-415a-a787-d1a2bb870e75@e21d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250315T143000Z
+DTSTART:20250315T121500Z
+SUMMARY:Strategie rozwoju i restrukturyzacji przedsiębiorstw (wykład do wyboru)
+UID:bacdf745-5ea2-4de4-a400-8f5f6b966dd2@bacd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250510T104500Z
+LOCATION:link do zajęć
+DTSTART:20250510T083000Z
+SUMMARY:Zarządzanie czasem w projekcie (wykład)
+UID:9beb7d57-7379-4dbf-af3b-b70676c19295@9beb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250607T133000Z
+LOCATION:Bibl. 443
+DTSTART:20250607T120000Z
+SUMMARY:Zarządzanie czasem w projekcie (rezerwacja)
+UID:1d8267f6-1539-4d27-94d4-fbe075dd6808@1d82.org
 END:VEVENT
 END:VCALENDAR
