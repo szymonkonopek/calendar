@@ -2,19 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250529T101500Z
-LOCATION:link do zajęć
-DTSTART:20250529T093000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:7fe092e3-9a4a-4f3c-950e-aad42bedd598@7fe0.org
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250313T101500Z
+DTSTART:20250313T084500Z
+SUMMARY:Gen AI dla programistów (wykład do wyboru)
+UID:ea983538-b950-4af3-8a44-76e5fcf0353b@ea98.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250424T073000Z
-DTSTART:20250424T060000Z
-SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:25affe29-2aca-4177-a94c-5492e06e26f0@25af.org
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250409T091500Z
+DTSTART:20250409T074500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
+UID:ae9aede8-1ce7-4b61-b06b-a874b373eca9@ae9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250424T110000Z
+DTSTART:20250424T093000Z
+SUMMARY:Przetwarzanie języka naturalnego (Przeniesienie zajęć)
+UID:4ed89790-1aca-4675-a6bb-e31024eb4477@4ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250327T150000Z
+DTSTART:20250327T103000Z
+SUMMARY: (rezerwacja)
+UID:b93d1a96-9ac7-4e0d-8342-b63527324746@b93d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
@@ -22,283 +35,7 @@ DTEND:20250521T124500Z
 LOCATION:link do zajęć
 DTSTART:20250521T111500Z
 SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:4d0c5fd2-dac3-43c8-a774-7dca3883819f@4d0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250416T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250416T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:7b20221b-4435-4e3c-bf12-dcae25114e17@7b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250423T110000Z
-DTSTART:20250423T093000Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:0064d4c3-fd72-4f09-bc9d-e268073ba1a6@0064.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250320T120000Z
-DTSTART:20250320T103000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:ad1f6ff3-c3b0-4b16-a841-b1817976e7af@ad1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250515T180000Z
-LOCATION:link do zajęć
-DTSTART:20250515T163000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:4ac071cc-a2ea-4e96-a915-6abe25d037ee@4ac0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250424T091500Z
-DTSTART:20250424T074500Z
-SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:40b0c1ba-1f37-4e57-9b98-ac45536bcbb2@40b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250312T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250312T154500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:da8e4856-22de-4875-a7dc-3e1a86a70f54@da8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250305T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250305T154500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:aed2905f-791b-4509-a0f5-a4c945c940c8@aed2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250304T133000Z
-DTSTART:20250304T103000Z
-SUMMARY: (rezerwacja)
-UID:ba53e81c-8c13-469b-b059-edf09f4ec803@ba53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250403T110000Z
-DTSTART:20250403T093000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:3540cc95-4958-43f4-aa3c-6b12b5379e01@3540.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250409T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250409T163000Z
-SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:1c1822cd-3007-4d5d-9958-b756e46d7705@1c18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250227T101500Z
-DTSTART:20250227T084500Z
-SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:fdd2517a-b44d-45d9-abf5-1317ba8847c3@fdd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250227T083000Z
-DTSTART:20250227T070000Z
-SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:ef044226-5650-471b-a3c5-38fee07ca9cd@ef04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250507T091500Z
-DTSTART:20250507T074500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:18be1704-48ab-4ae5-a09f-a53a425cb197@18be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250605T153000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250605T144500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:60f4e14f-bbf2-43a7-8bc9-bae5e895645f@60f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250313T101500Z
-DTSTART:20250313T084500Z
-SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:76a8392d-bee9-471c-8c3c-a74b380716f7@76a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250508T073000Z
-DTSTART:20250508T060000Z
-SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:22e70521-6e6b-490d-8e7b-03b5773f0516@22e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250508T110000Z
-DTSTART:20250508T093000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:8496f9b7-3208-481e-8aa2-1ec0b236cbc4@8496.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250312T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250312T173000Z
-SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:f4436818-66e3-43af-86a0-17e14d320367@f443.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250611T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250611T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:58615db9-14da-4273-b48f-85f4221e1f57@5861.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250508T180000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250508T163000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:d1b54a39-9440-4773-a767-c34c81422666@d1b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250327T101500Z
-DTSTART:20250327T084500Z
-SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:38031f64-9450-4931-8a27-ce1ae2811c11@3803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250226T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250226T154500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:a116d11c-2055-4154-a52c-eb0a4f35310e@a116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250604T171500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250604T163000Z
-SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:49d2a38f-5102-4882-8ce5-f1b4f3c227af@49d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250423T091500Z
-DTSTART:20250423T074500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:ea935c3d-f931-48fd-9091-3cca83368d79@ea93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250508T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250508T144500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:3867ed75-f31b-4195-ac00-2de50a029caa@3867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250306T120000Z
-DTSTART:20250306T103000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:f50a7c00-1d95-40c7-bb82-5914c9b95429@f50a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250226T120000Z
-DTSTART:20250226T103000Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:21caf73b-797a-462a-b246-ef0fbe82eb73@21ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250430T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250430T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:93dfc6be-c221-4b61-a371-00832a547783@93df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250423T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250423T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:31bc929c-b629-4bba-a75d-cd2cf6b33c09@31bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250312T101500Z
-DTSTART:20250312T084500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:d03719f8-9806-49a8-9ef3-2385f77de6e0@d037.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250409T091500Z
-DTSTART:20250409T074500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:8dec0f99-a2a3-465e-947c-d983527b7f38@8dec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250508T091500Z
-DTSTART:20250508T074500Z
-SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:52b201bf-e618-403d-9757-ae48cbc4f2c0@52b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250429T143000Z
-DTSTART:20250429T130000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:da8c94f8-6768-455a-af7a-18bc0202061d@da8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250409T073000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250409T060000Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:8f99940e-b557-48d0-92f6-57262872f951@8f99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250604T101500Z
-LOCATION:link do zajęć
-DTSTART:20250604T093000Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:6386702e-0802-4fb9-9563-88cfdc9678ea@6386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250313T120000Z
-DTSTART:20250313T103000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:c0db27fb-86c3-44aa-8728-c58c67f8a4d6@c0db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250522T073000Z
-LOCATION:link do zajęć
-DTSTART:20250522T060000Z
-SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:29f78baa-2912-45c3-a352-2482eb6a2beb@29f7.org
+UID:d3ffcd5d-c3ca-4035-b30f-4d933f6cff96@d3ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Jaśko
@@ -306,83 +43,7 @@ DTEND:20250521T180000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20250521T163000Z
 SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:2c74f51d-5878-4b59-9aaf-1efe33d79725@2c74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250326T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250326T154500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:e3ae5d54-c87e-4c02-b66f-89561ef6e135@e3ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250403T180000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250403T163000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:49732624-583d-4eea-85c2-214356318196@4973.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250320T190000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250320T173000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:e41c27a2-b262-4279-93d8-b8f6659e552e@e41c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250226T101500Z
-DTSTART:20250226T084500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:e203c5a1-df53-4ee4-908a-1432e30c9605@e203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250327T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250327T154500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:f0a29efb-a783-4ee1-b173-012a2a2229b5@f0a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250604T161500Z
-DTSTART:20250604T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (Przeniesienie zajęć)
-UID:9282fed1-8da2-42bc-b6e9-c97a7e0ea994@9282.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250410T091500Z
-DTSTART:20250410T074500Z
-SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:fc3ee3ed-b322-4eba-b019-964198cd0bb2@fc3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250424T180000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250424T163000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:c77628c2-9a79-423f-bd24-41849b5e2b66@c776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250522T091500Z
-LOCATION:link do zajęć
-DTSTART:20250522T074500Z
-SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:05d7201a-341c-4f9a-95f6-04928e89676c@05d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250507T110000Z
-DTSTART:20250507T093000Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:2d2c6b2b-fc47-4f75-af3e-9223068e1fa8@2d2c.org
+UID:ebab0b34-d86a-4dcc-a62e-5d22e8f2e908@ebab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Kanclerz
@@ -390,185 +51,15 @@ DTEND:20250514T161500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250514T144500Z
 SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:a71020b0-ae0d-41ca-9855-e142b8c88b5b@a710.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250326T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250326T173000Z
-SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:1b8915fb-501d-4f00-a7d4-4bbb21aed00d@1b89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250313T083000Z
-DTSTART:20250313T070000Z
-SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:261f33e9-f3fb-41a9-a32a-4ff3d4e47b22@261f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250313T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250313T154500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:3476305f-96a1-4f56-9db0-7e987a78cb06@3476.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250410T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250410T144500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:73c0d5ed-cd9c-4653-8824-5ef0f4962f0f@73c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250424T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250424T144500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:5d464af3-7973-494e-9d98-631508f258f2@5d46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250327T083000Z
-DTSTART:20250327T070000Z
-SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:12e94423-313d-4e4f-8baa-86180e4c1ec1@12e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250227T171500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250227T154500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:e218ce67-6c41-4ce8-b6d7-ae3973b5bacd@e218.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250313T190000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250313T173000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:ca9e11ca-4e03-4948-afce-efa0dfa16472@ca9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250423T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250423T163000Z
-SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:6212fb52-7e5f-4df8-bb55-8f205a72e3c5@6212.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250312T120000Z
-DTSTART:20250312T103000Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:0b34b46f-3b86-478e-9792-dad3c04818af@0b34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250409T110000Z
-DTSTART:20250409T093000Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:d33ca914-3992-494c-a86c-2aa2e807572c@d33c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250507T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250507T163000Z
-SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:e2c9e57d-5ceb-4c27-af16-f5409bf1be80@e2c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250410T180000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250410T163000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:e618db52-8b84-41c4-b025-484eecd5596b@e618.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250327T150000Z
-DTSTART:20250327T103000Z
-SUMMARY: (rezerwacja)
-UID:60939fea-6165-4c2d-b305-88ac6cc64246@6093.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250319T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250319T154500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:192f5dfd-db11-44c8-a10f-9517310a646b@192f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250507T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250507T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:f6802119-cb33-4ed6-a178-86f7db744ee9@f680.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20250306T181500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250306T173000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
-UID:e432b25c-c54f-4e79-9512-356d4c1be6ca@e432.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20250226T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250226T173000Z
-SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
-UID:ba2e8a15-7f0c-4d9e-8641-1e6e51d6cb47@ba2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250605T073000Z
-LOCATION:link do zajęć
-DTSTART:20250605T064500Z
-SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:f448b8ed-8655-45a2-9aa7-375dd1a27658@f448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250227T120000Z
-DTSTART:20250227T103000Z
-SUMMARY:Przetwarzanie języka naturalnego (wykład)
-UID:090c107f-cb25-4281-be91-7073fed1e9b4@090c.org
+UID:9c626866-22b2-46f7-8d42-223fa714d22a@9c62.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250605T083000Z
+DTEND:20250522T091500Z
 LOCATION:link do zajęć
-DTSTART:20250605T074500Z
+DTSTART:20250522T074500Z
 SUMMARY:Gen AI dla programistów (wykład do wyboru)
-UID:35347e28-438c-4a2a-b3d3-b284f62b52f6@3534.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250616T161500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250616T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (egzamin)
-UID:628ef7cd-afcf-4032-a8ac-8b511138c5c1@628e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250604T083000Z
-LOCATION:link do zajęć
-DTSTART:20250604T074500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:64f286a5-616b-4bd2-adc8-4a117cc4fa99@64f2.org
+UID:d8056330-7ab6-45dd-aa68-439d42ab61e1@d805.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Kanclerz
@@ -576,51 +67,114 @@ DTEND:20250605T170000Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20250605T153000Z
 SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:dfda823b-c662-4227-81d6-704afe8e1a34@dfda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250326T114500Z
-DTSTART:20250326T084500Z
-SUMMARY: (rezerwacja)
-UID:51fc0036-6170-4a25-b058-2623c7396854@51fc.org
+UID:96e8bea1-9df0-4b82-8fd9-ec50be562586@96e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20250410T073000Z
-DTSTART:20250410T060000Z
+DTEND:20250327T083000Z
+DTSTART:20250327T070000Z
 SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
-UID:cbf0a539-cbf5-4123-9a50-b6c9dc8f03fd@cbf0.org
+UID:efaff099-43c2-44ec-8eb7-29f46784cb54@efaf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250409T161500Z
+DTEND:20250409T073000Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250409T144500Z
+DTSTART:20250409T060000Z
 SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:964670a7-f580-4816-ad94-1adb62fdd47c@9646.org
+UID:abbefcd7-a988-4b5c-8371-7b56779750c6@abbe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250522T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250522T144500Z
-SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
-UID:6b9d4252-60f2-4e72-bce1-4839f186220a@6b9d.org
+DTEND:20250312T120000Z
+DTSTART:20250312T103000Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
+UID:738035dc-b2a5-44cb-9233-39e0dadc6eb0@7380.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250424T110000Z
-DTSTART:20250424T093000Z
-SUMMARY:Przetwarzanie języka naturalnego (Przeniesienie zajęć)
-UID:6994b422-d00e-4900-b93b-63067b874444@6994.org
+DTEND:20250313T120000Z
+DTSTART:20250313T103000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:f3503caf-8583-460d-99da-5bddb99db8df@f350.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Kanclerz
-DTEND:20250402T161500Z
-DTSTART:20250402T144500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (Przeniesienie zajęć)
-UID:65792f73-90a5-4332-b9e6-72260ae78ee9@6579.org
+DTEND:20250507T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250507T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:08921a32-6008-408c-83be-e88183f1cc00@0892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250604T083000Z
+LOCATION:link do zajęć
+DTSTART:20250604T074500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
+UID:e9caeee0-a165-4770-ba1f-e62145f9060e@e9ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250227T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250227T154500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:c6a9a2d5-f281-4ea7-a091-358617079555@c6a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250430T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250430T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:18a58be5-57be-4eb9-aa2b-646668974960@18a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250423T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250423T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:86467dfb-6f73-418e-a2d3-bdc482e7d8be@8646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250304T133000Z
+DTSTART:20250304T103000Z
+SUMMARY: (rezerwacja)
+UID:743d4f99-ef3a-46cc-9035-ff4fe5fc6b7c@743d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250410T180000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250410T163000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:256379d2-7f2c-4db0-8182-fb5516cd0dd3@2563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250327T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250327T154500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:8dd95dd9-e2a5-4bac-87cc-be0e0b73212a@8dd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250226T101500Z
+DTSTART:20250226T084500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
+UID:4cea55e5-e43b-44a1-ae89-82ba738faba2@4cea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250305T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250305T154500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:3d194b10-ef61-4c04-896c-f635848fb885@3d19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Kanclerz
@@ -628,15 +182,301 @@ DTEND:20250604T161500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250604T144500Z
 SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:ec4b0589-3c84-4292-972f-e6a3316f3c38@ec4b.org
+UID:e84ded1d-b7c1-493f-b452-b17838998d12@e84d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250521T110000Z
-LOCATION:link do zajęć
-DTSTART:20250521T093000Z
+DTEND:20250605T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250605T144500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:4d3d4537-0b86-4626-91b1-859feb22c93a@4d3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250326T083000Z
+DTSTART:20250326T070000Z
 SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:12e72487-93ae-48d8-aa91-3ca7a2e0842a@12e7.org
+UID:51ac408c-ce6d-4eb9-a49c-d43258ebcc05@51ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250227T083000Z
+DTSTART:20250227T070000Z
+SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
+UID:9ba34001-3d22-42a2-8495-84e1e933a5fc@9ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250403T110000Z
+DTSTART:20250403T093000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:315b6436-ca94-41b9-974b-da94294cf7cd@315b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250529T101500Z
+LOCATION:link do zajęć
+DTSTART:20250529T093000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:fab3f7ea-c165-4645-ad54-a5f38d4c6ae3@fab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250327T101500Z
+DTSTART:20250327T084500Z
+SUMMARY:Gen AI dla programistów (wykład do wyboru)
+UID:c24269fb-2be8-4a33-9849-ad11af336e93@c242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250429T143000Z
+DTSTART:20250429T130000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:17ca4890-951f-4dba-8a0e-9ab6c44ad5b8@17ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250319T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250319T154500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:18fcbca1-8801-4570-ade7-7a84a904553e@18fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250312T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250312T154500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:15d52138-61ac-46bf-9cee-5dc2c6a8a799@15d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250313T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250313T154500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:101f5477-e2b2-43cb-b567-f235b6a1e51e@101f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250424T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250424T144500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:c98c5197-1a0b-4448-ba33-3cee85535cde@c98c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250410T073000Z
+DTSTART:20250410T060000Z
+SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
+UID:c7303ce4-6806-445b-8a36-b423316ab828@c730.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250508T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250508T144500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:2e58c9b0-de6a-4446-8012-34b3570c2aeb@2e58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250226T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250226T154500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:5a632db6-5a7b-4d5a-b30b-534af6be73a7@5a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250605T073000Z
+LOCATION:link do zajęć
+DTSTART:20250605T064500Z
+SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
+UID:5b2454c7-06b3-4014-a097-6c57283c5267@5b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250515T180000Z
+LOCATION:link do zajęć
+DTSTART:20250515T163000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:bb1d0d66-8862-4b0c-aea4-bb9d3ffba74c@bb1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250508T073000Z
+DTSTART:20250508T060000Z
+SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
+UID:9a1a5057-a1d0-4fed-bf4c-50df9e0382fd@9a1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250326T134500Z
+DTSTART:20250326T121500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
+UID:d69a2abd-15cf-4107-9763-15f7e11f4459@d69a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250320T190000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250320T173000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:6b3f591b-1eed-4bd1-bdbd-285bbc7f3d29@6b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250616T161500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250616T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (egzamin)
+UID:5efbe2ce-daf6-4917-9551-5455c87ff1a0@5efb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250522T073000Z
+LOCATION:link do zajęć
+DTSTART:20250522T060000Z
+SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
+UID:0246bf01-eba5-4f0f-8a59-4a04acda3f74@0246.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250507T091500Z
+DTSTART:20250507T074500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
+UID:ffb104ff-f77b-497b-845a-cc00c1ea6c2f@ffb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250320T120000Z
+DTSTART:20250320T103000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:910dca1b-bd77-4a5b-8494-dd987ba9de97@910d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250423T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250423T163000Z
+SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
+UID:72eac9a0-8a3d-45e7-99f1-3927511c2d0b@72ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250423T091500Z
+DTSTART:20250423T074500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
+UID:f4a72bb0-8c3f-4537-96eb-bbdac2895433@f4a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250409T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250409T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:6a0dd3d8-2a25-4cb4-8d9c-5632f01f82b7@6a0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250604T101500Z
+LOCATION:link do zajęć
+DTSTART:20250604T093000Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
+UID:c405f799-5a83-4a6e-aa97-fef04d501dfd@c405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250508T110000Z
+DTSTART:20250508T093000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:1b611ede-7da7-4712-9a19-f24128b52f46@1b61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250227T101500Z
+DTSTART:20250227T084500Z
+SUMMARY:Gen AI dla programistów (wykład do wyboru)
+UID:cfcf82ae-f2b0-4eff-8861-3c2b1489abd2@cfcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250409T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250409T163000Z
+SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
+UID:e31b09cb-b4c9-4e55-8b9c-da65b02658a2@e31b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250313T190000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250313T173000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:b37cac6f-291b-4c65-8794-1327ec82d6c3@b37c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250507T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250507T163000Z
+SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
+UID:29bab683-e6a7-40c1-82f0-c5c8fc2e5ca6@29ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250402T161500Z
+DTSTART:20250402T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (Przeniesienie zajęć)
+UID:47a2a6eb-ba4a-4978-8589-3938b375e95b@47a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250306T120000Z
+DTSTART:20250306T103000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:4e3c707c-bdd8-4bca-873c-7dddf232b23b@4e3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250410T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250410T144500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:71832419-0a0a-428a-b8ec-d5084be4f667@7183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250507T110000Z
+DTSTART:20250507T093000Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
+UID:715ac1a8-6da1-4d2c-90a2-59f6d1a836da@715a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250605T083000Z
+LOCATION:link do zajęć
+DTSTART:20250605T074500Z
+SUMMARY:Gen AI dla programistów (wykład do wyboru)
+UID:7d663035-4e98-463b-90c5-159875f8b829@7d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250508T091500Z
+DTSTART:20250508T074500Z
+SUMMARY:Gen AI dla programistów (wykład do wyboru)
+UID:afb156cc-64f1-4520-944e-897a09d35bdf@afb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250424T073000Z
+DTSTART:20250424T060000Z
+SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
+UID:6d89763d-5cd5-4835-8006-6ad6046752bd@6d89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jakub Kanclerz
@@ -644,20 +484,180 @@ DTEND:20250521T161500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250521T144500Z
 SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
-UID:b98b0d0e-1788-49b9-9de6-13a985e9d930@b98b.org
+UID:84ab6519-d37d-46ff-8fcf-7de6f622e6a5@84ab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20250326T134500Z
-DTSTART:20250326T121500Z
-SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
-UID:b7dacc53-f332-4d92-9232-3cc67632a5a3@b7da.org
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250416T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250416T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:2f3dc649-9a01-427c-8a9e-243379c5a3d0@2f3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250312T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250312T173000Z
+SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
+UID:533bb2fa-aac8-4b39-8dc9-ec9b8f3bec7f@533b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
-DTEND:20250326T083000Z
-DTSTART:20250326T070000Z
+DTEND:20250423T110000Z
+DTSTART:20250423T093000Z
 SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
-UID:2c2006e1-5f1e-44d0-af18-826cca43ea12@2c20.org
+UID:42559dff-e0c9-4f42-a312-4776b79c3ae3@4255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250312T101500Z
+DTSTART:20250312T084500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (wykład)
+UID:6b2b96d8-690a-402b-900a-0b2bed8fe588@6b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250604T161500Z
+DTSTART:20250604T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (Przeniesienie zajęć)
+UID:2a87d961-706d-4477-b497-398b6051bfe8@2a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250508T180000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250508T163000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:758c77ff-a41e-46a8-9d13-6434c99ac706@758c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250604T171500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250604T163000Z
+SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
+UID:b857159e-78f1-4146-8d6a-9d2b76231d25@b857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250326T114500Z
+DTSTART:20250326T084500Z
+SUMMARY: (rezerwacja)
+UID:77da584b-f37b-4260-a0e4-70f455313a1e@77da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250226T120000Z
+DTSTART:20250226T103000Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
+UID:b0d6e7a1-73f2-430d-8e90-f419c5f2ceb9@b0d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250403T180000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250403T163000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:1dfd8cda-592e-4390-b1c0-b063b7fe2364@1dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250409T110000Z
+DTSTART:20250409T093000Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
+UID:cb9698fb-9adc-4d7a-b3c4-2bfd2281e1f2@cb96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250611T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250611T144500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:6f0108f8-1070-496b-8fdf-4b75422981e3@6f01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250226T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250226T173000Z
+SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
+UID:b67f1d76-1ee5-4d37-8534-86810b45c8cd@b67f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250522T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250522T144500Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (ćwiczenia)
+UID:d5d06a2b-a474-40e7-af88-ef0f7c4607f2@d5d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20250326T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250326T173000Z
+SUMMARY:Modele obliczeniowe w ekonomii i finansach (ćwiczenia)
+UID:a57b2da0-7eab-4832-93ce-b39d218acaad@a57b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250313T083000Z
+DTSTART:20250313T070000Z
+SUMMARY:Zwinne metody wytwarzania oprogramowania (wykład)
+UID:1bbe3482-2487-4076-90c9-9096951785ce@1bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250410T091500Z
+DTSTART:20250410T074500Z
+SUMMARY:Gen AI dla programistów (wykład do wyboru)
+UID:a93416af-da75-49e5-9e4c-5ebcfa7e0d90@a934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250306T181500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250306T173000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:02c77f70-b83e-43c3-8f3e-820c6901ff34@02c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250227T120000Z
+DTSTART:20250227T103000Z
+SUMMARY:Przetwarzanie języka naturalnego (wykład)
+UID:b41fdf0c-c0ad-4f90-846c-ac306c191ab9@b41f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20250424T180000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250424T163000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia)
+UID:e0795b22-ee81-46f7-adab-3241cbbff60c@e079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250521T110000Z
+LOCATION:link do zajęć
+DTSTART:20250521T093000Z
+SUMMARY:Reprezentacja wiedzy i systemy wnioskowania (wykład)
+UID:70452b92-2180-4a7f-b281-e43b03a7470f@7045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250326T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250326T154500Z
+SUMMARY:Wirtualizacja i przetwarzanie w chmurze (ćwiczenia)
+UID:3c105fbc-8f11-4657-a347-0b2008fd3bc5@3c10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250424T091500Z
+DTSTART:20250424T074500Z
+SUMMARY:Gen AI dla programistów (wykład do wyboru)
+UID:8d6487a3-759e-45dd-be26-a98fa4dc858e@8d64.org
 END:VEVENT
 END:VCALENDAR
