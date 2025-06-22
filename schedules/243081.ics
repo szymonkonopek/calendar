@@ -3,18 +3,53 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250202T151500Z
-DTSTART:20250202T130000Z
-SUMMARY:Optymalizacja decyzji gospodarczych (Przeniesienie zajęć)
-UID:efa92f5e-58dd-4fa5-869b-d273ad3fe1ac@efa9.org
+DTEND:20250425T184500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250425T163000Z
+SUMMARY:Optymalizacja decyzji gospodarczych (ćwiczenia)
+UID:29ba3123-94e4-4d5d-a4a8-ee2735e304fa@29ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20250321T184500Z
+DTSTART:20250321T163000Z
+SUMMARY:Modele i prognozy demograficzne (wykład)
+UID:893dbb4d-a789-4e27-b5e9-ce6d116a1926@893d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20250406T090000Z
+DTSTART:20250406T064500Z
+SUMMARY:Eksploracyjna analiza danych (wykład)
+UID:677cf47d-dd69-428e-ae4c-d56b22dc8714@677c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20250302T100000Z
+DTSTART:20250302T074500Z
+SUMMARY:Modele i prognozy demograficzne (wykład)
+UID:af2a66e7-72e3-4fc2-af54-f36d56782dec@af2a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250405T090000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20250405T064500Z
-SUMMARY:Optymalizacja decyzji gospodarczych (ćwiczenia)
-UID:2eb6806c-ef34-4513-bb22-eb806cf67368@2eb6.org
+DTEND:20250202T151500Z
+DTSTART:20250202T130000Z
+SUMMARY:Optymalizacja decyzji gospodarczych (Przeniesienie zajęć)
+UID:7a2faa1e-5177-42af-b335-8a6e049ff4bc@7a2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250322T100000Z
+DTSTART:20250322T074500Z
+SUMMARY:Optymalizacja decyzji gospodarczych (wykład)
+UID:eedf45a9-d901-4af4-b74d-40b4745f2459@eedf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20250322T124500Z
+DTSTART:20250322T103000Z
+SUMMARY:Eksploracyjna analiza danych (wykład)
+UID:b96ae09e-9078-4510-8041-a35103fc2eed@b96a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
@@ -22,36 +57,22 @@ DTEND:20250301T114500Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20250301T093000Z
 SUMMARY:Praktyczne aspekty uczenia maszynowego w ubezpieczeniach (wykład do wyboru)
-UID:9a212307-f3e3-4326-97b0-cce18514f825@9a21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250322T100000Z
-DTSTART:20250322T074500Z
-SUMMARY:Optymalizacja decyzji gospodarczych (wykład)
-UID:c0d9e257-b3dc-4fc7-8e52-6498d3ef4403@c0d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20250322T124500Z
-DTSTART:20250322T103000Z
-SUMMARY:Eksploracyjna analiza danych (wykład)
-UID:f5a7e387-344a-4d80-974b-b92b986685d9@f5a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250427T114500Z
-DTSTART:20250427T093000Z
-SUMMARY:Optymalizacja decyzji gospodarczych (wykład)
-UID:ecf93a1e-cb7f-48bc-8d34-5905bdf51812@ecf9.org
+UID:3f2d5d20-e4ed-478b-a981-9df094fae863@3f2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20250525T094500Z
-LOCATION:link do zajęć
-DTSTART:20250525T064500Z
+DTEND:20250406T114500Z
+DTSTART:20250406T093000Z
 SUMMARY:Instytucje ubezpieczeniowe (wykład)
-UID:ff2ef702-26f3-4d45-aefb-e5fe08c1a49c@ff2e.org
+UID:9855d144-b5ee-4e2a-bf43-b9ffa6213626@9855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250405T090000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250405T064500Z
+SUMMARY:Optymalizacja decyzji gospodarczych (ćwiczenia)
+UID:19066588-eeeb-42e0-bfae-24d84d4088dd@1906.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
@@ -59,153 +80,7 @@ DTEND:20250607T110000Z
 LOCATION:309  paw. U (tylko KatHZ)
 DTSTART:20250607T093000Z
 SUMMARY: (egzamin)
-UID:d1b5f48b-d0ce-4671-bf6d-96a77c9534de@d1b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250228T184500Z
-DTSTART:20250228T163000Z
-SUMMARY:Optymalizacja decyzji gospodarczych (wykład)
-UID:2dd85db6-36b1-4727-95b0-a706c2c54ee9@2dd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Osiewalska
-DTEND:20250321T184500Z
-DTSTART:20250321T163000Z
-SUMMARY:Modele i prognozy demograficzne (wykład)
-UID:d92b5058-3bc8-438f-97e3-5d21782d4c2b@d92b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20250323T151500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250323T130000Z
-SUMMARY:Eksploracyjna analiza danych (ćwiczenia)
-UID:3678c373-8092-48bf-b35d-fd163d538028@3678.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20250301T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250301T070000Z
-SUMMARY:Podst. umiejętności wymag.podczas rekrut.oraz pracy na stan.Data Analy (wykład do wyboru)
-UID:b44e1da0-a88d-4e79-815b-34121a8fcb0c@b44e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20250323T124500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250323T103000Z
-SUMMARY:Praktyczne aspekty uczenia maszynowego w ubezpieczeniach (wykład do wyboru)
-UID:67f0e564-cb88-4aae-b847-60095605938b@67f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Osiewalska
-DTEND:20250404T184500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250404T163000Z
-SUMMARY:Modele i prognozy demograficzne (ćwiczenia)
-UID:1317c386-c37b-4360-8ab5-beb098b9f451@1317.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20250425T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250425T134500Z
-SUMMARY:Eksploracyjna analiza danych (ćwiczenia)
-UID:bd1d6201-96d8-4935-8f2a-6aaba7e5d783@bd1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250606T180000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250606T163000Z
-SUMMARY: (egzamin)
-UID:3cf762a6-e567-4a9a-8f3a-bf04d1fb05f7@3cf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Osiewalska
-DTEND:20250406T141500Z
-DTSTART:20250406T120000Z
-SUMMARY:Modele i prognozy demograficzne (wykład)
-UID:d71236b9-9fb5-4de9-92b0-1b80d379d7cc@d712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250425T184500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250425T163000Z
-SUMMARY:Optymalizacja decyzji gospodarczych (ćwiczenia)
-UID:95400d47-07f1-4854-8d23-b9484fb3b0c6@9540.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Osiewalska
-DTEND:20250523T184500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250523T163000Z
-SUMMARY:Modele i prognozy demograficzne (ćwiczenia)
-UID:49eb6f43-8567-48e9-bc46-747c7207e853@49eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20250530T174500Z
-LOCATION:link do zajęć
-DTSTART:20250530T153000Z
-SUMMARY:Instytucje ubezpieczeniowe (wykład)
-UID:d0039c12-dfb2-4c73-a0fb-5d3003bf3ac4@d003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20250406T114500Z
-DTSTART:20250406T093000Z
-SUMMARY:Instytucje ubezpieczeniowe (wykład)
-UID:cf4709ce-9932-408b-b52e-a42be2d88e3a@cf47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Osiewalska
-DTEND:20250426T104500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250426T083000Z
-SUMMARY:Modele i prognozy demograficzne (ćwiczenia)
-UID:f533dbe1-afd2-4a68-952c-6f40a583a047@f533.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20250601T094500Z
-LOCATION:link do zajęć
-DTSTART:20250601T064500Z
-SUMMARY:Instytucje ubezpieczeniowe (wykład)
-UID:ed2e743e-ce5d-4708-98f4-9bdd164eba57@ed2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20250302T124500Z
-DTSTART:20250302T103000Z
-SUMMARY:Eksploracyjna analiza danych (wykład)
-UID:ff58d178-05a2-4c02-a188-60775dfb75a1@ff58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20250426T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250426T134500Z
-SUMMARY:Praktyczne aspekty uczenia maszynowego w ubezpieczeniach (wykład do wyboru)
-UID:35f46450-470a-4d54-aace-908b21fa5345@35f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20250322T151500Z
-DTSTART:20250322T130000Z
-SUMMARY:Instytucje ubezpieczeniowe (Przeniesienie zajęć)
-UID:5929630c-a42f-4429-b1b6-e56db02204ca@5929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250524T090000Z
-LOCATION:Paw.C sala C
-DTSTART:20250524T064500Z
-SUMMARY:Optymalizacja decyzji gospodarczych (ćwiczenia)
-UID:c6c99070-67ab-4bc1-bc74-5f197a46db43@c6c9.org
+UID:758645d1-c00c-42e1-a659-88f382420785@7586.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
@@ -213,22 +88,7 @@ DTEND:20250615T083000Z
 LOCATION:Paw.F 715
 DTSTART:20250615T074500Z
 SUMMARY:Instytucje ubezpieczeniowe (egzamin)
-UID:f958581e-39e9-4ea3-9dd4-18b16e045a4c@f958.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20250406T090000Z
-DTSTART:20250406T064500Z
-SUMMARY:Eksploracyjna analiza danych (wykład)
-UID:28668fa0-a8d5-4e8f-8dbd-215f8eab5af7@2866.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20250426T133000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250426T111500Z
-SUMMARY:Podst. umiejętności wymag.podczas rekrut.oraz pracy na stan.Data Analy (wykład do wyboru)
-UID:86ca6218-4721-409c-b33f-df6ff78a8b84@86ca.org
+UID:6519bdec-c38f-4fdd-8fdd-d6ef76673785@6519.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
@@ -236,29 +96,61 @@ DTEND:20250625T091500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20250625T074500Z
 SUMMARY: (egzamin)
-UID:de36799f-98b6-4de0-a428-cbfea3ef94eb@de36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
-DTEND:20250427T090000Z
-DTSTART:20250427T060000Z
-SUMMARY:Instytucje ubezpieczeniowe (wykład)
-UID:b14375ed-344f-421a-9b61-69351f3bbd16@b143.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Osiewalska
-DTEND:20250302T100000Z
-DTSTART:20250302T074500Z
-SUMMARY:Modele i prognozy demograficzne (wykład)
-UID:d14d4430-068d-49b9-86d3-ff7b4e2f2c6e@d14d.org
+UID:81b186a8-2443-4e60-9d65-d55161bdf2fa@81b1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20250323T100000Z
+DTEND:20250301T091500Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250323T074500Z
+DTSTART:20250301T070000Z
 SUMMARY:Podst. umiejętności wymag.podczas rekrut.oraz pracy na stan.Data Analy (wykład do wyboru)
-UID:f1b4ca5f-9b9f-49d4-ae9e-d9d96110e39e@f1b4.org
+UID:df18d76b-1c07-45fd-b301-bb4fd6f7d27e@df18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250322T151500Z
+DTSTART:20250322T130000Z
+SUMMARY:Instytucje ubezpieczeniowe (Przeniesienie zajęć)
+UID:5975f2b4-d10e-41e5-a8bc-624149e4e78f@5975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20250323T151500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250323T130000Z
+SUMMARY:Eksploracyjna analiza danych (ćwiczenia)
+UID:3a230a5e-b13c-44c2-9db7-ea2b9787bfe6@3a23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20250404T184500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250404T163000Z
+SUMMARY:Modele i prognozy demograficzne (ćwiczenia)
+UID:f2523277-1782-4d0e-98b2-df220e1d3f9e@f252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250427T114500Z
+DTSTART:20250427T093000Z
+SUMMARY:Optymalizacja decyzji gospodarczych (wykład)
+UID:7d649a25-6c57-4473-b44b-feaa1dbfc5ac@7d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250606T180000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250606T163000Z
+SUMMARY: (egzamin)
+UID:a28dcc01-cea2-4857-ba81-302d0623c6f9@a28d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250426T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250426T134500Z
+SUMMARY:Praktyczne aspekty uczenia maszynowego w ubezpieczeniach (wykład do wyboru)
+UID:c557c3c8-f9e4-4e89-ac72-43e7a0d96325@c557.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
@@ -266,6 +158,114 @@ DTEND:20250524T114500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250524T093000Z
 SUMMARY:Eksploracyjna analiza danych (ćwiczenia)
-UID:fdc5c01e-058b-432d-9603-cbae979ad184@fdc5.org
+UID:7ba902b1-c47e-46c0-a6da-32223977ef34@7ba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20250302T124500Z
+DTSTART:20250302T103000Z
+SUMMARY:Eksploracyjna analiza danych (wykład)
+UID:9d3e7385-619b-4e35-93ca-0d06a962e2e5@9d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20250523T184500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250523T163000Z
+SUMMARY:Modele i prognozy demograficzne (ćwiczenia)
+UID:65a3bea9-e0c7-4c41-92a5-45fa793e26b2@65a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250228T184500Z
+DTSTART:20250228T163000Z
+SUMMARY:Optymalizacja decyzji gospodarczych (wykład)
+UID:a3530568-0daa-4118-8c50-af6fd46fb1f8@a353.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250323T124500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250323T103000Z
+SUMMARY:Praktyczne aspekty uczenia maszynowego w ubezpieczeniach (wykład do wyboru)
+UID:183e81a9-372b-4753-837e-3bcf639a63e9@183e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250524T090000Z
+LOCATION:Paw.C sala C
+DTSTART:20250524T064500Z
+SUMMARY:Optymalizacja decyzji gospodarczych (ćwiczenia)
+UID:454f96de-4126-49a7-9f44-2813742936d1@454f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250427T090000Z
+DTSTART:20250427T060000Z
+SUMMARY:Instytucje ubezpieczeniowe (wykład)
+UID:97b1057f-2327-44ec-a5e8-bf6a8e1e1589@97b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20250426T104500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250426T083000Z
+SUMMARY:Modele i prognozy demograficzne (ćwiczenia)
+UID:11fc621c-545e-4efc-86ac-8b6e3aa6739f@11fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250530T174500Z
+LOCATION:link do zajęć
+DTSTART:20250530T153000Z
+SUMMARY:Instytucje ubezpieczeniowe (wykład)
+UID:55d2cab1-3840-4010-9dcd-31610bb3fcf2@55d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250426T133000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250426T111500Z
+SUMMARY:Podst. umiejętności wymag.podczas rekrut.oraz pracy na stan.Data Analy (wykład do wyboru)
+UID:f1eff8e8-4268-4c3a-a2d3-3cf12086e6d0@f1ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20250425T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250425T134500Z
+SUMMARY:Eksploracyjna analiza danych (ćwiczenia)
+UID:cffdbc89-cd36-4e92-94fb-f91f062b0452@cffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20250406T141500Z
+DTSTART:20250406T120000Z
+SUMMARY:Modele i prognozy demograficzne (wykład)
+UID:daf7ed61-f7d9-4c1a-ac03-50ee02dddc7c@daf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250323T100000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250323T074500Z
+SUMMARY:Podst. umiejętności wymag.podczas rekrut.oraz pracy na stan.Data Analy (wykład do wyboru)
+UID:a83a62d2-bcca-4caa-ad47-c41614ca5766@a83a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250601T094500Z
+LOCATION:link do zajęć
+DTSTART:20250601T064500Z
+SUMMARY:Instytucje ubezpieczeniowe (wykład)
+UID:744c7e5d-382a-4320-9456-6d25228eee32@744c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250525T094500Z
+LOCATION:link do zajęć
+DTSTART:20250525T064500Z
+SUMMARY:Instytucje ubezpieczeniowe (wykład)
+UID:8614559b-94b5-424e-bd60-f01909e58c85@8614.org
 END:VEVENT
 END:VCALENDAR
