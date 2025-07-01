@@ -3,11 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
-DTEND:20241207T170000Z
-LOCATION:Paw.F 008
-DTSTART:20241207T144500Z
-SUMMARY:Rachunek kosztów (ćwiczenia)
-UID:4d41730c-5879-4f65-b4bb-ee5cc7a28b78@4d41.org
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Rachunek kosztów (wykład)
+UID:636c7b23-cf8f-454e-8d31-a33869baa0e3@636c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241201T124500Z
+DTSTART:20241201T103000Z
+SUMMARY:Polityka pieniężna (wykład)
+UID:82de44d1-9baf-4721-aac1-4b66c4e535b1@82de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
@@ -15,22 +21,35 @@ DTEND:20241207T143000Z
 LOCATION:Paw.S sala 3
 DTSTART:20241207T121500Z
 SUMMARY:Zarządzanie instytucjami kredytowymi (ćwiczenia)
-UID:0468671b-4100-4ae2-9f7a-1ed816653a03@0468.org
+UID:c124ec3e-aea4-41c0-94a9-e35e73db8d94@c124.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
 DTEND:20241018T160000Z
 DTSTART:20241018T134500Z
 SUMMARY:Rachunek kosztów (wykład)
-UID:d1321eec-f5e4-431d-b61a-0abec8b21e63@d132.org
+UID:02d93604-0680-4b43-85d2-546ee99055a7@02d9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20250111T114500Z
-LOCATION:Paw.S sala 6
-DTSTART:20250111T093000Z
-SUMMARY:Polityka pieniężna (ćwiczenia)
-UID:88f62238-4d97-4a4a-bdf9-aab5f976998b@88f6.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20241026T160000Z
+DTSTART:20241026T134500Z
+SUMMARY:Nadzór właścicielski (Przeniesienie zajęć)
+UID:860a0f9a-5309-4e5e-a7b9-b4fb52bf6192@860a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20241207T091500Z
+DTSTART:20241207T070000Z
+SUMMARY:Nadzór właścicielski (Przeniesienie zajęć)
+UID:b63157f5-4d98-4eac-a124-1a97f4f4d3ca@b631.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241019T114500Z
+DTSTART:20241019T093000Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (wykład)
+UID:902f7520-6064-433b-bcc3-dde162da64df@902f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Snarska
@@ -38,170 +57,14 @@ DTEND:20250119T181500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250119T130000Z
 SUMMARY:Zarządzanie portfelem inwestycyjnym (kolokwium)
-UID:f446f4a2-428d-438d-a6a2-a99918bd2033@f446.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
-DTEND:20241116T194500Z
-LOCATION:Paw.F 515
-DTSTART:20241116T173000Z
-SUMMARY:Rachunek kosztów (ćwiczenia)
-UID:dc72b4f9-ad36-4ac5-8881-4a0cff16d22f@dc72.org
+UID:51290ad8-9bef-4b24-981a-c7555736ff76@5129.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20250124T194500Z
-DTSTART:20250124T173000Z
+DTEND:20250110T170000Z
+DTSTART:20250110T144500Z
 SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
-UID:5e405ae1-3fa2-44a3-906e-965b92d1fa04@5e40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241201T124500Z
-DTSTART:20241201T103000Z
-SUMMARY:Polityka pieniężna (wykład)
-UID:502d8226-184e-49fd-88ef-362d46462038@502d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241208T124500Z
-DTSTART:20241208T103000Z
-SUMMARY:Polityka pieniężna (wykład)
-UID:5e5bd6ba-cf77-4e71-b7be-c71761f6642a@5e5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20250126T151500Z
-LOCATION:Paw.F 715
-DTSTART:20250126T130000Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (ćwiczenia)
-UID:c7650655-f003-4326-8210-f92070f0b64d@c765.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
-DTEND:20241208T100000Z
-DTSTART:20241208T074500Z
-SUMMARY:Rachunek kosztów (wykład)
-UID:418059bf-ce8d-4bf5-82d3-e67d0bbe973c@4180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241206T194500Z
-DTSTART:20241206T173000Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
-UID:c4a3300e-0941-440a-a598-57bd8f1d790b@c4a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
-DTEND:20241221T170000Z
-LOCATION:Paw.F 106
-DTSTART:20241221T144500Z
-SUMMARY:Rachunek kosztów (ćwiczenia)
-UID:5a429840-e75a-481f-a925-8830c992566e@5a42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241129T170000Z
-DTSTART:20241129T144500Z
-SUMMARY:Polityka pieniężna (wykład)
-UID:06b53345-b929-47ac-9ac6-1bf930286026@06b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20241130T143000Z
-LOCATION:Paw.S sala 5
-DTSTART:20241130T121500Z
-SUMMARY:Polityka pieniężna (ćwiczenia)
-UID:dbc10841-6ea5-40af-b9bd-08fab47ba744@dbc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20250222T134500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250222T121500Z
-SUMMARY:Polityka pieniężna (egzamin)
-UID:3c49f1bf-9d98-480c-9562-2b15dede6481@3c49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241018T184500Z
-DTSTART:20241018T163000Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
-UID:6091e948-230c-4718-bc67-8b4b76478671@6091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20241019T114500Z
-DTSTART:20241019T093000Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (wykład)
-UID:ff3c99a4-5eca-49ea-a6cf-88ec963806cd@ff3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250119T100000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250119T074500Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
-UID:1df97228-633a-4116-a3d3-90f412454750@1df9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20241130T091500Z
-LOCATION:Paw.F 109
-DTSTART:20241130T070000Z
-SUMMARY:Nadzór właścicielski (konwersatorium)
-UID:b55d2ed6-5be1-47d4-966e-1b331dfda641@b55d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250125T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250125T093000Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (egzamin)
-UID:da7ff3c3-898d-4f1d-bad3-cf0ebea0f542@da7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20241207T091500Z
-DTSTART:20241207T070000Z
-SUMMARY:Nadzór właścicielski (Przeniesienie zajęć)
-UID:42c11ce7-61e0-4cb9-8218-80f13838d6b0@42c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241019T090000Z
-DTSTART:20241019T064500Z
-SUMMARY:Polityka pieniężna (wykład)
-UID:4373622c-e1f5-4b7f-8b61-d2ca33dde304@4373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
-UID:7cdb2a11-309b-499d-b439-c84b416cc569@7cdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20241201T100000Z
-DTSTART:20241201T074500Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (wykład)
-UID:c8d7c8aa-e573-4b2b-a81e-8a8cc1e76398@c8d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20250119T124500Z
-LOCATION:Paw.F 715
-DTSTART:20250119T103000Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (ćwiczenia)
-UID:3285e948-6982-4a1d-a284-335bb4156fbe@3285.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Polityka pieniężna (wykład)
-UID:1e734a9c-440e-4bd5-813b-3bfd02f9f8af@1e73.org
+UID:18b65a37-f9e3-4d3c-9025-d2638e33634c@18b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
@@ -209,45 +72,15 @@ DTEND:20250126T124500Z
 LOCATION:Paw.F 515
 DTSTART:20250126T103000Z
 SUMMARY:Rachunek kosztów (ćwiczenia)
-UID:272e7445-766b-46c5-ba35-f7e83ce4b3a8@272e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Rachunek kosztów (wykład)
-UID:619f7342-99ac-4216-b806-cfecff9b78b8@619f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20241117T100000Z
-LOCATION:Paw.F 107
-DTSTART:20241117T074500Z
-SUMMARY:Nadzór właścicielski (konwersatorium)
-UID:9dae341f-c7db-4f9f-ad4b-bcda38466015@9dae.org
+UID:feb9ecc1-00bc-43af-b50c-a6e91e0e3f6d@feb9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20250222T120000Z
+DTEND:20250222T134500Z
 LOCATION:Paw.C  Nowa Aula
-DTSTART:20250222T103000Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (egzamin)
-UID:0daee074-06f3-4c1f-a8a3-6bb97465941a@0dae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20241026T160000Z
-DTSTART:20241026T134500Z
-SUMMARY:Nadzór właścicielski (Przeniesienie zajęć)
-UID:fa646314-c89c-48c7-af13-00254f0eb866@fa64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
-DTEND:20241117T124500Z
-LOCATION:Paw.F 515
-DTSTART:20241117T103000Z
-SUMMARY:Rachunek kosztów (ćwiczenia)
-UID:af2c8d33-262c-448f-9694-be4aad14e20c@af2c.org
+DTSTART:20250222T121500Z
+SUMMARY:Polityka pieniężna (egzamin)
+UID:be4ba20a-84ce-436b-bb18-473a9fc6a450@be4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Snarska
@@ -255,30 +88,35 @@ DTEND:20250126T100000Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250126T074500Z
 SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
-UID:e5bbc6b5-bd30-456b-a72b-d2fdde6d80ef@e5bb.org
+UID:4c759a84-be7a-434e-83c3-da8aa667d67c@4c75.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20250110T170000Z
-DTSTART:20250110T144500Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
-UID:615706ed-c6da-4a87-b4b2-dd1bd34f93fa@6157.org
+DTEND:20241019T090000Z
+DTSTART:20241019T064500Z
+SUMMARY:Polityka pieniężna (wykład)
+UID:11190c79-72fe-422c-9d5c-0ec6816a1332@1119.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20241221T194500Z
-LOCATION:Paw.F 106
-DTSTART:20241221T173000Z
-SUMMARY:Nadzór właścicielski (konwersatorium)
-UID:8960a0f0-d723-44da-b97e-98e4e34f6978@8960.org
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241201T100000Z
+DTSTART:20241201T074500Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (wykład)
+UID:74283f0b-1d2f-4e33-b0ca-cbe9ae64b543@7428.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250112T151500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250112T130000Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
-UID:a57b467e-8e16-4892-a8f8-157a6d2abb1c@a57b.org
+DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
+DTEND:20241208T100000Z
+DTSTART:20241208T074500Z
+SUMMARY:Rachunek kosztów (wykład)
+UID:1037dd9c-a226-4ce5-8f10-65d4826c2968@1037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241220T194500Z
+DTSTART:20241220T173000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (Przeniesienie zajęć)
+UID:ffbd351e-a1c7-41be-964b-1b1f957e3c00@ffbd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Radosław Ślusarczyk
@@ -286,59 +124,37 @@ DTEND:20241116T170000Z
 LOCATION:Paw.S sala 3
 DTSTART:20241116T144500Z
 SUMMARY:Polityka pieniężna (ćwiczenia)
-UID:cdb4d147-e6c9-42c8-b796-0ed37011df0e@cdb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20241027T124500Z
-DTSTART:20241027T103000Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (wykład)
-UID:e49e87e2-50e8-41bf-a5fa-71c1f282fab1@e49e.org
+UID:d01349e6-de83-4413-9b34-ac9ac4f371fc@d013.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
 DTEND:20241027T100000Z
 DTSTART:20241027T074500Z
 SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
-UID:7f5883f1-a0ed-48ba-9d17-501e637625e0@7f58.org
+UID:fd8c8577-fc16-4563-8490-e2381024a556@fd8c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20241020T141500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20241020T120000Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
-UID:e08c8ff4-3e2d-42db-bd2c-a203d6ea2eef@e08c.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241129T170000Z
+DTSTART:20241129T144500Z
+SUMMARY:Polityka pieniężna (wykład)
+UID:94a70586-b4bc-489f-acc2-61508270779a@94a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
-DTEND:20250118T143000Z
-LOCATION:Paw.F 614
-DTSTART:20250118T121500Z
+DTEND:20241221T170000Z
+LOCATION:Paw.F 106
+DTSTART:20241221T144500Z
 SUMMARY:Rachunek kosztów (ćwiczenia)
-UID:b6bf3880-a332-4ec6-97d2-6b4969931906@b6bf.org
+UID:b70a49fd-d6d3-4a45-b5ce-a70138e6eef3@b70a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20241220T194500Z
-DTSTART:20241220T173000Z
-SUMMARY:Zarządzanie instytucjami kredytowymi (Przeniesienie zajęć)
-UID:9df7331c-edeb-4e9e-845f-6b85b524ea92@9df7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20241116T143000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20241116T121500Z
-SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
-UID:8f77138d-4239-425e-b3e8-8cd597bcae1a@8f77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
-DTEND:20250117T170000Z
-DTSTART:20250117T144500Z
-SUMMARY:Polityka pieniężna (wykład)
-UID:659e3b3f-a4a6-4d83-ac7b-f7ac886e76a0@659e.org
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20250111T114500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250111T093000Z
+SUMMARY:Polityka pieniężna (ćwiczenia)
+UID:688dd79e-2666-4e8b-9ccc-a0db544b0054@688d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Snarska
@@ -346,6 +162,190 @@ DTEND:20241221T143000Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20241221T121500Z
 SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
-UID:5d055251-377f-4019-8d49-5fde28c03f50@5d05.org
+UID:08db1de1-fd30-4da5-811a-1403e1403f38@08db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250112T151500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250112T130000Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
+UID:4dee5159-48a0-4e64-bd09-7b5be8813ed7@4dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20250117T170000Z
+DTSTART:20250117T144500Z
+SUMMARY:Polityka pieniężna (wykład)
+UID:70ce1e06-51d6-4dd8-afd0-6ca3a51f38e3@70ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
+DTEND:20241207T170000Z
+LOCATION:Paw.F 008
+DTSTART:20241207T144500Z
+SUMMARY:Rachunek kosztów (ćwiczenia)
+UID:757316f5-5c0c-48a0-be56-5d3f11b64368@7573.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Polityka pieniężna (wykład)
+UID:b3559c3e-c70c-4a64-ad25-3c3e56b40939@b355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20250126T151500Z
+LOCATION:Paw.F 715
+DTSTART:20250126T130000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (ćwiczenia)
+UID:e214f4d0-1cb1-460b-8137-76e57bb7ee51@e214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20241116T143000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241116T121500Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
+UID:80ee33e4-d6ca-47ed-86f3-e9112087ecc0@80ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241206T194500Z
+DTSTART:20241206T173000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
+UID:cdbe19d4-9029-45dc-8847-afbf1eddc8a7@cdbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20241117T100000Z
+LOCATION:Paw.F 107
+DTSTART:20241117T074500Z
+SUMMARY:Nadzór właścicielski (konwersatorium)
+UID:2be298de-8848-468d-8c1f-eaed2b2d6025@2be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20241130T091500Z
+LOCATION:Paw.F 109
+DTSTART:20241130T070000Z
+SUMMARY:Nadzór właścicielski (konwersatorium)
+UID:f8175172-5455-455e-a6e6-62265e77ae32@f817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
+DTEND:20241116T194500Z
+LOCATION:Paw.F 515
+DTSTART:20241116T173000Z
+SUMMARY:Rachunek kosztów (ćwiczenia)
+UID:5213d3ae-1836-497b-936f-069cefd99bbf@5213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20250124T194500Z
+DTSTART:20250124T173000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
+UID:f04d5e78-66c2-4dda-99e1-479eb6512b48@f04d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241027T124500Z
+DTSTART:20241027T103000Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (wykład)
+UID:e30f4850-055d-44d6-9d6d-6d1fbe7f7728@e30f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
+DTEND:20250118T143000Z
+LOCATION:Paw.F 614
+DTSTART:20250118T121500Z
+SUMMARY:Rachunek kosztów (ćwiczenia)
+UID:82599741-af77-4bbc-a372-092927c4b462@8259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
+UID:a12959e0-f581-42a5-a810-93f6232ccc22@a129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20241221T194500Z
+LOCATION:Paw.F 106
+DTSTART:20241221T173000Z
+SUMMARY:Nadzór właścicielski (konwersatorium)
+UID:91ce6a4f-1963-4600-b67c-5ae715bbbd96@91ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241018T184500Z
+DTSTART:20241018T163000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (wykład)
+UID:b011e9ad-1b62-4b3e-922e-9633de0a9813@b011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20241020T141500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241020T120000Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
+UID:7cc1053f-b98e-4d7d-9730-39362977c116@7cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20241130T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241130T121500Z
+SUMMARY:Polityka pieniężna (ćwiczenia)
+UID:de78cd95-3151-47ca-97af-af54fa91602c@de78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250119T100000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250119T074500Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (ćwiczenia)
+UID:b16edc89-a11d-4b80-a3fe-c20a82f7205a@b16e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20250119T124500Z
+LOCATION:Paw.F 715
+DTSTART:20250119T103000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (ćwiczenia)
+UID:78dbb42e-d9f4-45f9-8c04-83323d2576b1@78db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250125T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250125T093000Z
+SUMMARY:Zarządzanie portfelem inwestycyjnym (egzamin)
+UID:102f55cf-4d40-4c59-9acf-fb50fce6b980@102f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Bogusława Bek-Gaik
+DTEND:20241117T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241117T103000Z
+SUMMARY:Rachunek kosztów (ćwiczenia)
+UID:f0037294-0347-4cf6-b318-1bd8cda797e2@f003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20241208T124500Z
+DTSTART:20241208T103000Z
+SUMMARY:Polityka pieniężna (wykład)
+UID:668a209c-96c3-47e3-8422-81d6db7f3f1b@668a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Kochaniak
+DTEND:20250222T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250222T103000Z
+SUMMARY:Zarządzanie instytucjami kredytowymi (egzamin)
+UID:add218ef-7c32-43be-a5b4-d83346258796@add2.org
 END:VEVENT
 END:VCALENDAR
