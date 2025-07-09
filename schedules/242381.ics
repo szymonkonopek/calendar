@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20241022T110000Z
-DTSTART:20241022T093000Z
-SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
-UID:aa2fec2c-cd8b-4f6a-b3a4-839d06a0eba3@aa2f.org
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241210T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241210T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:ae803a3b-90a9-416d-8e05-5e8116e55cda@ae80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20241003T091500Z
+DTSTART:20241003T074500Z
+SUMMARY:Zielone Finanse (wykład do wyboru)
+UID:e1e2ad5e-5ae4-4165-af87-5f62a9975279@e1e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
@@ -14,276 +22,14 @@ DTEND:20241217T190000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20241217T173000Z
 SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:07a58b0b-196c-4ea9-a861-db6f5f063e42@07a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20241210T171500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241210T154500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
-UID:a995b102-f5c2-437d-aced-66181ca1a0ff@a995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20241007T143000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241007T130000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:6a96c18b-af72-431c-a4e2-f90a16cabead@6a96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250115T180000Z
-LOCATION:Paw.S sala 7
-DTSTART:20250115T154500Z
-SUMMARY:Prawo Ubezpieczeniowe (egzamin)
-UID:d6ccef15-2526-4e00-871f-04f911fd67e5@d6cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20241106T171500Z
-DTSTART:20241106T154500Z
-SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
-UID:22ff6fa3-6efc-496b-abd0-2a5cd79a1f41@22ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241108T083000Z
-DTSTART:20241108T070000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:7544a121-7747-4b73-a50e-e5ee2c8f114b@7544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241126T153000Z
-DTSTART:20241126T140000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (Przeniesienie zajęć)
-UID:2cbbf492-7916-4463-a887-449e226f304e@2cbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241021T081500Z
-DTSTART:20241021T060000Z
-SUMMARY:Rynek sztuki (wykład do wyboru)
-UID:84346bb4-8c04-4b41-8e0b-0f272106c3b7@8434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241118T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241118T121500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:a13928be-b5a6-4d73-82f4-3ce34153b348@a139.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241107T171500Z
-DTSTART:20241107T154500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:0c99f383-04fd-45d1-a7f5-27c5db8511d3@0c99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241021T110000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241021T101500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:acf9f64d-8653-48e5-a085-d8f0e9db74e0@acf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241209T134500Z
-DTSTART:20241209T121500Z
-SUMMARY:System zarządzania w instytucjach finansowych (Przeniesienie zajęć)
-UID:51fb7d03-de32-4f2f-94c2-475174c6b90e@51fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241001T143000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241001T130000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:43a00d60-886c-4ade-a0fc-3d314961f70f@43a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241118T083000Z
-DTSTART:20241118T070000Z
-SUMMARY:Rynek sztuki (wykład do wyboru)
-UID:2aae4250-3e8f-4ae1-912c-101f622423eb@2aae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20250110T120000Z
-LOCATION:Paw.F 102
-DTSTART:20250110T103000Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:8f99d91c-be67-409a-baa4-fb66a419a908@8f99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20241029T171500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241029T154500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
-UID:13354ba1-edb8-45e2-aff7-2893e4faee8a@1335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241216T101500Z
-LOCATION:Bud.gł. 4
-DTSTART:20241216T084500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:207687c5-f9db-42c3-aae1-03c440b03e38@2076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241028T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241028T121500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:7cba6c4b-998e-4038-bc1b-33f0cd93fede@7cba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250121T163000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250121T154500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
-UID:1d1e5f67-6574-4f3e-a782-55dd28450a89@1d1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241010T161500Z
-DTSTART:20241010T144500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:0ff9ca6d-900d-4d37-a62e-473770e83c41@0ff9.org
+UID:0f500b3c-b314-4b3e-871d-a8f303f97f50@0f50.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250120T101500Z
-LOCATION:Paw.S sala 2
-DTSTART:20250120T084500Z
-SUMMARY: (egzamin)
-UID:e23a5e78-fb3c-4802-8947-ac496bfc3cc7@e23a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241025T073000Z
-DTSTART:20241025T060000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:be97841b-6af4-4797-a462-11f314529330@be97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20250116T130000Z
-DTSTART:20250116T121500Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:5a77a4d8-b05a-49a4-94f4-9d33779abd52@5a77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20241126T171500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241126T154500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
-UID:b844d193-5904-40f5-9a0b-f59947ac5712@b844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20241206T153000Z
-DTSTART:20241206T140000Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:ca5a2b3f-759e-46e0-9bcd-3cd3dce24286@ca5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241219T120000Z
-DTSTART:20241219T103000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:01a5cdc9-200c-41c1-97dc-ac101e23f7bd@01a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20241105T171500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241105T154500Z
-SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:bee6bfc2-be09-4d6f-9848-8de206c1c0ab@bee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250109T100000Z
-DTSTART:20250109T074500Z
+DTEND:20241031T101500Z
+DTSTART:20241031T084500Z
 SUMMARY:Zielone Finanse (wykład do wyboru)
-UID:a0de792a-30aa-4060-abc4-e27ef8d8a2a7@a0de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20241203T171500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241203T154500Z
-SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:03c94448-4de5-4585-be81-b6c5de013f3e@03c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20241216T153000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241216T140000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:a10457de-bf39-49d1-b299-d7b71b7a4d08@a104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20241204T171500Z
-DTSTART:20241204T154500Z
-SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
-UID:f50e0331-efc7-4ce8-8355-70935bc6b3a1@f50e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250109T124500Z
-DTSTART:20250109T103000Z
-SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
-UID:8ef591bb-01ab-4953-a4da-f6c94b8cea9a@8ef5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20241219T101500Z
-DTSTART:20241219T084500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:c1b13a23-051b-452c-a05a-70071f9e9c7c@c1b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241114T171500Z
-DTSTART:20241114T154500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:d12ed2aa-a8ef-4478-b744-736026d72d56@d12e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241205T120000Z
-DTSTART:20241205T103000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:85f377b2-39c4-483c-8d61-213853426248@85f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20241001T161500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241001T144500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
-UID:87bd0d33-a36a-426c-b05b-7ab05769c9a1@87bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241107T120000Z
-DTSTART:20241107T103000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:cfadffe4-d7ea-49a2-9736-9a2dd8f45c08@cfad.org
+UID:df8a4026-87b2-4365-af5c-6d7e65f7832d@df8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
@@ -291,308 +37,28 @@ DTEND:20241210T153000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20241210T140000Z
 SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:e069c9a3-96ae-40cc-bdfa-1773fff95acb@e069.org
+UID:524d5d3b-2dc7-4bb7-a617-1e67cfcdad2f@524d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241017T161500Z
-DTSTART:20241017T144500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:aa9fb335-f172-40a5-9eb4-1712ee528678@aa9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20250114T181500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250114T173000Z
-SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:39851be7-06ed-4d8c-b483-28d69ddc94e8@3985.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20241022T161500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241022T144500Z
-SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:063890be-155f-4099-8336-331f02b988f6@0638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250127T181500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250127T173000Z
-SUMMARY:Zarządzanie ryzykiem finansowym (egzamin)
-UID:5ad2019d-354c-4070-9ea1-85fcdd4c6196@5ad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241024T161500Z
-DTSTART:20241024T144500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:00f93504-18cc-4898-a844-3e65c12c3a5e@00f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241125T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241125T121500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:9aacd173-d5c2-4fec-911b-e980929a922c@9aac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20241031T101500Z
-DTSTART:20241031T084500Z
-SUMMARY:Zielone Finanse (wykład do wyboru)
-UID:b8455ffa-9996-4152-a771-15fa704c3abe@b845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241129T120000Z
-LOCATION:Paw.F 102
-DTSTART:20241129T111500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:2bdacf1c-7a46-46bd-bb84-ec33beb030a0@2bda.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241219T101500Z
+DTSTART:20241219T084500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:0b9364a9-3ab2-4688-8fd6-b7f60abeae40@0b93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
 DTEND:20241202T083000Z
 DTSTART:20241202T070000Z
 SUMMARY:Rynek sztuki (wykład do wyboru)
-UID:e518ab7c-47cd-4dd9-bd3e-5c37f39643e0@e518.org
+UID:dc388465-26d5-4a73-8796-edde6374bfc7@dc38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241220T083000Z
-DTSTART:20241220T070000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:23ee658a-f772-48a0-ac49-4f5e75594a83@23ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20241212T101500Z
-DTSTART:20241212T084500Z
-SUMMARY:Zielone Finanse (wykład do wyboru)
-UID:0008c3a7-9b25-4c4a-aaa6-7d0765d840ed@0008.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241021T124500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241021T111500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:aa50c943-e67f-4b3f-b924-47248138c217@aa50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20250121T153000Z
-LOCATION:Bud.gł. 3
-DTSTART:20250121T144500Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:4d4b840f-9ff2-4c82-857d-6c87fc59781f@4d4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20241205T101500Z
-DTSTART:20241205T084500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:bd432f80-edcb-4883-a948-95d2e8c776cd@bd43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241206T120000Z
-LOCATION:Paw.F 102
-DTSTART:20241206T103000Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:17d0a2d7-7d43-4e4c-930e-f59c3e61e0f0@17d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241001T091500Z
-DTSTART:20241001T074500Z
-SUMMARY:Rynek sztuki (wykład do wyboru)
-UID:bfc09fb9-4830-445f-99d2-0343ad693330@bfc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20250117T120000Z
-LOCATION:Paw.F 102
-DTSTART:20250117T103000Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:dcf3bb7b-caba-4c65-a301-e1b0e1f49862@dcf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241213T120000Z
-LOCATION:Paw.F 102
-DTSTART:20241213T103000Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:ef51c95e-17eb-43eb-8b5a-a0f288acf4e1@ef51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241104T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241104T121500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:ad66aa8b-90a7-4911-9d58-241e76aebfd8@ad66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241128T163000Z
-DTSTART:20241128T154500Z
+DTEND:20241121T171500Z
+DTSTART:20241121T154500Z
 SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:f090904c-821a-42d8-8422-a017342ad0dc@f090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20250124T153000Z
-DTSTART:20250124T144500Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:89f0d8e3-4cc1-4423-bc03-db3b30efa11a@89f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20250207T130000Z
-LOCATION:Paw.F 717
-DTSTART:20250207T121500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (egzamin)
-UID:5bfcd558-83ff-49de-9d94-6f000a4105c4@5bfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241031T171500Z
-DTSTART:20241031T154500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:922a5dac-9010-40ca-ab2e-0ae914ee0b44@922a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20250122T190000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250122T173000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (egzamin)
-UID:86f02b42-a74c-4c62-866c-84fb4a325ff7@86f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20241119T171500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241119T154500Z
-SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:6e539337-8399-4d97-81e4-50ad8204d326@6e53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241105T153000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241105T140000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:403a2e3b-fd22-4ca1-ba9d-83f982a4a4b8@403a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20241218T180000Z
-DTSTART:20241218T154500Z
-SUMMARY:Prawo Ubezpieczeniowe (Przeniesienie zajęć)
-UID:117c1c5b-ff37-43a3-97e9-76ec48307005@117c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241010T143000Z
-DTSTART:20241010T130000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:06561c18-c182-4e5e-9b5e-9033fbf0434c@0656.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241028T120000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241028T111500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:8429c075-8136-4e43-98dd-55de6d6a4ab6@8429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241011T073000Z
-DTSTART:20241011T060000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:1ead104f-d2ea-435a-a15b-6e5d78544e72@1ead.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20250107T171500Z
-DTSTART:20250107T154500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia zdalne)
-UID:c8c379e4-78f7-4285-b615-030c7c491e91@c8c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241104T120000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241104T111500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:9f7d9a93-4e2c-4255-a659-c5a47c7fad2a@9f7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241029T153000Z
-DTSTART:20241029T140000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (Przeniesienie zajęć)
-UID:7ef829de-57ba-4fe2-8da5-0ef71785fdb0@7ef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20250207T134500Z
-LOCATION:Paw.F 717
-DTSTART:20250207T130000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (egzamin)
-UID:b5a47025-d4e4-4b56-bacb-00241a7d7b38@b5a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241122T083000Z
-DTSTART:20241122T070000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:1436423b-a73d-43d3-8756-db973c70b7f1@1436.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241118T120000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241118T111500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:3265c2fc-dd35-4efe-83c3-d77d383590b8@3265.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20241021T143000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241021T130000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:b8fd2eb9-a527-4f9f-a21c-a4f24725841d@b8fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20250117T083000Z
-DTSTART:20250117T070000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:5635a95d-53b1-4353-92d0-beed27d531fc@5635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241118T101500Z
-DTSTART:20241118T084500Z
-SUMMARY:Rynek sztuki (wykład do wyboru)
-UID:7e0e3408-1b3e-48d1-8383-52bfbfcf77d1@7e0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241220T120000Z
-LOCATION:Paw.F 102
-DTSTART:20241220T103000Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:984bc7cb-d05d-46c6-a4ed-8532c61bacfc@984b.org
+UID:2f3e145c-ccea-40b3-8ee7-403a79f8230f@2f3e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Walitza
@@ -600,229 +66,7 @@ DTEND:20250124T120000Z
 LOCATION:Paw.F 102
 DTSTART:20250124T103000Z
 SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:d45df509-39a9-41d1-9686-a3c31b79ba61@d45d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20241104T153000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241104T140000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:3bf7bc25-38a0-4407-b33f-e87b17b814a6@3bf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20250117T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20250117T084500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
-UID:bdb7a081-a16e-42cc-b8fe-de1ce7d8931e@bdb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20241010T091500Z
-DTSTART:20241010T074500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:50ba993b-55b6-46b5-8fbf-4a37dfde82b8@50ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20250114T144500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250114T140000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:eec5eb9a-ea07-497a-ad3f-81b821c820e1@eec5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20241118T153000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241118T140000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:0ea66cac-cad9-4772-9c49-f796023ddb35@0ea6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20241120T171500Z
-DTSTART:20241120T154500Z
-SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
-UID:45d335c0-87b6-484e-870e-826f15e9e338@45d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241216T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241216T121500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:09bd222c-2fcc-4e33-a83f-b0c8f36d231b@09bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241015T091500Z
-DTSTART:20241015T074500Z
-SUMMARY:Rynek sztuki (wykład do wyboru)
-UID:13d90aec-7166-41d0-8074-53ecc21099cc@13d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241112T153000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241112T140000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:f9b68ed6-42ea-40d8-9e49-8008d6b6acc3@f9b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250115T171500Z
-DTSTART:20250115T154500Z
-SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
-UID:6152e984-0380-4587-a4d3-eb25b43da8a4@6152.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20241003T091500Z
-DTSTART:20241003T074500Z
-SUMMARY:Zielone Finanse (wykład do wyboru)
-UID:8a83f62b-e4a2-4f57-8c91-6786a326160f@8a83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20241015T161500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241015T144500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
-UID:339383ec-8bd2-4bf3-9917-84aaf96f647a@3393.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241121T171500Z
-DTSTART:20241121T154500Z
-SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
-UID:f0f7b928-5bcd-4b5c-8845-06810e1af1a5@f0f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20250123T101500Z
-DTSTART:20250123T093000Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:18263d0d-5a1d-4ef6-ba69-03f41d003177@1826.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20241009T161500Z
-DTSTART:20241009T144500Z
-SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
-UID:1353277b-682f-47e9-81e7-3cad83799808@1353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241121T120000Z
-DTSTART:20241121T103000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:99843309-2cda-4ee1-b78b-51bf4388a21b@9984.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
-DTEND:20241202T101500Z
-DTSTART:20241202T084500Z
-SUMMARY:Rynek sztuki (wykład do wyboru)
-UID:e071c84f-7a95-4ad5-9796-f646bc62f4ad@e071.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20241128T101500Z
-DTSTART:20241128T084500Z
-SUMMARY:Zielone Finanse (wykład do wyboru)
-UID:8a0840f0-92b4-403f-af89-c4d52e27a54e@8a08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20241023T161500Z
-DTSTART:20241023T144500Z
-SUMMARY:Prawo Ubezpieczeniowe (Przeniesienie zajęć)
-UID:7681451a-79be-4678-b394-ac230150ccb1@7681.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241024T110000Z
-DTSTART:20241024T093000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:aa632401-0551-4d62-9a62-edab0d11e3a3@aa63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20250107T153000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250107T140000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:debb08a3-305c-456d-ac22-73671d0b9afa@debb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20250116T101500Z
-DTSTART:20250116T084500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:dc1e25f9-26b5-469c-a7db-0a156fcd781e@dc1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Jagódka
-DTEND:20241112T171500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241112T154500Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
-UID:86ce1e69-6a82-40ee-bdd2-3fccdf95a257@86ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241219T134500Z
-DTSTART:20241219T121500Z
-SUMMARY: (rezerwacja)
-UID:ad341518-45b5-4fac-b73f-908cffe47e8c@ad34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20241202T153000Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241202T140000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:c927c564-46c0-4db1-a715-3828debd534a@c927.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20250116T120000Z
-DTSTART:20250116T103000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
-UID:f4520be4-f4fa-4ac6-b877-3176eb69a0a6@f452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Walitza
-DTEND:20241206T083000Z
-DTSTART:20241206T070000Z
-SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
-UID:0a71fafe-7cfd-4e1f-bcda-206c122af590@0a71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20241025T143000Z
-DTSTART:20241025T130000Z
-SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:d96e24ff-8ac6-4d25-a550-f54a2608163d@d96e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Stanienda
-DTEND:20241202T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241202T121500Z
-SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
-UID:46d94709-f20a-4e95-8fae-14cae2ad550a@46d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20241015T143000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241015T130000Z
-SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
-UID:7c5ec126-1306-49d7-8295-c87ef4f1f65c@7c5e.org
+UID:d90763bb-6907-486a-8cdb-46255d261fd6@d907.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Karaś
@@ -830,51 +74,159 @@ DTEND:20250113T153000Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20250113T140000Z
 SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
-UID:e9c6dff3-d834-4304-9717-30b036d7d138@e9c6.org
+UID:20e19890-9a3e-4eae-a8eb-a2c00b993dbf@20e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20250121T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250121T144500Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
+UID:0c622638-5b9f-4f36-90d9-0eaf696b4ea1@0c62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20241104T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241104T140000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
+UID:f246d75c-2377-4b84-a74f-352bb8fbb394@f246.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241118T083000Z
+DTSTART:20241118T070000Z
+SUMMARY:Rynek sztuki (wykład do wyboru)
+UID:7bc46315-22d3-4687-a6e9-7de5b64c05f1@7bc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241205T101500Z
+DTSTART:20241205T084500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:069e1c4e-e701-4cff-ab27-e259049c6f76@069e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250121T163000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250121T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:6b70c853-a9bc-4ddd-a5ab-65e0e785610a@6b70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241021T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241021T101500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:d4f5d298-5de2-4b37-bd19-d8ed189b3815@d4f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241128T163000Z
+DTSTART:20241128T154500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
+UID:04a318ea-085a-49c5-bdd3-6e9c7c0f0e40@04a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20241010T123000Z
 DTSTART:20241010T093000Z
 SUMMARY: (rezerwacja)
-UID:1285e6d5-3358-48d1-89c9-1df91083ef41@1285.org
+UID:86453105-b6de-40b5-a705-889d655253e9@8645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241104T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241104T121500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:0e8cfbd9-ff39-41b2-9a39-74ed8ebfdfc1@0e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250116T101500Z
+DTSTART:20250116T084500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:818e3403-74a7-4ef6-a802-d9e823d0e401@818e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
 DTEND:20241220T153000Z
 DTSTART:20241220T140000Z
 SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
-UID:3a7fb616-ace3-4fd1-b4f9-3e4c0b87297d@3a7f.org
+UID:66007d7b-0d95-413d-ba0c-dc79d38a6bc5@6600.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20250114T171500Z
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241206T120000Z
+LOCATION:Paw.F 102
+DTSTART:20241206T103000Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
+UID:ba0aac24-7c6f-432a-839c-2e910f14bf3f@ba0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20250114T144500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250114T140000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
+UID:d37a50e1-a19a-48db-8205-0d014ded6635@d37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241129T120000Z
+LOCATION:Paw.F 102
+DTSTART:20241129T111500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
+UID:82326f45-c5bb-4335-9ed3-d4104ee80f2b@8232.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241010T091500Z
+DTSTART:20241010T074500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:807dc429-333f-49b2-844d-cdd7077d3868@807d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241104T120000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250114T154500Z
-SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:f331e0a7-1533-4885-9c97-460fd05bbc2c@f331.org
+DTSTART:20241104T111500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:12306583-8e6f-4489-ba37-9bb001ef57bd@1230.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20241008T161500Z
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241021T124500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20241008T144500Z
-SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:ccbe7d4d-3bb6-44b4-bd5b-ba7a6d9e9878@ccbe.org
+DTSTART:20241021T111500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:8e53d473-39de-460c-b8c5-c5d852cc4f72@8e53.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20241017T091500Z
-DTSTART:20241017T074500Z
-SUMMARY:Zielone Finanse (wykład do wyboru)
-UID:f03a6a33-51b8-4843-a1d2-9523465c7866@f03a.org
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250207T130000Z
+LOCATION:Paw.F 717
+DTSTART:20250207T121500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (egzamin)
+UID:b7e694a0-4baa-46b3-8f9a-5127ae3988f3@b7e6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20241114T101500Z
-DTSTART:20241114T084500Z
-SUMMARY:Zielone Finanse (wykład do wyboru)
-UID:6a4710c1-c4c1-484c-8a68-c7ae4b619bab@6a47.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241009T161500Z
+DTSTART:20241009T144500Z
+SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
+UID:2f5fac32-8f1a-4951-aa60-77a1db655a76@2f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241015T161500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241015T144500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:c539265e-81b6-445d-860c-c51f5628e7e4@c539.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
@@ -882,6 +234,654 @@ DTEND:20241217T171500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20241217T154500Z
 SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
-UID:4d224b33-7c5f-47a6-a455-8d7929d54f08@4d22.org
+UID:ab7f6179-e92c-4b2d-8600-32b52cc05f93@ab7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20241119T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241119T154500Z
+SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
+UID:3bad4f11-8f3b-44df-9c5a-f64a00815a0b@3bad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241114T171500Z
+DTSTART:20241114T154500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
+UID:64db39c9-1c27-413b-9fd2-6ef8d46a4a29@64db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241106T171500Z
+DTSTART:20241106T154500Z
+SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
+UID:642389e8-9248-4f4a-925f-66033f9ae72f@6423.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250120T101500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250120T084500Z
+SUMMARY: (egzamin)
+UID:c44d2e70-332d-4462-9539-ba07bc0ea973@c44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250123T101500Z
+DTSTART:20250123T093000Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:be02ef99-8c6d-427e-8081-51a9df6d55f1@be02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20250116T130000Z
+DTSTART:20250116T121500Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:b896aeb3-e135-481b-947e-d78417449532@b896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241121T120000Z
+DTSTART:20241121T103000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:da507641-4e88-4cdd-85bf-242098106a64@da50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20241021T143000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241021T130000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
+UID:5cbcfb75-77ac-42ff-99e7-ea1c435c2e22@5cbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241122T083000Z
+DTSTART:20241122T070000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:5bc38ba6-8708-45b1-aab8-59b21d523fa7@5bc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241001T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241001T130000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
+UID:b4a98713-15e2-442e-907a-ebbdc61c3edf@b4a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241112T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241112T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:35215c78-cb17-4afb-9955-e5a1e34a2678@3521.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:1fe9fcec-9ffe-4c8e-852b-781c714bb960@1fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20241022T161500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241022T144500Z
+SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
+UID:f093e55f-b4a1-4643-a5e4-a4337d5bcb8c@f093.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241021T081500Z
+DTSTART:20241021T060000Z
+SUMMARY:Rynek sztuki (wykład do wyboru)
+UID:6f3e2b57-31c4-4f0e-b015-ad98f8c8c37d@6f3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241118T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241118T111500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:9b3eeccb-fdda-492d-a62b-4bffaf839226@9b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241118T101500Z
+DTSTART:20241118T084500Z
+SUMMARY:Rynek sztuki (wykład do wyboru)
+UID:26e93a76-5c1f-47c9-bfdf-a90e8f04a4d5@26e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250107T171500Z
+DTSTART:20250107T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia zdalne)
+UID:8d740d4c-04a5-4a52-8650-1a82bc68143a@8d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20241216T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241216T140000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
+UID:1ace4439-c74a-482c-b0b9-778cfa122684@1ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20241017T091500Z
+DTSTART:20241017T074500Z
+SUMMARY:Zielone Finanse (wykład do wyboru)
+UID:22ccedfe-da71-4664-87e3-bda2cb9830da@22cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250117T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250117T084500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
+UID:6b538393-62e3-437a-8771-c69ed0508dda@6b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241023T161500Z
+DTSTART:20241023T144500Z
+SUMMARY:Prawo Ubezpieczeniowe (Przeniesienie zajęć)
+UID:4c916af2-f7cd-4aad-9037-05fc2b72526c@4c91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241015T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241015T130000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
+UID:987e713d-1e2a-4510-a498-3597010c3a26@987e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241001T091500Z
+DTSTART:20241001T074500Z
+SUMMARY:Rynek sztuki (wykład do wyboru)
+UID:93515174-3802-4412-87f1-32dd4c878048@9351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20241118T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241118T140000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
+UID:8585bd6a-c166-4d9f-a235-61803d8443a4@8585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241126T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241126T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:fbfd0d24-1989-43a8-81a1-85f8a858f151@fbfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241029T153000Z
+DTSTART:20241029T140000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (Przeniesienie zajęć)
+UID:ac57c8bd-d402-4280-9d08-43c6e7211774@ac57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20241203T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241203T154500Z
+SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
+UID:810b0d1c-b51e-44e0-804c-d2190a62e371@810b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20250107T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250107T140000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
+UID:6f2df1b9-a24e-459b-972e-f025a71bc7b7@6f2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20241114T101500Z
+DTSTART:20241114T084500Z
+SUMMARY:Zielone Finanse (wykład do wyboru)
+UID:dca4154a-21c8-43ff-84e7-4cfb60f9466a@dca4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241216T101500Z
+LOCATION:Bud.gł. 4
+DTSTART:20241216T084500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:8164e8f8-1f87-43dd-a2ab-6ff5b21394a8@8164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241220T120000Z
+LOCATION:Paw.F 102
+DTSTART:20241220T103000Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
+UID:2088ffdc-5b12-4179-9efa-03880d7df957@2088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241022T110000Z
+DTSTART:20241022T093000Z
+SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
+UID:07ba776b-a5ee-4fe5-8989-f14276428683@07ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250127T181500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250127T173000Z
+SUMMARY:Zarządzanie ryzykiem finansowym (egzamin)
+UID:bd3804a6-0af5-46ff-8d8c-422d1634338c@bd38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250117T083000Z
+DTSTART:20250117T070000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:1404114b-fbbb-4d0c-9579-8c03ab63a85a@1404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241028T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241028T111500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:28b4c92b-aed5-419f-9db0-67538f253bda@28b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241025T143000Z
+DTSTART:20241025T130000Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:1117e43a-803e-4e52-870c-27074a53f7bf@1117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241216T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241216T121500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:dac47866-93d6-4750-a8b6-7c51ea78e484@dac4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241219T120000Z
+DTSTART:20241219T103000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:1f74adff-c5ba-42f0-810b-cadad6395242@1f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250207T134500Z
+LOCATION:Paw.F 717
+DTSTART:20250207T130000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (egzamin)
+UID:9f6dd824-3d65-45c7-9ca5-18ccab6df7c6@9f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20250122T190000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250122T173000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (egzamin)
+UID:10543ca9-e7b2-4989-83be-00da729820f4@1054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241107T120000Z
+DTSTART:20241107T103000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:5488f3e0-15a8-4562-bb63-976e9727355d@5488.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241024T161500Z
+DTSTART:20241024T144500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
+UID:89f6d7a6-c260-4f62-ac58-16aef94db13f@89f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241218T180000Z
+DTSTART:20241218T154500Z
+SUMMARY:Prawo Ubezpieczeniowe (Przeniesienie zajęć)
+UID:a41e9d4e-a49d-4b37-be8e-c6c7725f4c4f@a41e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20250114T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T154500Z
+SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
+UID:29264740-3bbe-4969-84da-318947c5745a@2926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20241202T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241202T140000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
+UID:82edc231-8229-4b23-b5cb-2f7fc2880be0@82ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20250116T120000Z
+DTSTART:20250116T103000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:2fb83f13-27a8-41fb-921f-d6500b4f5407@2fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250115T180000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250115T154500Z
+SUMMARY:Prawo Ubezpieczeniowe (egzamin)
+UID:2be7e703-acdd-4210-9679-633fc773e5ba@2be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241213T120000Z
+LOCATION:Paw.F 102
+DTSTART:20241213T103000Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
+UID:1b50eb0d-e715-423c-b0f8-00667f780259@1b50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241015T091500Z
+DTSTART:20241015T074500Z
+SUMMARY:Rynek sztuki (wykład do wyboru)
+UID:2eef43b4-0eb5-4f72-b8a1-f5efc665431b@2eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241025T073000Z
+DTSTART:20241025T060000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:05e72be1-44cc-4893-b8d2-98b045dd5197@05e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20241128T101500Z
+DTSTART:20241128T084500Z
+SUMMARY:Zielone Finanse (wykład do wyboru)
+UID:06641fca-1791-4b6d-9f03-2d656bcc1227@0664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241125T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241125T121500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:8231a573-8ae6-4782-a35d-b995b6f058aa@8231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241017T161500Z
+DTSTART:20241017T144500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
+UID:75630244-2977-4ff4-abeb-cf1b9428cd82@7563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241029T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241029T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:07d4934b-23df-40c4-9194-40f30646358d@07d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241031T171500Z
+DTSTART:20241031T154500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
+UID:13e2647e-85a3-4f5f-9104-088f864f3c68@13e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241010T161500Z
+DTSTART:20241010T144500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
+UID:aa74f2f7-5cd8-4a81-861a-29a992d1c205@aa74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250109T100000Z
+DTSTART:20250109T074500Z
+SUMMARY:Zielone Finanse (wykład do wyboru)
+UID:b5feb5a6-8dc1-4638-9bf8-39064a2ca85d@b5fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250115T171500Z
+DTSTART:20250115T154500Z
+SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
+UID:558ea226-ed2c-4fbb-9c23-f326b1d74d3e@558e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250117T120000Z
+LOCATION:Paw.F 102
+DTSTART:20250117T103000Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
+UID:dd3f6f18-9bdb-4954-b006-bfd86a5490fc@dd3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20241007T143000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241007T130000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (ćwiczenia)
+UID:a74c5e99-4cbc-4cc3-88e1-bd4af30dc969@a74c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20241008T161500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241008T144500Z
+SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
+UID:2521428d-55d0-42d7-87e3-5d51bcc8ee53@2521.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241126T153000Z
+DTSTART:20241126T140000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (Przeniesienie zajęć)
+UID:dca15067-f5fc-408e-8558-14114525871e@dca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241001T161500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241001T144500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:a8a9d8b3-fef4-4dee-a235-7665e49ee3bf@a8a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241204T171500Z
+DTSTART:20241204T154500Z
+SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
+UID:a6c32cd8-644d-4954-ab69-35d52fd9ff09@a6c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241112T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241112T140000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
+UID:58700c1f-3a5a-4f4f-bd61-7323bc7bfd56@5870.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241206T083000Z
+DTSTART:20241206T070000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:bac3fa68-609c-4570-80b9-db5c436589f6@bac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241107T171500Z
+DTSTART:20241107T154500Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (wykład)
+UID:0fe4faa8-8754-4230-b1b2-e33b8b4884c1@0fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241108T083000Z
+DTSTART:20241108T070000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:89e16e2a-f4f9-47a7-b279-c834267d3c2e@89e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241010T143000Z
+DTSTART:20241010T130000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:c8b1098d-9f1b-4982-be11-8a7505e8ed55@c8b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20241105T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241105T154500Z
+SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
+UID:07957ce3-a457-41ae-8ccf-a55663c3c319@0795.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250109T124500Z
+DTSTART:20250109T103000Z
+SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
+UID:3e799b22-fdac-47b9-b913-ccba4edd0f15@3e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241209T134500Z
+DTSTART:20241209T121500Z
+SUMMARY:System zarządzania w instytucjach finansowych (Przeniesienie zajęć)
+UID:25d39105-d501-432d-baef-b511a7a5bb0d@25d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20241212T101500Z
+DTSTART:20241212T084500Z
+SUMMARY:Zielone Finanse (wykład do wyboru)
+UID:b85a2247-7dd6-4471-bf5e-2ddb59d82124@b85a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241120T171500Z
+DTSTART:20241120T154500Z
+SUMMARY:Prawo Ubezpieczeniowe (wykład do wyboru)
+UID:a68d148c-714a-433d-b2da-8fc9671a724b@a68d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250124T153000Z
+DTSTART:20250124T144500Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:28d79f20-ee73-4b6c-9dbd-3f0721e46b9f@28d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20250114T181500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T173000Z
+SUMMARY:Zielone Finanse (ćwiczenia do wyboru)
+UID:defed3a7-659e-4c41-a85e-46f4932a2e34@defe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241202T101500Z
+DTSTART:20241202T084500Z
+SUMMARY:Rynek sztuki (wykład do wyboru)
+UID:92cf8e92-16fa-4f15-ab22-9251b51b0c0a@92cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241118T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241118T121500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:d19eaeee-92ce-47ac-a566-7f9ac6cc0912@d19e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241202T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241202T121500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:56b242a4-ae34-4605-ad66-5cd1e2334e28@56b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250110T120000Z
+LOCATION:Paw.F 102
+DTSTART:20250110T103000Z
+SUMMARY:Modele biznesowe\, produkty i usługi bankowości cyfrowej (ćwiczenia)
+UID:f72581ef-a169-4a85-911a-47c2c4edbf18@f725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241220T083000Z
+DTSTART:20241220T070000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:342d0fe4-0d69-4dc5-98aa-d6d4209d3c2d@342d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241206T153000Z
+DTSTART:20241206T140000Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:ec7e4b89-9ee1-456b-9afc-9c04138365ad@ec7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241024T110000Z
+DTSTART:20241024T093000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:b33ddaed-15ad-40ce-9bcd-c613e4ee50c1@b33d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241205T120000Z
+DTSTART:20241205T103000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (wykład)
+UID:39fb0559-45af-4d4a-bcb7-643f59115409@39fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241028T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241028T121500Z
+SUMMARY:System zarządzania w instytucjach finansowych (konwersatorium)
+UID:257e1a9e-9c0c-402f-9c1c-3f3c5c7ab700@257e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241011T073000Z
+DTSTART:20241011T060000Z
+SUMMARY:Finanse i rozliczenia międzynarodowe (wykład)
+UID:04d7df4e-79e7-4cc1-a902-a98bd2bd804d@04d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241105T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241105T140000Z
+SUMMARY:Modelowanie predykcyjne w finansach i ubezpieczeniach (ćwiczenia)
+UID:5a4948a7-04cb-4137-9e75-6aa5283099a7@5a49.org
 END:VEVENT
 END:VCALENDAR
