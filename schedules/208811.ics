@@ -2,43 +2,82 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241114T120000Z
+DTSTART:20241114T103000Z
+SUMMARY:Filozofia (wykład)
+UID:1af7c1ad-4028-40ef-be3e-a47d79eaa712@1af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20250116T134500Z
+DTSTART:20250116T121500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:803d5a2b-5017-4c4f-a2b6-191305336fc7@803d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241205T171500Z
+DTSTART:20241205T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:aed27a9c-d154-40ed-adfb-9e1ade267f0d@aed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241024T143000Z
+DTSTART:20241024T130000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:c8ac4d86-022a-4b69-9977-f0ba10a4c6fb@c8ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20250109T171500Z
+DTSTART:20250109T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:8ca4ade2-1f28-4762-bb70-eb3f49f21c00@8ca4.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
 DTEND:20241127T134500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20241127T121500Z
 SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:8137b031-c03d-453f-89b5-d71c9a37ac25@8137.org
+UID:30eb4861-8ab3-4e30-829e-7584975b59f2@30eb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241211T134500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241211T121500Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:2c11ac13-b29a-433e-acb1-4366abe7bacf@2c11.org
+DESCRIPTION:Instructor: 
+DTEND:20241009T180000Z
+DTSTART:20241009T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:d035b2f3-d848-4376-8043-3230bf457c80@d035.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250121T190000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250121T173000Z
-SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:3354ea00-fec5-4273-bd56-05c9beb166d0@3354.org
+DESCRIPTION:Instructor: 
+DTEND:20241211T190000Z
+DTSTART:20241211T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:9a0e49f3-45e3-42a6-b5b8-f2c9a15f94a4@9a0e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20250203T100000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250203T070000Z
-SUMMARY: (egzamin)
-UID:3781c481-231a-43de-883f-d453cdb04931@3781.org
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241121T134500Z
+DTSTART:20241121T121500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:120b3e5f-a768-41e3-bce5-f5d59b595732@120b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241128T120000Z
-DTSTART:20241128T103000Z
-SUMMARY:Filozofia (wykład)
-UID:25671f48-ae97-48d3-b182-a8ab5f0188d1@2567.org
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20250116T171500Z
+DTSTART:20250116T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:ec816fde-2ceb-4eab-af5c-ea89da2c40c1@ec81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241128T093000Z
+DTSTART:20241128T084500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:c5730a9c-e9d2-4faf-bbc4-4317fd22bb05@c573.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Pisulewski
@@ -46,74 +85,128 @@ DTEND:20241022T180000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20241022T163000Z
 SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:fdb52d58-502c-4c1a-ad9e-67722cd6ae1a@fdb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241212T144500Z
-DTSTART:20241212T140000Z
-SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:3398ec0a-0b13-49b9-8f2a-d72524e3a9e2@3398.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250121T171500Z
-DTSTART:20250121T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:eed7015f-91db-4a4e-91ca-f0fc3a9e7bc3@eed7.org
+UID:5f64aef5-5196-4ed8-9472-7e8eec629df3@5f64.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241024T124500Z
-DTSTART:20241024T111500Z
+DTEND:20241128T181500Z
+DTSTART:20241128T173000Z
 SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:a231d6fa-3121-4927-9541-ae73e4e67483@a231.org
+UID:546c2a79-7be9-4b3c-ad4e-31bd7e45f5db@546c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20241125T134500Z
-LOCATION:Paw.F 415
-DTSTART:20241125T130000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:c40b635d-7cf3-47ac-ba5a-c6717bbe6b06@c40b.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241205T120000Z
+DTSTART:20241205T103000Z
+SUMMARY:Filozofia (wykład)
+UID:8739712c-e117-44a3-a63b-d5b289d484ff@8739.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20250205T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250205T084500Z
-SUMMARY: (egzamin)
-UID:f87fcfbd-0e8f-41f6-9ffa-01b441de971f@f87f.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241219T120000Z
+DTSTART:20241219T103000Z
+SUMMARY:Filozofia (wykład)
+UID:aed7e02b-4f49-447d-82ba-b784138935aa@aed7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20241009T124500Z
-LOCATION:Paw.F 111
-DTSTART:20241009T111500Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:36f9cc0d-37af-44c2-a952-e01f41d1982b@36f9.org
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20250123T171500Z
+DTSTART:20250123T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:061ef3d1-b86d-4e09-8988-482e3d3d5887@061e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20250115T153000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250115T140000Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:d0b85463-a485-4deb-b8e5-6bff202d0a89@d0b8.org
+DESCRIPTION:Instructor: 
+DTEND:20250113T190000Z
+DTSTART:20250113T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:c3e97b47-4004-4c3c-9822-948f8fa0758d@c3e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20250116T153000Z
-DTSTART:20250116T140000Z
-SUMMARY:Statystyka matematyczna (Przeniesienie zajęć)
-UID:41742089-ec8f-48df-adbf-d90ddd9bcb6c@4174.org
+DTEND:20241010T143000Z
+DTSTART:20241010T130000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:0f079cb8-8b82-49f4-9832-183f9b134980@0f07.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
 DTEND:20241030T134500Z
 DTSTART:20241030T121500Z
 SUMMARY:Statystyka matematyczna (Przeniesienie zajęć)
-UID:2a1cce68-3668-48b6-bf21-7ff6c5c06c23@2a1c.org
+UID:754ef6c6-ca7d-477a-8f34-8529718ec50a@754e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241107T134500Z
+DTSTART:20241107T121500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:151359dd-bdfd-4e17-858c-418151476fc2@1513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241202T190000Z
+DTSTART:20241202T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:c4c83ead-b153-4c87-a640-1b1b9cf03271@c4c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241010T161500Z
+DTSTART:20241010T144500Z
+SUMMARY:Ekonomia (wykład)
+UID:c70d20c5-37f2-41d7-8c00-5cb88a6a2bf4@c70d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250203T100000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250203T070000Z
+SUMMARY: (egzamin)
+UID:8a73a338-afba-46b8-b6a2-8807200a125f@8a73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241212T171500Z
+DTSTART:20241212T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:5aca15e5-8ecf-4d11-a744-db1adbaacf22@5aca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241128T093000Z
+DTSTART:20241128T084500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:beea47eb-13b9-41e1-b182-fb67b944e514@beea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250121T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250121T173000Z
+SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
+UID:766b32dd-39a7-45f3-8a09-91001eb61818@766b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241202T153000Z
+DTSTART:20241202T140000Z
+SUMMARY:Filozofia (wykład)
+UID:35fe9458-5875-44b2-81cd-f660d4d39622@35fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241128T171500Z
+DTSTART:20241128T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:1e01c767-2428-4838-ae4b-42664948f0ef@1e01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241128T144500Z
+DTSTART:20241128T140000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:32f7a447-3473-4443-88d3-ab588ed994d5@32f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Lerche
@@ -121,470 +214,21 @@ DTEND:20241218T134500Z
 LOCATION:Paw.F 111
 DTSTART:20241218T121500Z
 SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:f43c6a69-b3cb-43c8-8458-742497da7b01@f43c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241219T134500Z
-DTSTART:20241219T121500Z
-SUMMARY: (rezerwacja)
-UID:7e4d7700-ff11-4f2a-a1e6-6fc0499b77d4@7e4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241106T190000Z
-DTSTART:20241106T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:cbbd6391-73a8-4969-be9e-562a02a93a4a@cbbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241203T171500Z
-DTSTART:20241203T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:40116050-b70c-49c0-bcf7-afce95ea23d5@4011.org
+UID:5fe697d5-2cde-4b79-a1e4-bb3cad1b0796@5fe6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241113T153000Z
-DTSTART:20241113T140000Z
+DTEND:20241016T143000Z
+DTSTART:20241016T130000Z
 SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:0074797c-c5dd-486d-8f0b-cfed6e759aa8@0074.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20250207T134500Z
-LOCATION:Paw.F 413
-DTSTART:20250207T130000Z
-SUMMARY:Współczesne koncepcje  zarządzania (rezerwacja)
-UID:78df9f36-f2fc-45a3-8353-9c690d773598@78df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241017T091500Z
-DTSTART:20241017T074500Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:384e912c-e03a-44d8-b0fe-96bd5dc191e0@384e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250123T120000Z
-DTSTART:20250123T103000Z
-SUMMARY:Filozofia (wykład)
-UID:7df1e21d-f7d4-42dd-94cf-3e0fec763870@7df1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241202T190000Z
-DTSTART:20241202T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:3e5ac038-0d6e-49c9-8ddc-b0fbcbea2133@3e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241024T161500Z
-DTSTART:20241024T144500Z
-SUMMARY:Ekonomia (wykład)
-UID:de9ab910-2e2f-4f0b-85c5-bb16bf1f1d01@de9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250120T190000Z
-DTSTART:20250120T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:924cbfb4-823f-4c8c-a2b9-cd31cfdb4f05@924c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241025T104500Z
-DTSTART:20241025T074500Z
-SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:c0a3ca6d-38d3-48f9-9675-6ddb5b42993f@c0a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241021T180000Z
-DTSTART:20241021T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:18e23b19-b647-4acb-82c0-4c4aeefb19e0@18e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241114T120000Z
-DTSTART:20241114T103000Z
-SUMMARY:Filozofia (wykład)
-UID:da65737d-b4c2-43f2-82fd-f129267cb67a@da65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241114T134500Z
-DTSTART:20241114T121500Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:80266b02-0595-4b14-92c2-e76ec40416ab@8026.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241212T171500Z
-DTSTART:20241212T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:f1f0840c-1642-4b5d-9574-b02638f2713d@f1f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241219T171500Z
-DTSTART:20241219T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:92a50bc1-d1b3-42ec-bc07-5df2f6332037@92a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241204T190000Z
-DTSTART:20241204T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:0e7ca742-c9d8-4a25-b68b-9217f64907bf@0e7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20250123T134500Z
-DTSTART:20250123T121500Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:2c678dae-ca82-4af4-90e8-c038ab0b3bfe@2c67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20250109T171500Z
-DTSTART:20250109T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:684854cb-8fe7-4731-9db6-0b49f12cfa15@6848.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20241210T153000Z
-DTSTART:20241210T140000Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:aeb76603-ab2c-4cac-a377-a90360804b07@aeb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241128T153000Z
-DTSTART:20241128T144500Z
-SUMMARY:Ekonomia (wykład)
-UID:22c18480-dd80-4424-a5f0-a055f176f9cd@22c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241127T190000Z
-DTSTART:20241127T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:7ff8c811-f11c-4563-aa00-9a813ece559c@7ff8.org
+UID:cead85f4-cff0-4312-8c60-e3728fb76afc@cead.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
 DTEND:20241030T153000Z
 DTSTART:20241030T140000Z
 SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:59a54041-b363-45f9-8c91-432e3fecd436@59a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241212T134500Z
-DTSTART:20241212T121500Z
-SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:e807b64a-c752-46c8-a639-b6c5e849639e@e807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241202T153000Z
-DTSTART:20241202T140000Z
-SUMMARY:Filozofia (wykład)
-UID:a3ed71d1-ff05-40a8-a00d-81937d53d504@a3ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241028T190000Z
-DTSTART:20241028T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:8fb44e25-0656-470f-a8df-150cb59e6328@8fb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241128T093000Z
-DTSTART:20241128T084500Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:dc408283-1ea4-4d25-addc-638fc340ef9a@dc40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241127T153000Z
-DTSTART:20241127T140000Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:f2c77e1f-a249-4270-8abd-f955683e8955@f2c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241121T134500Z
-DTSTART:20241121T121500Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:bc854846-7e3e-495e-94a9-ee101d4bcdca@bc85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250108T190000Z
-DTSTART:20250108T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:7b1285ef-874a-4bea-a425-3f4c4912bf2b@7b12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20250123T153000Z
-DTSTART:20250123T144500Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:a90720ba-2591-4aa0-ab31-4405e93d651a@a907.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241128T171500Z
-DTSTART:20241128T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:9f74e8e3-4cad-4645-88b7-39778aec722e@9f74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241010T123000Z
-DTSTART:20241010T093000Z
-SUMMARY: (rezerwacja)
-UID:a7912aa0-4575-4f54-ba4c-d621351c3af7@a791.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241205T171500Z
-DTSTART:20241205T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:a9560ef3-02ee-4761-965c-dfb2b2f04456@a956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241128T134500Z
-DTSTART:20241128T121500Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:e8ee3896-6cdc-4cd6-a64c-ec55408a7555@e8ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20241120T134500Z
-LOCATION:Paw.F 111
-DTSTART:20241120T121500Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:41c10131-fe01-40ef-881f-4fe11acd1962@41c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241209T153000Z
-DTSTART:20241209T140000Z
-SUMMARY:Filozofia (wykład)
-UID:51525c19-6ba2-4826-96b2-587ba88ebb8a@5152.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241010T161500Z
-DTSTART:20241010T144500Z
-SUMMARY:Ekonomia (wykład)
-UID:8b1ac702-43bf-4e9a-a51d-4678afcedca1@8b1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250107T190000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250107T173000Z
-SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:14ea9b59-3137-4266-b50a-a2e78f5db7e4@14ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20250108T153000Z
-DTSTART:20250108T140000Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:e09a154c-0450-4de7-9e21-49b94b3de3f0@e09a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250107T171500Z
-DTSTART:20250107T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:4d0fd050-994e-4d55-a00f-0c8b23bf0578@4d0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241128T144500Z
-DTSTART:20241128T140000Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:c7576a34-4c62-4d67-a44a-571d5c0ec3cb@c757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20241204T134500Z
-LOCATION:Paw.F 111
-DTSTART:20241204T121500Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:99fc4316-3ebb-4f3f-bd1d-af2a3c9d11d6@99fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20250109T134500Z
-DTSTART:20250109T121500Z
-SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:6bdf76e1-fe87-4d83-ba79-81f3ca23448e@6bdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20250108T134500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250108T121500Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:9dc17aa3-b92c-4207-99f9-0f9a3dd6613e@9dc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20250109T134500Z
-DTSTART:20250109T121500Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:99dca6e5-e5d8-4ed8-a9e8-4898775b698b@99dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241016T180000Z
-DTSTART:20241016T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:edd2510a-d5fe-44e9-89c2-27f1f3bb6a11@edd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250114T171500Z
-DTSTART:20250114T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:d9c2538e-c709-4b72-9540-2b7e0de18c67@d9c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241205T153000Z
-DTSTART:20241205T140000Z
-SUMMARY:Statystyka matematyczna (Przeniesienie zajęć)
-UID:7e15b152-cc7e-4a4f-b023-7833daa8a49a@7e15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241216T190000Z
-DTSTART:20241216T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:d66f2815-1a82-426b-bf41-f99d482efb22@d66f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20241029T190000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241029T173000Z
-SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:dd903c45-919f-4690-af7b-afcab1d8c565@dd90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241114T134500Z
-DTSTART:20241114T121500Z
-SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:cad84714-f84f-4c0b-92a7-8fca531b7f8d@cad8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241007T180000Z
-DTSTART:20241007T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:3ed3e289-84bc-4c0a-b1e2-af186194e0a3@3ed3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241014T180000Z
-DTSTART:20241014T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:0d3720f3-e6ea-4d7b-be21-48563df02c4c@0d37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241017T124500Z
-DTSTART:20241017T111500Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:4a067063-36f0-4711-b6f3-54021f421d18@4a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241112T171500Z
-DTSTART:20241112T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:8becc9da-5420-49ce-8334-b6cb139e41c6@8bec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241211T153000Z
-DTSTART:20241211T140000Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:8b70b7f1-035f-479e-aaba-c1bc9e9a9de4@8b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241016T124500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241016T111500Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:5207da83-7a0b-4919-8ac7-556c5061d221@5207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241029T171500Z
-DTSTART:20241029T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:3c9b509a-d58a-49c3-9f6d-38803025f825@3c9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241119T171500Z
-DTSTART:20241119T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:e500bd5a-0938-4a16-9624-79bc0d645343@e500.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20241106T134500Z
-LOCATION:Paw.F 111
-DTSTART:20241106T121500Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:aa738b74-e7b6-486a-81bd-289e657218f0@aa73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241202T133000Z
-DTSTART:20241202T111500Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:3a0c5d2d-689b-4527-8805-90c791708ba3@3a0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241107T120000Z
-DTSTART:20241107T103000Z
-SUMMARY:Filozofia (wykład)
-UID:11e103bd-a147-484a-b2dd-824da15d4c52@11e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241209T190000Z
-DTSTART:20241209T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:2dabd727-844e-4cbd-ae69-86adbfd565a3@2dab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241031T120000Z
-DTSTART:20241031T103000Z
-SUMMARY:Filozofia (wykład)
-UID:34fc43ee-fb1b-48fc-87d6-3f72a000aad9@34fc.org
+UID:97e8e787-e13e-4817-ba72-53493ab42b51@97e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
@@ -592,236 +236,15 @@ DTEND:20241203T083000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20241203T070000Z
 SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:8b6bac80-27c0-4e5a-b9eb-375a4cecae36@8b6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241121T171500Z
-DTSTART:20241121T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:2dbf90b5-4a46-4d67-b7d6-e521cf18428e@2dbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241017T110000Z
-DTSTART:20241017T093000Z
-SUMMARY:Filozofia (wykład)
-UID:f3d89735-0242-4bb2-8d78-2ac80555bb7e@f3d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241126T171500Z
-DTSTART:20241126T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:f9423c85-f670-49f1-be83-78081aeea61f@f942.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241030T190000Z
-DTSTART:20241030T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:c9ac6c93-66c4-4f39-9868-a33e896e7e22@c9ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241107T171500Z
-DTSTART:20241107T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:722e537d-44e7-4254-b541-dac7aa6e22dd@722e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241016T143000Z
-DTSTART:20241016T130000Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:cd5953f7-78b1-42ac-927b-5fc17a5da88b@cd59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241024T110000Z
-DTSTART:20241024T093000Z
-SUMMARY:Filozofia (wykład)
-UID:8c814857-2b44-4f66-866b-fb5494b8cbd5@8c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20250116T171500Z
-DTSTART:20250116T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:cbb7367c-e57a-467e-9efc-d5af2878a536@cbb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241113T190000Z
-DTSTART:20241113T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:10fec3a6-3f94-4383-b516-fc0730113c46@10fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241113T134500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241113T121500Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:ac8dedb2-eca8-40aa-9537-85ad4472c14e@ac8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241121T120000Z
-DTSTART:20241121T103000Z
-SUMMARY:Filozofia (wykład)
-UID:89bac95f-9fb2-485a-a464-61bd62f9ec99@89ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241217T171500Z
-DTSTART:20241217T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:9d7f4b29-17cf-461f-b50e-304a349634ab@9d7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20250122T153000Z
-DTSTART:20250122T140000Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:4a88c459-ed3a-483d-ab2f-1ff3f929fbaf@4a88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241015T161500Z
-DTSTART:20241015T144500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:b3c5395a-244d-4a8f-9196-fb2aa427195d@b3c5.org
+UID:2b86bd2a-d35c-45be-b537-13af2ce4477d@2b86.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20241118T163000Z
-DTSTART:20241118T154500Z
-SUMMARY:Współczesne koncepcje zarządzania (Przeniesienie zajęć)
-UID:682072b0-abbd-4f60-adea-c03f21c6070f@6820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250116T120000Z
-DTSTART:20250116T103000Z
-SUMMARY:Filozofia (wykład)
-UID:89c2fa1f-251e-426d-8f11-23ad90ef6536@89c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20250217T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250217T111500Z
-SUMMARY: (egzamin)
-UID:e8859df7-f197-422f-a41d-b2a7a5a82d27@e885.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241105T171500Z
-DTSTART:20241105T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:29491eaa-0dc7-4e65-a8ae-9df5e65d7d62@2949.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20250127T101500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250127T084500Z
-SUMMARY: (egzamin)
-UID:3fe57e47-6aff-475e-bbef-cc1a393f1b2b@3fe5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241024T143000Z
-DTSTART:20241024T130000Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:680aa55c-b1a7-469c-8ae7-ea075654e6ca@680a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241205T120000Z
-DTSTART:20241205T103000Z
-SUMMARY:Filozofia (wykład)
-UID:f1a30fad-bdef-496b-a325-a60cbdfc334d@f1a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20241217T190000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241217T173000Z
-SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:e825e3a5-7c2d-414b-bbec-78eda39da13c@e825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241211T190000Z
-DTSTART:20241211T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:75e740dc-0c84-4b9f-878f-275aa8465843@75e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241114T101500Z
-DTSTART:20241114T084500Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:e33703fc-5c0d-488e-a1dd-8d8f91ed3bb5@e337.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241219T120000Z
-DTSTART:20241219T103000Z
-SUMMARY:Filozofia (wykład)
-UID:5eefa968-8b55-46ba-a1de-5fe6b4eca5fe@5eef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Lerche
-DTEND:20250115T134500Z
+DTEND:20241204T134500Z
 LOCATION:Paw.F 111
-DTSTART:20250115T121500Z
+DTSTART:20241204T121500Z
 SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:b8accdfc-ed83-42fc-b0d3-264d4aa41bdd@b8ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250122T190000Z
-DTSTART:20250122T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:b065e7b2-dab5-4689-a4fa-60b0fed07c3e@b065.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250113T190000Z
-DTSTART:20250113T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:26989602-6064-470c-8f40-6f88ad9421d7@2698.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20250116T134500Z
-DTSTART:20250116T121500Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:25896b5d-7627-4778-b493-5335affa7cf0@2589.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20241212T120000Z
-DTSTART:20241212T103000Z
-SUMMARY:Filozofia (wykład)
-UID:ab7da1fe-8cac-40fd-a55a-1c7e7e9bfb3b@ab7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241107T134500Z
-DTSTART:20241107T121500Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:84c9cbcf-1e72-4628-89fc-9ec56309df13@84c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250115T190000Z
-DTSTART:20250115T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:972fff85-a92c-4a07-bef8-86b0bfe1dcc4@972f.org
+UID:05d529b7-e39c-4ee0-8c7c-17cfa075114d@05d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Lerche
@@ -829,191 +252,157 @@ DTEND:20241023T124500Z
 LOCATION:Paw.F 111
 DTSTART:20241023T111500Z
 SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:1a1f1044-7b9f-4a79-8216-f33228f9b988@1a1f.org
+UID:9c53e590-bb1b-4d40-9fcb-1371b825ce58@9c53.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241121T153000Z
-DTSTART:20241121T140000Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:d5609423-2a25-46c5-abcd-a81553d8d309@d560.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241218T190000Z
-DTSTART:20241218T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:26e391e8-a7d8-4d0b-9a34-55d65d6ad8fb@26e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241107T153000Z
-DTSTART:20241107T140000Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:fc6cbc03-48f6-44e6-96ea-b7d1671d65c6@fc6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241009T180000Z
-DTSTART:20241009T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:0356fafe-24d4-4851-bb8e-69ad514ee4a9@0356.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241106T120000Z
-DTSTART:20241106T111500Z
-SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:ed795b92-ec84-4081-bbb0-8f6b0a85e85e@ed79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241120T190000Z
-DTSTART:20241120T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:fbd30649-203f-4633-9dc2-7b13b6045e12@fbd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241010T143000Z
-DTSTART:20241010T130000Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:0682a52e-5fef-4196-a429-a033f63f2792@0682.org
+DTEND:20241203T144500Z
+DTSTART:20241203T140000Z
+SUMMARY:Statystyka matematyczna (Przeniesienie zajęć)
+UID:0dd89f39-1329-4263-88a9-6762a2227046@0dd8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20250123T134500Z
-DTSTART:20250123T121500Z
+DTEND:20241212T144500Z
+DTSTART:20241212T140000Z
 SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:b8876ebe-bcb4-47e4-bbcd-29908c125953@b887.org
+UID:78fc4901-531c-4b81-a71c-2658a2368a9a@78fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20250123T171500Z
-DTSTART:20250123T154500Z
+DTEND:20241107T171500Z
+DTSTART:20241107T154500Z
 SUMMARY:Ekonomia (wykład)
-UID:6fb68cd3-59ca-42f9-a948-a6c1a30f0520@6fb6.org
+UID:84edae63-01d2-42a5-acfa-21f94e9e6847@84ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241007T180000Z
+DTSTART:20241007T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:edd42fac-3112-4b86-bc8b-3fbe44b5d091@edd4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241031T134500Z
-DTSTART:20241031T121500Z
+DTEND:20250123T134500Z
+DTSTART:20250123T121500Z
 SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:03a581fb-dcc1-4004-9a3a-b187a24313e1@03a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241017T161500Z
-DTSTART:20241017T144500Z
-SUMMARY:Ekonomia (wykład)
-UID:6416b84b-c0a7-4e83-a286-dab34e923181@6416.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241118T190000Z
-DTSTART:20241118T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:fa216bb2-18c0-4f6c-b49a-d5325972c4dd@fa21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241008T161500Z
-DTSTART:20241008T144500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:b1d162d6-5c6b-4e5c-8a72-f912bd140ac2@b1d1.org
+UID:76d16296-23ec-4782-a3e1-e0b69f47f63a@76d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Glinka
 DTEND:20241205T181500Z
 DTSTART:20241205T173000Z
 SUMMARY:Ekonomia (wykład)
-UID:cf1fcf74-c1fa-4785-ba9f-c550b0d73a20@cf1f.org
+UID:a31f3c96-8bd2-4f63-9f8a-1c9dbd8be630@a31f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20241022T161500Z
-DTSTART:20241022T144500Z
+DTEND:20241118T190000Z
+DTSTART:20241118T173000Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:0fc3ee29-18a1-497c-935d-6e2308770e62@0fc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20241112T181500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241112T173000Z
-SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:fb1432aa-746d-42be-b1a8-d7ede8bfc5b2@fb14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241031T171500Z
-DTSTART:20241031T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:c3a59aff-6dea-4f08-9be4-3048d42bcd48@c3a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241210T171500Z
-DTSTART:20241210T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:dcf1f097-e948-4e0e-979a-65f3cd1b3fd3@dcf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Glinka
-DTEND:20241114T171500Z
-DTSTART:20241114T154500Z
-SUMMARY:Ekonomia (wykład)
-UID:61637ac3-36d6-49e9-b960-64e68b6ae6c7@6163.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20250122T134500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250122T130000Z
-SUMMARY:Statystyka matematyczna (ćwiczenia)
-UID:d2e3ecaa-333a-4062-a4c6-f205145713a9@d2e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241219T153000Z
-DTSTART:20241219T140000Z
-SUMMARY:Statystyka matematyczna (wykład)
-UID:64e35b49-58d7-483f-b78d-87f2ebd1de30@64e3.org
+UID:a0694bf9-9b32-4535-890d-b1de39212a78@a069.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
-DTEND:20241128T093000Z
-DTSTART:20241128T084500Z
+DTEND:20250122T153000Z
+DTSTART:20250122T140000Z
 SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
-UID:2b07d76e-415c-4d08-9106-21085c6262de@2b07.org
+UID:450fdee6-f685-4763-b17b-a7341d76fc36@450f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241128T181500Z
-DTSTART:20241128T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:cd4a1712-b6d0-4b2f-93cc-7f2f1716fe3b@cd4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241104T190000Z
-DTSTART:20241104T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:1cdad841-b763-4f38-b5c3-593a4d7484d0@1cda.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241127T153000Z
+DTSTART:20241127T140000Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:e2eaace0-5eeb-44ed-b16d-22438e68f6df@e2ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20241125T190000Z
-DTSTART:20241125T173000Z
+DTEND:20241204T190000Z
+DTSTART:20241204T173000Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:5eca7aa2-2ce8-4077-bdb9-12e7d4e754ad@5eca.org
+UID:a56657d1-e51f-4b49-98ed-f0d6ab3437b0@a566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241017T091500Z
+DTSTART:20241017T074500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:f822ea1c-874e-477a-9eaf-864675bc2ef5@f822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241105T171500Z
+DTSTART:20241105T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:b76a7145-e113-4efd-925b-b2f11d028a1d@b76a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
 DTEND:20250109T120000Z
 DTSTART:20250109T103000Z
 SUMMARY:Filozofia (wykład)
-UID:da7dadb8-896e-44c2-a450-656e20108eb8@da7d.org
+UID:c27cf563-bdb0-4b15-b3ac-6fd430183bd3@c27c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241022T161500Z
+DTSTART:20241022T144500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:6abb2986-2707-4d1e-8c7e-139f41c5a063@6abb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241106T120000Z
+DTSTART:20241106T111500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:d215f47a-eac8-495e-ac5b-62341b09fb77@d215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:abaac52d-d595-4d1d-a58c-e25836d0844e@abaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20250115T153000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250115T140000Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:e1f427c8-e75b-49b1-8249-257ef3400e4f@e1f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20250207T134500Z
+LOCATION:Paw.F 413
+DTSTART:20250207T130000Z
+SUMMARY:Współczesne koncepcje  zarządzania (rezerwacja)
+UID:9216c555-e5f6-4241-81c4-335027d3c3d1@9216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241218T190000Z
+DTSTART:20241218T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:e3bcc6cd-da73-4f26-9d6b-7fa848b52873@e3bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241211T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241211T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:4d153bb7-d02d-4409-92bc-102e9082b39f@4d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241016T180000Z
+DTSTART:20241016T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:38e9009d-9376-4a83-b226-08dc7e48912e@38e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Pisulewski
@@ -1021,28 +410,531 @@ DTEND:20241126T190000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20241126T173000Z
 SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:ca348be8-9d34-44c4-bce5-d4de9e689111@ca34.org
+UID:4d755c21-4cc9-493a-a2cc-7c094306c3f8@4d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241025T104500Z
+DTSTART:20241025T074500Z
+SUMMARY:Ekonometria i badania operacyjne (wykład)
+UID:0c29d52e-a085-41f9-81e3-9002ff4e2d7f@0c29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20241023T180000Z
-DTSTART:20241023T163000Z
+DTEND:20241119T171500Z
+DTSTART:20241119T154500Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:3d6abef3-5712-44ff-bb2d-d51515fd4d5b@3d6a.org
+UID:c5861879-3743-4363-8365-c6c60486cd60@c586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241121T171500Z
+DTSTART:20241121T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:3e287f16-7ead-46bd-8fa7-c9123a73bee4@3e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241128T134500Z
+DTSTART:20241128T121500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:61674e1b-581e-42ca-a58e-f1537e3d87cf@6167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241128T153000Z
+DTSTART:20241128T144500Z
+SUMMARY:Ekonomia (wykład)
+UID:018ba9da-9dc4-4f18-b0e7-46a69912c57c@018b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
-DTEND:20241203T144500Z
-DTSTART:20241203T140000Z
+DTEND:20241205T153000Z
+DTSTART:20241205T140000Z
 SUMMARY:Statystyka matematyczna (Przeniesienie zajęć)
-UID:16955df9-9316-477a-a7e4-1fd42562af77@1695.org
+UID:57834699-5e23-4b85-9912-68f4381a9470@5783.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250120T190000Z
+DTSTART:20250120T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:df21136e-bf0c-4b70-bc36-1238d032ab36@df21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20241009T124500Z
+LOCATION:Paw.F 111
+DTSTART:20241009T111500Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:509b8271-d170-48d1-90ed-d9bd2894cc55@509b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250107T171500Z
+DTSTART:20250107T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:191ebeb4-0258-43e2-a29b-f45d8c3b09c2@191e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241031T171500Z
+DTSTART:20241031T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:cd70a7dc-0479-41d3-a2f2-ee7c4960958a@cd70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241021T180000Z
+DTSTART:20241021T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:db7d677b-2d80-44e5-a676-6f622f68c5c5@db7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20250217T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250217T111500Z
+SUMMARY: (egzamin)
+UID:6b736cb6-f4be-4f64-be40-87b6830bf853@6b73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241107T120000Z
+DTSTART:20241107T103000Z
+SUMMARY:Filozofia (wykład)
+UID:1eb7b7ef-da48-4ae5-a416-c00f3be44dea@1eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241209T190000Z
+DTSTART:20241209T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:503872d0-8483-4ec6-97f8-d86091b106b9@5038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241212T120000Z
+DTSTART:20241212T103000Z
+SUMMARY:Filozofia (wykład)
+UID:20cb5547-5fc6-4ba4-aace-caac24839aa4@20cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20250116T153000Z
+DTSTART:20250116T140000Z
+SUMMARY:Statystyka matematyczna (Przeniesienie zajęć)
+UID:55596819-1769-4b02-9965-4228f44a1550@5559.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20250122T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250122T130000Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:891d2e3c-9f1f-49b7-923b-eb31efaf6438@891d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20250123T153000Z
+DTSTART:20250123T144500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:232be9ec-9104-47d3-9bd6-54ac9d0d62c0@232b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250108T190000Z
+DTSTART:20250108T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:e947512f-4371-442c-a8cc-e4d88ea79bbd@e947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241216T190000Z
+DTSTART:20241216T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:736cabd0-fe58-4f9b-b08d-d79a39b5f6f9@736c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241024T110000Z
+DTSTART:20241024T093000Z
+SUMMARY:Filozofia (wykład)
+UID:79497f90-d0a3-4f01-a526-4a7210532db3@7949.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241017T161500Z
+DTSTART:20241017T144500Z
+SUMMARY:Ekonomia (wykład)
+UID:0e96c1b5-7fc6-4764-96df-f1ddc7617fdf@0e96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241106T190000Z
+DTSTART:20241106T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:3879d32f-46ab-4fcb-8cb0-3a20ad9297da@3879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241121T120000Z
+DTSTART:20241121T103000Z
+SUMMARY:Filozofia (wykład)
+UID:c682b4c9-c4e5-4196-924f-478a37622464@c682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20250108T153000Z
+DTSTART:20250108T140000Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:0e266c57-12f8-456a-b7ca-45f2db38f43b@0e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241217T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241217T173000Z
+SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
+UID:cc169eea-e055-44ea-bb1b-df47476c0e5f@cc16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241016T124500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241016T111500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:6408b447-654f-4534-812b-c03fc5147a17@6408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241112T171500Z
+DTSTART:20241112T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:e5fa0da2-cbac-4243-a98e-2b8e946d909f@e5fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20250127T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250127T084500Z
+SUMMARY: (egzamin)
+UID:3e45fa26-7abb-4e03-a3f3-ec18c9136d31@3e45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250115T190000Z
+DTSTART:20250115T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:8078e339-5559-44f1-b874-13c748d1f2c2@8078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241114T101500Z
+DTSTART:20241114T084500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:0703d30d-e50a-4126-9fd5-7ceeb6284621@0703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20241106T134500Z
+LOCATION:Paw.F 111
+DTSTART:20241106T121500Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:ed4c2089-bdc0-4416-ad5e-b0f65be7870c@ed4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241113T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241113T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:058a9fd4-4911-44c5-8589-4555b40758b6@058a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20241120T134500Z
+LOCATION:Paw.F 111
+DTSTART:20241120T121500Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:b7195692-7806-467b-8f71-d38d3b682590@b719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250123T120000Z
+DTSTART:20250123T103000Z
+SUMMARY:Filozofia (wykład)
+UID:29731667-9efa-4029-b701-f6ba480a0646@2973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:86ebcde3-2418-46ba-8695-af01fb00b25c@86eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241128T120000Z
+DTSTART:20241128T103000Z
+SUMMARY:Filozofia (wykład)
+UID:a3cd080d-cacd-4a87-8486-bdc7ad512532@a3cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250109T134500Z
+DTSTART:20250109T121500Z
+SUMMARY:Ekonometria i badania operacyjne (wykład)
+UID:10043124-c3bc-4ee5-a2f3-4a2f214066ad@1004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241024T161500Z
+DTSTART:20241024T144500Z
+SUMMARY:Ekonomia (wykład)
+UID:ef94ce3a-6c66-4aa4-8d1e-c1aecfeb2745@ef94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241127T190000Z
+DTSTART:20241127T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:ecb8da20-7265-47b1-a0f6-faad99ec7501@ecb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250107T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250107T173000Z
+SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
+UID:cb365aa6-3a9e-4d48-a652-1f5fc7d06c1e@cb36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241031T134500Z
+DTSTART:20241031T121500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:f181f37c-13b7-4822-8480-45f498f5865d@f181.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241030T190000Z
+DTSTART:20241030T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:c4cd3661-938b-4648-a4b7-20dc721091f7@c4cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241219T171500Z
+DTSTART:20241219T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:cddea18e-c82d-4b49-8884-dc6eebd10528@cdde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241029T171500Z
+DTSTART:20241029T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:10fb16b5-ec3e-41ae-8bbc-c35f0d1a8447@10fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241114T134500Z
+DTSTART:20241114T121500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:56d533a6-4b52-4e95-93de-eb1ed27f8233@56d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20250108T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250108T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:a4313d83-6ea5-4023-9298-1a9f9063233b@a431.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241125T190000Z
+DTSTART:20241125T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:fffe53af-2a7f-4118-a355-028e6f223825@fffe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241017T110000Z
+DTSTART:20241017T093000Z
+SUMMARY:Filozofia (wykład)
+UID:fa644b9b-9a3c-485e-b05f-c8d7107ddd9e@fa64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241114T134500Z
+DTSTART:20241114T121500Z
+SUMMARY:Ekonometria i badania operacyjne (wykład)
+UID:61493444-8fa7-4682-8785-e385fb0fa65b@6149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241210T171500Z
+DTSTART:20241210T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:9b0c8727-3b6f-4acf-8c8b-0a5ade8479c1@9b0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241219T153000Z
+DTSTART:20241219T140000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:d0e8357c-0c05-44af-b5a0-fd3eef3b4c4d@d0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250114T171500Z
+DTSTART:20250114T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:fd4acadc-a105-4c80-ab45-89735ee44e1f@fd4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241104T190000Z
+DTSTART:20241104T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:36f79358-9d33-49c8-898c-4c70adc2c50a@36f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Glinka
+DTEND:20241114T171500Z
+DTSTART:20241114T154500Z
+SUMMARY:Ekonomia (wykład)
+UID:0aa97451-e314-4cfe-a98f-b778d5ce795f@0aa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241113T190000Z
+DTSTART:20241113T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:7f456c42-4750-4f13-8cb3-bae95f5f10db@7f45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250116T120000Z
+DTSTART:20250116T103000Z
+SUMMARY:Filozofia (wykład)
+UID:c90de54d-472d-4f04-9085-8d41252f99b9@c90d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241028T190000Z
+DTSTART:20241028T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:be91843a-1df2-4a68-b082-838386596b1a@be91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241008T161500Z
+DTSTART:20241008T144500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:1695cdb3-df88-4d7a-8883-f4ddb6ed4169@1695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20241118T163000Z
+DTSTART:20241118T154500Z
+SUMMARY:Współczesne koncepcje zarządzania (Przeniesienie zajęć)
+UID:9a1c7926-d176-492a-843e-121768af4124@9a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250122T190000Z
+DTSTART:20250122T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:e0289aed-ac75-4a33-aa32-a5fa49c8aa78@e028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241211T153000Z
+DTSTART:20241211T140000Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:fb2a0637-6b10-4c49-a34b-b65fb7f27a80@fb2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241120T190000Z
+DTSTART:20241120T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:94d5e90a-4e0a-46be-a3dd-2c55d97571b5@94d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241212T134500Z
+DTSTART:20241212T121500Z
+SUMMARY:Ekonometria i badania operacyjne (wykład)
+UID:826b753b-240d-49d4-a628-caed4561f9eb@826b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241128T134500Z
+DTSTART:20241128T121500Z
+SUMMARY:Ekonometria i badania operacyjne (wykład)
+UID:80d7c00c-3bab-4072-97ef-6f3a461b1679@80d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241121T153000Z
+DTSTART:20241121T140000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:61e362b1-27a3-471b-a03f-f77a47b16133@61e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241029T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241029T173000Z
+SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
+UID:a840f79d-6a8a-439a-95c1-eeed7b6c2a82@a840.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20241125T134500Z
+LOCATION:Paw.F 415
+DTSTART:20241125T130000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:32c152f3-c33e-4934-9b9e-d1bce3fd355e@32c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241015T161500Z
+DTSTART:20241015T144500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:a2c2b36f-5b5a-40e1-ad5f-dbf7ecc99a3c@a2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250121T171500Z
+DTSTART:20250121T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:6db672c4-0599-4faf-8357-62d6faea22c0@6db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241031T120000Z
+DTSTART:20241031T103000Z
+SUMMARY:Filozofia (wykład)
+UID:7d17d3aa-7937-4523-8a75-fa34ec931cbe@7d17.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Hubert Obora
 DTEND:20241205T134500Z
 DTSTART:20241205T121500Z
 SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:b172938b-9756-4477-8e78-e229a44f49ca@b172.org
+UID:c625e303-c49a-4a59-9a64-8f04ad6dfab0@c625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20250109T134500Z
+DTSTART:20250109T121500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:0d95c8f1-6315-499a-bf75-bfff65ca6429@0d95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Pisulewski
@@ -1050,13 +942,121 @@ DTEND:20241105T190000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20241105T173000Z
 SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
-UID:51ebd99b-8762-44c5-bdb4-c2ff5d676eb0@51eb.org
+UID:d373dabe-95a3-4d0b-89fd-007efb4a8bec@d373.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241128T134500Z
-DTSTART:20241128T121500Z
+DTEND:20250123T134500Z
+DTSTART:20250123T121500Z
 SUMMARY:Ekonometria i badania operacyjne (wykład)
-UID:b0cf0da3-300b-4fca-82e2-a1efc9a30bd5@b0cf.org
+UID:2afd0376-37c1-4c3a-845e-c719b674dc3b@2afd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Lerche
+DTEND:20250115T134500Z
+LOCATION:Paw.F 111
+DTSTART:20250115T121500Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:b9a3c123-7dfd-4487-9202-bc837d2fca25@b9a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241203T171500Z
+DTSTART:20241203T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:05d9c4fd-34d4-40ec-aebb-ac2f090e5edf@05d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241126T171500Z
+DTSTART:20241126T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:c241d3b0-db90-4f64-9cb9-15ca9a27f528@c241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241017T124500Z
+DTSTART:20241017T111500Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:36b3480c-bc0d-4ae3-94da-b20b78ff9175@36b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241023T180000Z
+DTSTART:20241023T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:35ee1d86-2f29-4df3-9ec0-4959a2300558@35ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241024T124500Z
+DTSTART:20241024T111500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:4ec82f82-a818-4c50-afa4-a069794ff340@4ec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241202T133000Z
+DTSTART:20241202T111500Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:7486bc09-f6aa-4690-9651-a417429ba4bd@7486.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241209T153000Z
+DTSTART:20241209T140000Z
+SUMMARY:Filozofia (wykład)
+UID:788c11f2-ef23-46f6-87d0-a8c07a3b6f70@788c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241217T171500Z
+DTSTART:20241217T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:b7c75644-a4ad-4216-be01-deb1e424f067@b7c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20250205T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250205T084500Z
+SUMMARY: (egzamin)
+UID:133bc725-f631-4174-b9d6-f2b2bcaa541d@133b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Wróbel-Rotter
+DTEND:20241113T153000Z
+DTSTART:20241113T140000Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:e8fb6afe-d2b3-4c34-86f0-e61362d09726@e8fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jadwiga Kostrzewska
+DTEND:20241107T153000Z
+DTSTART:20241107T140000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:14267f9e-87ef-415a-8039-f59117a5d292@1426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241112T181500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241112T173000Z
+SUMMARY:Ekonometria i badania operacyjne (ćwiczenia)
+UID:5ed5c937-ba3c-48aa-9030-442e39fdc425@5ed5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241014T180000Z
+DTSTART:20241014T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:9b8bfab1-1136-4156-b10a-b0d76a0f9749@9b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241210T153000Z
+DTSTART:20241210T140000Z
+SUMMARY:Ekonometria i badania operacyjne (Przeniesienie zajęć)
+UID:2d8111fd-69bd-4c80-8bb9-2dc2447b4d56@2d81.org
 END:VEVENT
 END:VCALENDAR
