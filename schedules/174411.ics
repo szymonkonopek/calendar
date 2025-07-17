@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Baran
-DTEND:20250308T100000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20250308T070000Z
-SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:e5ffb099-f151-49d2-8daa-c452cbbeaa3a@e5ff.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250510T090000Z
+LOCATION:Paw.C sala E
+DTSTART:20250510T064500Z
+SUMMARY:Metody ilościowe w administracji publicznej (ćwiczenia)
+UID:b99fc779-2dcc-4670-ade2-3dc50c9e8393@b99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20250329T133000Z
+DTSTART:20250329T103000Z
+SUMMARY:Zarządzanie publiczne (wykład)
+UID:7af84fe9-3378-4533-9a7b-109b98162a5d@7af8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Baran
@@ -15,90 +22,7 @@ DTEND:20250323T143000Z
 LOCATION:Rakowicka 16 sala 12
 DTSTART:20250323T121500Z
 SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:86547d1c-16e9-4bd8-bbf1-46b8521c6cc9@8654.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
-DTEND:20250329T133000Z
-DTSTART:20250329T103000Z
-SUMMARY:Zarządzanie publiczne (wykład)
-UID:63c476fa-5e16-438c-9a79-ac2581a548af@63c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250511T141500Z
-DTSTART:20250511T111500Z
-SUMMARY:Prawo gospodarcze publiczne (Przeniesienie zajęć)
-UID:82d9dfca-8084-41c8-9587-acd582f95f64@82d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20250510T090000Z
-LOCATION:Paw.C sala E
-DTSTART:20250510T064500Z
-SUMMARY:Metody ilościowe w administracji publicznej (ćwiczenia)
-UID:a920c46c-2d0e-4d12-a198-8d333fe7df5b@a920.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250614T143000Z
-LOCATION:Paw.B 251
-DTSTART:20250614T134500Z
-SUMMARY:Polityka społeczna (konwersatorium do wyboru)
-UID:6f88ae8d-6255-4c69-864f-00f87c7dc3c0@6f88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kopyciński
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Rozwój lokalny i regionalny (Przeniesienie zajęć)
-UID:fc3952dd-ff3a-4bd0-9827-942677a9a024@fc39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kopyciński
-DTEND:20250330T081500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250330T060000Z
-SUMMARY:Rozwój lokalny i regionalny (ćwiczenia)
-UID:736be8a1-4321-4b4f-b408-b3afdd872528@736b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20250411T160000Z
-DTSTART:20250411T134500Z
-SUMMARY:Metody ilościowe w administracji publicznej (wykład)
-UID:ba6a83c3-8c32-469e-8445-189d46dfd673@ba6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250531T104500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20250531T074500Z
-SUMMARY:Polityka społeczna (konwersatorium do wyboru)
-UID:b340aeb6-617e-46e7-bd34-21c44ccda51f@b340.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250531T124500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20250531T111500Z
-SUMMARY:Polityka społeczna (konwersatorium do wyboru)
-UID:3da622ef-cf0b-4887-8b04-50ccf460c67d@3da6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
-DTEND:20250627T143000Z
-LOCATION:Paw.C sala C
-DTSTART:20250627T130000Z
-SUMMARY:Rozwój lokalny  i regionalny (egzamin)
-UID:cbb7c4b9-fe80-4e3a-acb4-4b0303c86bc3@cbb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
-DTEND:20250411T184500Z
-DTSTART:20250411T163000Z
-SUMMARY:Rozwój lokalny i regionalny (wykład)
-UID:abf1db8c-d441-48cb-a914-9f37a7e860f3@abf1.org
+UID:88f31b9b-e52b-4cb5-95ac-fe066611e444@88f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
@@ -106,28 +30,50 @@ DTEND:20250615T133000Z
 LOCATION:Paw.C sala C
 DTSTART:20250615T111500Z
 SUMMARY:Prawo gospodarcze publiczne (ćwiczenia)
-UID:7c535175-e0ab-4517-9b33-c62e277e3ed8@7c53.org
+UID:1f80c2de-5ced-42d5-88b1-b8f99dfe0386@1f80.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
-DTEND:20250523T160000Z
-DTSTART:20250523T134500Z
-SUMMARY:Zarządzanie publiczne (wykład)
-UID:37e77e9c-b8a7-4a19-9057-6226f33c95cb@37e7.org
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250531T104500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250531T074500Z
+SUMMARY:Polityka społeczna (konwersatorium do wyboru)
+UID:8c893fb8-7fc7-40d4-95a9-690361a84986@8c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250322T151500Z
+DTSTART:20250322T130000Z
+SUMMARY:Rozwój lokalny i regionalny (wykład)
+UID:eedcc150-3241-4fc8-94d8-c485797bc93b@eedc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20250323T091500Z
+DTSTART:20250323T070000Z
+SUMMARY:Rozwój lokalny i regionalny (Przeniesienie zajęć)
+UID:fc0c4d4c-37e4-4af4-a3db-4dec9092ee08@fc0c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250412T094500Z
-DTSTART:20250412T060000Z
+DTEND:20250426T090000Z
+DTSTART:20250426T060000Z
 SUMMARY:Prawo gospodarcze publiczne (wykład)
-UID:b251b05d-f82f-4cc3-81a0-83bdc2dad266@b251.org
+UID:9ec64ce1-9d52-40ab-aedd-145c08841d5e@9ec6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20250322T091500Z
+DTSTART:20250322T070000Z
+SUMMARY:Prawo gospodarcze publiczne (wykład)
+UID:dcd82186-11c5-41ba-b878-c45770ba1850@dcd8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
-DTEND:20250301T114500Z
-DTSTART:20250301T093000Z
+DTEND:20250426T104500Z
+DTSTART:20250426T083000Z
 SUMMARY:Zarządzanie publiczne (Przeniesienie zajęć)
-UID:9d1e844b-9a99-49cd-a105-68683e63ed7a@9d1e.org
+UID:e63db3bf-6dd3-468d-81e5-fdc4165212fe@e63d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Frączek
@@ -135,66 +81,43 @@ DTEND:20250510T123000Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20250510T093000Z
 SUMMARY:Polityka społeczna (konwersatorium do wyboru)
-UID:29e11735-a635-4bee-8690-d5a13c39a772@29e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kopyciński
-DTEND:20250309T091500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250309T070000Z
-SUMMARY:Rozwój lokalny i regionalny (ćwiczenia)
-UID:7d616c43-dbcf-4435-ad2c-18976f3d08ca@7d61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
-DTEND:20250329T161500Z
-DTSTART:20250329T140000Z
-SUMMARY:Rozwój lokalny i regionalny (wykład)
-UID:190b4b90-f332-402c-abae-5bf497733574@190b.org
+UID:e16d563d-2d17-4d2d-ae83-98e35085cc86@e16d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
-DTEND:20250426T104500Z
-DTSTART:20250426T083000Z
-SUMMARY:Zarządzanie publiczne (Przeniesienie zajęć)
-UID:754a597c-5bc9-4470-964f-7f439c417ff8@754a.org
+DTEND:20250523T160000Z
+DTSTART:20250523T134500Z
+SUMMARY:Zarządzanie publiczne (wykład)
+UID:7f6c8836-623e-4576-b267-4fdb45733ffb@7f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250627T143000Z
+LOCATION:Paw.C sala C
+DTSTART:20250627T130000Z
+SUMMARY:Rozwój lokalny  i regionalny (egzamin)
+UID:bb05650c-7e7d-4134-ae7f-b4f00275a78d@bb05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20250615T081500Z
-LOCATION:Paw.C sala E
-DTSTART:20250615T060000Z
-SUMMARY:Metody ilościowe w administracji publicznej (ćwiczenia)
-UID:13847b83-5e0c-43a6-a9b7-eada205c2110@1384.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20250307T194500Z
-DTSTART:20250307T173000Z
-SUMMARY:Metody ilościowe w administracji publicznej (Przeniesienie zajęć)
-UID:3c9535c4-40c0-486b-be39-e54337096e67@3c95.org
+DTEND:20250329T100000Z
+DTSTART:20250329T074500Z
+SUMMARY:Metody ilościowe w administracji publicznej (wykład)
+UID:2010c47d-fb65-4257-8e80-054e2f353184@2010.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250307T170000Z
-DTSTART:20250307T144500Z
+DTEND:20250412T094500Z
+DTSTART:20250412T060000Z
 SUMMARY:Prawo gospodarcze publiczne (wykład)
-UID:dc48286f-122a-4a90-bf33-7cf85c5bf392@dc48.org
+UID:a83d5a75-0bfd-43c6-a02d-9dcabacd1f9a@a83d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kopyciński
-DTEND:20250308T161500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250308T140000Z
-SUMMARY:Rozwój lokalny i regionalny (ćwiczenia)
-UID:f0894a48-4216-421f-a094-15bcebf3b098@f089.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250509T160000Z
-DTSTART:20250509T134500Z
-SUMMARY:Prawo gospodarcze publiczne (Przeniesienie zajęć)
-UID:fe010538-9c90-4b81-97fd-87ff5ae35cf3@fe01.org
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250524T123000Z
+DTSTART:20250524T101500Z
+SUMMARY:Polityka społeczna (Przeniesienie zajęć)
+UID:e8dee65b-1c69-44dd-b247-313cd3af388e@e8de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
@@ -202,125 +125,36 @@ DTEND:20250601T141500Z
 LOCATION:Paw.C sala A
 DTSTART:20250601T111500Z
 SUMMARY:Prawo gospodarcze publiczne (ćwiczenia)
-UID:63b8a6b3-1ff2-4cc2-a185-38853ad863c9@63b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250524T123000Z
-DTSTART:20250524T101500Z
-SUMMARY:Polityka społeczna (Przeniesienie zajęć)
-UID:cf016c1c-b365-441c-acd8-1566e7e96fcb@cf01.org
+UID:c42604cc-0df0-4ab0-aa5e-5905768e2ede@c426.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
-DTEND:20250509T184500Z
-DTSTART:20250509T163000Z
+DTEND:20250322T123000Z
+DTSTART:20250322T093000Z
 SUMMARY:Zarządzanie publiczne (wykład)
-UID:958a154b-d159-4f0c-8f0b-aa447d916e89@958a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250413T141500Z
-LOCATION:Paw.C sala C
-DTSTART:20250413T111500Z
-SUMMARY:Prawo gospodarcze publiczne (ćwiczenia)
-UID:a9188291-223c-470a-bfcf-608de7cea961@a918.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20250524T090000Z
-DTSTART:20250524T064500Z
-SUMMARY:Metody ilościowe w administracji publicznej (Przeniesienie zajęć)
-UID:3ccb3865-b095-48fb-bacf-dce5275942b5@3ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
-DTEND:20250322T151500Z
-DTSTART:20250322T130000Z
-SUMMARY:Rozwój lokalny i regionalny (wykład)
-UID:352cb181-c6ce-4ee2-85a7-64dfb596b956@352c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
-DTEND:20250301T143000Z
-DTSTART:20250301T121500Z
-SUMMARY:Rozwój lokalny i regionalny (Przeniesienie zajęć)
-UID:60b02d03-4d7e-4bb8-b035-33fb0b293157@60b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250427T141500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250427T111500Z
-SUMMARY:Prawo gospodarcze publiczne (ćwiczenia)
-UID:53bd4f38-800a-4b7d-8ea8-29ff50e14bc8@53bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20250329T100000Z
-DTSTART:20250329T074500Z
-SUMMARY:Metody ilościowe w administracji publicznej (wykład)
-UID:8be189ae-07fd-41a3-897b-d9e1a641586c@8be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
-DTEND:20250412T164500Z
-DTSTART:20250412T134500Z
-SUMMARY:Zarządzanie publiczne (wykład)
-UID:56707a42-1b12-46bf-809a-74d31b79f14c@5670.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250426T090000Z
-DTSTART:20250426T060000Z
-SUMMARY:Prawo gospodarcze publiczne (wykład)
-UID:9f06d2c3-f34a-466e-9f87-d58f8e35db45@9f06.org
+UID:24c022fa-60b8-446a-8c10-1872d424a0de@24c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
 DTEND:20250412T113000Z
 DTSTART:20250412T083000Z
 SUMMARY:Zarządzanie publiczne (Przeniesienie zajęć)
-UID:a9a391b9-09bc-45f9-81c7-e31c32990fa2@a9a3.org
+UID:ac11586b-65b0-40b9-8c35-33af2e47932f@ac11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20250301T114500Z
+DTSTART:20250301T093000Z
+SUMMARY:Zarządzanie publiczne (Przeniesienie zajęć)
+UID:c16d940b-d220-423d-a367-14a8c4358bf8@c16d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250425T164500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20250425T134500Z
+DTEND:20250614T143000Z
+LOCATION:Paw.B 251
+DTSTART:20250614T134500Z
 SUMMARY:Polityka społeczna (konwersatorium do wyboru)
-UID:5b6f55c1-6f50-4643-866a-de63d673b30a@5b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20250614T090000Z
-LOCATION:Paw.C sala E
-DTSTART:20250614T064500Z
-SUMMARY:Metody ilościowe w administracji publicznej (ćwiczenia)
-UID:bd668de3-8376-4830-a8d3-51a478a8b9b4@bd66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250615T164500Z
-LOCATION:Paw.B 351
-DTSTART:20250615T134500Z
-SUMMARY:Publiczne prawo gospodarcze (egzamin)
-UID:9846a666-f5a9-44e8-bf66-536557392e1a@9846.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250308T133000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20250308T111500Z
-SUMMARY:Polityka społeczna (konwersatorium do wyboru)
-UID:f7c098b6-812d-4e8c-a6d0-8567882fa323@f7c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250322T091500Z
-DTSTART:20250322T070000Z
-SUMMARY:Prawo gospodarcze publiczne (wykład)
-UID:e8da91e5-e39e-4d22-8638-b210297cf25b@e8da.org
+UID:2133b18f-5c69-42fb-9492-ff8329ecaccf@2133.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Baran
@@ -328,14 +162,76 @@ DTEND:20250525T141500Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20250525T111500Z
 SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:57786220-3804-4cc5-acc7-4b69c4583a7b@5778.org
+UID:1b9a8225-e28f-4d3c-8eec-f181cc679c48@1b9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20250413T141500Z
+LOCATION:Paw.C sala C
+DTSTART:20250413T111500Z
+SUMMARY:Prawo gospodarcze publiczne (ćwiczenia)
+UID:8883a767-5088-4e07-bed0-af8c69a6fa5f@8883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250308T100000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250308T070000Z
+SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
+UID:2d48960f-5d1d-4ae7-ae1a-856deb36acbd@2d48.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Kopyciński
-DTEND:20250323T091500Z
-DTSTART:20250323T070000Z
-SUMMARY:Rozwój lokalny i regionalny (Przeniesienie zajęć)
-UID:522f696a-4a3f-4e08-8d8d-19d0653a83f2@522f.org
+DTEND:20250309T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250309T070000Z
+SUMMARY:Rozwój lokalny i regionalny (ćwiczenia)
+UID:c24fd15e-7ca7-4f5b-b766-ccf1e9d258da@c24f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20250615T164500Z
+LOCATION:Paw.B 351
+DTSTART:20250615T134500Z
+SUMMARY:Publiczne prawo gospodarcze (egzamin)
+UID:15c579a9-434f-4a97-8db6-8a1decfc779a@15c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250307T194500Z
+DTSTART:20250307T173000Z
+SUMMARY:Metody ilościowe w administracji publicznej (Przeniesienie zajęć)
+UID:bbee3293-1168-4d04-a621-e835db9dad58@bbee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20250509T160000Z
+DTSTART:20250509T134500Z
+SUMMARY:Prawo gospodarcze publiczne (Przeniesienie zajęć)
+UID:48f66fa8-4a77-4991-bffa-a0baaad72b37@48f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20250509T184500Z
+DTSTART:20250509T163000Z
+SUMMARY:Zarządzanie publiczne (wykład)
+UID:0edbdd09-d73b-470a-8816-561f1bb614be@0edb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20250308T161500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250308T140000Z
+SUMMARY:Rozwój lokalny i regionalny (ćwiczenia)
+UID:48465e25-7989-4aee-a31d-2855854f6940@4846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250425T164500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250425T134500Z
+SUMMARY:Polityka społeczna (konwersatorium do wyboru)
+UID:814c19c3-ae1a-4ba3-929d-1eaa87b409b7@814c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Baran
@@ -343,14 +239,37 @@ DTEND:20250614T123000Z
 LOCATION:Bud.gł. 3
 DTSTART:20250614T093000Z
 SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:8fdc6e18-e334-4bd7-bde0-96c97f0d9817@8fdc.org
+UID:2f198056-d235-4942-b6f2-29c16ed42852@2f19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20250301T091500Z
-DTSTART:20250301T070000Z
-SUMMARY:Prawo gospodarcze publiczne (wykład)
-UID:75fd6b26-7888-4f0e-9774-157dda4dcbfc@75fd.org
+DTEND:20250427T141500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250427T111500Z
+SUMMARY:Prawo gospodarcze publiczne (ćwiczenia)
+UID:8aa89e31-e6b9-4b79-92b2-9d011a671f81@8aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250614T090000Z
+LOCATION:Paw.C sala E
+DTSTART:20250614T064500Z
+SUMMARY:Metody ilościowe w administracji publicznej (ćwiczenia)
+UID:8b10fe87-59a6-4be0-862e-08c012d1e24c@8b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250411T184500Z
+DTSTART:20250411T163000Z
+SUMMARY:Rozwój lokalny i regionalny (wykład)
+UID:a9785c9c-f655-4cce-9a5a-b900fff968ed@a978.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250329T161500Z
+DTSTART:20250329T140000Z
+SUMMARY:Rozwój lokalny i regionalny (wykład)
+UID:e5f31942-38bd-49d1-b267-31a9efe5757d@e5f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
@@ -358,7 +277,60 @@ DTEND:20250620T174500Z
 LOCATION:Paw.S sala 8
 DTSTART:20250620T144500Z
 SUMMARY:Metody ilościowe w administracji publicznej (egzamin)
-UID:8301172f-1d06-4951-a696-65ec4bd3e99b@8301.org
+UID:e7b66c11-4c14-4285-8aa2-aca1b9fa67f2@e7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20250511T141500Z
+DTSTART:20250511T111500Z
+SUMMARY:Prawo gospodarcze publiczne (Przeniesienie zajęć)
+UID:1e0edf2d-66c7-4439-bd13-fb31756319e7@1e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250531T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250531T111500Z
+SUMMARY:Polityka społeczna (konwersatorium do wyboru)
+UID:64343986-d37f-4337-bf3f-c469c0d46e30@6434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250615T081500Z
+LOCATION:Paw.C sala E
+DTSTART:20250615T060000Z
+SUMMARY:Metody ilościowe w administracji publicznej (ćwiczenia)
+UID:4740e245-f225-4346-900d-14871b45bf23@4740.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20250330T081500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250330T060000Z
+SUMMARY:Rozwój lokalny i regionalny (ćwiczenia)
+UID:849f7044-1a82-4d7f-b870-9f3fd429d0b6@849f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20250307T170000Z
+DTSTART:20250307T144500Z
+SUMMARY:Prawo gospodarcze publiczne (wykład)
+UID:1e04d14b-81ac-4f4b-9f80-8e0b328fd05e@1e04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250301T143000Z
+DTSTART:20250301T121500Z
+SUMMARY:Rozwój lokalny i regionalny (Przeniesienie zajęć)
+UID:a2b82088-c5df-4e31-a216-7aa1542cb437@a2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250308T133000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250308T111500Z
+SUMMARY:Polityka społeczna (konwersatorium do wyboru)
+UID:1d365fd6-2015-429c-99d3-37b7b2d0aba0@1d36.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
@@ -366,7 +338,28 @@ DTEND:20250330T133000Z
 LOCATION:Paw.C sala C
 DTSTART:20250330T111500Z
 SUMMARY:Prawo gospodarcze publiczne (ćwiczenia)
-UID:9bf26422-c589-4746-a89e-60f16eb951c5@9bf2.org
+UID:0506752f-63b6-48d6-8ecc-24becbf35d0c@0506.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20250412T164500Z
+DTSTART:20250412T134500Z
+SUMMARY:Zarządzanie publiczne (wykład)
+UID:949ed3e5-d234-45ff-a042-257092dcf50c@949e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Rozwój lokalny i regionalny (Przeniesienie zajęć)
+UID:b64eae3b-fd34-41af-8bb0-fc05991d08a2@b64e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20250301T091500Z
+DTSTART:20250301T070000Z
+SUMMARY:Prawo gospodarcze publiczne (wykład)
+UID:6ebee1db-d08c-4404-bedf-ea81ac68fb56@6ebe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Baran
@@ -374,13 +367,20 @@ DTEND:20250427T081500Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20250427T060000Z
 SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:f5b7b4fd-cf27-4dd2-86dc-dd0d2fc46bfe@f5b7.org
+UID:5c799e3c-4119-4fe3-83fb-538bcd517683@5c79.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
-DTEND:20250322T123000Z
-DTSTART:20250322T093000Z
-SUMMARY:Zarządzanie publiczne (wykład)
-UID:57065d73-811c-41ca-a815-fc6bb9a7d791@5706.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250524T090000Z
+DTSTART:20250524T064500Z
+SUMMARY:Metody ilościowe w administracji publicznej (Przeniesienie zajęć)
+UID:9421b321-310b-415a-afd8-06e34001e17c@9421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250411T160000Z
+DTSTART:20250411T134500Z
+SUMMARY:Metody ilościowe w administracji publicznej (wykład)
+UID:71f0a181-8584-4080-8e58-4c886af8a0b5@71f0.org
 END:VEVENT
 END:VCALENDAR
