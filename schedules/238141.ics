@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250411T110000Z
-LOCATION:Paw.F 717
-DTSTART:20250411T093000Z
-SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:677d2dde-e3d0-41fa-a986-ee80efda9859@677d.org
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250410T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250410T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:55910e77-9aec-48fe-9548-7b8083db44e3@5591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250523T124500Z
+DTSTART:20250523T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
+UID:396c217d-1b56-432b-a1b0-d53e1f503036@396c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
@@ -15,713 +22,7 @@ DTEND:20250402T143000Z
 LOCATION:Paw.B 451
 DTSTART:20250402T130000Z
 SUMMARY:Audyt finansowy (wykład)
-UID:f555c611-d023-4fc7-bee6-07b0a2d579b4@f555.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250328T120000Z
-LOCATION:Paw.F 717
-DTSTART:20250328T103000Z
-SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:b0023ccc-6032-40a1-82d4-264320526eb6@b002.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250408T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250408T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:a30e5708-fec7-47bc-b850-b826a8671110@a30e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250428T073000Z
-DTSTART:20250428T064500Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru zdalny)
-UID:e9cda5d2-e776-4b0d-8cd9-7d8378f27117@e9cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250306T153000Z
-LOCATION:Paw.U sala M
-DTSTART:20250306T140000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:8c9f392b-0d8b-49e9-a336-ae858995c857@8c9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250530T091500Z
-DTSTART:20250530T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
-UID:cccaf7eb-3d34-4942-a112-aa9996f048db@ccca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250610T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250610T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:3128acaf-bfac-4f53-be57-39b3bc938b22@3128.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20250611T143000Z
-LOCATION:Paw.B 451
-DTSTART:20250611T130000Z
-SUMMARY:Audyt finansowy (wykład)
-UID:4bf56704-7525-4c95-81e2-3d494c1d2387@4bf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250522T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250522T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:66440d43-e2b3-4625-aeb7-422c6ef27f4a@6644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250331T110000Z
-LOCATION:Paw.S sala 6
-DTSTART:20250331T093000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:23059ea3-4254-4140-899f-f31d634b665c@2305.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250227T134500Z
-LOCATION:Paw.U sala M
-DTSTART:20250227T121500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:3db461bf-7537-49ee-b51e-e9e272a1de48@3db4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20250430T143000Z
-LOCATION:Paw.B 451
-DTSTART:20250430T130000Z
-SUMMARY:Audyt finansowy (wykład)
-UID:e77c5bbf-8b59-44c8-b8b0-e52bd817b2c8@e77c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250605T161500Z
-LOCATION:Paw.F 516
-DTSTART:20250605T144500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:4d1e24fc-566e-4c34-a264-2ecd5dc144ff@4d1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250326T171500Z
-LOCATION:Paw.U sala M
-DTSTART:20250326T154500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:28fe2509-bad9-44b8-84b5-4c49880c1b0a@28fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250311T083000Z
-LOCATION:Bibl. 443
-DTSTART:20250311T070000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:3be876ec-48a0-4b9c-a15b-04525a70290c@3be8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250227T153000Z
-LOCATION:Paw.U sala M
-DTSTART:20250227T140000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:80c36aa0-67c0-4043-8fdc-fe2a16a9edcb@80c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250529T153000Z
-LOCATION:Bibl. 443
-DTSTART:20250529T144500Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:c2e09282-9fe4-431d-b918-9e0ce31fff56@c2e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250319T101500Z
-DTSTART:20250319T084500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (Przeniesienie zajęć)
-UID:b895ca7d-9f75-43fa-815f-5ff831fdb170@b895.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250407T073000Z
-LOCATION:Paw.C sala F
-DTSTART:20250407T060000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:d26ca249-9190-41bc-9b24-f4b1ca5776e5@d26c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250225T083000Z
-LOCATION:Bibl. 443
-DTSTART:20250225T070000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:f8fa725c-2664-4a91-97e3-42615aa03fab@f8fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250604T153000Z
-LOCATION:Paw.U sala M
-DTSTART:20250604T144500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:d6afb88b-2195-4751-9acf-9499b3aff870@d6af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250520T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250520T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:5606bae9-21f3-4156-87ef-308257a39e61@5606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250327T150000Z
-DTSTART:20250327T103000Z
-SUMMARY: (rezerwacja)
-UID:91e91ec3-59dd-4a8b-9a3e-ba3afebfc54c@91e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250306T134500Z
-LOCATION:Paw.U sala M
-DTSTART:20250306T121500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:9d92a110-92bb-4bbd-b394-ea855c9e73c1@9d92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250324T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250324T070000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:af4b9380-8d5c-40da-983e-4c2e5b0534b0@af4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250424T143000Z
-LOCATION:Paw.G  9
-DTSTART:20250424T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:574253c2-4939-4261-8cfc-f7d9467b59df@5742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250327T101500Z
-DTSTART:20250327T084500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
-UID:5754c4d1-8a16-4f12-aee0-308772b7be28@5754.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250508T143000Z
-LOCATION:Paw.U sala M
-DTSTART:20250508T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:11f49f98-8237-4497-9cfa-f14221a30244@11f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250410T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250410T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:bbbb6790-b303-45f9-9e81-004aea6cb97e@bbbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250529T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250529T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:3dab9f98-1029-46f4-966c-ac5946f21b0b@3dab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250416T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250416T074500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:245b9c3d-e80d-4277-b93b-50fd3676791c@245b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250226T134500Z
-LOCATION:Paw.U sala M
-DTSTART:20250226T121500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:07e6dcb6-d567-46f9-a981-98c93e7acb0f@07e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250429T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250429T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:5350c284-03f0-41da-a4a5-e59e8d571887@5350.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250424T124500Z
-LOCATION:Paw.U sala K
-DTSTART:20250424T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:78ab0ac7-43bf-4ff0-a3fb-f0c2d6b83e80@78ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250226T171500Z
-LOCATION:Paw.U sala M
-DTSTART:20250226T154500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:8b703d72-368c-46d2-ac8c-8e11fa3f4072@8b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250326T134500Z
-LOCATION:Paw.U sala M
-DTSTART:20250326T121500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:7a6cdb7f-7ae6-4227-bcf2-301dd3c58aff@7a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250317T083000Z
-LOCATION:Paw.C sala B
-DTSTART:20250317T070000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:e6770fa3-c043-4d1b-acdc-6b76176c4907@e677.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250411T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250411T111500Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:767decf4-77e7-44f7-b574-45494572dead@767d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250227T101500Z
-LOCATION:Paw.U sala M
-DTSTART:20250227T084500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:dc1faced-5a25-49f5-a7b9-dd61b3cf8e5c@dc1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250515T124500Z
-DTSTART:20250515T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:2dbc7c0e-e700-4401-9011-fc3b6f412dc6@2dbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250523T124500Z
-DTSTART:20250523T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
-UID:38299069-63ed-4e97-923c-f5ae4b647b43@3829.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250306T101500Z
-LOCATION:Paw.U sala M
-DTSTART:20250306T084500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:427c2742-a778-4616-a5c5-5b1c53e4fd33@427c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250409T110000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250409T093000Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:39cf198b-1991-4311-b426-cc7da69f41cf@39cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20250319T153000Z
-LOCATION:Paw.B 451
-DTSTART:20250319T140000Z
-SUMMARY:Audyt finansowy (wykład)
-UID:cc61c356-2eca-41c0-ba09-c06eb0010b3c@cc61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250310T083000Z
-LOCATION:Paw.C sala F
-DTSTART:20250310T070000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:9511797f-2f10-4c96-bbf9-60887f4031a2@9511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20250305T153000Z
-LOCATION:Paw.B 451
-DTSTART:20250305T140000Z
-SUMMARY:Audyt finansowy (wykład)
-UID:31f061f1-a36c-475b-9024-34ad9a14aa16@31f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250403T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250403T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:3544692d-6381-46c2-87df-5f56c9854b05@3544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250523T110000Z
-LOCATION:Paw.F 717
-DTSTART:20250523T093000Z
-SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:bd47e6b7-a2bf-406d-814f-3baeb105eb04@bd47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250509T073000Z
-LOCATION:Paw.B 251
-DTSTART:20250509T060000Z
-SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:09c80cd9-50ee-4680-8889-c63ae111f4f9@09c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250409T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250409T111500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:881ebaa5-268d-4d24-a51e-042078ce072b@881e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250516T124500Z
-DTSTART:20250516T111500Z
-SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:b27f2ea8-f60c-4f42-8fda-41251c9b8dfe@b27f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250320T153000Z
-LOCATION:Paw.U sala M
-DTSTART:20250320T140000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:c6d3bccf-2c4c-4f1a-84f8-c969d8e49285@c6d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250303T120000Z
-LOCATION:Paw.S sala 6
-DTSTART:20250303T103000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:b5fcda77-8651-4889-8694-b96c4c397a3f@b5fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250612T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250612T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:88d0afb5-f016-4e77-b267-e7e3b9d2210e@88d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250312T120000Z
-DTSTART:20250312T103000Z
-SUMMARY:Techniki negocjacji biznesowych (Przeniesienie zajęć)
-UID:e9b4c655-c47b-4bc2-ad7a-569fa7978817@e9b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250326T153000Z
-LOCATION:Paw.U sala O
-DTSTART:20250326T140000Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:7b2827b8-9781-46f5-b7e6-962c951d53c5@7b28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20250514T143000Z
-LOCATION:Paw.B 451
-DTSTART:20250514T130000Z
-SUMMARY:Audyt finansowy (wykład)
-UID:3a47ad55-078a-42ba-b5f4-d734b9e65b61@3a47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250409T161500Z
-LOCATION:Paw.U sala M
-DTSTART:20250409T144500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:c3f3cb60-1b45-40fc-9c77-2d785ddfa9d8@c3f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250508T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250508T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:d96ebb58-c51b-4b84-8f40-a791860b1bee@d96e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250515T143000Z
-DTSTART:20250515T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:580797e3-6545-470b-bbd9-2d828972f0b8@5807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250423T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250423T111500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:6c291277-1bc4-4ba0-a25a-cbf57378b160@6c29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250321T134500Z
-LOCATION:Paw.U sala O
-DTSTART:20250321T121500Z
-SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:b4d68591-587d-4972-b1cb-bd6acab1abc7@b4d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250403T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250403T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:1311e3ab-ecd9-4ca6-a926-aa5edf9d8a65@1311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250423T110000Z
-LOCATION:Paw.C sala C
-DTSTART:20250423T101500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:d7e39ae3-f90f-4943-a4ae-5c4adc249f56@d7e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250604T120000Z
-LOCATION:Paw.U sala M
-DTSTART:20250604T111500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:f4f9d73b-a306-433a-9bf6-a4c27c62b78b@f4f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250313T101500Z
-LOCATION:Paw.U sala M
-DTSTART:20250313T084500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:b9f18c49-18b7-422c-8a34-1bc98c3296dc@b9f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250611T091500Z
-DTSTART:20250611T074500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (Przeniesienie zajęć)
-UID:eecd5dc3-55c7-4649-9879-04aa255141e1@eecd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250430T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250430T074500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:6943c838-1b29-46e8-ae98-122e445d4a2b@6943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250312T134500Z
-LOCATION:Paw.U sala M
-DTSTART:20250312T121500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:298b5c98-6459-42b6-81a3-c8e98a26b76c@298b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250320T101500Z
-LOCATION:Paw.U sala M
-DTSTART:20250320T084500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:2592218f-867f-41c4-a108-3971177041ce@2592.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250506T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250506T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:557d27b3-9634-4937-8d52-22478ffb57bd@557d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250514T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250514T074500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:f027b917-1439-4d66-9934-a617dd0d2ba0@f027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250606T101500Z
-LOCATION:Paw.F 717
-DTSTART:20250606T093000Z
-SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:d8ceadf2-192c-4bea-91cc-a400700855c2@d8ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250522T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250522T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:6baa65e2-a16d-4819-aee4-141857596e6a@6baa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250321T101500Z
-LOCATION:Paw.U sala M
-DTSTART:20250321T084500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:d590343e-fbc3-4fa7-95f2-6c9b4dc96c81@d590.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250515T091500Z
-DTSTART:20250515T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:71eab1d7-8b9d-4df9-94df-05861ebfd149@71ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250424T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250424T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:93db109a-9048-4545-a08f-80ff2bb7ebee@93db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250605T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250605T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:b0483d6f-2173-4105-ab65-818c39ceb773@b048.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250318T083000Z
-LOCATION:Bibl. 443
-DTSTART:20250318T070000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:242a6148-fe3c-4f35-af7a-c865d5ee0ae8@242a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250522T143000Z
-LOCATION:Paw.U sala M
-DTSTART:20250522T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:21eeb96a-0734-4dd8-b749-fe6dd614d7af@21ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250509T110000Z
-LOCATION:Paw.F 717
-DTSTART:20250509T093000Z
-SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:49a09a01-ff68-4a18-a88b-28964d090c7c@49a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250304T133000Z
-DTSTART:20250304T103000Z
-SUMMARY: (rezerwacja)
-UID:1319c354-03f0-47a8-83e0-3252e678b924@1319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250529T170000Z
-LOCATION:Paw.U sala K
-DTSTART:20250529T153000Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:3c6528f9-4551-4d78-bdea-e9135695ce3a@3c65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250313T153000Z
-LOCATION:Paw.U sala M
-DTSTART:20250313T140000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:ef2dca1a-7020-4077-bfb0-0c673f49fdeb@ef2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250304T083000Z
-LOCATION:Bibl. 443
-DTSTART:20250304T070000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:73df16bf-7932-4e8e-abbb-a99c2b7f956b@73df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250612T143000Z
-LOCATION:Paw.U sala M
-DTSTART:20250612T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:f5828777-ad86-444a-bfde-c9461128333b@f582.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250423T091500Z
-DTSTART:20250423T083000Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (Przeniesienie zajęć)
-UID:0b275faa-d2ce-4b34-b52f-cad8d5f51f4b@0b27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250529T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250529T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:965c29f5-382f-4366-bfd4-6c5cf4f717b9@965c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250403T143000Z
-LOCATION:Paw.U sala M
-DTSTART:20250403T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:63fb6f6c-cde9-493c-9bab-e6e0e9965069@63fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250529T143000Z
-LOCATION:Paw.U sala M
-DTSTART:20250529T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:16c261fa-8e81-4b7c-85f3-f9d3c7f2bf29@16c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250509T120000Z
-LOCATION:Paw.U sala M
-DTSTART:20250509T111500Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:74d35f5a-acb2-46e6-b2ef-ecea1cfe81c2@74d3.org
+UID:a65c0e13-db24-48a0-ba19-23b1b437d434@a65c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -729,46 +30,22 @@ DTEND:20250410T124500Z
 LOCATION:Paw.U sala M
 DTSTART:20250410T111500Z
 SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:8eec19bd-dc9b-49f0-82b6-ba9804ba7ede@8eec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250305T101500Z
-LOCATION:Paw.U sala M
-DTSTART:20250305T084500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:a94637f5-f1c4-4aa9-8dff-00df25e0c35e@a946.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250228T120000Z
-LOCATION:Paw.F 717
-DTSTART:20250228T103000Z
-SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:4bf62c55-25ee-4663-9b26-48e30d0d7c41@4bf6.org
+UID:d33537ec-2998-4678-9f53-7f4a6bb476b5@d335.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250529T073000Z
+DTEND:20250327T101500Z
+DTSTART:20250327T084500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
+UID:6b908056-55d5-4bc5-99e7-fecae98c5509@6b90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250409T124500Z
 LOCATION:Paw.U sala M
-DTSTART:20250529T060000Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:19e83411-b09f-4c37-aab0-2c936cb54f44@19e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250513T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250513T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:d1880d6a-52be-46fb-8435-0819004009a1@d188.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20250423T180000Z
-DTSTART:20250423T171500Z
-SUMMARY:Audyt finansowy (wykład zdalny)
-UID:7e8ca785-04fb-475a-90ae-154e336ac71b@7e8c.org
+DTSTART:20250409T111500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:0f659c81-2e87-4d2f-8066-0fcc1d479253@0f65.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -776,167 +53,7 @@ DTEND:20250320T134500Z
 LOCATION:Paw.U sala M
 DTSTART:20250320T121500Z
 SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:fe1e110d-e553-4523-bd57-0594df698e5d@fe1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250508T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250508T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:a1c21a09-079a-4418-8d96-c3f9be4844ab@a1c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250312T171500Z
-LOCATION:Paw.U sala M
-DTSTART:20250312T154500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:90827cca-1a11-4edf-8d81-3515bb4d0ab5@9082.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250401T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250401T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:2ddd7093-220a-4f2b-b7d3-e9a1845ad55c@2ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250605T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250605T111500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:1c75d394-7766-4636-be7f-f6d092ddc7ba@1c75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250307T134500Z
-LOCATION:Paw.U sala O
-DTSTART:20250307T121500Z
-SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:4b3b0dea-179a-4d6b-8901-397c6f030ce1@4b3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250521T161500Z
-LOCATION:Paw.U sala M
-DTSTART:20250521T144500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:68f450b6-6e98-4e57-9361-8f790c97c519@68f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20250416T143000Z
-LOCATION:Paw.B 451
-DTSTART:20250416T130000Z
-SUMMARY:Audyt finansowy (wykład)
-UID:965cbb83-1c4b-4515-82cf-47f51e784466@965c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250320T171500Z
-LOCATION:Paw.B 251
-DTSTART:20250320T154500Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:71fe4319-6265-4b03-aa29-4d9aff01b704@71fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250521T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250521T111500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:f9246afb-2cc7-4601-8324-5ea14eae38fb@f924.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250414T110000Z
-LOCATION:Paw.S sala 5
-DTSTART:20250414T093000Z
-SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
-UID:b2465668-51eb-4df2-9352-bef3a2b4b01c@b246.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250404T124500Z
-LOCATION:Paw.U sala O
-DTSTART:20250404T111500Z
-SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:95f50312-70a6-4f0d-8624-389414ebb499@95f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250603T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250603T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:7a9620b7-c613-4d37-8b89-b05348c1e384@7a96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250613T124500Z
-LOCATION:Paw.U sala O
-DTSTART:20250613T111500Z
-SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:37f0861f-89fa-4dc8-b95f-1738cab05bb7@37f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250314T120000Z
-LOCATION:Paw.F 717
-DTSTART:20250314T103000Z
-SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:87b3037a-522d-491a-9f23-f9bbc00d128a@87b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250507T124500Z
-LOCATION:Paw.U sala M
-DTSTART:20250507T111500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
-UID:ae2af358-dc8f-41d4-8499-3a4b7bd1c415@ae2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250423T161500Z
-LOCATION:Paw.U sala M
-DTSTART:20250423T144500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:58e38ab7-c9bf-4703-87d3-e235df3b5875@58e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250415T073000Z
-LOCATION:Bibl. 443
-DTSTART:20250415T060000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:ada3d3a2-c9d8-4f59-8540-24edf0af4cea@ada3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20250402T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250402T074500Z
-SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
-UID:060d0cf2-d2be-4c13-a231-06dd227225dd@060d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250612T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20250612T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
-UID:829eed3d-72aa-4c85-9f8f-2e52202b775f@829e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20250507T161500Z
-LOCATION:Paw.U sala M
-DTSTART:20250507T144500Z
-SUMMARY:Audyt finansowy (ćwiczenia)
-UID:81c593d6-4bdc-41c8-8419-61a68e348de1@81c5.org
+UID:5487eaa9-183b-4f63-b28c-7713ddb2f559@5487.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
@@ -944,53 +61,78 @@ DTEND:20250530T124500Z
 LOCATION:Paw.U sala O
 DTSTART:20250530T111500Z
 SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:fe19e430-54c3-4a4e-840b-1aafeb50388e@fe19.org
+UID:b047bd42-cb42-497b-bc3a-d3f21fe86ef9@b047.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20250425T110000Z
+DTEND:20250228T120000Z
 LOCATION:Paw.F 717
-DTSTART:20250425T093000Z
+DTSTART:20250228T103000Z
 SUMMARY:Rachunkowość międzynarodowa (wykład)
-UID:f6af3de4-1f8c-4ec7-a0e9-ba5bf76e8b0b@f6af.org
+UID:907fed6b-1120-490e-afc9-43fe8a8b7646@907f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250423T091500Z
+DTSTART:20250423T083000Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (Przeniesienie zajęć)
+UID:bb24b19e-09df-40db-8da5-6acf06404806@bb24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250402T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250402T074500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:637ba6b0-fcf4-4969-a391-b398ed4367b7@637b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250414T110000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250414T093000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:e7749024-340e-4026-bcf2-ad01078e335c@e774.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250320T153000Z
+LOCATION:Paw.U sala M
+DTSTART:20250320T140000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:11fb0227-3fe2-4841-ad10-dca9ee631f35@11fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250227T153000Z
+LOCATION:Paw.U sala M
+DTSTART:20250227T140000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:6ac604aa-56ef-4185-9f66-cd939eca171a@6ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250507T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250507T111500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:2ed1ce32-6110-4db5-a017-3f827095445b@2ed1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250313T134500Z
+DTEND:20250529T091500Z
 LOCATION:Paw.U sala M
-DTSTART:20250313T121500Z
+DTSTART:20250529T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:c3181f2d-47c9-4dc8-a8ba-fa79dcf10b54@c318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250605T161500Z
+LOCATION:Paw.F 516
+DTSTART:20250605T144500Z
 SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
-UID:7e3124c0-a9ea-48e6-964c-452ec50f39c8@7e31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250326T114500Z
-DTSTART:20250326T084500Z
-SUMMARY: (rezerwacja)
-UID:fbc879d8-ae74-472f-ab12-a833004b36a2@fbc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250605T143000Z
-LOCATION:Paw.U sala M
-DTSTART:20250605T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:bb5cea7e-c927-4a64-bf42-eaa4a397f1ff@bb5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20250523T091500Z
-DTSTART:20250523T074500Z
-SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
-UID:cbedab3a-12d4-4b5a-9848-e03532dfc0d6@cbed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jerzy Kuchmacz
-DTEND:20250410T143000Z
-LOCATION:Paw.U sala M
-DTSTART:20250410T130000Z
-SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
-UID:f59302ea-88a6-4126-bf29-9816779ffa07@f593.org
+UID:4de971ba-7999-4846-94e9-daf7f97c71a8@4de9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
@@ -998,7 +140,803 @@ DTEND:20250530T064500Z
 LOCATION:Bibl. 441
 DTSTART:20250530T060000Z
 SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
-UID:c8b49d62-1cfe-4429-b5a6-20c400bb5398@c8b4.org
+UID:fa14e8b1-b692-4554-b099-9f9c8d698e3b@fa14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250321T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250321T084500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:df50616a-e5f0-4378-a0f2-63b60717805e@df50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250514T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250514T074500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:1d467b9e-2aa0-4022-8bf7-c38b764a991e@1d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250520T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250520T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:e08f3184-ec98-4b76-acb0-66ce5e1bd9ed@e08f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250311T083000Z
+LOCATION:Bibl. 443
+DTSTART:20250311T070000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:620abe86-292d-4b47-9188-34fe52b47a61@620a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250313T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250313T084500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:bce06a07-891b-46b3-b815-da91a63fdfd4@bce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250227T134500Z
+LOCATION:Paw.U sala M
+DTSTART:20250227T121500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:631d7f98-581e-4ce0-a9a2-32ea534c437b@631d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250327T150000Z
+DTSTART:20250327T103000Z
+SUMMARY: (rezerwacja)
+UID:7d69d507-7057-4bed-89e3-069521de5c64@7d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250425T110000Z
+LOCATION:Paw.F 717
+DTSTART:20250425T093000Z
+SUMMARY:Rachunkowość międzynarodowa (wykład)
+UID:2caf57c2-be81-4325-8dc2-1d3a2e64ba67@2caf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250529T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250529T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:8085acaa-9f21-44cc-94c0-05e5bb6f95bd@8085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250430T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250430T074500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:01003755-0d63-4ac9-ae57-0fb9564d05a8@0100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250513T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250513T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:79301373-16a8-409a-933a-0a7faa592a4a@7930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250423T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250423T111500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:3a9c0595-04a4-42ea-b597-01e1bb904ca6@3a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250331T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250331T093000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:d2462fce-7c77-41b9-9ef4-071e01402b64@d246.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250430T143000Z
+LOCATION:Paw.B 451
+DTSTART:20250430T130000Z
+SUMMARY:Audyt finansowy (wykład)
+UID:59f2c89a-238c-4e19-8585-d850f5e619d7@59f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250509T073000Z
+LOCATION:Paw.B 251
+DTSTART:20250509T060000Z
+SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
+UID:d50ddeb4-2471-4e2e-875d-210a368de238@d50d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250313T134500Z
+LOCATION:Paw.U sala M
+DTSTART:20250313T121500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:5273d7f6-f731-4a30-9bac-2462d39b5afe@5273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250411T110000Z
+LOCATION:Paw.F 717
+DTSTART:20250411T093000Z
+SUMMARY:Rachunkowość międzynarodowa (wykład)
+UID:b297f691-a6a0-4cdc-83f5-7a3400385845@b297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250321T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20250321T121500Z
+SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
+UID:5cccc1c6-00a5-4f13-99cc-ed0fca62b10c@5ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250409T110000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250409T093000Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:df44eda1-632a-4b8f-a649-e0d75dbff8ba@df44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250424T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250424T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:174c3220-4bf0-4bf8-8bc9-dcaeeee364a3@174c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250515T091500Z
+DTSTART:20250515T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:5a4bb4a6-69df-45e5-a617-62c12bbc2d22@5a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250530T091500Z
+DTSTART:20250530T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
+UID:83eb8acf-d530-438d-9279-2d9b818d324a@83eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250328T120000Z
+LOCATION:Paw.F 717
+DTSTART:20250328T103000Z
+SUMMARY:Rachunkowość międzynarodowa (wykład)
+UID:0b835f7a-ee27-4fb1-bf3a-7d964f6e96a9@0b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250506T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250506T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:137c41e9-45d7-400f-b821-2a6ebdebc655@137c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250613T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20250613T111500Z
+SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
+UID:4590a2ab-8c7c-4bcd-94af-6a615918ba89@4590.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250423T110000Z
+LOCATION:Paw.C sala C
+DTSTART:20250423T101500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:2d534045-8eaa-4a0e-a88a-0575b9741c4b@2d53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250429T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250429T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:f29513d7-5b0a-4409-ae76-eafb45e637ea@f295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250408T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250408T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:ef7893b6-27f7-4096-a0ac-ef139594c9e8@ef78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250428T073000Z
+DTSTART:20250428T064500Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru zdalny)
+UID:acb3582e-5267-414c-8b7b-c122c5a360c9@acb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250523T091500Z
+DTSTART:20250523T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (Przeniesienie zajęć)
+UID:6c0de88a-fcfc-463e-920b-8a7cf2c578b9@6c0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250326T114500Z
+DTSTART:20250326T084500Z
+SUMMARY: (rezerwacja)
+UID:c564f4e6-17cf-4ac7-910a-878b8a6f455a@c564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250604T153000Z
+LOCATION:Paw.U sala M
+DTSTART:20250604T144500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:ec619048-cb35-41fa-9be6-72e99d90b58a@ec61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250514T143000Z
+LOCATION:Paw.B 451
+DTSTART:20250514T130000Z
+SUMMARY:Audyt finansowy (wykład)
+UID:8019fe4d-04c3-4cf9-8d65-a23b5be9eab6@8019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250324T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250324T070000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:81dc5e85-ea29-4524-8ffd-b2b18cf182cb@81dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250529T153000Z
+LOCATION:Bibl. 443
+DTSTART:20250529T144500Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:5e0783ce-c52f-4059-b816-d3ab7be5878e@5e07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250529T170000Z
+LOCATION:Paw.U sala K
+DTSTART:20250529T153000Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:54d63380-598b-4ae8-8153-9360ba45dfb7@54d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250605T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250605T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:561d74b6-996c-441f-86ef-065fb2b4e0a7@561d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250319T153000Z
+LOCATION:Paw.B 451
+DTSTART:20250319T140000Z
+SUMMARY:Audyt finansowy (wykład)
+UID:9a3a06c6-f618-4c65-bcb8-2f9def10d588@9a3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250317T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20250317T070000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:34b27ddf-7c31-4586-8635-954d99443741@34b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250515T143000Z
+DTSTART:20250515T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:88f26306-e058-4cc8-b049-36537e24ac05@88f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250307T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20250307T121500Z
+SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
+UID:5932089a-66fc-40a9-bf6f-fa409a2d706c@5932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250310T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250310T070000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:c67e7cf1-9810-4a75-a733-5fc8839c2782@c67e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250612T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250612T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:395db3dc-19ac-483c-a9fd-ee50934d8d16@395d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250522T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250522T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:c519bc31-b9aa-4054-9be8-b8cbe5ed9787@c519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250303T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250303T103000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:86acd664-242a-47e8-858a-30efdcfc61e3@86ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250226T134500Z
+LOCATION:Paw.U sala M
+DTSTART:20250226T121500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:bc82ab78-7564-4c47-a0c6-433626d96d5d@bc82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250312T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20250312T154500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:3a805dd0-6c8e-4b75-9783-e631ed30d08f@3a80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250605T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250605T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:eefeb2ff-1a29-4334-b1a2-14e699651235@eefe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250304T133000Z
+DTSTART:20250304T103000Z
+SUMMARY: (rezerwacja)
+UID:140b30f4-ab0f-40ca-843a-91b90d2d0837@140b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250401T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250401T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:47f2899c-33ac-412c-91ec-9e7fee9e00a1@47f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250508T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250508T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:e20307a7-5fed-4470-8dfe-2213477a856c@e203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250319T101500Z
+DTSTART:20250319T084500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (Przeniesienie zajęć)
+UID:9ba34945-eaec-41f3-911b-751e92b92678@9ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250509T120000Z
+LOCATION:Paw.U sala M
+DTSTART:20250509T111500Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:60d67bbb-596e-4a9f-b5c4-e51550ecb701@60d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250304T083000Z
+LOCATION:Bibl. 443
+DTSTART:20250304T070000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:d034db8d-a762-4650-b388-fd1679f0fb67@d034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250521T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250521T111500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:e19bcc1d-2f28-4d55-a428-869ca683306f@e19b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250605T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250605T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:ba550c7b-5396-4984-8a7c-314638ef8d67@ba55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250529T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250529T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:871c9c37-a60c-411f-8d87-a1190710a962@871c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250306T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250306T084500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:34775ed7-7d16-4faa-bfaf-0c832cad0cfe@3477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250612T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250612T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:c4192cc7-e87d-4ffe-962b-13b3710150d2@c419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250416T143000Z
+LOCATION:Paw.B 451
+DTSTART:20250416T130000Z
+SUMMARY:Audyt finansowy (wykład)
+UID:59341d63-63a6-4200-8232-424e18a08398@5934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250403T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250403T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:f1737a6e-ba87-4cf3-a3ec-b4bd7a2fd799@f173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250318T083000Z
+LOCATION:Bibl. 443
+DTSTART:20250318T070000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:3ddeb069-fad8-4992-923b-b916e372fee0@3dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250403T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250403T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:ae9c72d5-dc4c-4fea-9e78-88cefc59a964@ae9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250411T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250411T111500Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:84e92e73-869e-4d82-b9e6-a40f05753436@84e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250326T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20250326T140000Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:90aaaaae-0956-4acc-8ef6-a20a0405de70@90aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250606T101500Z
+LOCATION:Paw.F 717
+DTSTART:20250606T093000Z
+SUMMARY:Rachunkowość międzynarodowa (wykład)
+UID:a3301759-cf0d-43b5-868f-9d57b0ffdeb0@a330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250416T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250416T074500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:cb9bc8e5-5683-45f6-a57f-08f758b5569e@cb9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250515T124500Z
+DTSTART:20250515T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:9591fbd3-3833-45a5-b902-6cf59e7d2608@9591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250521T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20250521T144500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:91de7754-275e-4098-8c6e-e6058e2551cb@91de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250509T110000Z
+LOCATION:Paw.F 717
+DTSTART:20250509T093000Z
+SUMMARY:Rachunkowość międzynarodowa (wykład)
+UID:61567735-ca26-4bbb-be18-7a96ffaaaeb9@6156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250306T153000Z
+LOCATION:Paw.U sala M
+DTSTART:20250306T140000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:a1084e9d-5e6d-4e0b-b4f5-38d4b0daf5f6@a108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250424T143000Z
+LOCATION:Paw.G  9
+DTSTART:20250424T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:afc60bc4-9a27-4e30-b0be-63639a674179@afc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250424T124500Z
+LOCATION:Paw.U sala K
+DTSTART:20250424T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:f753bb02-f7be-48e5-aa0c-ec0024e59a56@f753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250508T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250508T130000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:17df0071-9020-4d8b-9b4b-0e3b3c81d375@17df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250523T110000Z
+LOCATION:Paw.F 717
+DTSTART:20250523T093000Z
+SUMMARY:Rachunkowość międzynarodowa (wykład)
+UID:1a0b9d86-4eb2-4af4-b6c0-5f76d563f688@1a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250507T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20250507T144500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:0389179e-3e95-4940-87d1-8d00969768b0@0389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250312T134500Z
+LOCATION:Paw.U sala M
+DTSTART:20250312T121500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:9d44d249-5349-480a-9a4f-64900ac38553@9d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250306T134500Z
+LOCATION:Paw.U sala M
+DTSTART:20250306T121500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:75df3528-8213-4dd4-ab89-3fd3e220c223@75df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250508T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250508T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:a90d4844-45f4-409b-a197-1220922a60e3@a90d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250227T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250227T084500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:0fadc7ee-e8b9-4d31-b749-086e78dcab52@0fad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250415T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250415T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:103fa186-0c66-4c49-87cf-fd97250eb5dd@103f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250226T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20250226T154500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:19942dc6-6b62-4e1e-82dc-aa88f5045d60@1994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250314T120000Z
+LOCATION:Paw.F 717
+DTSTART:20250314T103000Z
+SUMMARY:Rachunkowość międzynarodowa (wykład)
+UID:5c4c22b4-bd53-453e-b6d8-93468b9ec880@5c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250225T083000Z
+LOCATION:Bibl. 443
+DTSTART:20250225T070000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:4b083e13-ea78-40a9-a4ca-9631f74314f5@4b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250404T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20250404T111500Z
+SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
+UID:73476798-8008-4658-9c2d-8f830113339e@7347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250604T120000Z
+LOCATION:Paw.U sala M
+DTSTART:20250604T111500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:677c53fb-fb27-47eb-a5a2-a3205b41fb9e@677c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250320T171500Z
+LOCATION:Paw.B 251
+DTSTART:20250320T154500Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:ef2660c0-216d-4dee-bf7f-8fc35d82df8c@ef26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250305T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250305T084500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (ćwiczenia)
+UID:f980175d-1e76-4d71-af05-0e8037a101f1@f980.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250326T134500Z
+LOCATION:Paw.U sala M
+DTSTART:20250326T121500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (wykład)
+UID:b6d0c4ff-b39e-4a82-9dd8-33165edca1d2@b6d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250326T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20250326T154500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:88e5e955-0524-4908-9815-efc50c5b16da@88e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250320T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250320T084500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:dd9699af-d328-43a6-ac72-3224b0620bdf@dd96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250423T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20250423T144500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:b60915ba-2df8-4ed4-9217-9564a151caa1@b609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250610T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250610T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:0059589d-ff8a-408a-9bc8-8c4c692727c6@0059.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20250516T124500Z
+DTSTART:20250516T111500Z
+SUMMARY:Rachunkowość międzynarodowa (ćwiczenia)
+UID:015dbe42-0eec-4bd8-9e8b-77458297779a@015d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250423T180000Z
+DTSTART:20250423T171500Z
+SUMMARY:Audyt finansowy (wykład zdalny)
+UID:59514817-dee4-4a1e-a231-5a1b10128344@5951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250305T153000Z
+LOCATION:Paw.B 451
+DTSTART:20250305T140000Z
+SUMMARY:Audyt finansowy (wykład)
+UID:b3eacb1e-c370-408c-8aa9-c7c1161f5fa6@b3ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250611T143000Z
+LOCATION:Paw.B 451
+DTSTART:20250611T130000Z
+SUMMARY:Audyt finansowy (wykład)
+UID:1e5d2938-982f-48ad-a3be-bc967444a1ba@1e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250522T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250522T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:c0db0ee7-14fe-4a8e-a2a8-e969cafb01b3@c0db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250403T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250403T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:26d2ab0d-639d-481f-9964-4fcf1f806ce6@26d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250410T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250410T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:de4953f0-0f6b-4bc5-a080-f5f990f92010@de49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250522T124500Z
+LOCATION:Paw.U sala M
+DTSTART:20250522T111500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (ćwiczenia)
+UID:21fee3cc-0338-4f63-9934-669ce6951759@21fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jerzy Kuchmacz
@@ -1006,6 +944,68 @@ DTEND:20250325T083000Z
 LOCATION:Bibl. 443
 DTSTART:20250325T070000Z
 SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
-UID:c7e1e0ae-f3cb-4c9c-8c70-e2204209fb62@c7e1.org
+UID:247cffe2-3bda-4984-89e6-f7d6e8094d4f@247c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250603T073000Z
+LOCATION:Bibl. 443
+DTSTART:20250603T060000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (wykład)
+UID:2ed0ce44-50ce-4d52-a642-6477b2d51598@2ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250313T153000Z
+LOCATION:Paw.U sala M
+DTSTART:20250313T140000Z
+SUMMARY:Rachunkowość małych przedsiębiorstw (ćwiczenia)
+UID:7138f53c-935d-4e6f-8c18-63bc544c9643@7138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250409T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20250409T144500Z
+SUMMARY:Audyt finansowy (ćwiczenia)
+UID:08569667-fcc5-423d-85bc-7d9d1c84cc02@0856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250312T120000Z
+DTSTART:20250312T103000Z
+SUMMARY:Techniki negocjacji biznesowych (Przeniesienie zajęć)
+UID:885843c0-9081-47c8-916e-edceb5bf53d6@8858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250612T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20250612T074500Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:f9186bbd-0333-49ae-8e35-fc08cb0dfbda@f918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250611T091500Z
+DTSTART:20250611T074500Z
+SUMMARY:Rachunkowość banków i ubezpieczycieli (Przeniesienie zajęć)
+UID:eff52197-db95-493b-b1fe-02b550221866@eff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250407T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20250407T060000Z
+SUMMARY:Techniki negocjacji biznesowych (wykład do wyboru)
+UID:5a1e1587-2bcb-46ec-b0d2-21b4c26879c8@5a1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250529T073000Z
+LOCATION:Paw.U sala M
+DTSTART:20250529T060000Z
+SUMMARY:Rachunkowość budżetowa i organizacji non-profit (wykład)
+UID:6ed71738-b5f2-4176-978a-f07729d86172@6ed7.org
 END:VEVENT
 END:VCALENDAR
