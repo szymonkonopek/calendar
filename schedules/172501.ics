@@ -2,11 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250412T151500Z
-DTSTART:20250412T130000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:6d8c00ec-00bb-4bc4-bd3c-b74c78112a79@6d8c.org
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20250316T114500Z
+DTSTART:20250316T093000Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:fd63ade9-0b32-43e4-bd63-3cde95db6473@fd63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250308T143000Z
+DTSTART:20250308T121500Z
+SUMMARY:Podstawy komunikacji rynkowej (wykład)
+UID:02f8a465-a97c-4a9b-a986-919858b50fc2@02f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250330T133000Z
+DTSTART:20250330T111500Z
+SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
+UID:fcde29ee-d10b-4484-88f1-b1287494989a@fcde.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
@@ -14,35 +28,7 @@ DTEND:20250330T104500Z
 LOCATION:Platforma Moodle
 DTSTART:20250330T083000Z
 SUMMARY:Podstawy komunikacji rynkowej (wykład e-learningowy)
-UID:4c525f43-d5fd-4330-b597-79de93ef118f@4c52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Majewska
-DTEND:20250426T081500Z
-DTSTART:20250426T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
-UID:6eed5b4b-b57d-447d-9f87-63752ab5414b@6eed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20250412T104500Z
-DTSTART:20250412T083000Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:81f62fb5-cfee-4152-badb-b5fa9a5edda3@81f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250412T081500Z
-DTSTART:20250412T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
-UID:e0d3e220-3f58-47c0-b408-13acadb36d53@e0d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
-DTEND:20250315T114500Z
-DTSTART:20250315T093000Z
-SUMMARY:Proseminarium (Przeniesienie zajęć)
-UID:f6cd36fa-fba1-4505-beba-ebb83cfa51a7@f6cd.org
+UID:6173a7bc-b4c7-438e-a68f-82c4c44debfd@6173.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Anna Majewska
@@ -50,172 +36,21 @@ DTEND:20250405T133000Z
 LOCATION:Paw.F 109
 DTSTART:20250405T111500Z
 SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:dd017733-4100-44f6-9876-f7bbfa0d26a5@dd01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Proseminarium (ćwiczenia zdalne)
-UID:86593257-7cd5-4cab-bdea-2f6db3a7941d@8659.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Majewska
-DTEND:20250510T081500Z
-DTSTART:20250510T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
-UID:c09ff9eb-5f93-45a3-839e-6c2d4f8b465c@c09f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250510T124500Z
-LOCATION:Paw.C sala D
-DTSTART:20250510T111500Z
-SUMMARY:Przestępczość gospodarcza (egzamin)
-UID:8bc61b7d-e3bf-40cd-8cd8-12db1072dfa0@8bc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250406T133000Z
-DTSTART:20250406T111500Z
-SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
-UID:c0e809ac-056e-4d87-8002-3e76be4c0939@c0e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250308T114500Z
-DTSTART:20250308T093000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:f4d8c6c2-e872-41bf-8fb5-73ab72dc5418@f4d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
-DTEND:20250404T160000Z
-LOCATION:Paw.U sala M
-DTSTART:20250404T134500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:85f42ab8-c658-49c5-8cb3-bc3bb959a46a@85f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Majewska
-DTEND:20250607T081500Z
-LOCATION:Bibl. 440
-DTSTART:20250607T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:787ec3c6-db30-4122-a82a-9e6232e36641@787e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250329T143000Z
-DTSTART:20250329T121500Z
-SUMMARY:Podstawy komunikacji rynkowej (wykład)
-UID:85744e6d-9184-491b-9115-d8fdf0d1e347@8574.org
+UID:448662e9-a9e3-4646-919f-2e494bc5637c@4486.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20250615T104500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250615T083000Z
-SUMMARY:Rachunkowość zarządcza (egzamin)
-UID:c7a9ce2c-ad0f-47b6-b5f0-c791f7bc6014@c7a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250316T143000Z
-DTSTART:20250316T121500Z
-SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
-UID:d979886b-aaa5-416a-ad2f-dc36aef8cbda@d979.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
-DTEND:20250413T081500Z
-LOCATION:Paw.U sala O
-DTSTART:20250413T060000Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:2ed5d8ef-6df0-40ce-a25e-65bbb999cab7@2ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Majewska
-DTEND:20250523T160000Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20250523T134500Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:14375985-58c5-4369-be64-4526a905a533@1437.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250329T114500Z
-DTSTART:20250329T093000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:b83619bb-f0d9-4118-9f57-f1da8e77f3cd@b836.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250406T104500Z
-DTSTART:20250406T083000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:01eb2c84-f7a8-4a7b-a45e-89488076b802@01eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250615T124500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20250615T120000Z
-SUMMARY:Przestępczość gospodarcza (egzamin)
-UID:132af691-6702-4866-b8e4-d5f572f699db@132a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
-DTEND:20250328T170000Z
-LOCATION:Paw.B 151
-DTSTART:20250328T144500Z
-SUMMARY:Proseminarium (ćwiczenia)
-UID:2b6c5f32-f84e-412f-92bc-8e296e7b2c24@2b6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Majewska
-DTEND:20250405T081500Z
-LOCATION:Bibl. 440
-DTSTART:20250405T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
-UID:570bd05b-7c46-49bd-a730-d529d4a5b5ae@570b.org
+DTEND:20250308T091500Z
+DTSTART:20250308T070000Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:d4c36e27-8766-4693-b83a-2238a452626d@d4c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
 DTEND:20250316T091500Z
 DTSTART:20250316T070000Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:432c82ab-6dee-4a3a-b482-25abb9e76d32@432c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250413T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20250413T083000Z
-SUMMARY:Podstawy komunikacji rynkowej (Ćwiczenia e-learningowe)
-UID:53006f7c-8e51-4950-a7ad-1f5ec2c97e07@5300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250511T081500Z
-LOCATION:Paw.C sala C
-DTSTART:20250511T060000Z
-SUMMARY:Podstawy komunikacji rynkowej (ćwiczenia)
-UID:980acda9-5455-4ad1-a5dc-d3714ed2de35@980a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250301T091500Z
-DTSTART:20250301T070000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:7f8d86b0-1987-445a-9217-e2a2eae7390d@7f8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250309T151500Z
-DTSTART:20250309T130000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:cbe065cf-acc5-4511-82b6-5f777ecf3e14@cbe0.org
+UID:683d565b-0ad2-4a70-b4ad-6eeac74cdb42@683d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
@@ -223,82 +58,14 @@ DTEND:20250406T081500Z
 LOCATION:Platforma Moodle
 DTSTART:20250406T060000Z
 SUMMARY:Podstawy komunikacji rynkowej (wykład e-learningowy)
-UID:d9bb81e1-af48-4474-b16d-5b9b7159cd76@d9bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
-DTEND:20250509T160000Z
-LOCATION:Paw.U sala M
-DTSTART:20250509T134500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:b8cc3512-a15a-45b6-b913-e6453e66f2ce@b8cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250614T124500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250614T111500Z
-SUMMARY: (egzamin)
-UID:d97df43b-bb31-4e2e-a157-d42231f2b87f@d97d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250405T104500Z
-LOCATION:Paw.C sala C
-DTSTART:20250405T083000Z
-SUMMARY:Podstawy komunikacji rynkowej (ćwiczenia)
-UID:555a4207-c611-4ec9-8c66-e982a8cf09d0@555a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250309T114500Z
-DTSTART:20250309T093000Z
-SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
-UID:66f9b7cc-64da-4e29-9588-960a73de6147@66f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Michalik
-DTEND:20250330T133000Z
-DTSTART:20250330T111500Z
-SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
-UID:72fed07b-d8c5-484d-a4ee-83f9fc27c621@72fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250315T143000Z
-LOCATION:Paw.C sala C
-DTSTART:20250315T121500Z
-SUMMARY:Podstawy komunikacji rynkowej (ćwiczenia)
-UID:27800ea3-2e59-4f4c-9c62-b8a4011ac576@2780.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
-DTEND:20250329T091500Z
-DTSTART:20250329T070000Z
-SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
-UID:64257c80-3084-4782-a115-0c4c4259d266@6425.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250308T143000Z
-DTSTART:20250308T121500Z
-SUMMARY:Podstawy komunikacji rynkowej (wykład)
-UID:9eb4b105-7638-4b36-91b2-770564174880@9eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
-DTEND:20250524T133000Z
-LOCATION:Paw.U sala M
-DTSTART:20250524T111500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:a4e33daa-d893-4fd3-91c1-9c66d1a1d7e3@a4e3.org
+UID:b1fbf357-5c58-4bc1-97b3-da7fe3909ad9@b1fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20250316T114500Z
-DTSTART:20250316T093000Z
+DTEND:20250412T104500Z
+DTSTART:20250412T083000Z
 SUMMARY:Rachunkowość zarządcza (wykład)
-UID:a7d43571-622c-479c-9676-9907e7f38226@a7d4.org
+UID:5b480a68-be03-4d7c-b30f-2703afec94af@5b48.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
@@ -306,15 +73,14 @@ DTEND:20250606T160000Z
 LOCATION:Paw.C sala C
 DTSTART:20250606T134500Z
 SUMMARY:Podstawy komunikacji rynkowej (ćwiczenia)
-UID:5eb3791f-4e38-4f75-88ca-96440bae1ca2@5eb3.org
+UID:4c03d49c-8b4f-41fa-9237-7591249504d1@4c03.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20250309T091500Z
-LOCATION:Platforma Moodle
-DTSTART:20250309T070000Z
-SUMMARY:Podstawy komunikacji rynkowej (wykład e-learningowy)
-UID:649ae80e-108f-4743-87ef-79dac678060a@649a.org
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250309T114500Z
+DTSTART:20250309T093000Z
+SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
+UID:bef65b4c-a0dc-49c7-8da5-1f6773370c23@bef6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
@@ -322,7 +88,114 @@ DTEND:20250314T170000Z
 LOCATION:Bibl. 443
 DTSTART:20250314T144500Z
 SUMMARY:Proseminarium (ćwiczenia)
-UID:ce6c3f89-5a03-4466-b589-cc80ca212f3d@ce6c.org
+UID:86e28f3f-f4cd-4f8f-89d2-4cf99b0a5c4d@86e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
+DTEND:20250615T104500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250615T083000Z
+SUMMARY:Rachunkowość zarządcza (egzamin)
+UID:9a7af722-fd98-4612-b2af-f66890e566c3@9a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Majewska
+DTEND:20250405T081500Z
+LOCATION:Bibl. 440
+DTSTART:20250405T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:20e60df6-6951-439b-9944-95585a025ecf@20e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Majewska
+DTEND:20250607T081500Z
+LOCATION:Bibl. 440
+DTSTART:20250607T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:f2723a82-5c49-41e9-a001-dcd0907ff3aa@f272.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20250404T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20250404T134500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:acc7f7ed-0f2e-41a0-adce-86c6743eaac5@acc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250615T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250615T120000Z
+SUMMARY:Przestępczość gospodarcza (egzamin)
+UID:e72c9ada-bc3e-4407-a322-9259fdb9a354@e72c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250406T133000Z
+DTSTART:20250406T111500Z
+SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
+UID:fe5ec3b4-c65c-4733-93c2-2ed77f760436@fe5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Proseminarium (ćwiczenia zdalne)
+UID:e98f6ff0-0af7-4d61-8ff3-5a665644519f@e98f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250315T143000Z
+LOCATION:Paw.C sala C
+DTSTART:20250315T121500Z
+SUMMARY:Podstawy komunikacji rynkowej (ćwiczenia)
+UID:749a0e7a-eaa0-48c3-b34b-e73982db0c19@749a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250308T114500Z
+DTSTART:20250308T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:7139112e-ce4c-4aa9-b61e-bb3966533aba@7139.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250510T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20250510T111500Z
+SUMMARY:Przestępczość gospodarcza (egzamin)
+UID:0384ab4b-c3a6-42a3-9e1f-64d0d875988f@0384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20250509T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20250509T134500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:adddb75b-fbf7-4529-a9ab-0348f13bacde@addd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250405T104500Z
+LOCATION:Paw.C sala C
+DTSTART:20250405T083000Z
+SUMMARY:Podstawy komunikacji rynkowej (ćwiczenia)
+UID:a0a033a0-f5dc-4d90-bd62-1ac012d22ff9@a0a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250412T151500Z
+DTSTART:20250412T130000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:27c400be-e8c3-4cdc-97f2-7513a51e9cdb@27c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250406T104500Z
+DTSTART:20250406T083000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:b553b148-4f17-4f05-ad6c-6cba0bc63bc8@b553.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
@@ -330,21 +203,96 @@ DTEND:20250307T170000Z
 LOCATION:Bibl. 441
 DTSTART:20250307T144500Z
 SUMMARY:Proseminarium (ćwiczenia)
-UID:7821e3a8-1803-4094-8b85-9860ea850f8f@7821.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20250330T081500Z
-DTSTART:20250330T060000Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:c865211f-0fe6-4be1-8d57-dd2058886c33@c865.org
+UID:cde36df3-457e-4882-a8fb-e55840c32252@cde3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
 DTEND:20250301T114500Z
 DTSTART:20250301T093000Z
 SUMMARY:Podstawy komunikacji rynkowej (wykład)
-UID:32d1561a-7d5d-437b-ab10-732757600623@32d1.org
+UID:b42119fe-ae81-4f26-900a-a854dcbdb150@b421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Michalik
+DTEND:20250316T143000Z
+DTSTART:20250316T121500Z
+SUMMARY:Przestępczość gospodarcza (wykład do wyboru)
+UID:990b0ce2-2024-4b22-b739-64f45f908144@990b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250309T151500Z
+DTSTART:20250309T130000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:e86343b0-1afd-4c0a-9c8f-d71d6efef6b9@e863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250329T143000Z
+DTSTART:20250329T121500Z
+SUMMARY:Podstawy komunikacji rynkowej (wykład)
+UID:743b7886-1863-4cb8-8092-478ac5f70952@743b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20250413T081500Z
+LOCATION:Paw.U sala O
+DTSTART:20250413T060000Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:c9ede93d-cd7d-4beb-a901-9b7f11382fc8@c9ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250329T114500Z
+DTSTART:20250329T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:0c057614-4067-43d5-b2ea-ab6261f5160d@0c05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Majewska
+DTEND:20250523T160000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250523T134500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:c7b7ffb6-6cd3-40d8-be9c-53ff23d04d32@c7b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Majewska
+DTEND:20250510T081500Z
+DTSTART:20250510T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
+UID:efeec227-d1f4-48c6-88a2-45b3c181f60e@efee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250309T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20250309T070000Z
+SUMMARY:Podstawy komunikacji rynkowej (wykład e-learningowy)
+UID:c0f55ed1-e163-433b-9906-650a88b0d387@c0f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Majewska
+DTEND:20250426T081500Z
+DTSTART:20250426T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
+UID:59a268d4-a61e-4ea7-978f-d607e34b1f7e@59a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250614T124500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250614T111500Z
+SUMMARY: (egzamin)
+UID:1e07cb71-5e56-441b-afda-f6917e7aacd7@1e07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250511T081500Z
+LOCATION:Paw.C sala C
+DTSTART:20250511T060000Z
+SUMMARY:Podstawy komunikacji rynkowej (ćwiczenia)
+UID:b85a1d28-d286-429d-9bdf-8ab6db95cb16@b85a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
@@ -352,13 +300,65 @@ DTEND:20250426T104500Z
 LOCATION:Platforma Moodle
 DTSTART:20250426T083000Z
 SUMMARY:Podstawy komunikacji rynkowej (Ćwiczenia e-learningowe)
-UID:3575bc76-a6d0-4377-8a71-eec221901251@3575.org
+UID:b63f85b8-02f1-421a-86a0-9612adb66df2@b63f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20250315T114500Z
+DTSTART:20250315T093000Z
+SUMMARY:Proseminarium (Przeniesienie zajęć)
+UID:9653bb19-01e8-4e9b-be46-18ec47df4250@9653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250412T081500Z
+DTSTART:20250412T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (Przeniesienie zajęć)
+UID:b953b6e0-b373-4a0f-8cf0-0f74e0156ff1@b953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20250524T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20250524T111500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:26c1cd2a-53fe-438f-8d01-eec77bcf340d@26c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20250328T170000Z
+LOCATION:Paw.B 151
+DTSTART:20250328T144500Z
+SUMMARY:Proseminarium (ćwiczenia)
+UID:d58bdf99-95a8-4c4c-a676-7dabe627dd28@d58b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20250413T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20250413T083000Z
+SUMMARY:Podstawy komunikacji rynkowej (Ćwiczenia e-learningowe)
+UID:34dca990-dcef-4503-91f5-0ad5cba44a2a@34dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250329T091500Z
+DTSTART:20250329T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:5fcd03b5-6ac2-4f49-a88a-16d37e310d87@5fcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250301T091500Z
+DTSTART:20250301T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:839994a5-93e0-4561-86bf-388d5153f847@8399.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Dariusz Wędzki
-DTEND:20250308T091500Z
-DTSTART:20250308T070000Z
+DTEND:20250330T081500Z
+DTSTART:20250330T060000Z
 SUMMARY:Rachunkowość zarządcza (wykład)
-UID:c1bea9dd-913b-4311-b045-3f3480360be8@c1be.org
+UID:65774848-096a-46b6-8260-d4eae8f5be73@6577.org
 END:VEVENT
 END:VCALENDAR
