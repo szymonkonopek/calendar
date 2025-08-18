@@ -2,36 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250319T120000Z
+LOCATION:Paw.F 107
+DTSTART:20250319T103000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:4c66fbd0-b64d-44e2-aea7-defb7038a4aa@4c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250507T143000Z
+DTSTART:20250507T130000Z
+SUMMARY:Ekonomia globalna (Przeniesienie zajęć)
+UID:611e1994-2712-425c-8b30-6bdcb97b97d7@611e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartosz Gołębiowski
 DTEND:20250514T124500Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20250514T111500Z
 SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:61068363-1690-44f9-b58d-36f6054914b7@6106.org
+UID:9ba3d930-39a8-4c74-aacd-779fb2110d6a@9ba3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250521T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250521T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:05536870-e60e-4ea9-96c5-b3dd364f9eec@0553.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250526T143000Z
+DTSTART:20250526T130000Z
+SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
+UID:bafb018f-5274-48eb-857f-ba87ca391c3f@bafb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250430T143000Z
+DTEND:20250402T143000Z
 LOCATION:Paw.F 515
-DTSTART:20250430T130000Z
+DTSTART:20250402T130000Z
 SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:e901e737-c13b-497b-8723-8044ab59fe0e@e901.org
+UID:0886b78e-ca83-40eb-a1f1-d0e1ef971689@0886.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250613T124500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250613T111500Z
-SUMMARY:Ekonomia globalna (egzamin)
-UID:eb1bebf1-9816-46e9-bc37-4e4afae6a416@eb1b.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250227T101500Z
+DTSTART:20250227T084500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:6ed1bd5b-3495-4d8e-84dc-9884d9fd27f4@6ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250414T120000Z
+DTSTART:20250414T111500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:a00c67b0-b7f7-4442-bd95-079c509c845c@a00c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
@@ -39,735 +59,7 @@ DTEND:20250424T161500Z
 LOCATION:Paw.F 616
 DTSTART:20250424T144500Z
 SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:45ea6682-469a-4345-873d-707557d0e5fc@45ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250305T153000Z
-LOCATION:Paw.F 515
-DTSTART:20250305T140000Z
-SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:f502d05b-b615-4704-b8f3-500eda265cbc@f502.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250318T091500Z
-DTSTART:20250318T074500Z
-SUMMARY:Etyka w biznesie (wykład do wyboru)
-UID:c38f3a9c-539a-46aa-b300-8987990ef757@c38f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250623T114500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250623T101500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (egzamin)
-UID:6da75e9e-64f6-4023-a158-757e7364719a@6da7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20250313T171500Z
-LOCATION:Paw.F 616
-DTSTART:20250313T154500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:0b71dfa4-0e7a-4838-a2e7-3cb98261d660@0b71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250410T091500Z
-DTSTART:20250410T074500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:c4730570-76bc-4da0-8c28-2d65c2408746@c473.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250408T081500Z
-DTSTART:20250408T064500Z
-SUMMARY:Etyka w biznesie (wykład do wyboru)
-UID:af7a6627-6945-4175-9269-351e3deb0cdd@af7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250609T091500Z
-DTSTART:20250609T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:f96e04b6-a184-49ae-861d-6948c64ba8c3@f96e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250424T083000Z
-DTSTART:20250424T074500Z
-SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:325a4c59-d2df-4fb2-a257-3bf432358410@325a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250305T134500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250305T121500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:62fd0da9-a580-4455-bcb7-06648b03b337@62fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250416T143000Z
-LOCATION:Paw.F 717
-DTSTART:20250416T130000Z
-SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:3af319c7-9651-4f58-8d8f-335266e6346e@3af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250320T120000Z
-DTSTART:20250320T103000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:f5759a81-4e93-4e39-be25-ad375adef2c4@f575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250313T101500Z
-DTSTART:20250313T084500Z
-SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:dc3350db-6746-4998-afdc-6aa3ebeda6a4@dc33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250507T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250507T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:f6569257-bc64-4c87-bdb9-31cbf7323ae2@f656.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250416T124500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250416T111500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:3cb30abb-e9e4-48aa-a2b6-896be254fc7c@3cb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250326T153000Z
-LOCATION:Bibl. 443
-DTSTART:20250326T140000Z
-SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:4288db5a-0bd9-4b45-b263-d41d3c16e6c8@4288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250519T124500Z
-DTSTART:20250519T111500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
-UID:6762eb94-a845-4669-9887-1511a8138d61@6762.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20250526T143000Z
-DTSTART:20250526T130000Z
-SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:fe3327c9-0484-47ce-a633-b109d69ee630@fe33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250317T101500Z
-DTSTART:20250317T084500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:16451377-b62c-40ac-8bd7-3b3b238fcd59@1645.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250306T120000Z
-DTSTART:20250306T103000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:6ee61601-bc06-419b-8bee-ef6c4602bdac@6ee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250416T184500Z
-DTSTART:20250416T171500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:2db2d165-40fa-4a40-bbdb-80400dc2f9e7@2db2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250613T091500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20250613T074500Z
-SUMMARY:Finanse gospodarstw domowych (egzamin)
-UID:ccb87767-7a4f-480c-88b1-858958204134@ccb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250521T091500Z
-LOCATION:Paw.F 415
-DTSTART:20250521T083000Z
-SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:709d670c-7a9d-4bb9-a5c6-30615b5ad41f@709d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250403T110000Z
-DTSTART:20250403T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:c04bffbf-11bc-4aab-87de-98c08ba8ac83@c04b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20250424T110000Z
-DTSTART:20250424T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:c01277f7-9a38-4f2d-8e2a-9e8e5483bc29@c012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250604T134500Z
-LOCATION:Bibl. 443
-DTSTART:20250604T130000Z
-SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:b7f2b08d-f469-4466-a290-d2b9cc33910b@b7f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250611T153000Z
-LOCATION:Paw.S sala 8
-DTSTART:20250611T144500Z
-SUMMARY:Ekonomia globalna (kolokwium)
-UID:b1cefdaf-b4b3-4d15-8681-7fe7e78c6cef@b1ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20250605T153000Z
-LOCATION:Paw.F 616
-DTSTART:20250605T144500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:a507eb6b-8c73-4b60-9d52-662dd7688ecf@a507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250428T091500Z
-DTSTART:20250428T074500Z
-SUMMARY:Ekonomia globalna (Przeniesienie zajęć)
-UID:97b03bbe-2e8c-4b87-b3b9-bafb7e836a88@97b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250611T143000Z
-LOCATION:Paw.F 515
-DTSTART:20250611T130000Z
-SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:c6cb0534-1e12-4ae7-83f7-ea905e442ac0@c6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250313T120000Z
-DTSTART:20250313T103000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:92d364d3-0b9b-406e-9e19-b43a2fd47e54@92d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20250303T153000Z
-DTSTART:20250303T140000Z
-SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
-UID:3976c150-bf2c-4de4-a974-011f63314821@3976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250303T120000Z
-DTSTART:20250303T103000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:7fffc50b-1cce-450a-b891-090c11ef5f1e@7fff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250612T091500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250612T074500Z
-SUMMARY: (zaliczenie)
-UID:76fbd57a-b6a6-4c7c-8603-4d8f59f9c3e8@76fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250602T124500Z
-DTSTART:20250602T111500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:6508877a-5bed-47cb-80cc-9b6d5c377d10@6508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250312T134500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250312T121500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:a1c3049e-b2c3-4097-ae6c-ce4ed74db36a@a1c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20250612T110000Z
-DTSTART:20250612T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:57eac84f-89e7-4bbe-a902-8c9d38b14111@57ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250317T134500Z
-DTSTART:20250317T121500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:6e38c003-3e2e-49cb-a71e-7bb8f6a7a591@6e38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250514T143000Z
-LOCATION:Paw.F 717
-DTSTART:20250514T130000Z
-SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:acb1f322-70f2-45bd-9147-f059ba691ff9@acb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250602T091500Z
-DTSTART:20250602T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:2040f3b0-176c-45cf-a853-a5c194dd958b@2040.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250331T124500Z
-DTSTART:20250331T111500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:b65ae32f-0444-4515-93a4-c77eb5a88b0b@b65a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250414T091500Z
-DTSTART:20250414T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:1c69f82f-ac6d-4fdd-92d7-a983848c590a@1c69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250331T110000Z
-DTSTART:20250331T093000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:b4ae5c44-47f1-464f-b66a-6c6931eab187@b4ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250429T073000Z
-DTSTART:20250429T064500Z
-SUMMARY:Etyka w biznesie (wykład do wyboru)
-UID:2de98b82-b7c9-4344-8b14-b1ef47e6c939@2de9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250303T101500Z
-DTSTART:20250303T084500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:cb0dac88-6f12-474b-8423-904b6d54604b@cb0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250312T153000Z
-LOCATION:Bibl. 443
-DTSTART:20250312T140000Z
-SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:4e70a8f0-7b54-4764-bc76-1801f1fcfd9e@4e70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250512T110000Z
-DTSTART:20250512T093000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:5bd6511b-b8dd-4cd8-9a1f-e3fb0198d7e8@5bd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250423T143000Z
-LOCATION:Bibl. 443
-DTSTART:20250423T130000Z
-SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:abad0adf-e4c5-4bde-9776-3d855070a176@abad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250326T114500Z
-DTSTART:20250326T084500Z
-SUMMARY: (rezerwacja)
-UID:87814669-ffdf-4570-b011-8002f3122d3b@8781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250526T124500Z
-DTSTART:20250526T111500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:2b91dc43-ded2-40f6-9679-a3fa24823c6f@2b91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250513T091500Z
-DTSTART:20250513T074500Z
-SUMMARY:Polityka finansowa (Przeniesienie zajęć)
-UID:780c4027-4be8-4289-81ba-c0170c34f00b@780c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20250425T110000Z
-DTSTART:20250425T093000Z
-SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:cdab59ce-349f-4ab2-b32f-e845f6e1da75@cdab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250324T134500Z
-DTSTART:20250324T121500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:ff61f6b8-00e2-42a3-af0b-7a287cd1782c@ff61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250428T134500Z
-DTSTART:20250428T130000Z
-SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
-UID:76e564b4-a6c7-4d8a-95d8-a856906c8bef@76e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250227T120000Z
-DTSTART:20250227T103000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:a055f259-d840-4a36-8f03-1da5fac65de1@a055.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20250327T171500Z
-LOCATION:Paw.F 616
-DTSTART:20250327T154500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:af0f956f-e4c0-4cf0-bc4c-06f49cd3489c@af0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250609T101500Z
-DTSTART:20250609T093000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:abf3fe18-fa6b-4116-ba4f-f1e02d50fbb8@abf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20250224T153000Z
-DTSTART:20250224T140000Z
-SUMMARY:Etyka w biznesie (wykład do wyboru)
-UID:c74e1115-136e-4ed6-814e-31a55572f9e3@c74e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250310T134500Z
-DTSTART:20250310T121500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:be2bf5f6-e10e-4832-beeb-17329913ef90@be2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250320T101500Z
-DTSTART:20250320T084500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:bb87bb78-1402-4ea0-bb01-b57ac8781e58@bb87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250317T120000Z
-DTSTART:20250317T103000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:d04ee0c5-0a4c-43a3-afb2-aa5591197e8e@d04e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20250317T153000Z
-DTSTART:20250317T140000Z
-SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
-UID:f8c97b5e-1e8c-42fc-81b1-6af6abbe6bc4@f8c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250604T124500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250604T111500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:58786d28-aeb6-4323-84dd-b76fe994fc14@5878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250312T120000Z
-DTSTART:20250312T103000Z
-SUMMARY:Polityka finansowa (Przeniesienie zajęć)
-UID:e4be60af-2bc7-4f6d-b7b3-7179642dfb56@e4be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250402T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250402T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:ddd28119-fdca-4744-b183-d87b1ed21992@ddd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250508T110000Z
-DTSTART:20250508T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:56177ffd-a811-4a0f-a823-26880b0e7d1d@5617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250430T143000Z
-LOCATION:Paw.F 717
-DTSTART:20250430T130000Z
-SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:99198b37-491b-48e6-82df-557490ccfe19@9919.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250407T091500Z
-DTSTART:20250407T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:545defba-050c-40f9-bc36-fdbbec914020@545d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250409T110000Z
-DTSTART:20250409T093000Z
-SUMMARY:Polityka finansowa (Przeniesienie zajęć)
-UID:4b5ef1a6-d949-419f-be92-7a0afefca3bf@4b5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20250411T110000Z
-DTSTART:20250411T093000Z
-SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:7e7c5929-21f2-4483-b198-d1a847a9a49e@7e7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20250328T120000Z
-DTSTART:20250328T103000Z
-SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:5e50916d-d1ac-4084-b676-805a1fd21afb@5e50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250609T124500Z
-DTSTART:20250609T111500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:cefef76c-f587-4622-b5e8-8f8541706754@cefe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250611T143000Z
-LOCATION:Paw.F 717
-DTSTART:20250611T130000Z
-SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:51d5dba4-bc6a-4665-99e8-263fa94aa935@51d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250331T091500Z
-DTSTART:20250331T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:8fb9adc1-707a-4c5c-ac35-f82134f7d867@8fb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250306T101500Z
-DTSTART:20250306T084500Z
-SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:91b963ca-3da2-45f9-957e-da01b7dd0c2f@91b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250409T143000Z
-LOCATION:Bibl. 443
-DTSTART:20250409T130000Z
-SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:42305f72-03f4-4972-9839-e18bf5099046@4230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250515T110000Z
-DTSTART:20250515T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
-UID:a0943dd1-9254-417f-8d51-51b0be9b18ac@a094.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250319T120000Z
-LOCATION:Paw.F 107
-DTSTART:20250319T103000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:1d3d0de2-e32b-4f6b-aa9d-7406e583c44e@1d3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250611T091500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250611T074500Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:6da2b203-0191-464a-9e10-eef4e168b71d@6da2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20250612T091500Z
-DTSTART:20250612T074500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:dbc8a05a-8a11-4b5b-9020-df5023adaf3a@dbc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250428T110000Z
-DTSTART:20250428T093000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:26444d1d-967d-44c8-9f9a-a65cc1fd70d0@2644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20250512T143000Z
-DTSTART:20250512T130000Z
-SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (Przeniesienie zajęć)
-UID:cfffde1a-8db4-49e1-b123-93cc717da09b@cfff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250410T110000Z
-DTSTART:20250410T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:3596821b-3f4a-4589-b08b-3fce99e11034@3596.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250514T143000Z
-LOCATION:Paw.F 515
-DTSTART:20250514T130000Z
-SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:878d94c5-97a4-4e2b-a8b5-c4c889cb3fb5@878d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250410T091500Z
-DTSTART:20250410T074500Z
-SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:3e5d309c-a301-4972-9ed2-531b41bfdc23@3e5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250227T101500Z
-DTSTART:20250227T084500Z
-SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:c4bd18fa-4030-4c59-b5e6-5e8b52f52018@c4bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250424T083000Z
-DTSTART:20250424T074500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:7cbaabfd-0e2d-4c51-93f7-800dc2fa4069@7cba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250320T101500Z
-DTSTART:20250320T084500Z
-SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:9c841573-0459-4a32-b9c1-b906366ed66a@9c84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250224T134500Z
-DTSTART:20250224T121500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:f801fea1-7fef-41d4-aaa1-11fb75af8f7c@f801.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250522T110000Z
-DTSTART:20250522T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:e1aa1632-8641-41ba-82ef-cf68429a36ff@e1aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20250522T161500Z
-LOCATION:Paw.F 616
-DTSTART:20250522T144500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:ce59d1ce-f913-43ba-98f5-3dd31e9b6614@ce59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250526T110000Z
-DTSTART:20250526T093000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:181e2bfd-97c5-48ce-85ff-95969b774866@181e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20250617T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250617T144500Z
-SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (egzamin)
-UID:1bc0c832-86c1-4189-bbf7-f53074b19657@1bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250505T091500Z
-DTSTART:20250505T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:884f79f0-5cf1-4468-bd19-6c74a5a3b75b@884f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250620T151500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250620T134500Z
-SUMMARY: (egzamin)
-UID:69ab29d8-ef8e-4e81-b6ca-08084bcd41e7@69ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20250508T161500Z
-LOCATION:Paw.F 616
-DTSTART:20250508T144500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:fadbb926-c6b5-4845-af7e-9f5c842f4cd5@fadb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250416T143000Z
-LOCATION:Paw.F 515
-DTSTART:20250416T130000Z
-SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:c1b59aad-40e8-4ccb-bb5b-47336de20fc8@c1b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250224T101500Z
-DTSTART:20250224T084500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:18532091-ec47-4462-8fd4-0b65ef26e276@1853.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20250410T161500Z
-LOCATION:Paw.F 616
-DTSTART:20250410T144500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:3a86b73a-edee-491b-af59-8236c1dc53a0@3a86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250507T124500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250507T111500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:9945aadb-92d5-478a-9258-c9d9b931c12d@9945.org
+UID:3d3366c3-2bde-46e8-b8b6-62545354dddd@3d33.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
@@ -775,336 +67,65 @@ DTEND:20250604T110000Z
 LOCATION:Paw.F 107
 DTSTART:20250604T093000Z
 SUMMARY:Polityka finansowa (ćwiczenia)
-UID:4c0250e0-cd38-4999-a388-789cbf1aff1c@4c02.org
+UID:64488219-c6e4-43d3-a248-6027372c5ee3@6448.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250430T124500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250430T111500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:ded8a82c-5b43-48da-bcf3-d8f587bb48e1@ded8.org
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250605T153000Z
+LOCATION:Paw.F 616
+DTSTART:20250605T144500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
+UID:ce79dd48-a71a-4042-a736-2528c434221e@ce79.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250305T120000Z
-LOCATION:Paw.F 107
-DTSTART:20250305T103000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:14d0a511-aaac-4c93-ad86-a8184b6fc3c3@14d0.org
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20250224T153000Z
+DTSTART:20250224T140000Z
+SUMMARY:Etyka w biznesie (wykład do wyboru)
+UID:8fd930c1-a24f-46f1-809b-4236bc80cceb@8fd9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250519T091500Z
-DTSTART:20250519T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:75a5b9bf-f624-4222-b2c7-bb528f8c7da4@75a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250319T153000Z
-LOCATION:Paw.F 515
-DTSTART:20250319T140000Z
-SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:46a95c04-82e3-4251-b63a-09b64b133edf@46a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250306T101500Z
-DTSTART:20250306T084500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:b6efb7bd-5fb4-4016-bc10-ca0b2327f3a2@b6ef.org
+DTEND:20250326T153000Z
+LOCATION:Bibl. 443
+DTSTART:20250326T140000Z
+SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
+UID:19784a25-2f22-48e6-acfb-f02dfbe0976c@1978.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20250228T120000Z
-DTSTART:20250228T103000Z
+DTEND:20250425T110000Z
+DTSTART:20250425T093000Z
 SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:de4fbdc2-58bb-4a4a-b42f-22eb4dbf5633@de4f.org
+UID:5b9f8bea-edce-4753-86bd-19ed2c7aa929@5b9f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250414T120000Z
-DTSTART:20250414T111500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:5bae81f2-a8f5-4235-b058-18b839ce2b63@5bae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250403T091500Z
-DTSTART:20250403T074500Z
-SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:a33d4dce-2074-44e2-a1d6-071fc9867d26@a33d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250512T124500Z
-DTSTART:20250512T111500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:e5afe19d-a049-402f-a983-1be85c0fcad0@e5af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250415T081500Z
-DTSTART:20250415T064500Z
-SUMMARY:Etyka w biznesie (wykład do wyboru)
-UID:a2039475-e759-4603-8f25-eb7bb2cae36a@a203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250303T134500Z
-DTSTART:20250303T121500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:af1f49cf-b1b1-4eb0-9260-47713e46e1de@af1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250604T143000Z
-LOCATION:Paw.F 717
-DTSTART:20250604T134500Z
-SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:2f5aabc6-fbf3-4c2b-8e21-fb0b5be0d09b@2f5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250319T134500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250319T121500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:78f61ce6-4dde-4edb-b1dd-03213934842d@78f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250507T143000Z
-DTSTART:20250507T130000Z
-SUMMARY:Ekonomia globalna (Przeniesienie zajęć)
-UID:22b754c3-29e4-4a6f-8dab-4c65ffffebaf@22b7.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250512T110000Z
+DTSTART:20250512T093000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:bede204b-b480-4674-9493-e65cb5cd0860@bede.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250529T091500Z
-DTSTART:20250529T074500Z
+DTEND:20250227T120000Z
+DTSTART:20250227T103000Z
 SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
-UID:c2061ec0-bc44-4e58-8163-e777fd210d1a@c206.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250512T091500Z
-DTSTART:20250512T074500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:492427da-df87-4ba8-b93b-785fe14671dd@4924.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250402T143000Z
-LOCATION:Paw.F 515
-DTSTART:20250402T130000Z
-SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
-UID:c906ab67-5b29-44dd-bd43-7311ef8c7ce6@c906.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250423T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250423T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:107d3e2e-da92-4d25-baf3-5376bae32973@107d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250514T091500Z
-LOCATION:Paw.S sala 4
-DTSTART:20250514T074500Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:34dd2915-7065-4cce-9707-96fc6cbfb369@34dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250526T091500Z
-DTSTART:20250526T074500Z
-SUMMARY:Ekonomia globalna (Przeniesienie zajęć)
-UID:969004a3-fc22-4557-814e-651b2d1e661b@9690.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250402T143000Z
-LOCATION:Paw.F 717
-DTSTART:20250402T130000Z
-SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:c754e345-9a01-4c7f-af7d-7decd99fe29b@c754.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250521T143000Z
-LOCATION:Bibl. 443
-DTSTART:20250521T130000Z
-SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:0b6d1146-94cf-4729-af26-4786138641ed@0b6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250402T124500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250402T111500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:3390d754-88ff-4cf7-ad63-7c921ab4786f@3390.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250310T101500Z
-DTSTART:20250310T084500Z
-SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:68320d9c-bfcf-4d04-a90d-ac9f790d5245@6832.org
+UID:0afb8444-b013-451b-bea3-663dd7da20a3@0afb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Karaś
 DTEND:20250314T120000Z
 DTSTART:20250314T103000Z
 SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:5eba7f31-9de3-450c-8702-00f4b1ba70f7@5eba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250513T161500Z
-LOCATION:Paw.B 251
-DTSTART:20250513T144500Z
-SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:5148ce8a-e7a5-4565-8068-c43334f256e4@5148.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
-DTEND:20250227T171500Z
-LOCATION:Paw.F 616
-DTSTART:20250227T154500Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
-UID:2e1c398e-0d24-4012-bb38-4392f288366c@2e1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250414T110000Z
-DTSTART:20250414T093000Z
-SUMMARY:Polityka finansowa (wykład)
-UID:dcfd14e2-9cb6-4cdd-8d13-f74c12189377@dcfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250611T124500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250611T111500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:ed778447-4aa9-4bf4-8dc1-ded5cb5e03fa@ed77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250407T124500Z
-DTSTART:20250407T111500Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:f317937f-cf4b-41c0-98f7-ec86a80b140c@f317.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250227T101500Z
-DTSTART:20250227T084500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:58a3f83d-575e-4c34-96f6-fd9c322a1dd6@58a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250416T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250416T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:84076cc6-24ca-4538-af0b-daef89a1b888@8407.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250305T153000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250305T140000Z
-SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:425e1802-d696-42de-aad7-14e0f6bbe9c6@425e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250304T133000Z
-DTSTART:20250304T103000Z
-SUMMARY: (rezerwacja)
-UID:003a65cb-2370-43de-a6b9-848c3fa896f0@003a.org
+UID:bff6122b-4af8-4a36-a16a-999c5ae8ef38@bff6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250625T143000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250625T130000Z
-SUMMARY:Ekonomia globalna (egzamin)
-UID:c88cefe1-3cd1-4224-aa96-9655f17bd3d6@c88c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250605T110000Z
-DTSTART:20250605T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
-UID:e2636fc8-12a8-4974-b66e-c6ca15c3a8ac@e263.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250514T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250514T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:22274b80-203c-489f-80b6-46524087b7b7@2227.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250529T110000Z
-DTSTART:20250529T093000Z
-SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
-UID:dc453dec-9f9f-4ced-8728-1570acc87cce@dc45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250430T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250430T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:80618cf0-6a78-4063-8382-cba14e7a8c08@8061.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250403T091500Z
-DTSTART:20250403T074500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:27018259-c595-4e43-ade2-495e2366b7f7@2701.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250226T134500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250226T121500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:08285e08-4732-4837-a7be-837bb9e8ecde@0828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250520T104500Z
-DTSTART:20250520T074500Z
-SUMMARY:Polityka finansowa (ćwiczenia zdalne)
-UID:49e0e2b9-d16c-4da5-9f52-390ff34adbb6@49e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250611T110000Z
-LOCATION:Paw.F 107
-DTSTART:20250611T093000Z
-SUMMARY:Polityka finansowa (ćwiczenia)
-UID:9aa66edb-1cad-4270-9637-8c53feb233bd@9aa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20250310T153000Z
-DTSTART:20250310T140000Z
-SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
-UID:f75b489d-4f9c-464d-afed-2488d94b36a5@f75b.org
+DTEND:20250602T091500Z
+DTSTART:20250602T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:01c3d8f9-2efe-4b86-bb86-db540f880a43@01c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartosz Gołębiowski
@@ -1112,95 +133,105 @@ DTEND:20250521T124500Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20250521T111500Z
 SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:bfc0282b-51f3-45f4-be64-0b7247ddc883@bfc0.org
+UID:a192cebd-afe8-45c1-b4b9-881571b095af@a192.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20250609T143000Z
-DTSTART:20250609T134500Z
-SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:c56c174a-ec48-4b55-95d6-404a8c7fb874@c56c.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250414T110000Z
+DTSTART:20250414T093000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:e15a8337-080a-47e8-9738-967e8ccdc5d8@e15a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20250325T091500Z
-DTSTART:20250325T074500Z
-SUMMARY:Etyka w biznesie (wykład do wyboru)
-UID:11169967-f63e-4b0f-803c-b24cbb7a0f42@1116.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250507T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250507T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:398b8696-e3bb-4ea0-aebe-902973c12589@398b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250305T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250305T140000Z
+SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
+UID:a5ffaf49-a7d9-43b2-9f8c-2987900626a0@a5ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
-DTEND:20250226T153000Z
+DTEND:20250312T153000Z
 LOCATION:Bibl. 443
-DTSTART:20250226T140000Z
+DTSTART:20250312T140000Z
 SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
-UID:2deb54b7-dcae-43c0-876c-aed9458219a6@2deb.org
+UID:8ee0d5dc-c8df-48a1-9dbc-46292ecf8798@8ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250430T124500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250430T111500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:d3e2a675-1ecd-415e-a187-5efb74d59e5d@d3e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
 DTEND:20250519T143000Z
 DTSTART:20250519T130000Z
 SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
-UID:31b93dd5-ecaa-4a92-9c14-c2bd5d7a28cd@31b9.org
+UID:f9bc648c-f1fa-4d5c-8a35-95bf4e897eaa@f9bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250604T073000Z
-LOCATION:Paw.S sala 8
-DTSTART:20250604T060000Z
-SUMMARY: (rezerwacja)
-UID:02f6cced-0ee3-4d02-8d80-a28556e5b3d2@02f6.org
+DTEND:20250331T124500Z
+DTSTART:20250331T111500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:78cc0172-ccdf-40fe-a31f-a6fbf4ff5532@78cc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20250513T110000Z
-DTSTART:20250513T093000Z
-SUMMARY:Polityka finansowa (Przeniesienie zajęć)
-UID:f8dfc873-b94e-4c76-9c8e-d983e4de5f63@f8df.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250414T091500Z
+DTSTART:20250414T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:1e317687-058b-484a-ac1c-404bf5375611@1e31.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250327T150000Z
-DTSTART:20250327T103000Z
-SUMMARY: (rezerwacja)
-UID:8afb8917-4de1-4af1-aca2-870dc0f98f97@8afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250326T134500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250326T121500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:b5318092-882d-4fef-8b6e-e705a566ccc2@b531.org
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250227T171500Z
+LOCATION:Paw.F 616
+DTSTART:20250227T154500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
+UID:3e2814d4-3f00-4c4c-8934-f673d521fa4e@3e28.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20250327T101500Z
-DTSTART:20250327T084500Z
+DTEND:20250424T083000Z
+DTSTART:20250424T074500Z
 SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
-UID:3aa6b5d4-81f4-4c67-b560-3a8500335184@3aa6.org
+UID:08fd8c4a-75fd-4081-9f52-39f573626275@08fd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250327T101500Z
-DTSTART:20250327T084500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:97f06251-df60-4121-b7ff-94e574a4661c@97f0.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250423T143000Z
+LOCATION:Bibl. 443
+DTSTART:20250423T130000Z
+SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
+UID:0dd1de83-7644-419a-8c67-ec1a7b11e7c0@0dd1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250313T101500Z
-DTSTART:20250313T084500Z
-SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
-UID:6963dc51-122a-48c5-b82d-f277bed8a9b7@6963.org
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20250303T153000Z
+DTSTART:20250303T140000Z
+SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
+UID:cf2e767a-997f-4694-a333-c908662bf893@cf2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartosz Gołębiowski
-DTEND:20250423T124500Z
+DTEND:20250402T124500Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250423T111500Z
+DTSTART:20250402T111500Z
 SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:56e2b616-7f3b-4bf5-9637-ab5879bb27d5@56e2.org
+UID:d9066891-93bf-4935-944a-e366f121b230@d906.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
@@ -1208,22 +239,871 @@ DTEND:20250616T100000Z
 LOCATION:Bud.gł. Stara Aula
 DTSTART:20250616T083000Z
 SUMMARY:Finanse Unii Europejskiej (egzamin)
-UID:0a8c1b05-f70e-459d-8f50-f6bb55fd8381@0a8c.org
+UID:96f92e7c-65a8-424d-8c54-fc6b84381c9b@96f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250310T134500Z
+DTSTART:20250310T121500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:5f0b5e73-d610-432d-9990-e7943b21d536@5f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20250310T153000Z
+DTSTART:20250310T140000Z
+SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
+UID:366ca002-fb03-40a9-afe6-10532a0a0e0d@366c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250514T091500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250514T074500Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:75476afe-eb5c-4e72-9f5b-89e462c9774d@7547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250326T134500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250326T121500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:eae74606-7683-48ed-b819-107c50eed795@eae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20250612T110000Z
+DTSTART:20250612T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:23552f32-a83f-4c6d-a122-ca40eee64604@2355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250611T143000Z
+LOCATION:Paw.F 515
+DTSTART:20250611T130000Z
+SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
+UID:8dce4161-db17-4330-9e13-d189ce03cc85@8dce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250611T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250611T074500Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:2cc6085b-5fa8-4729-b5c4-febb84066b23@2cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250617T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250617T144500Z
+SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (egzamin)
+UID:1d1f9b05-fdb0-429c-903f-79e2bd1cb421@1d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250512T143000Z
+DTSTART:20250512T130000Z
+SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (Przeniesienie zajęć)
+UID:e0f206b2-a6a2-4b06-949c-b0b8bafe5dd6@e0f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20250328T120000Z
+DTSTART:20250328T103000Z
+SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
+UID:7e865b6e-87d4-4cf1-9185-9b776e957f38@7e86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250313T120000Z
+DTSTART:20250313T103000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:2e23e677-0d67-440e-b833-49ca0d3fed7f@2e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250428T091500Z
+DTSTART:20250428T074500Z
+SUMMARY:Ekonomia globalna (Przeniesienie zajęć)
+UID:c60c13e4-823b-49c0-b734-d9eb483de9af@c60c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250313T101500Z
+DTSTART:20250313T084500Z
+SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
+UID:21ab5ab0-9c3a-4322-870a-197b3aa5a03a@21ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250317T134500Z
+DTSTART:20250317T121500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:f80ef136-b9af-4377-aa19-e7e7251959aa@f80e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250313T171500Z
+LOCATION:Paw.F 616
+DTSTART:20250313T154500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
+UID:174dbe52-7b15-47ae-963b-e3f459421900@174d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250512T091500Z
+DTSTART:20250512T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:84fd4328-d460-41b8-af6f-6f832d16e6a0@84fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250609T124500Z
+DTSTART:20250609T111500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:b6cd3cd8-c3b5-444a-901d-2c2f4bb9a4a0@b6cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250513T091500Z
+DTSTART:20250513T074500Z
+SUMMARY:Polityka finansowa (Przeniesienie zajęć)
+UID:d7380f80-55cb-4fb2-a76b-f14f1c2a2bbb@d738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250320T101500Z
+DTSTART:20250320T084500Z
+SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
+UID:42ea87af-2ac6-40df-ae13-f893e77cb531@42ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250320T101500Z
+DTSTART:20250320T084500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:9caac8a2-25f3-4ec4-92b9-6404cdd3631f@9caa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250410T091500Z
+DTSTART:20250410T074500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:f633a341-b6e6-4bfd-89bf-b755f296999d@f633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250526T110000Z
+DTSTART:20250526T093000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:09e8b932-e10e-4f03-bbb4-8ebfb7d0cc8c@09e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250408T081500Z
+DTSTART:20250408T064500Z
+SUMMARY:Etyka w biznesie (wykład do wyboru)
+UID:72fa9a58-2f01-4fc4-b46e-ed607954b2e4@72fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250409T110000Z
+DTSTART:20250409T093000Z
+SUMMARY:Polityka finansowa (Przeniesienie zajęć)
+UID:8ad0ca38-7281-4c10-a608-41de0684892e@8ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250519T124500Z
+DTSTART:20250519T111500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
+UID:e6a46736-c426-4dd3-8e1c-635fe86a32d1@e6a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250623T114500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250623T101500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (egzamin)
+UID:908bd3f9-b75e-4dd1-81ea-0967837f83b5@908b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250604T134500Z
+LOCATION:Bibl. 443
+DTSTART:20250604T130000Z
+SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
+UID:d04875d3-b8b4-42f3-a25b-e133190c66e1@d048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250327T101500Z
+DTSTART:20250327T084500Z
+SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
+UID:61489003-eabe-4460-88ef-f552cc9df014@6148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250604T124500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250604T111500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:6b53d271-25ff-45b1-94c2-4dbfdc1cbb37@6b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250529T110000Z
+DTSTART:20250529T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
+UID:7e944b94-23d0-4c41-861f-d2cb4dc10138@7e94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250508T110000Z
+DTSTART:20250508T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:c8fb823f-b876-44a7-b579-79c97bfd2ef7@c8fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250609T101500Z
+DTSTART:20250609T093000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:5a1e8f32-5a68-4a78-97bf-0e422c6f835c@5a1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250602T124500Z
+DTSTART:20250602T111500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:0aeb59c7-0bdd-404d-acc9-bb1a35622748@0aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250604T143000Z
+LOCATION:Paw.F 717
+DTSTART:20250604T134500Z
+SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
+UID:ddfa5d79-a6ec-4776-bb3c-831782a8043c@ddfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250428T110000Z
+DTSTART:20250428T093000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:8cb0365a-8157-4f56-8e35-e2aae65ff6e8@8cb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250407T091500Z
+DTSTART:20250407T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:a0fc5f7a-eb09-44fc-9d3f-5552ddb20864@a0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250410T161500Z
+LOCATION:Paw.F 616
+DTSTART:20250410T144500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
+UID:f01640be-8042-41fd-aeef-c874dc22607a@f016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250522T110000Z
+DTSTART:20250522T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:95963342-169d-41d4-b535-4fbd19c6c0c9@9596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250424T083000Z
+DTSTART:20250424T074500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:c1b897a6-9a80-43fd-a598-0fdbfb8f1d1b@c1b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250227T101500Z
+DTSTART:20250227T084500Z
+SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
+UID:8eddf1f0-9c73-412b-9152-01797a62f513@8edd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20250411T110000Z
+DTSTART:20250411T093000Z
+SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
+UID:999717b5-f470-4b87-aff6-55add6371b79@9997.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250402T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250402T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:b418380e-a81f-4b11-911f-c578aba43f3c@b418.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250310T101500Z
+DTSTART:20250310T084500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:1881b677-82e5-46c3-8f5c-4e4e76a81f71@1881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250306T101500Z
+DTSTART:20250306T084500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:8c446332-1ce0-43a2-a6d9-194f89317cdd@8c44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250317T120000Z
+DTSTART:20250317T103000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:c12969bb-1611-4bc5-8772-9571fcda066b@c129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250430T143000Z
+LOCATION:Paw.F 717
+DTSTART:20250430T130000Z
+SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
+UID:42007ac9-42d5-48b4-b28f-fec2a3779a08@4200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250512T124500Z
+DTSTART:20250512T111500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:8271300a-84ee-4459-9586-7367750e5a4b@8271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250306T101500Z
+DTSTART:20250306T084500Z
+SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
+UID:822a5e75-af04-40d0-b865-90a6aa962faa@822a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250620T151500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250620T134500Z
+SUMMARY: (egzamin)
+UID:9b1ae360-2bcd-4a38-afcc-739a95237b48@9b1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250416T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250416T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:c21aefc1-200b-45c7-92f8-4562ede8ab1e@c21a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250428T134500Z
+DTSTART:20250428T130000Z
+SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
+UID:6963b87a-0b3b-45a0-9b76-e45b5e539aa5@6963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250613T124500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250613T111500Z
+SUMMARY:Ekonomia globalna (egzamin)
+UID:b7a4d50f-cbb1-42bf-aba7-dde6e541be6d@b7a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250515T110000Z
+DTSTART:20250515T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
+UID:466c3039-4156-4382-9bf6-26ee33da9a11@466c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250522T161500Z
+LOCATION:Paw.F 616
+DTSTART:20250522T144500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
+UID:9aeb57b7-ae5a-44c0-8918-88dbc27fdcd8@9aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250613T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250613T074500Z
+SUMMARY:Finanse gospodarstw domowych (egzamin)
+UID:c6e34b91-1f0d-41fc-857a-4193faaa7eeb@c6e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
 DTEND:20250324T101500Z
 DTSTART:20250324T084500Z
 SUMMARY:Ekonomia globalna (wykład do wyboru)
-UID:10d95754-eede-447b-8339-45c704774cbc@10d9.org
+UID:1011b4dc-d3e3-4587-889f-98aa9cc51cb2@1011.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
-DTEND:20250319T153000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250319T140000Z
+DTEND:20250313T101500Z
+DTSTART:20250313T084500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:f4944753-fa58-4b62-b70f-e06ad4cdfd99@f494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250224T134500Z
+DTSTART:20250224T121500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:02e09ac4-7dd9-4935-ab46-c2a85440a45f@02e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250319T134500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250319T121500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:fe2b7a75-06fe-4b5e-b0dc-96061a362309@fe2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250429T073000Z
+DTSTART:20250429T064500Z
+SUMMARY:Etyka w biznesie (wykład do wyboru)
+UID:c6602922-d87c-4826-9458-bf7b89cf0a1a@c660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250514T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250514T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:14de353f-f4ac-4f02-979f-ac26cdc29e95@14de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250312T134500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250312T121500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:032a39cf-c630-414b-9ce2-996a67613bbc@032a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250305T153000Z
+LOCATION:Paw.F 515
+DTSTART:20250305T140000Z
+SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
+UID:169e33e0-12a6-4d10-bd12-adbc8667e01c@169e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250605T110000Z
+DTSTART:20250605T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (Przeniesienie zajęć)
+UID:f56c38e3-1726-47a1-b8d4-f2650affa765@f56c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250430T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250430T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:ca042555-c38e-40a1-b34b-ec4808e93fac@ca04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250403T091500Z
+DTSTART:20250403T074500Z
+SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
+UID:9da1b8a9-9acc-4841-8977-9086ec94717a@9da1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250226T134500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250226T121500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:1408ead4-91e1-448c-983c-15ce1df1591d@1408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250611T124500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250611T111500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:6d0a818b-e4f5-416c-a48d-6ce80e8e37e8@6d0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250611T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250611T144500Z
+SUMMARY:Ekonomia globalna (kolokwium)
+UID:82b350dc-c9b9-4d65-b464-50c4814435bb@82b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250318T091500Z
+DTSTART:20250318T074500Z
+SUMMARY:Etyka w biznesie (wykład do wyboru)
+UID:728fb47d-4e5b-469a-8b48-6e213bd8ad99@728f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250513T110000Z
+DTSTART:20250513T093000Z
+SUMMARY:Polityka finansowa (Przeniesienie zajęć)
+UID:3e0c23c7-b9ce-4b49-9a16-e402ca066997@3e0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250416T124500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250416T111500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:b830f090-1f35-4f9a-99cf-c8aee9106803@b830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250513T161500Z
+LOCATION:Paw.B 251
+DTSTART:20250513T144500Z
+SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
+UID:b7e868e3-a89c-42db-aeea-9fd18d874ae9@b7e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250327T150000Z
+DTSTART:20250327T103000Z
+SUMMARY: (rezerwacja)
+UID:eb5f3fc7-72c1-4efe-83f8-00ddab6f4cce@eb5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250304T133000Z
+DTSTART:20250304T103000Z
+SUMMARY: (rezerwacja)
+UID:db8976bb-6389-41b1-b8f7-7897aaf6a73d@db89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250612T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250612T074500Z
+SUMMARY: (zaliczenie)
+UID:7fd0d5a2-a6ec-4d76-9690-d8ab1e39b979@7fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20250612T091500Z
+DTSTART:20250612T074500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:0f1b09d4-3e0c-47b9-add1-583a408ab21a@0f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250609T143000Z
+DTSTART:20250609T134500Z
+SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
+UID:112e5f69-8192-4221-afbe-34d4f8f92da6@112e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20250424T110000Z
+DTSTART:20250424T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:25e48e62-5a88-4a88-ad4b-42ea0c1e23a7@25e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250403T110000Z
+DTSTART:20250403T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:c65a3024-b9f3-41af-9364-7dda338de300@c65a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250514T143000Z
+LOCATION:Paw.F 717
+DTSTART:20250514T130000Z
 SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
-UID:9ae9b652-9731-4146-bf8b-015ac0cb79f3@9ae9.org
+UID:6dc0863c-cddb-46ca-948a-e4044fc8085c@6dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250409T143000Z
+LOCATION:Bibl. 443
+DTSTART:20250409T130000Z
+SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
+UID:5820f5c3-7ae4-4b5a-9f5c-0d92a604898a@5820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250521T091500Z
+LOCATION:Paw.F 415
+DTSTART:20250521T083000Z
+SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
+UID:fec036e5-0868-4d02-9d3c-b6ed9413fdf5@fec0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250325T091500Z
+DTSTART:20250325T074500Z
+SUMMARY:Etyka w biznesie (wykład do wyboru)
+UID:28cc5a38-edda-4040-9aee-05b3a70b545a@28cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250331T091500Z
+DTSTART:20250331T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:2bfe222f-7545-40b5-ae82-79f85fa47099@2bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250403T091500Z
+DTSTART:20250403T074500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:4930a0aa-f082-4bb5-866a-8e7eca318d90@4930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250625T143000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250625T130000Z
+SUMMARY:Ekonomia globalna (egzamin)
+UID:b46154c9-29b0-4acb-a261-765d3c282c73@b461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250317T101500Z
+DTSTART:20250317T084500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:826771a9-b545-427a-9d90-91d2a1cd48ba@8267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250526T091500Z
+DTSTART:20250526T074500Z
+SUMMARY:Ekonomia globalna (Przeniesienie zajęć)
+UID:122704fa-d500-401f-a8e6-bef0ffc080e0@1227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250415T081500Z
+DTSTART:20250415T064500Z
+SUMMARY:Etyka w biznesie (wykład do wyboru)
+UID:88ec1348-25fe-43a8-81f7-97aeb1d1e902@88ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250526T124500Z
+DTSTART:20250526T111500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:b1249cec-cc63-410b-9d57-e104d79f7b1b@b124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250305T120000Z
+LOCATION:Paw.F 107
+DTSTART:20250305T103000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:b10b65fc-cb95-465c-b4c5-0f20f18c6f48@b10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250312T120000Z
+DTSTART:20250312T103000Z
+SUMMARY:Polityka finansowa (Przeniesienie zajęć)
+UID:4edf88b9-796f-4fa4-9fed-c64f61e4ca23@4edf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250324T134500Z
+DTSTART:20250324T121500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:ee9c7174-cf21-44d5-a088-3c76f7301c35@ee9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250303T101500Z
+DTSTART:20250303T084500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:d2b9b347-8467-42c3-bf21-bae7b3932d0b@d2b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250306T120000Z
+DTSTART:20250306T103000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:5ca6b3d8-dbca-4712-9e49-ce1f17ac981d@5ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250416T184500Z
+DTSTART:20250416T171500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:f346b701-65c3-4fdb-91b7-4c2cc547d41d@f346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250303T120000Z
+DTSTART:20250303T103000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:f1d2cdb7-a072-43cf-bd2e-b46737c55c8e@f1d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250423T124500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250423T111500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:17282617-2222-4dc8-9cc1-6e23e6c088f5@1728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250611T143000Z
+LOCATION:Paw.F 717
+DTSTART:20250611T130000Z
+SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
+UID:6aa43245-979d-45f4-b7af-e7a90860b6c5@6aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250416T143000Z
+LOCATION:Paw.F 717
+DTSTART:20250416T130000Z
+SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
+UID:2577d882-a67c-4942-986f-634fa91ff259@2577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250320T120000Z
+DTSTART:20250320T103000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:35eb9525-bc5d-40ed-bc63-1492abf5bab8@35eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250520T104500Z
+DTSTART:20250520T074500Z
+SUMMARY:Polityka finansowa (ćwiczenia zdalne)
+UID:7c03a511-8a26-441b-bac7-a231ff5ad9a2@7c03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250226T153000Z
+LOCATION:Bibl. 443
+DTSTART:20250226T140000Z
+SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
+UID:54361e68-dfaf-4f1d-99d1-cd3a983b7c6f@5436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250519T091500Z
+DTSTART:20250519T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:5b8d4968-8cd5-49de-a1bd-391e53c67f88@5b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20250317T153000Z
+DTSTART:20250317T140000Z
+SUMMARY:Etyka w biznesie (Przeniesienie zajęć)
+UID:bb5d9f3b-d695-43ae-8c17-98fb07dc63cc@bb5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250407T124500Z
+DTSTART:20250407T111500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:b9e49936-be1b-4055-8a07-ad99ccc140d6@b9e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250521T143000Z
+LOCATION:Bibl. 443
+DTSTART:20250521T130000Z
+SUMMARY:Ekonomia globalna (ćwiczenia do wyboru)
+UID:a640bf94-3751-487a-a33a-d0f25493114d@a640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250402T143000Z
+LOCATION:Paw.F 717
+DTSTART:20250402T130000Z
+SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
+UID:a802c058-a6db-4ee2-baeb-c2e9312703a5@a802.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250410T091500Z
+DTSTART:20250410T074500Z
+SUMMARY:Finanse gospodarstw domowych (wykład do wyboru)
+UID:d7632107-324f-4391-8df4-f98284438ad9@d763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250303T134500Z
+DTSTART:20250303T121500Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:a6385252-e1f8-4501-8fb7-09d2dcfc4b96@a638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250416T143000Z
+LOCATION:Paw.F 515
+DTSTART:20250416T130000Z
+SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
+UID:ef366e5c-cb2d-47db-b2b8-2a59324c51e8@ef36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250326T114500Z
+DTSTART:20250326T084500Z
+SUMMARY: (rezerwacja)
+UID:e150d016-044b-4e13-89f3-bc3e72e2df49@e150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250423T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250423T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:c276d5f9-f00c-4d44-a2d6-b32b1b3f4c4e@c276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250430T143000Z
+LOCATION:Paw.F 515
+DTSTART:20250430T130000Z
+SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
+UID:24130b29-5648-4e03-83ed-2d3b58c44f35@2413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250327T171500Z
+LOCATION:Paw.F 616
+DTSTART:20250327T154500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
+UID:0864dc26-ccd5-448a-ad47-b5fb0f5aae96@0864.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250507T124500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250507T111500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:cfb52051-ab2a-4e7e-9b51-0ccf9d342f5e@cfb5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartosz Gołębiowski
@@ -1231,6 +1111,126 @@ DTEND:20250409T124500Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20250409T111500Z
 SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:52ac9ff5-1884-4d25-91ec-8455f2d4a96c@52ac.org
+UID:09974b57-664c-4c18-a14e-ee7be356d53c@0997.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250521T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250521T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:d31de706-5f5d-4bde-bae1-6dbef483c838@d31d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250611T110000Z
+LOCATION:Paw.F 107
+DTSTART:20250611T093000Z
+SUMMARY:Polityka finansowa (ćwiczenia)
+UID:a10bcb16-e66d-4529-bba3-bb176c5e6b55@a10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250319T153000Z
+LOCATION:Paw.F 515
+DTSTART:20250319T140000Z
+SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
+UID:5c3f2571-e568-4150-b180-bc09776ffbb6@5c3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20250228T120000Z
+DTSTART:20250228T103000Z
+SUMMARY:Przeciwdziałanie nielegalnym praktykom w finansach (wykład do wyboru)
+UID:20ab79a5-4da8-402f-a872-418c4f95a22e@20ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250508T161500Z
+LOCATION:Paw.F 616
+DTSTART:20250508T144500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (ćwiczenia do wyboru)
+UID:61bb8573-5991-4171-b42a-b5ce9de14d88@61bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250604T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250604T060000Z
+SUMMARY: (rezerwacja)
+UID:083d5fce-142d-42d1-899e-bf985c15bedd@083d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Gołębiowski
+DTEND:20250305T134500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250305T121500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:1b625230-3d77-4880-9110-d3b12a07b6e9@1b62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250505T091500Z
+DTSTART:20250505T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:4da69de5-f38a-4e98-a227-933a67045083@4da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20250331T110000Z
+DTSTART:20250331T093000Z
+SUMMARY:Polityka finansowa (wykład)
+UID:68c2595d-5fb3-48f3-ac9a-d6a223cc4aad@68c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250410T110000Z
+DTSTART:20250410T093000Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:0a97ba26-c4ef-4709-9643-6c571df2a5fd@0a97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250529T091500Z
+DTSTART:20250529T074500Z
+SUMMARY:Efektywność ekonomiczna i ekologiczna projektów inwestycyjnych (wykład do wyboru)
+UID:256ffe9c-16f0-4df8-8286-a912b8bbf29b@256f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20250514T143000Z
+LOCATION:Paw.F 515
+DTSTART:20250514T130000Z
+SUMMARY:Finanse gospodarstw domowych (ćwiczenia do wyboru)
+UID:d5a830d5-6452-4070-81e6-46b7b7bfeab5@d5a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250224T101500Z
+DTSTART:20250224T084500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:99306e65-e69c-43f7-b658-50c4fa6a0f02@9930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Ślęzak-Belowska
+DTEND:20250609T091500Z
+DTSTART:20250609T074500Z
+SUMMARY:Ekonomia globalna (wykład do wyboru)
+UID:2bd77190-10c2-4474-993a-df7ba7518f88@2bd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250319T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250319T140000Z
+SUMMARY:Finanse Unii Europejskiej (ćwiczenia do wyboru)
+UID:68b7461b-db07-409b-9ce3-8569d56e5286@68b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Stabryła-Chudzio
+DTEND:20250327T101500Z
+DTSTART:20250327T084500Z
+SUMMARY:Finanse Unii Europejskiej (wykład do wyboru)
+UID:6afa36ca-33de-4c1f-adfd-7c3cada81677@6afa.org
 END:VEVENT
 END:VCALENDAR
