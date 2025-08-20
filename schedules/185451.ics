@@ -3,11 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250524T124500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250524T120000Z
-SUMMARY:Rynek pracy (egzamin)
-UID:1c886ea5-72d8-4a68-9e0f-2257453d3c2e@1c88.org
+DTEND:20250307T170000Z
+DTSTART:20250307T144500Z
+SUMMARY:Rynek pracy (wykład)
+UID:7afc428e-9ff5-4637-81aa-7c1d10717950@7afc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20250322T133000Z
+DTSTART:20250322T103000Z
+SUMMARY:Organizacje pozarządowe (Przeniesienie zajęć)
+UID:4507821e-39b7-4ae1-8a0b-5c11052725e1@4507.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Pacut
@@ -15,39 +21,7 @@ DTEND:20250426T160000Z
 LOCATION:Platforma Moodle
 DTSTART:20250426T134500Z
 SUMMARY:Organizacje pozarządowe (Konwersatorium e-learning)
-UID:7d32cbf6-ba00-447b-9bdc-cfe9d91337ea@7d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
-DTEND:20250613T164500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250613T134500Z
-SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
-UID:ea0aaed9-4bf6-42c2-bc5f-95e7d1ed79c9@ea0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20250524T090000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250524T064500Z
-SUMMARY:Techniki negocjacyjne (konwersatorium)
-UID:d7e08080-1907-4061-aef8-fad9234483f9@d7e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Baran
-DTEND:20250323T170000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250323T144500Z
-SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:9c83a463-63d0-4c8f-83a7-fb60be302589@9c83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Baran
-DTEND:20250525T094500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250525T064500Z
-SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:29888c21-1bcb-4373-89fa-d6f63a5f3028@2988.org
+UID:a6478dce-d82e-4220-98fc-159ecad7ea0f@a647.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Baran
@@ -55,117 +29,7 @@ DTEND:20250614T151500Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20250614T130000Z
 SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:a3fd3865-e71e-4e7c-9c6b-70ef464c0e41@a3fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250307T170000Z
-DTSTART:20250307T144500Z
-SUMMARY:Rynek pracy (wykład)
-UID:7fa80aef-464d-45ae-897a-9eae8a37bd90@7fa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pacut
-DTEND:20250524T160000Z
-LOCATION:Platforma Moodle
-DTSTART:20250524T130000Z
-SUMMARY:Organizacje pozarządowe (Konwersatorium e-learning)
-UID:decfa758-725e-4d3d-b369-6f7b265ea356@decf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pacut
-DTEND:20250309T104500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250309T074500Z
-SUMMARY:Organizacje pozarządowe (konwersatorium)
-UID:e6c49b8e-9c3b-420f-9d52-8a3fcc8d26e1@e6c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Możdżeń
-DTEND:20250308T124500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250308T103000Z
-SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
-UID:d256637d-1e0b-4820-8ba3-d13788a5abba@d256.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20250427T094500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250427T064500Z
-SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
-UID:7e0db7a2-b82b-4aed-acf7-5e427b889667@7e0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20250309T141500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250309T111500Z
-SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
-UID:59f89644-661e-4424-bfe0-c09a0c3a59f1@59f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Możdżeń
-DTEND:20250615T094500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250615T064500Z
-SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
-UID:c63fe139-b2af-478e-bc31-2d59fde92189@c63f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20250614T090000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250614T064500Z
-SUMMARY:Techniki negocjacyjne (konwersatorium)
-UID:90b80a84-7bf9-4845-92f4-d20f30c69300@90b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Możdżeń
-DTEND:20250525T131500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250525T101500Z
-SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
-UID:a38e5dcc-4228-496f-a141-bb0ed2587e1c@a38e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250321T170000Z
-DTSTART:20250321T144500Z
-SUMMARY:Rynek pracy (wykład)
-UID:29ae5a21-3120-4a1a-bb47-fb8e535aeb13@29ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20250406T090000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250406T064500Z
-SUMMARY:Techniki negocjacyjne (konwersatorium)
-UID:3f287c96-daf5-4b74-bbd3-c36de19b156e@3f28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20250323T100000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250323T074500Z
-SUMMARY:Techniki negocjacyjne (konwersatorium)
-UID:a551ec44-580c-45dd-b213-5f165832b9e1@a551.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
-DTEND:20250405T090000Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250405T064500Z
-SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
-UID:288a6ca7-c11e-41c3-8791-5d1f174c42bd@288a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
-DTEND:20250523T164500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250523T134500Z
-SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
-UID:6b2369fe-34cc-4862-85a6-df39e86e557a@6b23.org
+UID:fe036886-eb23-4c2a-9b07-2bff89798dbd@fe03.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Pacut
@@ -173,117 +37,23 @@ DTEND:20250615T123000Z
 LOCATION:Rakowicka 16 sala 11
 DTSTART:20250615T101500Z
 SUMMARY:Organizacje pozarządowe (konwersatorium)
-UID:5f9dc78a-1837-4c0a-8b6f-209ecdcf1b4d@5f9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250322T124500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250322T103000Z
-SUMMARY:Rynek pracy (ćwiczenia)
-UID:2b86e40e-57c3-4809-a613-f656d2ed5141@2b86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pacut
-DTEND:20250322T133000Z
-DTSTART:20250322T103000Z
-SUMMARY:Organizacje pozarządowe (Przeniesienie zajęć)
-UID:e64aeab4-88d1-4a03-ac17-37857432031c@e64a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Możdżeń
-DTEND:20250405T123000Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250405T101500Z
-SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
-UID:9ac30b1e-bc84-4290-8603-ecabeaba9385@9ac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Baran
-DTEND:20250406T123000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20250406T093000Z
-SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:76730675-3b4e-4d99-b1f4-d25356e11193@7673.org
+UID:859c376b-ac2c-481e-9d35-2a45c2281384@859c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20250323T133000Z
+DTEND:20250309T141500Z
 LOCATION:Rakowicka 16 sala 11
-DTSTART:20250323T103000Z
+DTSTART:20250309T111500Z
 SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
-UID:aa9623c3-88ab-47ad-9d93-640ee96a3d89@aa96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pacut
-DTEND:20250406T160000Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250406T130000Z
-SUMMARY:Organizacje pozarządowe (konwersatorium)
-UID:969a3dcd-3f8f-4a10-960e-d998b62e42fc@969a.org
+UID:bb214007-0a59-45e5-a71a-77edee90e188@bb21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
-DTEND:20250425T164500Z
+DTEND:20250613T164500Z
 LOCATION:Rakowicka 16 sala 11
-DTSTART:20250425T134500Z
+DTSTART:20250613T134500Z
 SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
-UID:593a582c-2489-4f65-a7fa-cb4707a59f76@593a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20250426T090000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250426T064500Z
-SUMMARY:Techniki negocjacyjne (konwersatorium)
-UID:bfb4105e-f94d-4509-9298-08f734e54965@bfb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Baran
-DTEND:20250427T131500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250427T101500Z
-SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
-UID:9dccaf22-bdcb-4989-a5b7-3b6a0b244a5c@9dcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250404T160000Z
-DTSTART:20250404T134500Z
-SUMMARY:Rynek pracy (wykład)
-UID:9c0a9330-3cc9-40a9-a588-b14c3ad5e35c@9c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
-DTEND:20250322T100000Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250322T074500Z
-SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
-UID:f1760b4c-3910-47a7-bc1b-7baf7e85ad42@f176.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
-DTEND:20250614T114500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250614T093000Z
-SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
-UID:54f57c65-3a7a-4cdb-9e4b-3221f01cefac@54f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20250308T100000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20250308T074500Z
-SUMMARY:Techniki negocjacyjne (konwersatorium)
-UID:b210dc64-c929-4268-b4fc-d02ed40f7901@b210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Frączek
-DTEND:20250405T151500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250405T130000Z
-SUMMARY:Rynek pracy (ćwiczenia)
-UID:da7f2b96-c8e7-4444-ac72-88e0c13459fd@da7f.org
+UID:619a5b09-77eb-4db3-ab3f-b44a192bcbde@619a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Frączek
@@ -291,7 +61,71 @@ DTEND:20250308T161500Z
 LOCATION:Rakowicka 16 sala 11
 DTSTART:20250308T140000Z
 SUMMARY:Rynek pracy (ćwiczenia)
-UID:284daf9e-2aff-4155-ba21-93083de82c77@284d.org
+UID:cb1cda71-29ae-4c93-82f9-6a20a5fb8967@cb1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20250406T160000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250406T130000Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:6f100abe-2565-4d18-88cc-eb7aa876ae27@6f10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250323T170000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250323T144500Z
+SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
+UID:13af8ac6-2c35-4c18-9503-8c280a8dea73@13af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250614T090000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250614T064500Z
+SUMMARY:Techniki negocjacyjne (konwersatorium)
+UID:edecddbb-617c-472e-9fee-35cf240ede70@edec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250525T094500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250525T064500Z
+SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
+UID:1ef0c4e5-dedc-4138-9a81-c0367f597806@1ef0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20250614T114500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250614T093000Z
+SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
+UID:83c76eb3-538d-4dd8-aa4d-0ea87bb49aff@83c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20250308T124500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250308T103000Z
+SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
+UID:557aa003-71e1-447e-8da9-3fd4fda2a6f5@557a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250426T090000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250426T064500Z
+SUMMARY:Techniki negocjacyjne (konwersatorium)
+UID:26a7a9e7-79af-44d9-8c84-6ebaca56c3f6@26a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250524T090000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250524T064500Z
+SUMMARY:Techniki negocjacyjne (konwersatorium)
+UID:989a9950-a234-412c-94aa-06dd505efb47@989a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
@@ -299,7 +133,126 @@ DTEND:20250524T114500Z
 LOCATION:Rakowicka 16 sala 11
 DTSTART:20250524T093000Z
 SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
-UID:85a0d8d2-0747-40a1-9078-a0c8b25ec3e0@85a0.org
+UID:2cb6a913-cbab-490f-aea1-804eacf040bc@2cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20250615T094500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250615T064500Z
+SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
+UID:1afe2ec4-3195-4d8f-b1a8-178666b1a0ae@1afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20250525T131500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250525T101500Z
+SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
+UID:ea62869b-f54c-4063-9092-858cc09f7c44@ea62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250323T100000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250323T074500Z
+SUMMARY:Techniki negocjacyjne (konwersatorium)
+UID:d4742e84-d259-4413-8421-ec4e2dcfd9af@d474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250406T090000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250406T064500Z
+SUMMARY:Techniki negocjacyjne (konwersatorium)
+UID:e6969ef1-98ff-478b-9158-1a4b8694ad57@e696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
+DTEND:20250523T164500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250523T134500Z
+SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
+UID:905ba8c6-6023-4d01-85b5-ed26053dbf0e@905b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250404T160000Z
+DTSTART:20250404T134500Z
+SUMMARY:Rynek pracy (wykład)
+UID:40576dc3-f544-40e2-b127-cdd7ffdc475d@4057.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
+DTEND:20250322T100000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250322T074500Z
+SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
+UID:f24008df-4deb-49a2-aba7-9f83916c0f44@f240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20250524T160000Z
+LOCATION:Platforma Moodle
+DTSTART:20250524T130000Z
+SUMMARY:Organizacje pozarządowe (Konwersatorium e-learning)
+UID:6a0e2e81-1d0f-4924-bfca-3775cf9b227f@6a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20250427T094500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250427T064500Z
+SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
+UID:6b7b0436-e691-4af2-83c7-1bf80830db78@6b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20250309T104500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250309T074500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:6985c4e4-5ee8-4e15-b6f2-891a57dcaff9@6985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250427T131500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250427T101500Z
+SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
+UID:992660af-d5f8-4122-b6ff-cba9773534df@9926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20250405T123000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250405T101500Z
+SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
+UID:7ec82cd9-159e-4be0-8531-7bdd316e05f0@7ec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Białynicki-Birula
+DTEND:20250323T133000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250323T103000Z
+SUMMARY:Ekonomika zdrowia (konwersatorium do wyboru)
+UID:df9afa6e-3d4f-4c28-b574-38a27ce524a4@df9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250405T151500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250405T130000Z
+SUMMARY:Rynek pracy (ćwiczenia)
+UID:2c82d4c2-b55c-4ace-9788-e79ee177b63c@2c82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250406T123000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250406T093000Z
+SUMMARY:Marketing zewnętrzny (konwersatorium do wyboru)
+UID:397b0d56-3e5e-4913-adb2-4e0060512200@397b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Możdżeń
@@ -307,6 +260,53 @@ DTEND:20250426T123000Z
 LOCATION:Rakowicka 16 sala 11
 DTSTART:20250426T093000Z
 SUMMARY:Polityka gospodarcza (konwersatorium do wyboru)
-UID:efb63317-84d8-48d3-8ebc-777769cd64fe@efb6.org
+UID:1379b8a4-05fa-4ca1-b10e-a36c2c525fae@1379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250524T124500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250524T120000Z
+SUMMARY:Rynek pracy (egzamin)
+UID:a1bf2e50-c167-4490-b914-3bbcb8bb6985@a1bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
+DTEND:20250425T164500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250425T134500Z
+SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
+UID:caab402b-61d2-436e-b7fa-24f30472dea9@caab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250308T100000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250308T074500Z
+SUMMARY:Techniki negocjacyjne (konwersatorium)
+UID:891df705-7484-4e7e-b546-87d7ec0191fb@891d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250321T170000Z
+DTSTART:20250321T144500Z
+SUMMARY:Rynek pracy (wykład)
+UID:807940fe-902e-4751-80e3-bf2468888988@8079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250322T124500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250322T103000Z
+SUMMARY:Rynek pracy (ćwiczenia)
+UID:ac0fd391-f42c-41b5-b3bc-d6b643f8aac6@ac0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Mazur
+DTEND:20250405T090000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250405T064500Z
+SUMMARY:Zarządzanie w jednostkach samorządu terytorialnego (konwersatorium do wyboru)
+UID:5a094278-0fec-40f6-b8b0-663a62bd24c3@5a09.org
 END:VEVENT
 END:VCALENDAR

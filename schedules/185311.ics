@@ -2,25 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250525T133000Z
+DTSTART:20250525T111500Z
+SUMMARY:Analiza danych ankietowych (Przeniesienie zajęć)
+UID:5dd5e422-018e-4b25-a504-2901661e8425@5dd5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250404T160000Z
-DTSTART:20250404T134500Z
+DTEND:20250307T170000Z
+DTSTART:20250307T144500Z
 SUMMARY:Podstawy wyceny nieruchomości (wykład)
-UID:e6f9428a-744b-42c5-ba58-53b0294892a2@e6f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Stanisław Belniak
-DTEND:20250425T160000Z
-DTSTART:20250425T134500Z
-SUMMARY:Odnowa zabytków (wykład)
-UID:b8c02441-ae4f-4f8c-9c0b-dc4706086f06@b8c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20250308T161500Z
-DTSTART:20250308T140000Z
-SUMMARY:Międzynarodowe rynki nieruchomości (wykład do wyboru)
-UID:e23937ac-a571-4ab1-9cbf-17d58fdecf1b@e239.org
+UID:34287676-7249-43f8-90b8-deec81cc6e88@3428.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Małkowska
@@ -28,248 +21,35 @@ DTEND:20250405T094500Z
 LOCATION:Paw.C sala F
 DTSTART:20250405T060000Z
 SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
-UID:e7dcaf35-2bf8-41db-852a-42190b4beee2@e7dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250524T090000Z
-LOCATION:Paw.C sala B
-DTSTART:20250524T064500Z
-SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
-UID:273efa4f-9f59-4623-8e86-6f50a1f0146e@273e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Małkowska
-DTEND:20250427T161500Z
-DTSTART:20250427T144500Z
-SUMMARY:Podstawy wyceny nieruchomości (Przeniesienie zajęć)
-UID:94a4b1ba-0e83-427b-8f3b-dae24f920cb3@94a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20250614T114500Z
-LOCATION:Paw.B 151
-DTSTART:20250614T093000Z
-SUMMARY:Odnowa zabytków (ćwiczenia)
-UID:8b1d2c90-1432-42b8-8bb1-46b960cce369@8b1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Małkowska
-DTEND:20250525T151500Z
-LOCATION:Paw.C sala F
-DTSTART:20250525T134500Z
-SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
-UID:e9fe32c1-9e49-457e-b102-ca602fb2b9b6@e9fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20250614T141500Z
-LOCATION:Paw.B 151
-DTSTART:20250614T120000Z
-SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (ćwiczenia)
-UID:8133330c-1c3f-4f37-a936-8f659456dc61@8133.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250525T090000Z
-LOCATION:Paw.C sala F
-DTSTART:20250525T064500Z
-SUMMARY:Diagnostyka upadłości przedsiębiorstw (ćwiczenia do wyboru)
-UID:fef97a35-3315-435f-8131-53ca262979d6@fef9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250323T151500Z
-DTSTART:20250323T130000Z
-SUMMARY:Analiza danych ankietowych (wykład do wyboru)
-UID:74588881-62bb-403a-b53c-80af90e40679@7458.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250427T141500Z
-LOCATION:Paw.C sala F
-DTSTART:20250427T120000Z
-SUMMARY:Diagnostyka upadłości przedsiębiorstw (ćwiczenia do wyboru)
-UID:07b8048d-18ac-4603-8219-fd43a5b9ed78@07b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20250427T090000Z
-LOCATION:Paw.B 351
-DTSTART:20250427T064500Z
-SUMMARY:Odnowa zabytków (ćwiczenia)
-UID:49ca097e-181f-45f0-a556-3d76438ddddd@49ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20250427T114500Z
-LOCATION:Paw.B 351
-DTSTART:20250427T093000Z
-SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (ćwiczenia)
-UID:b2af0c41-dc1b-49d1-b451-e05ed9f7adb4@b2af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250613T160000Z
-DTSTART:20250613T134500Z
-SUMMARY:Podstawy wyceny nieruchomości (wykład)
-UID:ef4789bb-f309-4a35-b269-f3f766ca4d70@ef47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250614T090000Z
-LOCATION:Paw.C sala B
-DTSTART:20250614T064500Z
-SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
-UID:89f22e8f-bf68-459c-9f63-526ea3601c0e@89f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250309T100000Z
-DTSTART:20250309T074500Z
-SUMMARY:Analiza danych ankietowych (wykład do wyboru)
-UID:40411f77-66d6-4b45-b585-e5bea043337c@4041.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20250426T090000Z
-LOCATION:Paw.C sala B
-DTSTART:20250426T064500Z
-SUMMARY:Międzynarodowe rynki nieruchomości (ćwiczenia do wyboru)
-UID:b674d85d-e6c0-48ad-a77d-77a5c48c3d70@b674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250307T170000Z
-DTSTART:20250307T144500Z
-SUMMARY:Podstawy wyceny nieruchomości (wykład)
-UID:db889859-b03c-438f-9b17-e68bd980d0c4@db88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20250405T151500Z
-LOCATION:Paw.C sala A
-DTSTART:20250405T130000Z
-SUMMARY:Międzynarodowe rynki nieruchomości (ćwiczenia do wyboru)
-UID:e1729dd2-b53c-4bd8-a75e-97ce27027ffa@e172.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250406T133000Z
-DTSTART:20250406T111500Z
-SUMMARY:Diagnostyka upadłości przedsiębiorstw (wykład do wyboru)
-UID:1e94af02-09fe-4283-be22-e6e5059aa359@1e94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
-DTEND:20250425T184500Z
-DTSTART:20250425T163000Z
-SUMMARY:Międzynarodowe rynki nieruchomości (wykład do wyboru)
-UID:65fcf5d6-9c71-44e8-980a-294fb84c21e0@65fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250405T123000Z
-LOCATION:Paw.S sala 9
-DTSTART:20250405T101500Z
-SUMMARY:Analiza danych ankietowych (ćwiczenia do wyboru)
-UID:434fa32c-f43a-4ec3-8db5-ad828c3a38b6@434f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250405T174500Z
-DTSTART:20250405T153000Z
-SUMMARY:Analiza danych ankietowych (Przeniesienie zajęć)
-UID:72401d6f-302e-416d-92ac-8901613076cb@7240.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20250524T141500Z
-LOCATION:Paw.A 301b
-DTSTART:20250524T120000Z
-SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (ćwiczenia)
-UID:fec0a6e5-5542-4a85-a26e-c8a021dd79d4@fec0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Stanisław Belniak
-DTEND:20250323T124500Z
-DTSTART:20250323T103000Z
-SUMMARY:Odnowa zabytków (wykład)
-UID:461dc710-c002-4b4a-89d6-080fc56ccbca@461d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Stanisław Belniak
-DTEND:20250308T110000Z
-DTSTART:20250308T084500Z
-SUMMARY:Odnowa zabytków (wykład)
-UID:6ac89691-de49-42e1-b401-2d11f6a87ede@6ac8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Uhruska
-DTEND:20250523T160000Z
-DTSTART:20250523T134500Z
-SUMMARY:Podstawy wyceny nieruchomości (Przeniesienie zajęć)
-UID:c002ac95-fce2-44b2-be11-dcbc63a2a44c@c002.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250321T170000Z
-DTSTART:20250321T144500Z
-SUMMARY:Diagnostyka upadłości przedsiębiorstw (wykład do wyboru)
-UID:1c4a38f7-21c6-4f81-a5f0-87ebf2e8f778@1c4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250322T100000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20250322T074500Z
-SUMMARY:Analiza danych ankietowych (ćwiczenia do wyboru)
-UID:5491d89f-b817-4c2e-abb6-cee5490652cf@5491.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kania
-DTEND:20250307T194500Z
-DTSTART:20250307T173000Z
-SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (wykład)
-UID:4107abc2-dc13-4dae-aa6e-7f27dde7c16e@4107.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250525T114500Z
-LOCATION:Paw.F CJ 011 lab. komp.
-DTSTART:20250525T093000Z
-SUMMARY:Analiza danych ankietowych (ćwiczenia do wyboru)
-UID:faf7d98f-f392-4577-ab48-f3689e760780@faf7.org
+UID:79f20f37-b5f6-4dcf-ad66-4fa22c246826@79f2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Kania
 DTEND:20250404T184500Z
 DTSTART:20250404T163000Z
 SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (wykład)
-UID:4cb4e0a3-b24d-4044-a6e3-6f7d3c2e0aff@4cb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Małkowska
-DTEND:20250426T131500Z
-LOCATION:Paw.C sala F
-DTSTART:20250426T093000Z
-SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
-UID:0798c1e1-d13a-4011-86b1-6d134618475f@0798.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20250524T114500Z
-LOCATION:Paw.A 301b
-DTSTART:20250524T093000Z
-SUMMARY:Odnowa zabytków (ćwiczenia)
-UID:fb6df7d9-dd16-4818-b922-a3db25ea0031@fb6d.org
+UID:0cb94654-3e11-444d-bf92-b659a2112239@0cb9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
 DTEND:20250323T100000Z
 DTSTART:20250323T074500Z
 SUMMARY:Międzynarodowe rynki nieruchomości (wykład do wyboru)
-UID:24de7007-0c9c-4719-9084-86d3621e8874@24de.org
+UID:931528a5-4f44-4a02-93ba-a49552ec0369@9315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20250307T194500Z
+DTSTART:20250307T173000Z
+SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (wykład)
+UID:fb1d718f-ab2b-47f6-a35e-2dff179bc7a3@fb1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20250523T184500Z
+DTSTART:20250523T163000Z
+SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (wykład)
+UID:7ea99b38-c3b6-478f-9a21-064b5636bcf4@7ea9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
@@ -277,28 +57,52 @@ DTEND:20250322T124500Z
 LOCATION:Paw.B 151
 DTSTART:20250322T103000Z
 SUMMARY:Międzynarodowe rynki nieruchomości (ćwiczenia do wyboru)
-UID:2d7dd584-a5db-4664-b73c-76c8e668cc91@2d7d.org
+UID:b0fc5576-58c0-4366-a884-b0239447c9a2@b0fc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Kania
-DTEND:20250523T184500Z
-DTSTART:20250523T163000Z
-SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (wykład)
-UID:6019dccf-71c1-4fa4-88b4-64fbddce834e@6019.org
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250426T090000Z
+LOCATION:Paw.C sala B
+DTSTART:20250426T064500Z
+SUMMARY:Międzynarodowe rynki nieruchomości (ćwiczenia do wyboru)
+UID:35dc1001-5635-42a1-a864-27ba8f0e6ffa@35dc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250308T133000Z
-DTSTART:20250308T111500Z
-SUMMARY:Diagnostyka upadłości przedsiębiorstw (wykład do wyboru)
-UID:694dce89-473f-4c1f-bafc-a2b323d3767c@694d.org
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250427T090000Z
+LOCATION:Paw.B 351
+DTSTART:20250427T064500Z
+SUMMARY:Odnowa zabytków (ćwiczenia)
+UID:ab308f0b-f0bb-4832-9533-4ee9ba212a78@ab30.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250406T104500Z
-DTSTART:20250406T083000Z
-SUMMARY:Analiza danych ankietowych (wykład do wyboru)
-UID:9cef4651-ce1d-474a-8822-f4ec44915f87@9cef.org
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250427T161500Z
+DTSTART:20250427T144500Z
+SUMMARY:Podstawy wyceny nieruchomości (Przeniesienie zajęć)
+UID:9fd2e0cd-92ed-4da2-8365-96f7d313c72a@9fd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250523T160000Z
+DTSTART:20250523T134500Z
+SUMMARY:Podstawy wyceny nieruchomości (Przeniesienie zajęć)
+UID:048a2108-1ae8-4ed8-90e7-6b38b1f6d117@048a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250614T114500Z
+LOCATION:Paw.B 151
+DTSTART:20250614T093000Z
+SUMMARY:Odnowa zabytków (ćwiczenia)
+UID:c47ccfdc-f5ce-45f0-99b3-436d97470ca3@c47c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Stanisław Belniak
+DTEND:20250308T110000Z
+DTSTART:20250308T084500Z
+SUMMARY:Odnowa zabytków (wykład)
+UID:74b76eae-1f7d-4f74-80f1-4a1fe42bf4c1@74b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
@@ -306,7 +110,61 @@ DTEND:20250614T161500Z
 LOCATION:Paw.C sala F
 DTSTART:20250614T144500Z
 SUMMARY: (egzamin)
-UID:f06a68ae-4e30-4fa9-8f6a-035fa703ce13@f06a.org
+UID:6411ee99-f262-483a-8c59-b5a87116170f@6411.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250613T160000Z
+DTSTART:20250613T134500Z
+SUMMARY:Podstawy wyceny nieruchomości (wykład)
+UID:b1624602-483e-4a4d-88f6-a6643f54b4d4@b162.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250427T141500Z
+LOCATION:Paw.C sala F
+DTSTART:20250427T120000Z
+SUMMARY:Diagnostyka upadłości przedsiębiorstw (ćwiczenia do wyboru)
+UID:94888f7a-9f10-418e-bdc7-72007799244c@9488.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250427T114500Z
+LOCATION:Paw.B 351
+DTSTART:20250427T093000Z
+SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (ćwiczenia)
+UID:cead384c-d597-4f57-b5d3-7db5782ad78e@cead.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Stanisław Belniak
+DTEND:20250323T124500Z
+DTSTART:20250323T103000Z
+SUMMARY:Odnowa zabytków (wykład)
+UID:d6609de0-f005-4b4b-b5a2-132ac8a1cb87@d660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250525T151500Z
+LOCATION:Paw.C sala F
+DTSTART:20250525T134500Z
+SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
+UID:10992a6b-6ec2-43bf-931d-1fa89c45d872@1099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250525T114500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250525T093000Z
+SUMMARY:Analiza danych ankietowych (ćwiczenia do wyboru)
+UID:b3f0d252-7067-4f8a-9002-a03f28e359f5@b3f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250322T100000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250322T074500Z
+SUMMARY:Analiza danych ankietowych (ćwiczenia do wyboru)
+UID:a17eba2d-0e1a-4d99-b610-0f59fe8f60e7@a17e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Małkowska
@@ -314,14 +172,109 @@ DTEND:20250615T110000Z
 LOCATION:Paw.C sala C
 DTSTART:20250615T093000Z
 SUMMARY:Podstawy wyceny nieruchomości (egzamin)
-UID:d3d18c8a-ee94-4b5e-8fa5-cf254fc86caf@d3d1.org
+UID:8940af56-1f65-497f-b420-f9bbfaecfce3@8940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250614T141500Z
+LOCATION:Paw.B 151
+DTSTART:20250614T120000Z
+SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (ćwiczenia)
+UID:935395c9-6a54-4c78-a410-6763f09b20b1@9353.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
-DTEND:20250525T133000Z
-DTSTART:20250525T111500Z
+DTEND:20250405T123000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250405T101500Z
+SUMMARY:Analiza danych ankietowych (ćwiczenia do wyboru)
+UID:2d814cab-08bd-4ed6-a6bd-a2a5b1015111@2d81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250308T133000Z
+DTSTART:20250308T111500Z
+SUMMARY:Diagnostyka upadłości przedsiębiorstw (wykład do wyboru)
+UID:e2e3bf91-4162-4c10-954f-668ac72cddea@e2e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250308T161500Z
+DTSTART:20250308T140000Z
+SUMMARY:Międzynarodowe rynki nieruchomości (wykład do wyboru)
+UID:fd78effb-e006-40e9-b236-d247ec4c6465@fd78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250524T114500Z
+LOCATION:Paw.A 301b
+DTSTART:20250524T093000Z
+SUMMARY:Odnowa zabytków (ćwiczenia)
+UID:ae7333ec-1add-48fd-adda-e3f4d010954d@ae73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250404T160000Z
+DTSTART:20250404T134500Z
+SUMMARY:Podstawy wyceny nieruchomości (wykład)
+UID:f9fff69a-9426-45f8-945d-e2be4d815d09@f9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250425T184500Z
+DTSTART:20250425T163000Z
+SUMMARY:Międzynarodowe rynki nieruchomości (wykład do wyboru)
+UID:6a83afc2-977a-4e05-a3ed-994acd5317fb@6a83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250525T090000Z
+LOCATION:Paw.C sala F
+DTSTART:20250525T064500Z
+SUMMARY:Diagnostyka upadłości przedsiębiorstw (ćwiczenia do wyboru)
+UID:f947d990-a243-47b5-b2b1-9f2f24f69100@f947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250309T100000Z
+DTSTART:20250309T074500Z
+SUMMARY:Analiza danych ankietowych (wykład do wyboru)
+UID:5960adb6-a267-46a8-b0ce-3c4e5ed3c0b4@5960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250321T170000Z
+DTSTART:20250321T144500Z
+SUMMARY:Diagnostyka upadłości przedsiębiorstw (wykład do wyboru)
+UID:f9b34e16-580e-414c-932e-ba0c04b98af7@f9b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250406T104500Z
+DTSTART:20250406T083000Z
+SUMMARY:Analiza danych ankietowych (wykład do wyboru)
+UID:8ca29ce8-9d05-4318-ab7e-80628db752ba@8ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250406T133000Z
+DTSTART:20250406T111500Z
+SUMMARY:Diagnostyka upadłości przedsiębiorstw (wykład do wyboru)
+UID:938de5b9-5ef0-4e2b-99c9-6677bcec7972@938d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Stanisław Belniak
+DTEND:20250425T160000Z
+DTSTART:20250425T134500Z
+SUMMARY:Odnowa zabytków (wykład)
+UID:ad0f0ea9-1231-4981-9c03-ece0f33a47af@ad0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250405T174500Z
+DTSTART:20250405T153000Z
 SUMMARY:Analiza danych ankietowych (Przeniesienie zajęć)
-UID:f41d538b-9c7f-4f02-a595-66bb55ebc8ac@f41d.org
+UID:9737927b-1a46-4222-ab2e-4b597e8cb2b0@9737.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
@@ -329,6 +282,53 @@ DTEND:20250615T090000Z
 LOCATION:Paw.C sala F
 DTSTART:20250615T064500Z
 SUMMARY:Diagnostyka upadłości przedsiębiorstw (ćwiczenia do wyboru)
-UID:25ff7af8-56b3-4171-ba91-17a947721662@25ff.org
+UID:c942875a-a48a-47d9-852f-aabc3092c488@c942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250524T141500Z
+LOCATION:Paw.A 301b
+DTSTART:20250524T120000Z
+SUMMARY:Zarządzanie nieruchomościami mieszkaniowymi (ćwiczenia)
+UID:5fe9ecf8-6b1f-4e30-bee8-ef5b779283e1@5fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250323T151500Z
+DTSTART:20250323T130000Z
+SUMMARY:Analiza danych ankietowych (wykład do wyboru)
+UID:8f0d64e2-42d7-4790-81f9-eb9251a3ca2c@8f0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250614T090000Z
+LOCATION:Paw.C sala B
+DTSTART:20250614T064500Z
+SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
+UID:7c308f35-f08d-4b99-beb7-b53729d4b0a2@7c30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250524T090000Z
+LOCATION:Paw.C sala B
+DTSTART:20250524T064500Z
+SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
+UID:3894c850-909e-4c0b-8d57-e7cd62d132a7@3894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250405T151500Z
+LOCATION:Paw.C sala A
+DTSTART:20250405T130000Z
+SUMMARY:Międzynarodowe rynki nieruchomości (ćwiczenia do wyboru)
+UID:fbfbd6fa-5d9d-4ed3-921b-f5dd05d10f9c@fbfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250426T131500Z
+LOCATION:Paw.C sala F
+DTSTART:20250426T093000Z
+SUMMARY:Podstawy wyceny nieruchomości (ćwiczenia)
+UID:e19dc18d-d802-4a43-8829-84c254de6447@e19d.org
 END:VEVENT
 END:VCALENDAR
