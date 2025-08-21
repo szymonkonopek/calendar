@@ -2,12 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20250328T101500Z
+DTSTART:20250328T084500Z
+SUMMARY:Trendy i innowacje w logistyce (wykład)
+UID:3f49e023-52b6-4c68-b8cb-65f9bf857c6a@3f49.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
-DTEND:20250415T091500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20250415T074500Z
-SUMMARY:Strategie rozwoju biznesu (konwersatorium)
-UID:e6df248a-e63a-46a4-b178-1674d5b1008a@e6df.org
+DTEND:20250429T091500Z
+DTSTART:20250429T074500Z
+SUMMARY:Strategie rozwoju biznesu (Przeniesienie zajęć)
+UID:40968195-f635-4f49-918d-5a9e4d163fb8@4096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250314T120000Z
+DTSTART:20250314T103000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:a1e29cb0-f9c6-4ee7-989c-692cc879e029@a1e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250423T124500Z
+DTSTART:20250423T111500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia zdalne)
+UID:fb042104-01da-4ac6-be44-8300914a9509@fb04.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
@@ -15,52 +35,14 @@ DTEND:20250409T124500Z
 LOCATION:Paw.F 715
 DTSTART:20250409T111500Z
 SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
-UID:da81bba3-d9b6-48f5-b653-0e451d2d2183@da81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250404T110000Z
-DTSTART:20250404T093000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:29708066-3410-4832-badd-a267b68e6879@2970.org
+UID:09085889-4f7e-4b03-93fd-316c6e654269@0908.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20250404T091500Z
-DTSTART:20250404T074500Z
+DTEND:20250321T101500Z
+DTSTART:20250321T084500Z
 SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:deb671e0-8e29-4c83-afbe-e24a772ca3bf@deb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Artur Budzyński
-DTEND:20250416T091500Z
-LOCATION:Paw.F 613
-DTSTART:20250416T074500Z
-SUMMARY:Usługi logistyczne (konwersatorium)
-UID:7ee786bc-5ca6-4d3c-94e6-1b0271166647@7ee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250310T153000Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20250310T140000Z
-SUMMARY:Zarządzanie bezpieczeństwem w logistyce (konwersatorium)
-UID:aeaebb12-72e4-4c0b-8c6c-17d001eaa63a@aeae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250314T120000Z
-DTSTART:20250314T103000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:253a5690-cdec-40ec-a8c4-97779393963d@253a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250319T083000Z
-LOCATION:Paw.B 151
-DTSTART:20250319T070000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
-UID:41ff80b8-4c3c-4c2e-90ed-a032c180fb1d@41ff.org
+UID:cacb5b03-0796-4d2e-ab97-eb14839ee4c5@cacb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
@@ -68,127 +50,7 @@ DTEND:20250318T101500Z
 LOCATION:Bud.gł. Stara Aula
 DTSTART:20250318T084500Z
 SUMMARY:Strategie rozwoju biznesu (konwersatorium)
-UID:142229bf-a52e-4ee8-82b1-29f540481fe6@1422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250324T153000Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20250324T140000Z
-SUMMARY:Zarządzanie bezpieczeństwem w logistyce (konwersatorium)
-UID:73d29734-1ae9-4b5e-bb2c-e42d97875028@73d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250327T101500Z
-DTSTART:20250327T084500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
-UID:05cdaa41-e459-4a44-863e-a2fd0f6cd8f1@05cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250402T073000Z
-LOCATION:Paw.B 151
-DTSTART:20250402T060000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
-UID:ef65dd0a-e903-4fbd-b27f-2c11c7d457c8@ef65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20250327T083000Z
-DTSTART:20250327T070000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
-UID:c9e935e2-011a-4562-bbcc-70edf2fc4f6c@c9e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Artur Budzyński
-DTEND:20250402T091500Z
-LOCATION:Paw.F 613
-DTSTART:20250402T074500Z
-SUMMARY:Usługi logistyczne (konwersatorium)
-UID:9fa34723-3968-4e02-b332-a4e602795cbe@9fa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250430T143000Z
-LOCATION:Paw.B 351
-DTSTART:20250430T130000Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
-UID:42017055-b0c9-455d-b644-ace6358f11e7@4201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Artur Budzyński
-DTEND:20250319T101500Z
-LOCATION:Paw.F 613
-DTSTART:20250319T084500Z
-SUMMARY:Usługi logistyczne (konwersatorium)
-UID:779b3237-821f-4edb-98f2-1b285daffc29@779b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250411T110000Z
-DTSTART:20250411T093000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:c470106d-d13c-4b7d-a540-75d28e177622@c470.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250430T073000Z
-LOCATION:Paw.B 151
-DTSTART:20250430T060000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
-UID:906b755e-91cf-47cb-8342-0a12f5fb9574@906b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250407T143000Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20250407T130000Z
-SUMMARY:Zarządzanie bezpieczeństwem w logistyce (konwersatorium)
-UID:a8dad46c-6904-4c27-bee2-b238e617f210@a8da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250328T120000Z
-DTSTART:20250328T103000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:7b390182-48e7-4288-8f2a-0a69f2177315@7b39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250410T091500Z
-DTSTART:20250410T074500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
-UID:b77f29c6-bd09-4999-8eae-71830c09748f@b77f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
-DTEND:20250429T091500Z
-DTSTART:20250429T074500Z
-SUMMARY:Strategie rozwoju biznesu (Przeniesienie zajęć)
-UID:cd9bec3c-b97b-45b7-b1f7-bd47e5ece71d@cd9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250416T073000Z
-LOCATION:Paw.B 151
-DTSTART:20250416T060000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
-UID:bb326f5a-e34a-49d4-b79a-db0cf2d0f0a7@bb32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250423T124500Z
-DTSTART:20250423T111500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia zdalne)
-UID:b62ff6b0-1831-4163-86dd-1d937e5b1ecf@b62f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250321T120000Z
-DTSTART:20250321T103000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:364db250-457f-4669-9624-58bd7b8d4814@364d.org
+UID:bb09cf81-b32b-431e-b423-73b6f93f6850@bb09.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Artur Budzyński
@@ -196,37 +58,31 @@ DTEND:20250430T091500Z
 LOCATION:Paw.F 613
 DTSTART:20250430T074500Z
 SUMMARY:Usługi logistyczne (konwersatorium)
-UID:dc56c190-8512-4600-8e18-927431fdd212@dc56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20250328T101500Z
-DTSTART:20250328T084500Z
-SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:c5d19a2b-7451-4bf1-8436-8ff5e9719777@c5d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20250411T091500Z
-DTSTART:20250411T074500Z
-SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:a5268205-4382-4abd-a92f-dff3255238bf@a526.org
+UID:791e9fe6-f988-4406-838f-7727912e750a@791e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250319T171500Z
-LOCATION:Paw.F 102
-DTSTART:20250319T154500Z
+DTEND:20250430T143000Z
+LOCATION:Paw.B 351
+DTSTART:20250430T130000Z
 SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
-UID:ae50a3d5-2da0-409d-8eb8-fdfac394ea98@ae50.org
+UID:9a48653f-bb77-4121-9f27-7a28d9a56e9e@9a48.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250324T120000Z
-LOCATION:Bud.gł. 3
-DTSTART:20250324T103000Z
-SUMMARY:Marketing w logistyce (konwersatorium)
-UID:fab2425c-e885-4f86-b60e-2ac2bbabf4ff@fab2.org
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20250416T091500Z
+LOCATION:Paw.F 613
+DTSTART:20250416T074500Z
+SUMMARY:Usługi logistyczne (konwersatorium)
+UID:96619c4b-22fb-446a-b832-458a53ebe313@9661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250430T073000Z
+LOCATION:Paw.B 151
+DTSTART:20250430T060000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
+UID:d16edb0c-21e0-4791-8f88-c124f6d2c411@d16e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
@@ -234,30 +90,23 @@ DTEND:20250505T110000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20250505T093000Z
 SUMMARY:Zarządzanie bezpieczeństwem w logistyce (konwersatorium)
-UID:7877f566-e1c0-49f6-87c5-72d38832afae@7877.org
+UID:7388298e-3ddf-466d-bc1f-2336f09e185d@7388.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250310T120000Z
-LOCATION:Bud.gł. 3
-DTSTART:20250310T103000Z
-SUMMARY:Marketing w logistyce (konwersatorium)
-UID:54435784-659e-40bd-aa9e-79f352e8ab14@5443.org
+DTEND:20250319T171500Z
+LOCATION:Paw.F 102
+DTSTART:20250319T154500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
+UID:27a89ae0-398f-4778-b2c6-5dbcc3d6c3cb@27a8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250313T101500Z
-DTSTART:20250313T084500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
-UID:1c1cec24-5128-4331-86f5-e8d4698be297@1c1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250428T110000Z
-LOCATION:Bud.gł. 3
-DTSTART:20250428T093000Z
-SUMMARY:Marketing w logistyce (konwersatorium)
-UID:243d7d76-9df3-4c28-b00f-1e63af359d22@243d.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20250415T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250415T074500Z
+SUMMARY:Strategie rozwoju biznesu (konwersatorium)
+UID:69fe669b-be7c-490b-8e0e-a2f9795cbaf9@69fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
@@ -265,37 +114,45 @@ DTEND:20250505T091500Z
 LOCATION:Bud.gł. Stara Aula
 DTSTART:20250505T074500Z
 SUMMARY:Strategie rozwoju biznesu (konwersatorium)
-UID:4b464014-ef66-4b0d-b7e6-bb200cddbbea@4b46.org
+UID:99e1c2f4-89f8-4243-8f30-7fd94fe9bc12@99e1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20250314T101500Z
-DTSTART:20250314T084500Z
-SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:8fdf7691-20f7-43a5-8ed5-00c87a585038@8fdf.org
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20250313T083000Z
+DTSTART:20250313T070000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
+UID:0387758e-c38a-41bf-9c2c-357c9dd42e41@0387.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
-DTEND:20250401T091500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20250401T074500Z
-SUMMARY:Strategie rozwoju biznesu (konwersatorium)
-UID:901f4b59-7da6-4e8b-9fd8-e390b8e5302c@901f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250425T110000Z
-DTSTART:20250425T093000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:2f398319-d8d4-4520-b897-a0fbd0073f70@2f39.org
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250310T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250310T140000Z
+SUMMARY:Zarządzanie bezpieczeństwem w logistyce (konwersatorium)
+UID:5840f64d-32a9-4ca0-97cc-71305dca6527@5840.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250326T134500Z
-LOCATION:Paw.B 351
-DTSTART:20250326T121500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
-UID:4c3eaa58-a2ac-4699-8eb2-d2647ef83b79@4c3e.org
+DTEND:20250310T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250310T103000Z
+SUMMARY:Marketing w logistyce (konwersatorium)
+UID:55701a26-59c5-4b7e-ae34-21174b682665@5570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250324T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250324T140000Z
+SUMMARY:Zarządzanie bezpieczeństwem w logistyce (konwersatorium)
+UID:34a0ad62-8f78-47a1-b1ba-d0f4bd90963c@34a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20250327T083000Z
+DTSTART:20250327T070000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
+UID:ff79aef2-c55e-44e4-9959-650fc9f79443@ff79.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Robert Śliwa
@@ -303,41 +160,184 @@ DTEND:20250617T153000Z
 LOCATION:Paw.B 251
 DTSTART:20250617T144500Z
 SUMMARY:Prawo w logistyce (egzamin)
-UID:832b0e5c-e505-4d4f-9ba7-57c7c89dd31f@832b.org
+UID:d3723ab7-04df-44d5-b0e1-5ef75185cd32@d372.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20250424T073000Z
-DTSTART:20250424T060000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
-UID:f8abf2b8-c73c-4d8f-939e-6bfff5bd2554@f8ab.org
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250407T143000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250407T130000Z
+SUMMARY:Zarządzanie bezpieczeństwem w logistyce (konwersatorium)
+UID:ca75dcb5-a1c4-494a-bee6-b8137bd6c7e3@ca75.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20250410T073000Z
-DTSTART:20250410T060000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
-UID:4fdd37e3-9433-4ff6-917e-65dbbe98bb56@4fdd.org
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20250402T091500Z
+LOCATION:Paw.F 613
+DTSTART:20250402T074500Z
+SUMMARY:Usługi logistyczne (konwersatorium)
+UID:21c9e11c-de94-4510-b47e-0e5a260853ec@21c9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20250313T083000Z
-DTSTART:20250313T070000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
-UID:7e00625b-4b5d-4710-9f5c-7f11530bd9f7@7e00.org
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250321T120000Z
+DTSTART:20250321T103000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:a1b41115-e6a9-40dc-8469-5c4c335656e6@a1b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20250321T101500Z
-DTSTART:20250321T084500Z
+DTEND:20250404T091500Z
+DTSTART:20250404T074500Z
 SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:ac10ce93-c5ad-4cb5-8108-7b481d9ff9aa@ac10.org
+UID:da245a20-292c-4af1-a328-0dd8fe09b486@da24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20250411T091500Z
+DTSTART:20250411T074500Z
+SUMMARY:Trendy i innowacje w logistyce (wykład)
+UID:a6c1b7ec-96f4-4fe5-8964-cf6a1775c37b@a6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250404T110000Z
+DTSTART:20250404T093000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:793b6ff4-8a63-45ad-9da2-2d992d7e5885@793b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250327T101500Z
+DTSTART:20250327T084500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
+UID:9db37719-2c3b-4974-b7f1-68ea92c035ba@9db3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Dariusz Firszt
 DTEND:20250424T091500Z
 DTSTART:20250424T074500Z
 SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (Przeniesienie zajęć)
-UID:8a584fea-7f8c-4370-a95e-6ad536dadf14@8a58.org
+UID:0a733197-45fe-423a-89f1-0f2a4574f19e@0a73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250313T101500Z
+DTSTART:20250313T084500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
+UID:c827148e-e6df-4764-b3cd-db19934448c4@c827.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20250314T101500Z
+DTSTART:20250314T084500Z
+SUMMARY:Trendy i innowacje w logistyce (wykład)
+UID:1e28ef5f-00c8-4c41-92b1-91acb4964077@1e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250411T110000Z
+DTSTART:20250411T093000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:b2c8082a-99e5-4c2d-a8f3-6f8428058b60@b2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250326T134500Z
+LOCATION:Paw.B 351
+DTSTART:20250326T121500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
+UID:5e483193-ce9e-490c-ae4b-5453f6473615@5e48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250425T110000Z
+DTSTART:20250425T093000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:4814c79f-84ab-4133-9e8c-7cf322aa424a@4814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20250424T073000Z
+DTSTART:20250424T060000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
+UID:c0e936de-a134-4cee-a418-5b88881e2122@c0e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250410T091500Z
+DTSTART:20250410T074500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
+UID:30ea28ab-b3d9-41cb-b5ff-76e606ab1cc4@30ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250402T073000Z
+LOCATION:Paw.B 151
+DTSTART:20250402T060000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
+UID:7ff58621-8246-4565-9eba-b74922fea8e5@7ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20250410T073000Z
+DTSTART:20250410T060000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
+UID:cca5c311-d949-40fa-a0d2-97fd746cccc3@cca5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250416T073000Z
+LOCATION:Paw.B 151
+DTSTART:20250416T060000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
+UID:64d813a8-e342-415c-b0d9-296e65ecda63@64d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250324T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250324T103000Z
+SUMMARY:Marketing w logistyce (konwersatorium)
+UID:83d51508-32e0-4ea3-a402-7b114ae6f789@83d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250328T120000Z
+DTSTART:20250328T103000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:354e2b99-0429-4a26-b633-0f46b8a46822@354e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250428T110000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250428T093000Z
+SUMMARY:Marketing w logistyce (konwersatorium)
+UID:474a28f5-5f14-4351-ad9c-3472d89d5407@474a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20250319T101500Z
+LOCATION:Paw.F 613
+DTSTART:20250319T084500Z
+SUMMARY:Usługi logistyczne (konwersatorium)
+UID:7fea7e44-f5eb-40e3-8dc0-c8f7f86d49b6@7fea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250319T083000Z
+LOCATION:Paw.B 151
+DTSTART:20250319T070000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
+UID:258158b5-fb1e-477e-b90e-9c52c2fd1839@2581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20250401T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250401T074500Z
+SUMMARY:Strategie rozwoju biznesu (konwersatorium)
+UID:f2c3693f-1565-4744-83e2-eca148a77c90@f2c3.org
 END:VEVENT
 END:VCALENDAR
