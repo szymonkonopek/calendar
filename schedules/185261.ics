@@ -2,219 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250905T161500Z
-LOCATION:Paw.F 102
-DTSTART:20250905T144500Z
-SUMMARY:Prawo gospodarcze (egzamin)
-UID:a97fc8d5-6abb-490a-9f9b-f921e4ab1f4c@a97f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250411T160000Z
-DTSTART:20250411T134500Z
-SUMMARY:Ekonometria (wykład)
-UID:ae9e7a79-ffd5-4240-836c-db9d3a12371f@ae9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
-DTEND:20250531T131500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250531T093000Z
-SUMMARY:Demografia (ćwiczenia)
-UID:052d08fb-594f-42e8-b44b-87da23fc6938@052d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250531T090000Z
-LOCATION:Paw.F 111
-DTSTART:20250531T060000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:e6936b89-49ee-429b-806a-19a15ffd9cf7@e693.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250323T143000Z
-LOCATION:Paw.F 111
-DTSTART:20250323T121500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:f4477c68-f9f1-489c-9b3d-329fa442e851@f447.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250615T133000Z
-LOCATION:Paw.F 111
-DTSTART:20250615T111500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:2cbcbb14-512c-41ff-ba00-cd38daffa417@2cbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250308T133000Z
-DTSTART:20250308T111500Z
-SUMMARY:Ekonometria (wykład)
-UID:11e67c0d-9059-4eca-b056-4b02b217eb20@11e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250321T190000Z
-DTSTART:20250321T173000Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (wykład do wyboru)
-UID:a95473b0-f3e0-41f2-adb9-bdc2dfb02fe1@a954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
-DTEND:20250322T151500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250322T121500Z
-SUMMARY:Demografia (ćwiczenia)
-UID:a5705d34-cfa4-4b33-a530-5f64fe08a45d@a570.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250427T151500Z
-LOCATION:Paw.F 106
-DTSTART:20250427T134500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:0673f4f2-732a-447d-99a4-6d18f5be422d@0673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250511T133000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250511T111500Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:f6c1f1e9-ed0e-4858-9271-14831ca3ff8c@f6c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250322T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250322T070000Z
-SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
-UID:e3602c7b-5378-4a19-b438-65dd35da53d0@e360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250524T113000Z
-LOCATION:Paw.S sala 5
-DTSTART:20250524T083000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:f260cc3a-1a76-4d19-a0d8-fa0bd108231d@f260.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250510T123000Z
-DTSTART:20250510T093000Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
-UID:a5166d64-ea4e-48a2-b24c-e8d47817d18f@a516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250622T073000Z
-LOCATION:Paw.C sala D
-DTSTART:20250622T064500Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (egzamin)
-UID:ff9d1000-2bd3-41fd-9cba-bca170b2f3ca@ff9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250308T104500Z
-DTSTART:20250308T074500Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
-UID:f316f8b6-876a-47be-93b1-a9b0a9ae0789@f316.org
+DTEND:20250425T160000Z
+DTSTART:20250425T134500Z
+SUMMARY:Matematyka finansowa (Przeniesienie zajęć)
+UID:65740038-27a3-45c2-9878-520449f1e7da@6574.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Pisulewski
 DTEND:20250329T100000Z
 DTSTART:20250329T074500Z
 SUMMARY:Ekonometria (wykład)
-UID:683247dd-2e7e-429e-98a2-02d2582cc301@6832.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20250524T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250524T144500Z
-SUMMARY:Przygotowanie danych do analiz w Pythonie (ćwiczenia)
-UID:0b1635ad-969f-4c70-9f23-bedc8f7a89d9@0b16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
-DTEND:20250518T090000Z
-DTSTART:20250518T064500Z
-SUMMARY:Demografia (wykład)
-UID:df5f9d9c-9f2f-4e57-9a8c-b971e0236813@df5f.org
+UID:c37b5f03-f224-4c8e-b0a5-4883b5ea6ba5@c37b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250525T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250525T060000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:fa72ddff-f8b3-4467-a1eb-0e53b26133b3@fa72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250509T174500Z
-LOCATION:Paw.F 111
-DTSTART:20250509T144500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:26594142-841a-44e9-8855-f6e366221e23@2659.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250309T143000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250309T121500Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
-UID:103f55c4-5e46-4e49-9c47-78f27a70704e@103f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250426T090000Z
-DTSTART:20250426T064500Z
+DTEND:20250411T160000Z
+DTSTART:20250411T134500Z
 SUMMARY:Ekonometria (wykład)
-UID:682466fe-8593-4c68-a4ff-bff53b414b41@6824.org
+UID:32cbcf75-8a26-4f56-9ff3-96ab27233b3f@32cb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250524T141500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250524T120000Z
-SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
-UID:ab5bff7f-2729-4ff5-a0c5-d1fd12e30f3a@ab5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250413T081500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250413T060000Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
-UID:04ca0a00-1f30-4eac-b6c2-5d2c1a2cb19f@04ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250426T170000Z
-DTSTART:20250426T144500Z
-SUMMARY:Prawo gospodarcze (wykład)
-UID:e9aa13d0-566c-4c78-a6f4-f91a52a9e709@e9aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250302T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250302T070000Z
-SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
-UID:2c1c78e4-8660-4c5d-854e-5bd5570c8bf1@2c1c.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250308T104500Z
+DTSTART:20250308T074500Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
+UID:580b0d59-9be7-4278-9c84-b73c5f12ca81@580b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250615T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250615T060000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:4c242222-f6ae-48c0-8655-4f3340d59d4a@4c24.org
+DTEND:20250308T133000Z
+DTSTART:20250308T111500Z
+SUMMARY:Ekonometria (wykład)
+UID:2b6e883c-6e27-47e2-b18f-918a2f9cfb98@2b6e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
@@ -222,228 +42,7 @@ DTEND:20250330T133000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20250330T111500Z
 SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
-UID:a50aa92c-0262-43fe-bcdf-b844b4e3b364@a50a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250321T170000Z
-LOCATION:Platforma Moodle
-DTSTART:20250321T144500Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład e-learningowy)
-UID:bfbf7743-57c8-411b-9204-a71f8dea279c@bfbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250330T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250330T060000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:b77b3024-e4a7-486c-a3ee-da9804110f90@b77b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
-DTEND:20250601T150000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250601T111500Z
-SUMMARY:Demografia (ćwiczenia)
-UID:4508b940-7b70-4c51-8983-9d107b1e0515@4508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250412T133000Z
-LOCATION:Paw.F 111
-DTSTART:20250412T111500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:955826f9-bf4b-4576-b44e-6bdb6d701b92@9558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250523T160000Z
-LOCATION:Platforma Moodle
-DTSTART:20250523T134500Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład e-learningowy)
-UID:94f0bd7c-6568-428f-94f4-018c08048904@94f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250510T090000Z
-DTSTART:20250510T064500Z
-SUMMARY:Ekonometria (wykład)
-UID:bc5ffd83-8b8b-431e-9eb2-76ba240aa6dd@bc5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250427T133000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250427T111500Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
-UID:799843d7-7d41-4380-b707-1ce78a7b44e2@7998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20250427T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250427T060000Z
-SUMMARY:Przygotowanie danych do analiz w Pythonie (ćwiczenia)
-UID:f22f5764-e3c6-46f6-a128-23a08549015e@f22f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250322T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250322T093000Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
-UID:d8f51cc6-77d7-4983-bd69-7ed773435a03@d8f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250531T160000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250531T134500Z
-SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
-UID:5ae4aafc-2a46-4a0a-ae83-f51ef767b425@5ae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
-DTEND:20250613T183000Z
-LOCATION:Paw.B 351
-DTSTART:20250613T153000Z
-SUMMARY:Demografia (ćwiczenia)
-UID:6ead86f2-e81b-4f52-b24f-3fe8a6854356@6ead.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250329T141500Z
-DTSTART:20250329T103000Z
-SUMMARY:Prawo gospodarcze (wykład)
-UID:51f102e5-9adb-4f37-998f-c8edcd63baf1@51f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250614T094500Z
-DTSTART:20250614T064500Z
-SUMMARY:Prawo gospodarcze (wykład)
-UID:bbd7f100-23ec-439d-b198-8a3ff2dc8a1e@bbd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250523T184500Z
-DTSTART:20250523T163000Z
-SUMMARY:Prawo gospodarcze (wykład)
-UID:08f2ed98-39c2-4209-8de3-3d82936855a6@08f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250301T114500Z
-DTSTART:20250301T093000Z
-SUMMARY:Ekonometria (wykład)
-UID:e65fae3a-4ea6-4dfd-8f7c-e26375413902@e65f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250307T194500Z
-DTSTART:20250307T173000Z
-SUMMARY:Prawo gospodarcze (wykład)
-UID:135b5f52-8d77-4e3f-bdf8-f19aa05a0ccc@135b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250621T090000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250621T064500Z
-SUMMARY: (egzamin)
-UID:1c1bf0d2-d842-4aca-ac02-39e522895256@1c1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
-DTEND:20250308T161500Z
-DTSTART:20250308T140000Z
-SUMMARY:Demografia (wykład)
-UID:d25da3a8-78cf-4d94-a13c-a6a653f31861@d25d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250601T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250601T060000Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:3599a9d5-8cd0-42f2-8444-58e952167b21@3599.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250530T174500Z
-DTSTART:20250530T144500Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
-UID:7f789371-4052-468b-ba48-80201c8284bc@7f78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250301T091500Z
-DTSTART:20250301T070000Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (wykład do wyboru)
-UID:795deba7-dbc9-44cb-9dd4-77588f149178@795d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250309T091500Z
-LOCATION:Paw.F 111
-DTSTART:20250309T070000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:7edb414c-fee9-4314-b378-1c1790d45e51@7edb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20250412T160000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250412T134500Z
-SUMMARY:Ekonometria (ćwiczenia)
-UID:025e362c-0fbc-4a33-a36e-65fc6a601231@025e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20250413T133000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250413T111500Z
-SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
-UID:5d2b486d-ab45-4d71-ae72-cc25797f8f34@5d2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250525T133000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250525T111500Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
-UID:09a7f879-1e2c-476d-a6da-83c2a1607d2f@09a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Juryk
-DTEND:20250622T083000Z
-LOCATION:Paw.S sala 8
-DTSTART:20250622T074500Z
-SUMMARY:Prawo gospodarcze (egzamin)
-UID:b65cefcf-c321-4287-b403-ea7f6bbf9a37@b65c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20250426T123000Z
-DTSTART:20250426T093000Z
-SUMMARY:Podstawy wielowymiarowej analizy danych (wykład do wyboru)
-UID:474a77b0-eab9-419c-9095-f80c73da1be6@474a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20250323T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250323T070000Z
-SUMMARY:Przygotowanie danych do analiz w Pythonie (ćwiczenia)
-UID:d5b9f70f-5b39-4dc3-bd64-5f0bde93bb2d@d5b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20250425T160000Z
-DTSTART:20250425T134500Z
-SUMMARY:Matematyka finansowa (Przeniesienie zajęć)
-UID:06edd62c-ae27-427e-ac04-333bcbbe3715@06ed.org
+UID:dc93734a-8803-42da-ba23-de9dcb6614de@dc93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
@@ -451,14 +50,124 @@ DTEND:20250413T143000Z
 LOCATION:Paw.F 106
 DTSTART:20250413T134500Z
 SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:8b81fd8e-5a76-4760-841b-cd2d40c92f48@8b81.org
+UID:56cb7979-cc1f-40dc-b73d-da870614f6c1@56cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250322T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250322T070000Z
+SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
+UID:00fbd913-cfe6-4e3c-a8aa-63b5ec9d22d4@00fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20250427T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250427T060000Z
+SUMMARY:Przygotowanie danych do analiz w Pythonie (ćwiczenia)
+UID:8296f963-9d47-4531-973e-a9f23ad15347@8296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20250323T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250323T070000Z
+SUMMARY:Przygotowanie danych do analiz w Pythonie (ćwiczenia)
+UID:752d3097-3ddf-4ddf-9fa4-7c149e1af1ed@752d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250524T141500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250524T120000Z
+SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
+UID:ba5f5411-1ab0-4e87-b033-2abd8939286f@ba5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250614T094500Z
+DTSTART:20250614T064500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:520dd51b-1ecd-4b7d-b016-bd18442d0303@520d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250525T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250525T060000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:71ec68be-c7e3-4f19-a83e-eff0fb49bd47@71ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250525T133000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250525T111500Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
+UID:6580d492-267c-4d9f-905d-f807bd184438@6580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250301T114500Z
+DTSTART:20250301T093000Z
+SUMMARY:Ekonometria (wykład)
+UID:a3891f78-1586-400a-929a-dba41712bbaa@a389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250322T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250322T093000Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
+UID:9dbd823c-48ec-4b28-837e-bd4e30040cce@9dbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
+DTEND:20250322T151500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250322T121500Z
+SUMMARY:Demografia (ćwiczenia)
+UID:bca3e241-8948-489c-9716-2390a9227bb4@bca3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250412T133000Z
+LOCATION:Paw.F 111
+DTSTART:20250412T111500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:50517e27-c28e-430d-8a69-1596aee78da7@5051.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
 DTEND:20250307T170000Z
 DTSTART:20250307T144500Z
 SUMMARY:Demografia (wykład)
-UID:357d1a92-2bae-4c4b-95e5-961c27ab86dc@357d.org
+UID:c1b438da-e8c5-48ea-b7c6-45562ce87ca8@c1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250511T133000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250511T111500Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:61e16646-c75d-4215-bcea-63a4bba7356a@61e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
+DTEND:20250531T131500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250531T093000Z
+SUMMARY:Demografia (ćwiczenia)
+UID:94d27d65-52a1-49fd-b058-19a62a36ad03@94d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250413T133000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250413T111500Z
+SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
+UID:32b800db-b545-4610-9635-83915cac2cf5@32b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
@@ -466,6 +175,297 @@ DTEND:20250511T081500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250511T060000Z
 SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
-UID:fa3baf69-d569-4e7e-8d8d-a01b46766534@fa3b.org
+UID:5ba0366b-bded-46a3-b77a-c5930412987b@5ba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250427T151500Z
+LOCATION:Paw.F 106
+DTSTART:20250427T134500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:09eb796c-67e2-4338-8d53-fd4f32e7c7dc@09eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250426T170000Z
+DTSTART:20250426T144500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:0597443f-c0c5-43fa-9359-0f5fbe9f0005@0597.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250530T174500Z
+DTSTART:20250530T144500Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
+UID:520eb93a-3870-4105-a56e-2be902acd35b@520e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250307T194500Z
+DTSTART:20250307T173000Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:afab6eee-eba0-4334-ad63-fe27b2885f64@afab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250323T143000Z
+LOCATION:Paw.F 111
+DTSTART:20250323T121500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:9d89583f-043e-4539-b281-bdadb6c28489@9d89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250615T133000Z
+LOCATION:Paw.F 111
+DTSTART:20250615T111500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:59347513-fb02-419e-841b-e41d54f77d26@5934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250524T113000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250524T083000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:d286916d-5c3a-44bf-9816-1835290bd198@d286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250321T170000Z
+LOCATION:Platforma Moodle
+DTSTART:20250321T144500Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład e-learningowy)
+UID:06f342bd-55a4-4ab5-8711-aaafa1177e1b@06f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
+DTEND:20250601T150000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250601T111500Z
+SUMMARY:Demografia (ćwiczenia)
+UID:ccda1378-b29d-428b-8fce-84fd0fece7c5@ccda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250905T161500Z
+LOCATION:Paw.F 102
+DTSTART:20250905T144500Z
+SUMMARY:Prawo gospodarcze (egzamin)
+UID:107d265f-eff6-48ff-9c16-4d1198fd175f@107d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250330T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250330T060000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:ccb01acd-9c6e-46fd-8bde-93bda1bc3e31@ccb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
+DTEND:20250613T183000Z
+LOCATION:Paw.B 351
+DTSTART:20250613T153000Z
+SUMMARY:Demografia (ćwiczenia)
+UID:c5db6b29-ab8a-480f-8a8a-b05028edf0d6@c5db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250621T090000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250621T064500Z
+SUMMARY: (egzamin)
+UID:85f2e7b1-6ade-4a93-9dbd-aa5bca6add84@85f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250510T123000Z
+DTSTART:20250510T093000Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
+UID:206b485f-8450-4d4f-aeee-41cd18709da7@206b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
+DTEND:20250518T090000Z
+DTSTART:20250518T064500Z
+SUMMARY:Demografia (wykład)
+UID:ffcb52d3-8dcf-4957-8896-ebbaf7b04bb7@ffcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250426T123000Z
+DTSTART:20250426T093000Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (wykład do wyboru)
+UID:83868f9b-109a-459c-a421-e715ecbc2fcb@8386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250601T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250601T060000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:c7e7c015-1c3c-48fa-b21b-a6baf25e4e9f@c7e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250615T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250615T060000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:1e50b364-0328-4951-b21a-d195a62dde39@1e50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250329T141500Z
+DTSTART:20250329T103000Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:ac72e3e2-69ab-4614-b66d-5115cd963bb6@ac72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250622T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20250622T064500Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (egzamin)
+UID:6e47736c-cb64-4d71-afd2-6de8b3e2be6d@6e47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250321T190000Z
+DTSTART:20250321T173000Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (wykład do wyboru)
+UID:5da84700-55c8-4803-a32f-505dc3236145@5da8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250309T091500Z
+LOCATION:Paw.F 111
+DTSTART:20250309T070000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:4130a4b9-c5b2-4e69-a99e-c0d52d79e52d@4130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250412T160000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250412T134500Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:10f4b902-0b21-4995-ac42-a2da0ec87b3c@10f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250523T160000Z
+LOCATION:Platforma Moodle
+DTSTART:20250523T134500Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład e-learningowy)
+UID:bcab156b-468e-45ed-823a-f197085ce2c8@bcab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250510T090000Z
+DTSTART:20250510T064500Z
+SUMMARY:Ekonometria (wykład)
+UID:7ccfbeec-a273-4fc6-965b-25ada7bf09c7@7ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250301T091500Z
+DTSTART:20250301T070000Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (wykład do wyboru)
+UID:fb315c39-8540-4cd9-8468-5b52ca4d4205@fb31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20250524T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250524T144500Z
+SUMMARY:Przygotowanie danych do analiz w Pythonie (ćwiczenia)
+UID:bd677c0a-53d4-4e8f-aed7-d9c0d69d9817@bd67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250531T160000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250531T134500Z
+SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
+UID:104baf6d-bc6d-4c9d-b9ed-d1d7a3ba19d7@104b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250413T081500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250413T060000Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
+UID:f07e1fe2-d46b-4fdd-8dfc-347c01940f2f@f07e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250509T174500Z
+LOCATION:Paw.F 111
+DTSTART:20250509T144500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:b889e79f-e6d0-489d-a11c-956f951cb870@b889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250622T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250622T074500Z
+SUMMARY:Prawo gospodarcze (egzamin)
+UID:92a0ac45-cf1c-4cc7-a4f0-cc9699d5af21@92a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250523T184500Z
+DTSTART:20250523T163000Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:41b57cb0-abec-41db-b7af-37552db23070@41b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20250531T090000Z
+LOCATION:Paw.F 111
+DTSTART:20250531T060000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:19417df2-d7c7-47c3-b268-56a25b090e4d@1941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250302T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250302T070000Z
+SUMMARY:Podstawy VBA w metodach ilościowych (ćwiczenia do wyboru)
+UID:f7d03c07-b100-4d86-9e08-a8df7263ba65@f7d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20250426T090000Z
+DTSTART:20250426T064500Z
+SUMMARY:Ekonometria (wykład)
+UID:d438a988-18a6-4f9f-bf09-8c1750204667@d438.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250427T133000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250427T111500Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
+UID:48f6c326-046d-4eb9-8ac5-643869d31d3c@48f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20250309T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250309T121500Z
+SUMMARY:Podstawy wielowymiarowej analizy danych (ćwiczenia do wyboru)
+UID:ae834bbb-873a-4e2c-a982-2ac2c64e0518@ae83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Stonawski
+DTEND:20250308T161500Z
+DTSTART:20250308T140000Z
+SUMMARY:Demografia (wykład)
+UID:bd8d3088-9726-4b7d-ad8e-620a4006dc29@bd8d.org
 END:VEVENT
 END:VCALENDAR
