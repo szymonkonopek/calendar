@@ -2,20 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250910T110000Z
-LOCATION:Paw.B 151
-DTSTART:20250910T101500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (egzamin)
-UID:dde474ed-e78a-427c-8220-073ad82fb12f@dde4.org
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250520T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20250520T074500Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:589da995-82a6-4119-9ece-c199680c7290@589d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250303T153000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250303T140000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:76826ec8-c717-4a09-98f4-789210238773@7682.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250409T161500Z
+DTSTART:20250409T144500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:b78e4d07-4a3c-4746-b842-d24de5028f99@b78e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250227T083000Z
+DTSTART:20250227T070000Z
+SUMMARY:Rachunkowość (wykład)
+UID:cc7ebc8b-d94e-4a01-8fbb-3985a68c62ba@cc7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250609T180000Z
+DTSTART:20250609T163000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:4162c5ca-4f07-42f5-b1d8-b20dba37448d@4162.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Koba
@@ -23,580 +36,70 @@ DTEND:20250414T143000Z
 LOCATION:Bud.gł. 5
 DTSTART:20250414T130000Z
 SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:7eed3c52-a603-4d34-be0e-52ba4429267f@7eed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250602T180000Z
-DTSTART:20250602T163000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:dc9722bf-bd42-4380-8ba5-c448a2a94276@dc97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250403T073000Z
-DTSTART:20250403T060000Z
-SUMMARY:Rachunkowość (wykład)
-UID:7a0c30f1-3e16-470a-9767-3a7dff408d01@7a0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250408T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250408T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:11136614-0762-47b1-972c-466fb4a3bf89@1113.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250424T091500Z
-DTSTART:20250424T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:dae6a2ed-9887-4743-96dd-68dc4ad99cb6@dae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250326T114500Z
-DTSTART:20250326T084500Z
-SUMMARY: (rezerwacja)
-UID:b25f989e-4c4b-4047-bf26-45acfe4f8d88@b25f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250609T180000Z
-DTSTART:20250609T163000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:d8ec39a1-5f92-47e1-85b4-d89cfccbcecf@d8ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250401T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250401T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:f1eed1ed-425e-4dac-ba43-125786b361d4@f1ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250602T143000Z
-DTSTART:20250602T130000Z
-SUMMARY:Podatki dochodowe w praktyce (Przeniesienie zajęć)
-UID:c978a1bc-cb11-4b42-a5ac-504bc91b7fc9@c978.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250313T083000Z
-DTSTART:20250313T070000Z
-SUMMARY:Rachunkowość (Przeniesienie zajęć)
-UID:d633b9ab-7fba-41a3-975f-a995c15f4467@d633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250520T110000Z
-LOCATION:Paw.U sala K
-DTSTART:20250520T093000Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:98eb01a1-b1be-4a11-94bc-b5e2662ad18f@98eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250224T190000Z
-DTSTART:20250224T173000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:fdf0d1b2-fd4a-4957-b18e-dbbc9d7d8706@fdf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20250414T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250414T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:4a1e5bac-2567-4947-b7fd-aea92adf51e7@4a1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250512T143000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250512T130000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:8e8ab092-294f-4503-be13-477b2c825a84@8e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20250317T134500Z
-LOCATION:Paw.C sala C
-DTSTART:20250317T121500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:492fc630-be32-4888-beff-168e6bbe489e@492f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250522T091500Z
-DTSTART:20250522T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:024fda1b-7065-4d78-909e-40350bade760@024f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250313T101500Z
-DTSTART:20250313T084500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:67bea16e-80fd-4f9a-9028-a310d8f04f2d@67be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20250224T134500Z
-LOCATION:Paw.C sala C
-DTSTART:20250224T121500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:c52d5042-0aeb-4871-953e-491bb42a3da8@c52d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250507T143000Z
-DTSTART:20250507T130000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:fed559df-be5f-4501-a1f9-44b64061ccb4@fed5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250227T101500Z
-DTSTART:20250227T084500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:41e3bff6-652e-4eb4-8049-a5bcf619f708@41e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250625T101500Z
-LOCATION:Paw.C sala E
-DTSTART:20250625T093000Z
-SUMMARY:Prawo upadłościowe (egzamin)
-UID:fc833438-5596-4325-a87b-6815160baf5d@fc83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250224T153000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250224T140000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:5ab3fb05-74e2-437e-ad8e-2f227fc29fb6@5ab3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250305T171500Z
-DTSTART:20250305T154500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:a6dd0fea-f185-45ab-b624-4be23b535742@a6dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250507T180000Z
-DTSTART:20250507T163000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:0a100ff2-1236-4356-bdae-797608ce2f8c@0a10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250327T150000Z
-DTSTART:20250327T103000Z
-SUMMARY: (rezerwacja)
-UID:1d563e76-1cd5-4f1b-9109-82037f5755e9@1d56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250526T180000Z
-DTSTART:20250526T163000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:73a016a3-8cd8-43df-93e5-5cc658b4f849@73a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250529T073000Z
-DTSTART:20250529T060000Z
-SUMMARY:Rachunkowość (wykład)
-UID:412cf458-bafb-4df0-a4b7-791ff5777193@412c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250515T073000Z
-DTSTART:20250515T060000Z
-SUMMARY:Rachunkowość (wykład)
-UID:196a9f38-1fac-4809-8e82-2680e9b6aafd@196a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250603T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250603T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:05693f4e-e4ca-49a1-9e80-fd253809095d@0569.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20250324T134500Z
-DTSTART:20250324T121500Z
-SUMMARY:Status zwierząt w prawie (Przeniesienie zajęć)
-UID:02d84752-da5e-4110-8455-d8093eb8d5b1@02d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250505T110000Z
-LOCATION:Platforma Moodle
-DTSTART:20250505T093000Z
-SUMMARY:Prawo zamówień publicznych (Ćwiczenia e-learningowe)
-UID:8fd96d72-b72f-484d-9994-ca703c4620d4@8fd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250611T161500Z
-LOCATION:Paw.S sala 6
-DTSTART:20250611T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:3673685a-a8b1-4d32-bb91-39eb24ec676f@3673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250610T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250610T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:5927a616-4d7e-4b5d-8581-cda7df643f5a@5927.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250317T190000Z
-DTSTART:20250317T173000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:c7b12dd4-c85b-4896-ae6e-6e370c6a31a7@c7b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250505T110000Z
-LOCATION:Bud.gł. 8
-DTSTART:20250505T093000Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:0fd44138-35b7-4307-b349-139997c74755@0fd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250407T143000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250407T130000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:b4f5abbe-ef74-49ee-9acb-988516245036@b4f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20250505T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250505T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:ac362445-fb85-4479-851e-6ef9ee7726da@ac36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250319T190000Z
-DTSTART:20250319T173000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:d00a0c49-e1d1-41b7-8702-7fa1e80eb8f4@d00a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20250526T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250526T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:cb54e6eb-5e7c-4c12-a5f3-1b794d5093a4@cb54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250407T110000Z
-LOCATION:Bud.gł. 8
-DTSTART:20250407T093000Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:b5262ed1-55d2-4c23-94ed-2aacbf3cf20c@b526.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250409T180000Z
-DTSTART:20250409T163000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:a1c54895-fac5-4e5f-9f58-dc2e78816e11@a1c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250306T101500Z
-DTSTART:20250306T084500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:c68674a5-8102-4b26-b9c7-b73b80b1b10d@c686.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250331T110000Z
-LOCATION:Bibl. 441
-DTSTART:20250331T093000Z
-SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:e072b414-ea6b-41ee-bc4e-bbb4a4dbb0ef@e072.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20250519T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250519T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:f5b78380-36d8-476d-a907-3d534b6810f8@f5b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250414T180000Z
-DTSTART:20250414T163000Z
-SUMMARY:Prawo mieszkaniowe (Przeniesienie zajęć)
-UID:c2415d3a-d603-462a-972b-070179017051@c241.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250312T190000Z
-DTSTART:20250312T173000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:52d2fdee-a2f9-46b3-a1f3-77afa1d47916@52d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250407T110000Z
-LOCATION:Platforma Moodle
-DTSTART:20250407T093000Z
-SUMMARY:Prawo zamówień publicznych (Ćwiczenia e-learningowe)
-UID:8b764a93-600b-4681-bee2-f9e2fac0e183@8b76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250410T091500Z
-DTSTART:20250410T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:b9a11e65-4c78-4f37-8bad-af2dbee987d2@b9a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250505T180000Z
-DTSTART:20250505T163000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:b90311d8-6073-4e1d-9d82-a7feb2e4f3a4@b903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250910T101500Z
-LOCATION:Paw.B 151
-DTSTART:20250910T093000Z
-SUMMARY:Prawo upadłościowe (egzamin)
-UID:55ebacac-3a3d-4b02-8b85-e496e1e50d0e@55eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250423T143000Z
-DTSTART:20250423T130000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:581e0a1d-264f-4d5e-a5ae-f0efe918ab77@581e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250512T180000Z
-DTSTART:20250512T163000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:453ab54d-86c9-4968-8223-91f3d8275e69@453a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250403T091500Z
-DTSTART:20250403T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:134b36f8-1cb4-4351-9f8b-2378cd2cc6b1@134b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20250407T124500Z
-DTSTART:20250407T111500Z
-SUMMARY:Status zwierząt w prawie (Przeniesienie zajęć)
-UID:9a270a98-3731-4190-927d-fcb8d6ad27e7@9a27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250407T180000Z
-DTSTART:20250407T163000Z
-SUMMARY:Prawo mieszkaniowe (Przeniesienie zajęć)
-UID:e2784961-b798-414f-bc27-fdd4fe11a279@e278.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250402T161500Z
-DTSTART:20250402T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:9e4f6ae2-8227-4c8e-a171-c6e248c23716@9e4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250521T180000Z
-DTSTART:20250521T163000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:e79d1c5a-510e-4a75-92ff-9769fcb357f2@e79d.org
+UID:54f94fc0-9ff1-4018-b2c7-512c805c051b@54f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
 DTEND:20250226T171500Z
 DTSTART:20250226T154500Z
 SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:a5b77ff1-1361-46f1-a484-b20dcb25b5ac@a5b7.org
+UID:f00b796f-1d7a-4ae4-879a-73cc8795b9d0@f00b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250508T073000Z
+DTSTART:20250508T060000Z
+SUMMARY:Rachunkowość (wykład)
+UID:901980ab-b9a3-4069-b510-c45169d3b72d@9019.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250428T180000Z
-DTSTART:20250428T163000Z
+DTEND:20250507T143000Z
+DTSTART:20250507T130000Z
 SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:42851345-5a98-441f-8d21-ec935666871f@4285.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250609T073000Z
-LOCATION:Bibl. 440
-DTSTART:20250609T060000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:8ff5f674-fa49-4cf7-af17-546889f99d46@8ff5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250415T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250415T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:f2435699-5b07-4070-9511-f46f2365eed4@f243.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250226T190000Z
-DTSTART:20250226T173000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:f4c18681-ac5d-42c7-8c99-5d92d166ffd3@f4c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250610T110000Z
-LOCATION:Paw.G - 1
-DTSTART:20250610T093000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:7c05fc45-3196-4468-b1ba-0098cd0e0c8a@7c05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250519T110000Z
-LOCATION:Paw.F 613
-DTSTART:20250519T093000Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:be1fb0a0-441f-4292-89b1-5d57ce8efff9@be1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250520T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250520T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:f32b3a46-c78a-49c8-afba-2df6f3f1c24d@f32b.org
+UID:34a95925-0b00-45ad-b862-7b67ff0fe80f@34a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250625T110000Z
-LOCATION:Paw.C sala E
-DTSTART:20250625T101500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (egzamin)
-UID:e6d7de5a-8705-4e20-a7c6-d041b48b96af@e6d7.org
+DTEND:20250430T161500Z
+DTSTART:20250430T144500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:28a180ae-e50b-40a1-98a2-f1a00e175074@28a1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250526T110000Z
-LOCATION:Bibl. 441
-DTSTART:20250526T093000Z
-SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:6779d490-ff94-4c63-926e-f82bae237782@6779.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20250410T124500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250410T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:f1aa5563-f591-46ec-806c-34079fd31826@f1aa.org
+DESCRIPTION:Instructor: 
+DTEND:20250304T133000Z
+DTSTART:20250304T103000Z
+SUMMARY: (rezerwacja)
+UID:4d149cd1-c375-4507-b192-eb5726401ea7@4d14.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250303T190000Z
-DTSTART:20250303T173000Z
+DTEND:20250331T180000Z
+DTSTART:20250331T163000Z
 SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:00ac0e0d-1681-445e-90c8-8d444299c44a@00ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250519T180000Z
-DTSTART:20250519T163000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:81324f1a-4490-46f0-9a0d-ed988462cf04@8132.org
+UID:b04d9d2b-530a-4e34-9d8b-243ae03fbaf3@b04d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20250303T134500Z
-LOCATION:Paw.C sala C
-DTSTART:20250303T121500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:e1132f09-0494-4d33-b5f0-64141fbdf430@e113.org
+DTEND:20250324T134500Z
+DTSTART:20250324T121500Z
+SUMMARY:Status zwierząt w prawie (Przeniesienie zajęć)
+UID:627093c3-eb65-4556-8bbb-2dbfa66d7fc1@6270.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
 DTEND:20250326T190000Z
 DTSTART:20250326T173000Z
 SUMMARY:Prawo zamówień publicznych (wykład)
-UID:d44e6917-9e90-4eac-a6c5-2956f17a5fa7@d44e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250317T153000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250317T140000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:0ae01f81-a8ca-465d-8b43-3cde99d51d2e@0ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250609T143000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250609T130000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:cbd05862-6346-4199-806a-50d3e5f122cc@cbd0.org
+UID:e4e44f63-3715-42cb-afa4-59b7dd78ea56@e4e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250514T161500Z
-DTSTART:20250514T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:60b767ee-de3e-405a-964f-c4f4787e39a4@60b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250604T161500Z
-DTSTART:20250604T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:fd0096b0-2bac-4bbc-b605-e7c0947c8583@fd00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250227T083000Z
-DTSTART:20250227T070000Z
-SUMMARY:Rachunkowość (wykład)
-UID:d89cfde2-30e0-4745-a4d5-c3e3daf24f54@d89c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250325T134500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250325T121500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:c17a6c5b-83a1-4b23-bb9c-818e825aa8b7@c17a.org
+DTEND:20250424T091500Z
+DTSTART:20250424T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:234195d6-a3f5-4431-9732-00c3590254b2@2341.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
@@ -604,134 +107,64 @@ DTEND:20250331T124500Z
 LOCATION:Paw.C sala C
 DTSTART:20250331T111500Z
 SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:3b91eca2-0004-4fbc-ad0d-80137ab8fca2@3b91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250514T180000Z
-DTSTART:20250514T163000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:f8c342d4-dab8-4652-8f64-ee411e8c0c77@f8c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250519T143000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250519T130000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:d2882f7c-6d00-4fe0-9e94-1464cb01a6b7@d288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250616T160000Z
-LOCATION:Bibl. 443
-DTSTART:20250616T134500Z
-SUMMARY:Prawo obrotu nieruchomościami\, Prawo mieszkaniowe\, Prawo nieruchomości w kontekście strategii organizacyjnych (egzamin)
-UID:ab37cc64-c449-4979-9ac1-93499247a121@ab37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250522T073000Z
-DTSTART:20250522T060000Z
-SUMMARY:Rachunkowość (wykład)
-UID:3d397353-27a0-4924-9e5b-1b571caf23c2@3d39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250331T180000Z
-DTSTART:20250331T163000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:8fdac8a3-93cd-41b1-80d9-2f84a9f1bf9d@8fda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20250602T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250602T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:206d0dad-0fcf-40b0-a082-aa0cd520acc4@206d.org
+UID:1968a7ad-7865-4c60-90b1-fb619147dbec@1968.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
 DTEND:20250305T190000Z
 DTSTART:20250305T173000Z
 SUMMARY:Prawo zamówień publicznych (wykład)
-UID:8e553495-750d-481d-9fb5-561ad8d8fbbf@8e55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250324T153000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250324T140000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:b437f431-b5b2-4b18-b64c-98f86971a998@b437.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250304T133000Z
-DTSTART:20250304T103000Z
-SUMMARY: (rezerwacja)
-UID:bb6a9678-afb5-4818-8c3f-47f226919438@bb6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250310T120000Z
-LOCATION:Platforma Moodle
-DTSTART:20250310T103000Z
-SUMMARY:Prawo zamówień publicznych (Ćwiczenia e-learningowe)
-UID:139bec1b-db90-4a3c-92fc-abc7d33957b4@139b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250508T073000Z
-DTSTART:20250508T060000Z
-SUMMARY:Rachunkowość (wykład)
-UID:b5d93523-9e09-43cf-a61f-263e2cb277a4@b5d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250505T143000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250505T130000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:b009570b-7711-4ecb-a44a-f82fc648a268@b009.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250513T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250513T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:3d1ae4e1-53dc-46d1-a963-43072220e66a@3d1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250306T083000Z
-DTSTART:20250306T070000Z
-SUMMARY:Rachunkowość (wykład)
-UID:d97e3bce-447c-4cf6-887a-d079a6128ba3@d97e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250611T180000Z
-DTSTART:20250611T163000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:e9794ca5-8935-4cc0-9f47-7af19229c0c4@e979.org
+UID:d687d79d-85a1-4758-a149-ccde4eb38aa9@d687.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250521T161500Z
-DTSTART:20250521T144500Z
+DTEND:20250423T161500Z
+DTSTART:20250423T144500Z
 SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:105ca15a-5e6f-4c78-83bc-0ff34b94d64a@105c.org
+UID:030d93be-591c-4cd8-bcbf-34b2402d10a5@030d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250609T110000Z
-LOCATION:Bibl. 441
-DTSTART:20250609T101500Z
-SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:c5d0ddf0-c662-4206-8053-f4d393394c63@c5d0.org
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250522T073000Z
+DTSTART:20250522T060000Z
+SUMMARY:Rachunkowość (wykład)
+UID:f30c0d9a-302b-4ed0-9bf4-2ea9e8cb2e18@f30c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250522T091500Z
+DTSTART:20250522T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:093c6d50-9591-42db-ad03-1db20156314f@093c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250317T153000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250317T140000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:f862e7ff-b84c-4dd1-a797-3ab6b8e5fb5f@f862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250327T083000Z
+DTSTART:20250327T070000Z
+SUMMARY:Rachunkowość (wykład)
+UID:a7f852fd-7f87-48cb-a3fc-0c124dbbffea@a7f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250320T083000Z
+DTSTART:20250320T070000Z
+SUMMARY:Rachunkowość (wykład)
+UID:4c02a61c-a8bf-43cf-84cf-0258e61d11bf@4c02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250224T190000Z
+DTSTART:20250224T173000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:2ed5f472-c9c9-4b52-88fa-a618239026cd@2ed5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Plebanek
@@ -739,87 +172,60 @@ DTEND:20250609T124500Z
 LOCATION:Paw.C sala C
 DTSTART:20250609T111500Z
 SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:2b219607-194c-4969-a07d-81bb56424176@2b21.org
+UID:b420198e-ec30-4bdb-9079-6c8494c5aa2b@b420.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250416T161500Z
-DTSTART:20250416T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:730c12e7-06b9-4e16-91f8-e6fb01918b18@730c.org
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250415T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250415T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:00b57f26-583a-4c2a-ba4f-79e39f7fc5c3@00b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250512T180000Z
+DTSTART:20250512T163000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:3f475834-7107-43f3-9bdc-f1c5b9b904b3@3f47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20250414T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250414T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:fa9dfb57-a9fc-4546-959d-540fe8d00aa6@fa9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250512T143000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250512T130000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:01c9534f-d4b1-4a71-ace0-cb6921571ec1@01c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250505T180000Z
+DTSTART:20250505T163000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:5e646815-7e8b-4a4d-a0ae-e7b5dbf9d6b9@5e64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250602T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250602T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:c75c161e-1921-4062-8b65-070b46d79dfb@c75c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
 DTEND:20250320T101500Z
 DTSTART:20250320T084500Z
 SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:e701889a-d1f2-48d1-aa6b-5beb2bf2d564@e701.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250331T143000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250331T130000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:c7663f7c-24fc-41f3-9bca-add490f4a937@c766.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250320T083000Z
-DTSTART:20250320T070000Z
-SUMMARY:Rachunkowość (wykład)
-UID:7c11293e-c273-42bd-a868-64aeeee4b167@7c11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250326T171500Z
-DTSTART:20250326T154500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:a1672b30-43f8-466e-98a2-eb3979119172@a167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250402T180000Z
-DTSTART:20250402T163000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:51515067-0e69-47ee-8377-bae2db057aed@5151.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250416T180000Z
-DTSTART:20250416T163000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:dc634e06-f06c-4e77-9ed3-7d5a66635a5b@dc63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250429T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250429T111500Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:808b70dd-3a5d-4c07-acef-a38ce1e4ae09@808b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20250512T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250512T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:ce9bd572-8c37-4996-aa28-73f0174d6898@ce9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250324T190000Z
-DTSTART:20250324T173000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:a7bea272-1b8b-495c-a588-4901ab2fae83@a7be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250604T073000Z
-DTSTART:20250604T060000Z
-SUMMARY:Rachunkowość (wykład)
-UID:2fcbde72-1bf2-4ea4-8213-d6f92469de22@2fcb.org
+UID:5ff7e314-c567-43f2-81ef-b4805003090a@5ff7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
@@ -827,153 +233,333 @@ DTEND:20250310T134500Z
 LOCATION:Paw.C sala C
 DTSTART:20250310T121500Z
 SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:8ea3feac-31e6-4d96-a305-82b7c60b0f0f@8ea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Łojewska
-DTEND:20250603T110000Z
-LOCATION:Paw.U sala K
-DTSTART:20250603T093000Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:fff953a2-b8a6-4040-ae32-95bc0332c518@fff9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250430T161500Z
-DTSTART:20250430T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:6d713568-6941-464b-98b4-78ce338e91ee@6d71.org
+UID:d6405d62-dfc4-47e0-a01d-28051f4d3175@d640.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250526T143000Z
-DTSTART:20250526T130000Z
-SUMMARY:Podatki dochodowe w praktyce (Przeniesienie zajęć)
-UID:0ad41cf0-f2e0-41ca-a36b-5da692a5633a@0ad4.org
+DTEND:20250609T143000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250609T130000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:fcff7c9e-deb8-4a40-b1b0-8e106ec34a88@fcff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250224T153000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250224T140000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:aff3a37c-f9f1-495e-bae7-2fa26591f38d@aff3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250416T180000Z
+DTSTART:20250416T163000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:cbb1ee03-9166-4d50-8fd9-04641f4bc2ec@cbb1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250512T110000Z
+DTEND:20250331T110000Z
 LOCATION:Bibl. 441
-DTSTART:20250512T093000Z
+DTSTART:20250331T093000Z
 SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:d8717f83-a935-4da9-b0f8-61faf9b43cf2@d871.org
+UID:8c72f343-0062-499f-8251-8cb17e07a7c7@8c72.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250508T091500Z
-DTSTART:20250508T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:a1e1f42d-c69c-477a-be37-55a11944e47c@a1e1.org
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250407T110000Z
+LOCATION:Bud.gł. 8
+DTSTART:20250407T093000Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:06e10200-124e-4136-b161-7bc771452d45@06e1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250428T143000Z
-DTSTART:20250428T130000Z
-SUMMARY:Podatki dochodowe w praktyce (Przeniesienie zajęć)
-UID:fd001112-43e5-437d-b9a0-0722eeb3c96f@fd00.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20250224T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250224T121500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:e900f303-3033-4d82-ac54-f46600d714ea@e900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250310T120000Z
+LOCATION:Platforma Moodle
+DTSTART:20250310T103000Z
+SUMMARY:Prawo zamówień publicznych (Ćwiczenia e-learningowe)
+UID:f9771d82-d0e1-4766-81b9-02ca4c3a0e9c@f977.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20250317T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250317T121500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:030ecf4d-2716-441c-87b3-ebfbe4381597@030e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250507T180000Z
+DTSTART:20250507T163000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:f44d482f-9b78-44f2-af00-5d431a770784@f44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250609T110000Z
+LOCATION:Bibl. 441
+DTSTART:20250609T101500Z
+SUMMARY:Prawo zamówień publicznych (ćwiczenia)
+UID:ec0be526-3fb2-41d8-a379-8cfea76fbe97@ec0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250526T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250526T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:dee27d58-f50f-4f68-8679-26f4a0300d23@dee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250313T083000Z
+DTSTART:20250313T070000Z
+SUMMARY:Rachunkowość (Przeniesienie zajęć)
+UID:db955c13-b866-488d-8ea2-a056a67e7a47@db95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250410T073000Z
+DTSTART:20250410T060000Z
+SUMMARY:Rachunkowość (wykład)
+UID:3c436499-2c73-4025-8ec9-1a150c676410@3c43.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
 DTEND:20250423T180000Z
 DTSTART:20250423T163000Z
 SUMMARY:Prawo zamówień publicznych (wykład)
-UID:4de39099-99b3-4884-a925-d9b6b585e5d0@4de3.org
+UID:19c82b77-27e5-4acc-b425-e1dcb0884c60@19c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250514T180000Z
+DTSTART:20250514T163000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:6f26573a-94d6-448d-8b68-df66ce48d653@6f26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250609T073000Z
+LOCATION:Bibl. 440
+DTSTART:20250609T060000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:a9f9d389-d5d7-4620-96e3-743a291b5050@a9f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250312T190000Z
+DTSTART:20250312T173000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:b0e15e0c-8df5-49a3-a57b-012316549af8@b0e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250515T073000Z
+DTSTART:20250515T060000Z
+SUMMARY:Rachunkowość (wykład)
+UID:8fdfec94-27fb-4124-b5ed-e47ce2d55d77@8fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250604T073000Z
+DTSTART:20250604T060000Z
+SUMMARY:Rachunkowość (wykład)
+UID:71258af3-c4e6-4917-89a5-02df330d5663@7125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250303T190000Z
+DTSTART:20250303T173000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:9b7d3e33-efbf-45e4-80af-7246d8d1c121@9b7d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250319T171500Z
-DTSTART:20250319T154500Z
+DTEND:20250402T161500Z
+DTSTART:20250402T144500Z
 SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:4ac88d4e-73c8-4402-b640-9a2ef12d9f50@4ac8.org
+UID:2c505878-746f-4fa8-b52b-a1eae867625f@2c50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250611T180000Z
+DTSTART:20250611T163000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:3bbd1beb-11f6-4978-9efe-536ba34e3fa9@3bbd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250327T101500Z
-DTSTART:20250327T084500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:eb890ca9-f748-4798-93a5-db32f445072f@eb89.org
+DTEND:20250305T171500Z
+DTSTART:20250305T154500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:3b464924-1956-4371-9282-57d364a53b9f@3b46.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250612T100000Z
-DTSTART:20250612T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:a5ca1559-88f1-4ad9-8740-0cd106ce7494@a5ca.org
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250407T110000Z
+LOCATION:Platforma Moodle
+DTSTART:20250407T093000Z
+SUMMARY:Prawo zamówień publicznych (Ćwiczenia e-learningowe)
+UID:7074e985-8db7-4145-8eb8-1796c63654a5@7074.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250423T143000Z
+DTSTART:20250423T130000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:6e4cb9a0-9e30-492d-b93b-0972deed743d@6e4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20250303T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250303T121500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:a3dacf03-a723-4e2f-8639-bae1a711bf5a@a3da.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
 DTEND:20250507T161500Z
 DTSTART:20250507T144500Z
 SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:d1938117-15e0-401e-81a7-3513dd28c49c@d193.org
+UID:a4ccd9c7-06b6-4a92-8958-5dc70c310b29@a4cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250310T153000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250310T140000Z
-SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:ff6b743d-2176-4ad6-9c6c-664e958657e1@ff6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250423T161500Z
-DTSTART:20250423T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:020555c2-c661-4da4-9cf7-7294d497416d@0205.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250424T073000Z
-DTSTART:20250424T060000Z
-SUMMARY:Rachunkowość (wykład)
-UID:1813faeb-7a7c-4a9c-9690-14892f376c1c@1813.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20250428T124500Z
-LOCATION:Paw.C sala C
-DTSTART:20250428T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:34dbbab8-4d5d-40c7-80b2-36ced42b928d@34db.org
+DTEND:20250526T143000Z
+DTSTART:20250526T130000Z
+SUMMARY:Podatki dochodowe w praktyce (Przeniesienie zajęć)
+UID:265318ff-8fe9-4002-9b7a-cd1ae9ef72c5@2653.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250430T180000Z
-DTSTART:20250430T163000Z
+DTEND:20250409T180000Z
+DTSTART:20250409T163000Z
 SUMMARY:Prawo zamówień publicznych (wykład)
-UID:0664ce40-52d7-4733-bfd1-28c443490353@0664.org
+UID:ecfc26ff-e777-44c3-8f33-d105e6d73d69@ecfc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250327T083000Z
-DTSTART:20250327T070000Z
+DTEND:20250403T073000Z
+DTSTART:20250403T060000Z
 SUMMARY:Rachunkowość (wykład)
-UID:870b4b65-4cec-4ecc-b12f-673e0e37bfcd@870b.org
+UID:b44b3360-c76b-442b-be59-2b89e0757050@b44b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Koba
-DTEND:20250520T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20250520T074500Z
+DTEND:20250519T143000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250519T130000Z
 SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
-UID:54028fa5-58da-4c3d-8116-6afb3856f52b@5402.org
+UID:ad285673-4385-4c34-8b4a-d7b3dde13763@ad28.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250303T120000Z
-LOCATION:Bibl. 441
-DTSTART:20250303T103000Z
-SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:69f60ce2-fb7d-47fe-8f0d-a100a4112ee0@69f6.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250625T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20250625T101500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (egzamin)
+UID:9625fd1e-b53b-4006-885f-4361313a73b3@9625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250324T190000Z
+DTSTART:20250324T173000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:35f35ff9-7dfe-4a99-9a81-fe7d288832e4@35f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250605T100000Z
+DTSTART:20250605T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:65789d45-3f62-499e-bae0-f14bcdc61459@6578.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250605T073000Z
-DTSTART:20250605T060000Z
+DTEND:20250306T083000Z
+DTSTART:20250306T070000Z
 SUMMARY:Rachunkowość (wykład)
-UID:3e45a710-a99f-486e-906a-1e4c0587f845@3e45.org
+UID:1d41f07a-9539-450b-b1ce-3c925b801790@1d41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250508T091500Z
+DTSTART:20250508T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:deb0769b-234c-49b5-9dd5-0d589b790bca@deb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250515T091500Z
+DTSTART:20250515T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:2a0c445a-f613-45be-87a6-1be753d97ef4@2a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250612T073000Z
+DTSTART:20250612T060000Z
+SUMMARY:Rachunkowość (wykład)
+UID:868933d9-1467-47ee-90b5-2d592ec4e625@8689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20250505T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250505T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:1aa88771-1baa-45fe-a6c6-921fa4114693@1aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250331T143000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250331T130000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:9bb9ac43-3d1a-482d-bdd8-0b5b0f3967a2@9bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250403T091500Z
+DTSTART:20250403T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:27465fc1-47b9-4055-a9af-de7c4987ffcd@2746.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250611T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250611T144500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:13789435-81a8-4ee6-99ea-eed2abde7d55@1378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250610T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250610T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:527646f5-0e83-416a-8667-d3d46f574d5d@5276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250428T143000Z
+DTSTART:20250428T130000Z
+SUMMARY:Podatki dochodowe w praktyce (Przeniesienie zajęć)
+UID:bbd47178-0b86-4537-9b7f-536486c104dd@bbd4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Łojewska
@@ -981,56 +567,100 @@ DTEND:20250506T124500Z
 LOCATION:Bud.gł. 4
 DTSTART:20250506T111500Z
 SUMMARY:Rachunkowość (ćwiczenia)
-UID:a19f8d91-de4d-4d2e-b14c-7579ecff0985@a19f.org
+UID:d1bd6660-4822-464d-8914-e26bbfea2bdf@d1bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250312T171500Z
-DTSTART:20250312T154500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:b6d17547-9232-4384-829e-715f233445a7@b6d1.org
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250505T143000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250505T130000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:1615d324-e8eb-4ead-929a-c6d3f13f1da3@1615.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250605T100000Z
-DTSTART:20250605T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:6dbfeb86-0b74-4c46-bdd9-7a22e5319ec3@6dbf.org
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250520T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20250520T093000Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:4d3cbd19-2802-4a80-b5a9-e15aafa826c2@4d3c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250515T091500Z
-DTSTART:20250515T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:fce57c3c-6717-4299-b231-7bc7a63142c0@fce5.org
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250513T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250513T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:5487d0a9-cd1b-4ae5-82f5-7b7eea484817@5487.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250409T161500Z
-DTSTART:20250409T144500Z
-SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
-UID:023aea37-f96e-47b5-89b9-f039366af3fd@023a.org
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250603T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20250603T093000Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:660e7f32-0936-40dd-a10c-b7fc2bb773c5@660e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20250529T091500Z
-DTSTART:20250529T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:38179f19-a408-40bf-93ca-0e63bc72e440@3817.org
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250505T110000Z
+LOCATION:Platforma Moodle
+DTSTART:20250505T093000Z
+SUMMARY:Prawo zamówień publicznych (Ćwiczenia e-learningowe)
+UID:ca20b9a4-fd06-49a8-85ad-96368d6c961b@ca20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250303T120000Z
+LOCATION:Bibl. 441
+DTSTART:20250303T103000Z
+SUMMARY:Prawo zamówień publicznych (ćwiczenia)
+UID:1088fa4f-06cc-4971-985b-54b57c0ce70e@1088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250325T134500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250325T121500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:521bec16-0dbd-47a9-ac2d-71ad2fb77cce@521b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250327T150000Z
+DTSTART:20250327T103000Z
+SUMMARY: (rezerwacja)
+UID:50936e02-219e-4585-9c78-432c4376c0fa@5093.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20250604T180000Z
-DTSTART:20250604T163000Z
+DTEND:20250402T180000Z
+DTSTART:20250402T163000Z
 SUMMARY:Prawo zamówień publicznych (wykład)
-UID:1f5ddda2-eaff-46d6-8cb8-2663e833395d@1f5d.org
+UID:b65817b0-c15d-4f71-a59e-4616d8570b4c@b658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250313T101500Z
+DTSTART:20250313T084500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:0daa5dcc-7e9e-4a79-8ca3-3e4a46c91ae6@0daa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250512T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250512T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:447e8584-c414-40b3-8aeb-896865e7285e@447e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250310T190000Z
-DTSTART:20250310T173000Z
-SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
-UID:655a466a-bf03-47cd-b91a-ed43fc5bd15a@655a.org
+DTEND:20250616T160000Z
+LOCATION:Bibl. 443
+DTSTART:20250616T134500Z
+SUMMARY:Prawo obrotu nieruchomościami\, Prawo mieszkaniowe\, Prawo nieruchomości w kontekście strategii organizacyjnych (egzamin)
+UID:5b91b7d1-4098-4778-89dc-d3db43659466@5b91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
@@ -1038,20 +668,390 @@ DTEND:20250428T161500Z
 LOCATION:Paw.B 351
 DTSTART:20250428T144500Z
 SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:55210a90-94f4-44ab-9741-234e8399d33a@5521.org
+UID:958aa0e9-de50-454a-a018-8bbf15b1491e@958a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250529T091500Z
+DTSTART:20250529T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:e6809ca5-0fe0-4e59-a875-8a1b9c779357@e680.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250505T110000Z
+LOCATION:Bud.gł. 8
+DTSTART:20250505T093000Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:e6b3bce7-6d5a-4de4-9912-e8c0691c688f@e6b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250410T073000Z
-DTSTART:20250410T060000Z
+DTEND:20250529T073000Z
+DTSTART:20250529T060000Z
 SUMMARY:Rachunkowość (wykład)
-UID:bc2dcf93-d7ef-4584-a3bf-341de44d9bef@bc2d.org
+UID:fbcc81b5-89e5-4159-883a-b4ff8152b08f@fbcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250610T110000Z
+LOCATION:Paw.G - 1
+DTSTART:20250610T093000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:4bea64f2-a500-490f-b2d0-13b306a9a33a@4bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250326T171500Z
+DTSTART:20250326T154500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:aa75f562-87cc-48a0-9a5d-194382eacd7b@aa75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250306T101500Z
+DTSTART:20250306T084500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:89b845b2-36f1-4d00-87dd-3ec1fcaa13da@89b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250319T190000Z
+DTSTART:20250319T173000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:150e0a9e-8b1f-4e1e-b936-e08a2f3efc37@150e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250327T101500Z
+DTSTART:20250327T084500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:11e5c2f3-8ec4-4575-9f95-0a2d30c86127@11e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250604T180000Z
+DTSTART:20250604T163000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:86bed103-3749-42d1-8e9e-4ec78517007d@86be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250408T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250408T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:d79d5e6e-d653-4fa0-a732-ade70249a0c8@d79d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250416T161500Z
+DTSTART:20250416T144500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:754bf4f7-77c1-4579-a25f-a5db2a000d2e@754b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250324T153000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250324T140000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:e0713c1f-f5e6-4897-92b8-7b11eddfa99a@e071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250526T180000Z
+DTSTART:20250526T163000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:9bf96ffe-f501-4ada-a4f0-3a6560903b0e@9bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250407T180000Z
+DTSTART:20250407T163000Z
+SUMMARY:Prawo mieszkaniowe (Przeniesienie zajęć)
+UID:2aeb73f5-db56-4bb1-b24c-939cf86e5e35@2aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250414T180000Z
+DTSTART:20250414T163000Z
+SUMMARY:Prawo mieszkaniowe (Przeniesienie zajęć)
+UID:04126253-5fd4-4f81-9b88-cb3b53662f31@0412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250519T180000Z
+DTSTART:20250519T163000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:fe3614ed-6d35-459d-a8be-005a91e4e058@fe36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250612T100000Z
+DTSTART:20250612T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:2470fa5a-5752-4a1f-9fc7-69c747fc6154@2470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250429T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250429T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:0d64e1b6-fbf3-473f-9ec1-8925fb8f696a@0d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250319T171500Z
+DTSTART:20250319T154500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:e556d60f-c0f1-41c0-afd6-47695250468c@e556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250604T161500Z
+DTSTART:20250604T144500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:93c6b2f4-1aa8-468c-a486-f944e52ce55b@93c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20250407T124500Z
+DTSTART:20250407T111500Z
+SUMMARY:Status zwierząt w prawie (Przeniesienie zajęć)
+UID:d436dfb9-41d2-4075-b690-f11559955515@d436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250312T171500Z
+DTSTART:20250312T154500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:a53874e1-ac9a-49e0-8e97-788f0a8361af@a538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250521T161500Z
+DTSTART:20250521T144500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:d24499fb-98c7-432f-94ce-5699265d1fd4@d244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20250428T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250428T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:f6c213c0-663b-4eed-b0f2-162f19368a4e@f6c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250303T153000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250303T140000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:21ad044c-2d63-4eb8-a003-1977cbf03d02@21ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250410T091500Z
+DTSTART:20250410T074500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:774cd6aa-6535-458b-955e-746595dda1bb@774c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250602T143000Z
+DTSTART:20250602T130000Z
+SUMMARY:Podatki dochodowe w praktyce (Przeniesienie zajęć)
+UID:5c12137d-d581-4ce6-a489-436976eb17f6@5c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250602T180000Z
+DTSTART:20250602T163000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:55c601f4-84ce-4bef-a3fc-3e14484905ec@55c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250519T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20250519T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:4649e4ef-8f2f-472b-ab18-baeefd03ad98@4649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250226T190000Z
+DTSTART:20250226T173000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:24a6c250-7a23-4508-8349-ac5bbe5d8b7b@24a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250430T180000Z
+DTSTART:20250430T163000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:b1d77c75-6cac-4278-957e-868f8535a2e1@b1d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250512T110000Z
+LOCATION:Bibl. 441
+DTSTART:20250512T093000Z
+SUMMARY:Prawo zamówień publicznych (ćwiczenia)
+UID:9542c9b0-5e30-4b98-856b-6875b7eaf071@9542.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250227T101500Z
+DTSTART:20250227T084500Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:2b3535fc-b971-43e5-ad82-db89bb5a30a0@2b35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250526T110000Z
+LOCATION:Bibl. 441
+DTSTART:20250526T093000Z
+SUMMARY:Prawo zamówień publicznych (ćwiczenia)
+UID:1d5f025f-20be-41ac-84fe-02385a901041@1d5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250317T190000Z
+DTSTART:20250317T173000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:48b55d7b-de9b-495d-97f9-24c0b1177c60@48b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250428T180000Z
+DTSTART:20250428T163000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:e5d79863-828e-4463-a765-7068071a7880@e5d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250326T114500Z
+DTSTART:20250326T084500Z
+SUMMARY: (rezerwacja)
+UID:bd709681-2835-4161-bad7-444c35064d0e@bd70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20250410T124500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250410T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:eb6fe481-a2f5-4f2a-9e71-ce160e1a547b@eb6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250514T161500Z
+DTSTART:20250514T144500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (wykład do wyboru)
+UID:6056d0d1-984a-42d4-ac70-9a5e71979c91@6056.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250401T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250401T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:e6b676a4-0af8-44d7-bb03-ae3f31663da5@e6b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250521T180000Z
+DTSTART:20250521T163000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:33203892-7a07-4998-aeeb-b090cc8aab52@3320.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250520T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250520T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:0945cb1d-3f65-498c-be02-73b9cce651cd@0945.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250519T110000Z
+LOCATION:Paw.F 613
+DTSTART:20250519T093000Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:b3de6022-7d76-41ed-ac96-f76c87f90cd0@b3de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250310T190000Z
+DTSTART:20250310T173000Z
+SUMMARY:Prawo mieszkaniowe (wykład do wyboru)
+UID:67ecde00-1f2f-4252-9e04-336f2457c6b9@67ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogusław Wacławik
-DTEND:20250612T073000Z
-DTSTART:20250612T060000Z
+DTEND:20250424T073000Z
+DTSTART:20250424T060000Z
 SUMMARY:Rachunkowość (wykład)
-UID:06c69bb4-9504-48a7-a005-89e8237b1758@06c6.org
+UID:aa251b99-f84b-4e07-bb43-08e6fd47eec6@aa25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250407T143000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250407T130000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:aefbc8a7-aabb-416d-9daa-0f7bd140b1d4@aefb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250310T153000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250310T140000Z
+SUMMARY:Podatki dochodowe w praktyce (konwersatorium do wyboru)
+UID:627d0d42-a03d-4c9c-a231-2010d3f10d35@627d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250625T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20250625T093000Z
+SUMMARY:Prawo upadłościowe (egzamin)
+UID:24ced410-acce-4faf-8952-3be37fcd3b7b@24ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250910T110000Z
+LOCATION:Paw.B 151
+DTSTART:20250910T101500Z
+SUMMARY:Zabezpiecznie wierzytelności w obrocie gospodarczym (egzamin)
+UID:615aa4f2-a017-4e4b-b6f3-a769c8256e26@615a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Wacławik
+DTEND:20250605T073000Z
+DTSTART:20250605T060000Z
+SUMMARY:Rachunkowość (wykład)
+UID:bfe20278-b7ea-4d6a-93f9-6d1827b08539@bfe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250910T101500Z
+LOCATION:Paw.B 151
+DTSTART:20250910T093000Z
+SUMMARY:Prawo upadłościowe (egzamin)
+UID:4928d745-4bd2-4e04-995c-c4fef0b0bcaf@4928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Łojewska
+DTEND:20250603T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250603T111500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:388a17bd-49bc-437a-86ad-670f7a3766ec@388a.org
 END:VEVENT
 END:VCALENDAR
