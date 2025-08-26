@@ -2,12 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241210T171500Z
+DTSTART:20241210T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:33a6fae0-acf4-4766-b8ae-019e725e00dc@33a6.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241114T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241114T070000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:aeac28a9-fed0-4e72-8ebf-507f2698d2ac@aeac.org
+DTEND:20241126T083000Z
+DTSTART:20241126T070000Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:bbb90adb-9098-457c-98bd-9c8956b5bc6a@bbb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241030T083000Z
+DTSTART:20241030T070000Z
+SUMMARY:Prawo pracy (Przeniesienie zajęć)
+UID:6b7327c7-1e7c-4b04-9b3d-e2e8605f1699@6b73.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Ćwiek
@@ -15,749 +28,49 @@ DTEND:20241128T083000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20241128T070000Z
 SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:e12ab639-6ee8-4550-bdc6-c63454444a89@e12a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241204T190000Z
-DTSTART:20241204T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:1b4cb57b-98fc-458f-aca6-4071b3f7669d@1b4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241205T144500Z
-DTSTART:20241205T140000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
-UID:0fa50a25-b043-4fc2-b270-c587afae3c82@0fa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250115T083000Z
-DTSTART:20250115T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:59995eb6-8e74-4be2-8d12-89f41dd46aa7@5999.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241022T161500Z
-DTSTART:20241022T144500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:a24d07eb-2ba4-46c6-8e45-877020a3796d@a24d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241010T180000Z
-LOCATION:Paw.B 151
-DTSTART:20241010T163000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:392b17f2-7bc4-430b-9ad5-234d2bc275eb@392b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20241105T101500Z
-DTSTART:20241105T084500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:400ecbf5-b3d7-4985-971e-29828579d673@400e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241009T073000Z
-DTSTART:20241009T060000Z
-SUMMARY:Prawo pracy (wykład)
-UID:a1fedc5d-245b-4477-8918-b31171deb50d@a1fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241023T180000Z
-DTSTART:20241023T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:ff70d7cc-5b0b-45b0-9002-54c08eee5ecd@ff70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241021T143000Z
-DTSTART:20241021T130000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:43ce7e56-34c9-4482-b8c9-afc0fbef1fbb@43ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
-DTEND:20241030T171500Z
-LOCATION:Paw.B 451
-DTSTART:20241030T154500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:31d9cd0d-0e0a-4bc9-a667-882bb8b1d7d3@31d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20241031T153000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20241031T140000Z
-SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:679965bd-7aa5-4b76-9d62-2b7a5bc8f31c@6799.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241212T171500Z
-DTSTART:20241212T154500Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (Przeniesienie zajęć)
-UID:0fb5f85b-bead-4ed2-96c8-777dd8ae43e9@0fb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241113T083000Z
-DTSTART:20241113T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:957e7164-ba62-406d-bed3-21ba82f5b5d0@957e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
-DTEND:20241016T161500Z
-LOCATION:Paw.B 451
-DTSTART:20241016T144500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:98951b6c-9311-4f24-9742-ef306277e0ae@9895.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241119T171500Z
-DTSTART:20241119T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:971366be-11f5-405d-bafe-51f6c5bd2a27@9713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
-DTEND:20241105T120000Z
-DTSTART:20241105T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:089f8dc8-830f-4ed8-8aa6-8505f3e8f7dc@089f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
-DTEND:20241211T171500Z
-LOCATION:Paw.B 451
-DTSTART:20241211T154500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:70ec7c20-4195-4efc-882f-07b9cafc5fc2@70ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241120T190000Z
-DTSTART:20241120T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:0b09829d-679e-4968-8c48-e96307baf26f@0b09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250123T171500Z
-LOCATION:Paw.F CJ  301
-DTSTART:20250123T154500Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
-UID:9018398d-7827-4850-b919-884220359509@9018.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241007T180000Z
-DTSTART:20241007T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:60038751-1883-4a2e-8231-009220b058c2@6003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
-DTEND:20241008T110000Z
-DTSTART:20241008T093000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:752e011d-725f-4894-a1ef-9de8818cdf9c@752e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241114T190000Z
-LOCATION:Paw.B 151
-DTSTART:20241114T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:39e7ddfa-fed7-4cf1-8007-e36bb8d6c6e5@39e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241126T083000Z
-DTSTART:20241126T070000Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:549e3667-dc5a-4263-9da9-7dbd80fc7671@549e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20250130T100000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250130T074500Z
-SUMMARY: (rezerwacja)
-UID:23bbecc1-cd40-48a3-b5c3-13691a7e3288@23bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
-DTEND:20250114T111500Z
-DTSTART:20250114T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:a8ec8f9c-5cf8-429f-b79c-6fb75bd21f6c@a8ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20241022T091500Z
-DTSTART:20241022T074500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:afd8a576-2451-4be1-b6bd-a428678ad1e5@afd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241031T171500Z
-LOCATION:Paw.B 351
-DTSTART:20241031T154500Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
-UID:b1612baa-0ea3-4efa-896d-8622ada860ba@b161.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241014T180000Z
-DTSTART:20241014T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:99fcfc69-819f-42b5-b0cc-2a26ac833c15@99fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20241008T091500Z
-DTSTART:20241008T074500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:df90f635-c9b1-45b5-b5da-014351b80a92@df90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20250107T083000Z
-DTSTART:20250107T070000Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:03255973-5156-4d25-9279-91c07246f172@0325.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241128T190000Z
-LOCATION:Paw.B 151
-DTSTART:20241128T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:f61c619a-ba2c-4c6d-837a-d8cabc1efa44@f61c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250107T171500Z
-DTSTART:20250107T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:c07ea97c-c30b-4530-a0d4-a8f62ad74c70@c07e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241205T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241205T070000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:555c82ec-cade-4e5d-ae7f-79c2585a6d2c@555c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241210T083000Z
-DTSTART:20241210T070000Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:23f039f9-4553-486d-a9aa-98dd2c4bc251@23f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20241212T153000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20241212T140000Z
-SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:e6fbf218-7fe1-4f13-8bc0-e0bc44cb3eb5@e6fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241205T190000Z
-LOCATION:Paw.B 151
-DTSTART:20241205T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:7f212b28-398b-4708-859f-2e78ee2c50f8@7f21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250121T111500Z
-DTSTART:20250121T103000Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
-UID:8b754064-9cb8-4942-bf1f-011311e7e9c6@8b75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241106T190000Z
-DTSTART:20241106T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:0a77f6d3-22b1-4771-b171-a2f40d1b55a9@0a77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241202T190000Z
-DTSTART:20241202T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:c8c985bd-8dd8-42b0-a708-6bfdc39b09f7@c8c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20241114T153000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20241114T140000Z
-SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:6f91cab4-8276-482d-90bc-60797e0bde8b@6f91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241112T171500Z
-DTSTART:20241112T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:5fcfa660-f2d5-4cea-a90c-37e3ab27cedb@5fcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241121T120000Z
-DTSTART:20241121T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
-UID:78f2e442-fbe6-4b1a-9e46-110275bb7ba6@78f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20241203T101500Z
-DTSTART:20241203T084500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:1ded7f40-ea13-4799-86df-ec18a6284f92@1ded.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241107T120000Z
-DTSTART:20241107T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
-UID:4e08cf0c-ec9f-4a57-a99b-55f6e7acac1b@4e08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20250116T111500Z
-LOCATION:Paw.S sala 7
-DTSTART:20250116T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:13701f93-3d3b-4f64-b57e-99dcba8ca4a5@1370.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241024T073000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241024T060000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:fd189562-e194-4e36-8445-f4eb2265d6fe@fd18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241024T091500Z
-LOCATION:.
-DTSTART:20241024T074500Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:fbbd1aef-1361-4df9-85a7-0354161a7c93@fbbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241218T190000Z
-DTSTART:20241218T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:9220dec6-5522-4a41-8f25-234433b2768b@9220.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20250116T190000Z
-LOCATION:Paw.B 151
-DTSTART:20250116T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:6cac2681-07d0-4ed1-8203-f8ee5cdf17ea@6cac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241210T120000Z
-DTSTART:20241210T103000Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
-UID:379bd1a8-d4ab-4e55-883f-2d8b55c658ba@379b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241205T110000Z
-LOCATION:.
-DTSTART:20241205T084500Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:52c41663-3b46-495e-a02e-7e714113c265@52c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241126T120000Z
-DTSTART:20241126T103000Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
-UID:b71a5620-6490-49c6-a68a-88d2eeab0918@b71a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241128T134500Z
-LOCATION:Paw.E sala J
-DTSTART:20241128T121500Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:3e3e65d2-8e3e-47a7-b689-003efbf59bde@3e3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20250109T190000Z
-LOCATION:Paw.B 151
-DTSTART:20250109T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:fe6451a5-3cd2-452d-8785-e9fffb404ecd@fe64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241219T171500Z
-LOCATION:Paw.B 151
-DTSTART:20241219T154500Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
-UID:da8c5b21-82e3-41c9-b39b-d4b8f771efc9@da8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241008T161500Z
-DTSTART:20241008T144500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:46e2fd96-4766-4d98-ace8-55d78565f9c9@46e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241031T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241031T070000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:40bee2e1-e2e3-4cef-a33e-56696b17483a@40be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241015T110000Z
-DTSTART:20241015T093000Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
-UID:cdd5995f-251b-4f8b-9d8a-2f34c0d2e74c@cdd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241028T190000Z
-DTSTART:20241028T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:68a9d064-b18d-43dc-b4e4-cef3f67c724c@68a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241029T083000Z
-DTSTART:20241029T070000Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:867787f1-d71e-492b-985a-99b638fdfaf2@8677.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241209T190000Z
-DTSTART:20241209T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:32cff856-9eb1-4ef3-ba84-bc40968fbe75@32cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250107T120000Z
-DTSTART:20250107T103000Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
-UID:835c20b5-d52f-44ae-8670-5ee75026cfd3@835c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250116T130000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20250116T121500Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
-UID:80a6b9c6-604f-47ed-9381-ee43ed0222e3@80a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241219T190000Z
-LOCATION:Paw.B 151
-DTSTART:20241219T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:b862863d-c2d2-41b1-9ca9-ebdd7846bdb9@b862.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20250206T133000Z
-LOCATION:Paw.C sala A
-DTSTART:20250206T111500Z
-SUMMARY: (egzamin)
-UID:f09cf3b9-9f8e-4759-acfc-637dc89fc1e6@f09c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250121T153000Z
-LOCATION:Paw.C sala E
-DTSTART:20250121T144500Z
-SUMMARY:Prawo pracy (rezerwacja)
-UID:97971820-7ac2-4404-8186-7df70b539c5c@9797.org
+UID:85781935-9af6-4fcc-b869-25baa88f5e46@8578.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
 DTEND:20241029T120000Z
 DTSTART:20241029T103000Z
 SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
-UID:25ba60ad-0317-4061-bb7d-52c75355eafb@25ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241107T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20241107T121500Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
-UID:56a5773b-69a2-4709-8c82-e7f2e9d480ba@56a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241112T120000Z
-DTSTART:20241112T103000Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
-UID:733a3407-cb0f-421b-bf36-9628f5d8396a@733a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241118T153000Z
-DTSTART:20241118T140000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:41bb69db-b07a-4570-afb8-2241e41fdbb9@41bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241218T083000Z
-DTSTART:20241218T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:8d52743a-8f84-4afa-a5cd-92f97981b0cf@8d52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250121T171500Z
-DTSTART:20250121T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:e9c0eaf5-5296-463a-a5ba-a1f47f09a8da@e9c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20241121T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20241121T121500Z
-SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
-UID:31ba0c8d-7a03-4c5b-bd96-dd4d50a8031a@31ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241126T171500Z
-DTSTART:20241126T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:8a820841-d2f1-4af9-96ce-1a8f365ee09d@8a82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241118T190000Z
-DTSTART:20241118T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:52b5f94d-fc6c-4236-b652-e6a22d0d6388@52b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241015T073000Z
-DTSTART:20241015T060000Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:57711a53-ada3-4a08-8d76-d221b6cd715e@5771.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241216T190000Z
-DTSTART:20241216T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:839fa77e-c338-44ad-b091-f31c2bc66023@839f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241203T171500Z
-DTSTART:20241203T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:68c4a39d-50bc-4213-8ed8-a05e3a716179@68c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241021T180000Z
-DTSTART:20241021T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:4ccf5aeb-1207-4622-950b-141e6c375a15@4ccf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250122T190000Z
-DTSTART:20250122T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:133fe801-a894-4779-9208-61bf9eb16c2c@133f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241210T171500Z
-DTSTART:20241210T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:b91bc444-7ad5-45c0-aa26-601f6b1ab1ea@b91b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241009T180000Z
-DTSTART:20241009T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:7b59e4a9-aa5c-4c6a-821e-f16d55fde7ea@7b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241211T190000Z
-DTSTART:20241211T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:679d745a-ede6-487a-9dc7-deaac095efcd@679d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20250123T144500Z
-LOCATION:Paw.F CJ 303
-DTSTART:20250123T140000Z
-SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:1ca56ba6-a528-4199-a456-35d13267deae@1ca5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241121T190000Z
-LOCATION:Paw.B 151
-DTSTART:20241121T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:f49036f0-bf2d-4513-8e6c-1bf358f934e7@f490.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241204T083000Z
-DTSTART:20241204T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:86a1d646-a1e9-4ea3-bd3d-489f25fc44ca@86a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241211T083000Z
-DTSTART:20241211T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:38afd1a2-25b1-4aa8-a22f-c45b27025c16@38af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20250121T083000Z
-DTSTART:20250121T074500Z
-SUMMARY:Statystyczna analiza danych (wykład)
-UID:ab809fc4-ff22-4f44-b731-ef837c9cd293@ab80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241113T190000Z
-DTSTART:20241113T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:0d96d171-2538-439d-80a3-7e83bf9a41a5@0d96.org
+UID:7109145a-8d95-492f-81cc-3adfd1770793@7109.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
-DTEND:20241022T110000Z
-DTSTART:20241022T093000Z
+DTEND:20241105T120000Z
+DTSTART:20241105T103000Z
 SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:a126c9ac-9e4c-471c-8723-429355fb7eea@a126.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241217T171500Z
-DTSTART:20241217T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:6c714cd7-576f-4427-848a-2bb314e41ab8@6c71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241029T171500Z
-DTSTART:20241029T154500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:cbc905c4-fac2-4e34-9636-8046976a700d@cbc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241010T123000Z
-DTSTART:20241010T093000Z
-SUMMARY: (rezerwacja)
-UID:2a2133b6-50f8-46fc-a3bd-a8aab30f45e9@2a21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241114T134500Z
-LOCATION:.
-DTSTART:20241114T121500Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:972481ab-7122-4c47-bf1d-64dd756a25e5@9724.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241104T190000Z
-DTSTART:20241104T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:8895e0f6-3c0e-408f-bcf5-e90eae58558e@8895.org
+UID:29f9cbbe-f672-483f-8626-13558d4ce43e@29f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Hubert Obora
 DTEND:20241104T153000Z
 DTSTART:20241104T140000Z
 SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:05211d11-a03e-4057-9709-2f6267df1b25@0521.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241017T180000Z
-LOCATION:Paw.B 151
-DTSTART:20241017T163000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:8480fc26-004c-4453-bb0d-9c41a7d64541@8480.org
+UID:937e8ff0-6a13-4b56-9120-05aaae3f5d14@937e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20241105T171500Z
-DTSTART:20241105T154500Z
+DTEND:20241126T171500Z
+DTSTART:20241126T154500Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:ac049a06-5a12-4a49-9615-52069e52af1a@ac04.org
+UID:97b21175-cef9-4b4e-8e10-e9cda4299fa7@97b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241112T083000Z
-DTSTART:20241112T070000Z
+DTEND:20250121T083000Z
+DTSTART:20250121T074500Z
 SUMMARY:Statystyczna analiza danych (wykład)
-UID:47e0694d-3f10-4fc7-8eb6-caca4dd23611@47e0.org
+UID:63cb75e4-e51d-4a2d-9012-8450eae04d7f@63cb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20241128T153000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20241128T140000Z
-SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:1544f7df-6876-49b3-940e-a3b94ff3cc50@1544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
-DTEND:20241113T171500Z
-LOCATION:Paw.B 451
-DTSTART:20241113T154500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:663de700-9d3c-4f99-b826-1a8e54ffdf5d@663d.org
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241216T153000Z
+DTSTART:20241216T140000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:c4a7976d-b630-45a1-9527-2406bc2c9b54@c4a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Ćwiek
@@ -765,96 +78,14 @@ DTEND:20241219T083000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20241219T070000Z
 SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:f6f3ed58-3072-4415-a6f1-37008e406ed1@f6f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20250114T101500Z
-DTSTART:20250114T084500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:7536bb1e-b686-4c3f-98a9-72a40657ad09@7536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
-DTEND:20250108T171500Z
-LOCATION:Paw.B 451
-DTSTART:20250108T154500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:87eaf504-e592-485a-a1d7-65e5ab157c62@87ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241126T134500Z
-DTSTART:20241126T121500Z
-SUMMARY:Prawo pracy (wykład)
-UID:31e9c455-a898-4013-aeab-61777efdb30d@31e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20241119T101500Z
-DTSTART:20241119T084500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:49c6f2fa-6419-415c-90bb-923b5be28448@49c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241212T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241212T070000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:41574b6d-b5b6-4874-adaf-8a4c8b881e17@4157.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
-DTEND:20241217T120000Z
-DTSTART:20241217T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:08fbe73e-3df5-4c10-b48e-af800b4a1a86@08fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241106T083000Z
-DTSTART:20241106T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:5f189213-1a87-4375-af04-096628762e0e@5f18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20250109T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250109T070000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:bfa1bc5d-543f-4721-8f2e-b146c0ce046b@bfa1.org
+UID:4de68ba8-0ad1-464e-b095-11c13c293caa@4de6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20250114T171500Z
-DTSTART:20250114T154500Z
+DTEND:20241113T190000Z
+DTSTART:20241113T173000Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:4da1de73-ce5c-46bd-ac22-022ff16b2910@4da1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20250109T153000Z
-LOCATION:Paw.F CJ 303
-DTSTART:20250109T140000Z
-SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:a44c50aa-6006-4849-9196-44cdc54d6e02@a44c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20241024T110000Z
-DTSTART:20241024T093000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
-UID:5bf828f9-5aa8-473d-9910-03cbdb6e1fd3@5bf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241010T073000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241010T060000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:9a8964a5-fc0d-4a6b-a672-12eef22ebb68@9a89.org
+UID:b6bb1545-e28e-48c6-ae06-e7b3e0c5fa7b@b6bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Klaudia Blachnicka
@@ -862,22 +93,14 @@ DTEND:20241031T190000Z
 LOCATION:Paw.B 151
 DTSTART:20241031T173000Z
 SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:5c0be4d0-022f-495c-8e89-db62a6838595@5c0b.org
+UID:e48c5a10-f73e-40d3-a9c5-0fad5c75d52f@e48c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20241121T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20241121T070000Z
-SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:24f2702d-b187-4157-ae96-06b9b610b190@24f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241030T083000Z
-DTSTART:20241030T070000Z
-SUMMARY:Prawo pracy (Przeniesienie zajęć)
-UID:b7ce063e-0c0c-49d8-b0e7-28aca8770e2a@b7ce.org
+DESCRIPTION:Instructor: 
+DTEND:20241217T171500Z
+DTSTART:20241217T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:ffb84749-d9ba-4405-8034-75e4ac8932bf@ffb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Spendel
@@ -885,80 +108,14 @@ DTEND:20241219T120000Z
 LOCATION:Paw.S sala 7
 DTSTART:20241219T103000Z
 SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:20fa28c2-b9c6-4942-bdd1-ad63a6f18803@20fa.org
+UID:5773793f-e4f9-44ab-a08e-266c709e0f55@5773.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20250113T190000Z
-DTSTART:20250113T173000Z
+DTEND:20241016T180000Z
+DTSTART:20241016T163000Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:c435a9b0-ae54-469f-90d0-86e6fabce45a@c435.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20250116T120000Z
-LOCATION:Paw.G 12
-DTSTART:20250116T111500Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
-UID:2f8fe57d-59cc-4578-bf6e-7a2c32920306@2f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241125T190000Z
-DTSTART:20241125T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:81fff929-205a-4837-a907-8a402587e312@81ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241216T153000Z
-DTSTART:20241216T140000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:61312630-9f61-4c3f-8145-2cc12e104eb9@6131.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241030T190000Z
-DTSTART:20241030T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:5ca40ff8-4db4-432f-9748-25c1ff649764@5ca4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250120T190000Z
-DTSTART:20250120T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:b94edba8-0422-4eb7-904a-a0ec832aa3ed@b94e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241015T161500Z
-DTSTART:20241015T144500Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:eeaa00cf-8da8-46f1-be06-9a927edb98bc@eeaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Urszula Bukowska
-DTEND:20250121T130000Z
-DTSTART:20250121T121500Z
-SUMMARY:Przywództwo w organizacji (wykład)
-UID:e1d1c8ee-ac93-4379-999e-2acb1ece9739@e1d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
-DTEND:20250122T163000Z
-LOCATION:Paw.B 451
-DTSTART:20250122T154500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:c61ef572-92a8-4f32-ac74-9aefe27b96fe@c61e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241107T190000Z
-LOCATION:Paw.B 151
-DTSTART:20241107T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:ec1d7321-b988-48a6-b641-50c0ba652afe@ec1d.org
+UID:12e99a0b-3573-497c-9a93-9e5cf45eb444@12e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Ireneusz Rynduch
@@ -966,109 +123,44 @@ DTEND:20241017T143000Z
 LOCATION:Paw.F CJ 303
 DTSTART:20241017T130000Z
 SUMMARY:Przywództwo w organizacji (ćwiczenia)
-UID:a29375bc-6c8d-46ee-bddb-f3bcbc17122c@a293.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
-DTEND:20241119T120000Z
-DTSTART:20241119T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:e028f43c-1d5e-4a2b-abf1-909866a45575@e028.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241024T180000Z
-LOCATION:Paw.B 151
-DTSTART:20241024T163000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:e0f8c34d-6bc5-4964-97db-722628b2fe39@e0f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
-DTEND:20241203T120000Z
-DTSTART:20241203T103000Z
-SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
-UID:3c6773a8-1368-4b94-8676-3373ce673a24@3c67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Klaudia Blachnicka
-DTEND:20241212T190000Z
-LOCATION:Paw.B 151
-DTSTART:20241212T173000Z
-SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
-UID:27fd1e50-a68d-4141-99c4-f3e06feb738d@27fd.org
+UID:07e27d4d-3485-4fe6-8163-581bb359d938@07e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Hubert Obora
 DTEND:20250113T144500Z
 DTSTART:20250113T140000Z
 SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:f8071653-99ef-4551-8711-95cb26289981@f807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
-DTEND:20241127T171500Z
-LOCATION:Paw.B 451
-DTSTART:20241127T154500Z
-SUMMARY:Prawo pracy (ćwiczenia)
-UID:8bac9b88-e60e-4ded-b4b8-e663768532eb@8bac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241120T083000Z
-DTSTART:20241120T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:80f15c62-afa2-430f-bd07-7743dec7f44c@80f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241127T083000Z
-DTSTART:20241127T070000Z
-SUMMARY:Prawo pracy (wykład)
-UID:ba455920-508a-43d3-83d3-72dbbd8f1dd9@ba45.org
+UID:eb25804d-3284-4ffe-92a2-2505a7a47100@eb25.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20250108T190000Z
-DTSTART:20250108T173000Z
+DTEND:20241029T171500Z
+DTSTART:20241029T154500Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:e1e8c64d-78a7-4dac-859b-0a88c3d6aeb1@e1e8.org
+UID:c5f586d9-c5d8-4f86-8d33-68c12764a2a1@c5f5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250115T190000Z
-DTSTART:20250115T173000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:47572f03-b826-445d-bc1c-1a3e4511e2f9@4757.org
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241008T091500Z
+DTSTART:20241008T074500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:d231b36a-dfc6-4aa7-86ad-09731f1685cb@d231.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241016T180000Z
-DTSTART:20241016T163000Z
-SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:08c25bcc-4949-4977-9be9-3980754a4af1@08c2.org
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241128T134500Z
+LOCATION:Paw.E sala J
+DTSTART:20241128T121500Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:ed82a90b-0df1-4719-b14b-3c77401e225c@ed82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Ćwiek
-DTEND:20250116T083000Z
+DTEND:20241031T083000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250116T070000Z
+DTSTART:20241031T070000Z
 SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:f96908a3-c967-4e94-8314-d083e7d13ae8@f969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241007T143000Z
-DTSTART:20241007T130000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:a3443259-a52f-458b-925c-a4ce5089fa00@a344.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20241202T153000Z
-DTSTART:20241202T140000Z
-SUMMARY:Współczesne koncepcje zarządzania (wykład)
-UID:c259c7fb-edab-4f88-8fd4-b2f88f7f5ed4@c259.org
+UID:ee37612e-53d3-4083-832e-3a0d1de2ab21@ee37.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Ćwiek
@@ -1076,7 +168,156 @@ DTEND:20241107T083000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20241107T070000Z
 SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:c7d5b721-4fa3-4221-93bd-d117a05a7ca1@c7d5.org
+UID:5aaad786-50dd-41a5-969b-9d2d95cf779d@5aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250121T171500Z
+DTSTART:20250121T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:d2b63fb8-3f4f-41f9-84ac-fc714cab47bd@d2b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241128T190000Z
+LOCATION:Paw.B 151
+DTSTART:20241128T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:66380337-8a2c-4c5f-9639-f34f77df04e1@6638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241205T110000Z
+LOCATION:.
+DTSTART:20241205T084500Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:b0e895ff-c22f-4f79-8cfe-f835ff915e5b@b0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20250206T133000Z
+LOCATION:Paw.C sala A
+DTSTART:20250206T111500Z
+SUMMARY: (egzamin)
+UID:3f516765-c0bf-4614-8bf3-d7185b53986a@3f51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250121T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20250121T144500Z
+SUMMARY:Prawo pracy (rezerwacja)
+UID:e83cdd8a-0d6b-4e86-824d-433980b0041a@e83c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
+DTEND:20241113T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241113T154500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:f1ce3f51-0d48-4bcd-918d-947b74d3a38b@f1ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250107T120000Z
+DTSTART:20250107T103000Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
+UID:bf09a949-7a13-491b-bbd9-caaf9c8ccc5e@bf09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241015T073000Z
+DTSTART:20241015T060000Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:fd9bba32-0172-4fcc-b899-109555e99992@fd9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241121T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241121T070000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:8a595bac-e237-4c3a-a766-2dec32fcfbc7@8a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20250116T111500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250116T103000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:e1c0084e-1c8c-445f-b327-119e0f652c42@e1c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241126T120000Z
+DTSTART:20241126T103000Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
+UID:82cd3ecb-8c0b-4f99-a07a-427a88e33660@82cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:620f8c5a-cf6f-47fc-bd34-98ba6b3cd962@620f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241210T120000Z
+DTSTART:20241210T103000Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
+UID:58c8e037-5d01-449e-8a5c-9393cfc82ea4@58c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241022T161500Z
+DTSTART:20241022T144500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:7fcf9192-52a6-4c96-9184-3950da5246a4@7fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20250107T083000Z
+DTSTART:20250107T070000Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:7305f914-1947-4e04-90b0-6293901458dd@7305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241112T083000Z
+DTSTART:20241112T070000Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:9f591c8c-e6f8-4960-a10d-2b4fa1adf784@9f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250109T190000Z
+LOCATION:Paw.B 151
+DTSTART:20250109T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:41175e16-ae92-4192-a22d-fb3d20a2b737@4117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241121T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241121T121500Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
+UID:37b7ab3c-4b9b-4ec0-bc93-e6cd3b4e987c@37b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241015T110000Z
+DTSTART:20241015T093000Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
+UID:d842821c-f562-4b0c-a5c4-01a9ab8165a3@d842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241218T083000Z
+DTSTART:20241218T070000Z
+SUMMARY:Prawo pracy (wykład)
+UID:08375792-c69d-4918-989c-9c53d18cdf94@0837.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
@@ -1084,35 +325,780 @@ DTEND:20241205T134500Z
 LOCATION:208 paw.U (tylko Kat. Rach)
 DTSTART:20241205T121500Z
 SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
-UID:02e7280c-3c1c-4933-a61d-49bfba172a22@02e7.org
+UID:2b118661-611a-4903-8863-6d045ea65d7b@2b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250107T171500Z
+DTSTART:20250107T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:3d10727e-e1d4-4d5a-bb32-695cdd8ad94c@3d10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241021T143000Z
+DTSTART:20241021T130000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:4e095649-a45b-431e-99ff-c21f42bdc35b@4e09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241024T110000Z
+DTSTART:20241024T093000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
+UID:4a2dd489-473f-4813-aa6e-f801ac9daf83@4a2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250116T130000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250116T121500Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
+UID:7e3672d3-fbe3-4896-a4d7-576f8f9515d8@7e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241024T091500Z
+LOCATION:.
+DTSTART:20241024T074500Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:8e2e9a17-7c55-487a-bed9-fd3e7f79b9d8@8e2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241023T073000Z
-DTSTART:20241023T060000Z
+DTEND:20241126T134500Z
+DTSTART:20241126T121500Z
 SUMMARY:Prawo pracy (wykład)
-UID:bddc8e51-d238-4ca9-9530-8c5bf3c7ec0f@bddc.org
+UID:fe440621-6ada-4d8e-9fae-17c52e84c0e8@fe44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241114T153000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241114T140000Z
+SUMMARY:Przywództwo w organizacji (ćwiczenia)
+UID:30028911-cd49-4f81-b568-697a8cc048eb@3002.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241205T144500Z
+DTSTART:20241205T140000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
+UID:64a5ffe5-e62a-4cd9-b901-39c8d94028c7@64a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241007T143000Z
+DTSTART:20241007T130000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:2a58c0b6-36da-4132-a064-b25080a539a0@2a58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241114T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241114T070000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:02b56a8a-ac5f-40cb-8bd4-7533094276e9@02b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20241219T134500Z
-DTSTART:20241219T121500Z
-SUMMARY: (rezerwacja)
-UID:065c2d7c-af9c-4648-86bc-30dac90b3f8e@065c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20241127T190000Z
-DTSTART:20241127T173000Z
+DTEND:20241028T190000Z
+DTSTART:20241028T173000Z
 SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
-UID:5d94cfb0-db53-4f9f-9e0e-2ac2f7027730@5d94.org
+UID:d6bf5cce-a316-4617-984e-e4ae595772af@d6bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241127T083000Z
+DTSTART:20241127T070000Z
+SUMMARY:Prawo pracy (wykład)
+UID:a87bf706-fe6e-40fc-b0bf-5b7ba35353d8@a87b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250113T190000Z
+DTSTART:20250113T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:b30c358e-a536-49a2-8954-e260e73b69fe@b30c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241009T180000Z
+DTSTART:20241009T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:3c597162-3451-41ce-894f-db32d18c3488@3c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
+DTEND:20241008T110000Z
+DTSTART:20241008T093000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:daf7318c-4476-4154-b12e-4f8f8f483ad4@daf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241029T083000Z
+DTSTART:20241029T070000Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:12eeb52b-b7d5-406c-adc8-dcd3bc75f897@12ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
+DTEND:20241119T120000Z
+DTSTART:20241119T103000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:e01dc404-febb-4556-adb0-6b950bf231cc@e01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241119T101500Z
+DTSTART:20241119T084500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:7883a094-64f7-4283-8c81-ed925b968bee@7883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241219T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241219T154500Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
+UID:7509d9f3-3e3c-482f-9c4a-e476c520d785@7509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20250116T120000Z
+LOCATION:Paw.G 12
+DTSTART:20250116T111500Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:3282ba70-abe0-4b87-8a74-1a187cb4998c@3282.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
 DTEND:20250108T083000Z
 DTSTART:20250108T070000Z
 SUMMARY:Prawo pracy (wykład)
-UID:ca0c03e3-c314-411a-9fe6-6c247c387a81@ca0c.org
+UID:d5df1f47-bea5-4a77-b533-a96b57e63b9b@d5df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241017T180000Z
+LOCATION:Paw.B 151
+DTSTART:20241017T163000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:fa14e1b8-933f-436a-8087-e97d2e8ec43e@fa14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241125T190000Z
+DTSTART:20241125T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:4ed626cf-7fc6-4899-9e19-39e28ac23945@4ed6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241204T083000Z
+DTSTART:20241204T070000Z
+SUMMARY:Prawo pracy (wykład)
+UID:c47ac47d-a9cc-4de5-8436-ae93ba299dcb@c47a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241030T190000Z
+DTSTART:20241030T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:29c48233-1571-42da-962b-3eb8bcdaab96@29c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241120T083000Z
+DTSTART:20241120T070000Z
+SUMMARY:Prawo pracy (wykład)
+UID:d3cd2c59-83f7-4a0b-8dcf-b2c8e16debb1@d3cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241014T180000Z
+DTSTART:20241014T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:4a932f22-76c6-4ec5-8159-d210a3bd3ccc@4a93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241031T171500Z
+LOCATION:Paw.B 351
+DTSTART:20241031T154500Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
+UID:f1e68f3c-32f3-444e-93b5-72f0bc5f2c85@f1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250115T083000Z
+DTSTART:20250115T070000Z
+SUMMARY:Prawo pracy (wykład)
+UID:3bd923a4-95b9-4284-b73f-2a0dc7dc09de@3bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241118T190000Z
+DTSTART:20241118T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:5ed51926-8235-45e7-a385-a7589c87a29c@5ed5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241009T073000Z
+DTSTART:20241009T060000Z
+SUMMARY:Prawo pracy (wykład)
+UID:2074903d-7262-4af5-a234-e3a823197509@2074.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241209T190000Z
+DTSTART:20241209T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:d3fd5b26-69d5-431f-9f58-bfceaf952af6@d3fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241113T083000Z
+DTSTART:20241113T070000Z
+SUMMARY:Prawo pracy (wykład)
+UID:f9395cdf-60ca-4a05-9454-ea9aa12e7b46@f939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241105T101500Z
+DTSTART:20241105T084500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:d6ab5eaf-c488-460b-81c4-956a31a1bed4@d6ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241127T190000Z
+DTSTART:20241127T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:39128fc0-0b17-492f-8a11-c95e2c6fb1cb@3912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241105T171500Z
+DTSTART:20241105T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:bdc8b296-4195-48c2-9f01-eeed126dd924@bdc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
+DTEND:20241211T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241211T154500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:e3250654-19b5-4646-8176-92daa34e35c7@e325.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241203T171500Z
+DTSTART:20241203T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:45da712a-2e71-47b2-a62d-22a49a423d59@45da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241212T190000Z
+LOCATION:Paw.B 151
+DTSTART:20241212T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:fbde5355-8880-42c8-a5c4-3035dc49206a@fbde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20250109T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250109T070000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:a39dfc5e-7127-4895-8353-d37828d3e64b@a39d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241128T153000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241128T140000Z
+SUMMARY:Przywództwo w organizacji (ćwiczenia)
+UID:741f9bdc-c95e-47f6-af80-9082d8e852c0@741f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241119T171500Z
+DTSTART:20241119T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:535d8b7d-12d0-4a7a-8081-b3b1c5c3ac8e@535d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241021T180000Z
+DTSTART:20241021T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:37334c05-d7a6-4bd8-84ae-4edd32dcdbbd@3733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241205T190000Z
+LOCATION:Paw.B 151
+DTSTART:20241205T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:2f3aec2a-c8b0-44e5-804e-09d37edc3276@2f3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250120T190000Z
+DTSTART:20250120T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:6804bcdb-b080-41a5-b6e3-03617553c8bf@6804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
+DTEND:20250114T111500Z
+DTSTART:20250114T103000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:9347440c-67a7-46b5-8fbb-2a7fe98fbf62@9347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241212T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241212T070000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:9a003b9f-543b-4f21-a7ce-ebd235873f4b@9a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241118T153000Z
+DTSTART:20241118T140000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:15a07cbf-f947-4cc8-bcd8-792701fc5f77@15a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241203T101500Z
+DTSTART:20241203T084500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:69a8b071-8dac-44e4-8b9a-5cedaf01f45d@69a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
+DTEND:20241016T161500Z
+LOCATION:Paw.B 451
+DTSTART:20241016T144500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:5151f4ce-df4f-48e1-8c9a-15d18e128219@5151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241010T180000Z
+LOCATION:Paw.B 151
+DTSTART:20241010T163000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:7103aec3-e935-46b7-8082-c975ea1e8bf5@7103.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241219T190000Z
+LOCATION:Paw.B 151
+DTSTART:20241219T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:da3f1c88-7b7c-4df9-92f2-f8b8971cf576@da3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20250114T101500Z
+DTSTART:20250114T084500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:cd1ec70c-ad41-4e02-ab45-899dc0fdbd2f@cd1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241007T180000Z
+DTSTART:20241007T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:a0e5e036-3e2c-45e0-9af6-47fab61b67bd@a0e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20241202T153000Z
+DTSTART:20241202T140000Z
+SUMMARY:Współczesne koncepcje zarządzania (wykład)
+UID:a9d6c847-8009-49d3-a24d-947de692bc00@a9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241024T073000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241024T060000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:ef1c0a06-7b7f-48eb-b2fa-eccab8e1e14d@ef1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241114T190000Z
+LOCATION:Paw.B 151
+DTSTART:20241114T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:ad86af56-3a28-4845-9a3d-c39f88213d49@ad86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241212T171500Z
+DTSTART:20241212T154500Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (Przeniesienie zajęć)
+UID:bbdde4bb-d27c-460e-826b-da6b296ca8fb@bbdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241016T073000Z
+DTSTART:20241016T060000Z
+SUMMARY:Prawo pracy (wykład)
+UID:306c1978-f2f4-46ed-bfcd-d2ecac35f021@306c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241023T073000Z
+DTSTART:20241023T060000Z
+SUMMARY:Prawo pracy (wykład)
+UID:9c851512-5110-4bf5-a882-ebdb7f8c8061@9c85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
+DTEND:20250108T171500Z
+LOCATION:Paw.B 451
+DTSTART:20250108T154500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:9a9a5f3f-eec4-4d22-91ab-5c86631a2c15@9a9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250121T111500Z
+DTSTART:20250121T103000Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
+UID:a373c713-512f-40dc-b7c4-89daab5db4af@a373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20241106T083000Z
+DTSTART:20241106T070000Z
+SUMMARY:Prawo pracy (wykład)
+UID:9285d974-0155-493e-a7a5-cf8ff81f749a@9285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250114T171500Z
+DTSTART:20250114T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:6c5da988-bb61-43c0-9139-01325a1c87be@6c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241112T171500Z
+DTSTART:20241112T154500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:08132e30-2a03-4d53-8ba7-9b839825712e@0813.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241205T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241205T070000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:4d6607af-920b-4896-aa28-b7fc061697a2@4d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241008T161500Z
+DTSTART:20241008T144500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:7284cfe0-5eee-4163-9668-2717be7e6f7d@7284.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241202T190000Z
+DTSTART:20241202T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:76edf0a6-61ef-4925-ae4d-e31a0d01877f@76ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
+DTEND:20241203T120000Z
+DTSTART:20241203T103000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:6e658f70-7abf-4d7f-8967-b9c7690b73d0@6e65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241216T190000Z
+DTSTART:20241216T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:8ca561b5-b5b5-469c-9e16-6143f629fe6b@8ca5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241204T190000Z
+DTSTART:20241204T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:95198637-accb-46b6-83f8-4fefcde04bda@9519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250108T190000Z
+DTSTART:20250108T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:c26336ac-fb73-47c6-b3cf-0261e9032097@c263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241104T190000Z
+DTSTART:20241104T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:b039a53b-cc3d-43f7-a936-27fd1312173d@b039.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20250121T130000Z
+DTSTART:20250121T121500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:e362a16b-db13-4989-a049-0e820960731c@e362.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241211T190000Z
+DTSTART:20241211T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:a71d05f7-2744-4c85-a0c9-c0ef6329aad5@a71d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241024T180000Z
+LOCATION:Paw.B 151
+DTSTART:20241024T163000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:a4d89605-43f4-4f07-b563-04229453b01b@a4d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
+DTEND:20241127T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241127T154500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:1047b0b9-3339-4d95-b841-22b589152872@1047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241107T190000Z
+LOCATION:Paw.B 151
+DTSTART:20241107T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:5db3a659-e0b5-4f97-81ef-17645edc5268@5db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241023T180000Z
+DTSTART:20241023T163000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:f0ed89c0-f7d0-47a3-be8d-2814397b4541@f0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
+DTEND:20250122T163000Z
+LOCATION:Paw.B 451
+DTSTART:20250122T154500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:eb7311b2-1be0-40d1-8050-2eb7e10d52aa@eb73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250122T190000Z
+DTSTART:20250122T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:234ce979-a000-46f9-9701-8c1246ae32b9@234c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250116T190000Z
+LOCATION:Paw.B 151
+DTSTART:20250116T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:9fb3ba32-7591-410e-bc78-8a9d99553dc6@9fb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241022T091500Z
+DTSTART:20241022T074500Z
+SUMMARY:Przywództwo w organizacji (wykład)
+UID:827a66ca-a6be-489d-b117-c979d119e9f8@827a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241106T190000Z
+DTSTART:20241106T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:1c7a18d2-e938-4ecd-a009-4c6979e0e0cf@1c7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241031T153000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241031T140000Z
+SUMMARY:Przywództwo w organizacji (ćwiczenia)
+UID:6e79e1b8-89be-47a3-966b-50b84950ae25@6e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krzysztof Bodzenta
+DTEND:20241030T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241030T154500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:fe96382d-7aee-4d50-8d24-4c60d02bc2f4@fe96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241121T190000Z
+LOCATION:Paw.B 151
+DTSTART:20241121T173000Z
+SUMMARY:Współczesne koncepcje zarządzania (ćwiczenia)
+UID:2e365ee3-408f-43fc-8c10-fb938631ce09@2e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250109T153000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20250109T140000Z
+SUMMARY:Przywództwo w organizacji (ćwiczenia)
+UID:c3d264c0-c802-4633-9be7-db7caff82bbc@c3d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20250116T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250116T070000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:8ffd0d28-4f5d-46b7-bca8-f9faff3065b4@8ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241010T073000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241010T060000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:5ad69931-4454-46fe-aa81-7269447647ef@5ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241114T134500Z
+LOCATION:.
+DTSTART:20241114T121500Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (ćwiczenia)
+UID:8c2d3dcc-a0f6-4a91-993a-52d66d20df09@8c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241212T153000Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241212T140000Z
+SUMMARY:Przywództwo w organizacji (ćwiczenia)
+UID:3fc0cca0-619d-48e6-ada6-349abee4f8e6@3fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
+DTEND:20241217T120000Z
+DTSTART:20241217T103000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:050873cb-768e-4d17-b8fd-05c3929f7f95@0508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20241210T083000Z
+DTSTART:20241210T070000Z
+SUMMARY:Statystyczna analiza danych (wykład)
+UID:9fd1f547-55cf-40e2-8985-18d2cf2ec7ba@9fd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241107T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241107T121500Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
+UID:33790196-0b38-403e-b381-b202222cb294@3379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Ćwiek
+DTEND:20250130T100000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250130T074500Z
+SUMMARY: (rezerwacja)
+UID:f83c7c51-57c8-468a-8c1d-852e4fd587e4@f83c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:4cb97a29-aaae-4e9e-90e4-c384841748af@4cb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250123T144500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20250123T140000Z
+SUMMARY:Przywództwo w organizacji (ćwiczenia)
+UID:a5eca793-12e3-4bac-8fbe-fcf5b775438f@a5ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241218T190000Z
+DTSTART:20241218T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:d56cf39c-96d6-4d04-ae4a-4c74eb7e9fae@d56c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250115T190000Z
+DTSTART:20250115T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:fea08796-f5cf-4c2f-9f2f-5227704fdc3c@fea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241015T161500Z
+DTSTART:20241015T144500Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:13c5b5ca-dc90-4996-b1b8-7cb78d5a3acc@13c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241121T120000Z
+DTSTART:20241121T103000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
+UID:94da36bd-698d-4176-b516-882d5dd1c215@94da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250123T171500Z
+LOCATION:Paw.F CJ  301
+DTSTART:20250123T154500Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (ćwiczenia)
+UID:b00399b8-9db4-45ca-8f7e-3531ebddac48@b003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20241107T120000Z
+DTSTART:20241107T103000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (Przeniesienie zajęć)
+UID:13b0e00b-4108-425e-b582-114b7fa9c2db@13b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jan Wiktor
+DTEND:20241022T110000Z
+DTSTART:20241022T093000Z
+SUMMARY:Zarządzanie marketingiem międzynarodowym (wykład)
+UID:c674fa27-d1a1-401b-9f20-6bc779a500b2@c674.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Ćwiek
@@ -1120,13 +1106,27 @@ DTEND:20241017T073000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20241017T060000Z
 SUMMARY:Statystyczna analiza danych (ćwiczenia)
-UID:2d6e22a9-9ba0-4c26-bbad-928f45fcddc5@2d6e.org
+UID:a9ccb02b-54bc-4e1d-a905-deb450a459b5@a9cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20241016T073000Z
-DTSTART:20241016T060000Z
+DTEND:20241211T083000Z
+DTSTART:20241211T070000Z
 SUMMARY:Prawo pracy (wykład)
-UID:46715e25-4a13-4313-b9a3-6add203ca69d@4671.org
+UID:2dfdc23f-8a1d-4854-9d5a-02a891186e8b@2dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241112T120000Z
+DTSTART:20241112T103000Z
+SUMMARY:Rachunkowość zarządcza i sprawozdawczość (wykład)
+UID:1a825cc6-20e1-4b59-8bcf-f280f4c53ad9@1a82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241120T190000Z
+DTSTART:20241120T173000Z
+SUMMARY:Język obcy pierwszy/drugi (zaawansowany) 1.1 - grupa przedmiotów (ćwiczenia)
+UID:490664a6-a44d-4f65-956d-9c20422f765d@4906.org
 END:VEVENT
 END:VCALENDAR
