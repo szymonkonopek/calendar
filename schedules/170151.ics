@@ -2,27 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250323T114500Z
-DTSTART:20250323T093000Z
-SUMMARY:Rynki finansowe (wykład)
-UID:38a47528-e6ce-4cc3-80c2-7475e49eb177@38a4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20250405T104500Z
-LOCATION:Paw.F 715
-DTSTART:20250405T083000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:2054834d-0030-4572-8d10-6374e77b9913@2054.org
+DTEND:20250905T184500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250905T163000Z
+SUMMARY: (egzamin)
+UID:527ff41d-9157-4957-b23c-0e8271b8676e@527f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250614T081500Z
-LOCATION:Bud.gł. 7
-DTSTART:20250614T060000Z
-SUMMARY:Prawo handlowe (ćwiczenia)
-UID:addec403-c306-4d10-a88a-ab6a868caba8@adde.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250309T091500Z
+DTSTART:20250309T070000Z
+SUMMARY:Analiza finansowa (wykład)
+UID:b6148614-f9c0-4b5d-bea5-e8d48e3200dc@b614.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Surówka
@@ -30,574 +22,14 @@ DTEND:20250405T133000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20250405T111500Z
 SUMMARY:Analiza finansowa (ćwiczenia)
-UID:32e71086-4c14-4332-aea1-637daee0e16a@32e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Surówka
-DTEND:20250301T091500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20250301T070000Z
-SUMMARY:Analiza finansowa (ćwiczenia)
-UID:19a63b3c-3cb1-46d5-b107-63e75cbb1890@19a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250309T143000Z
-DTSTART:20250309T121500Z
-SUMMARY:Rynki finansowe (wykład)
-UID:b859bf7c-90f7-49af-b5d5-2f13669fc511@b859.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250413T081500Z
-DTSTART:20250413T060000Z
-SUMMARY:Rozwój zrównoważony (wykład do wyboru)
-UID:eb9be49c-160b-43e5-93ff-63ca0c777354@eb9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20250511T073000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250511T060000Z
-SUMMARY:Rynki finansowe (ćwiczenia)
-UID:58965066-46ef-4837-a607-ec10efee90a2@5896.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20250511T104500Z
-LOCATION:Paw.F 715
-DTSTART:20250511T083000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:43adc081-e79b-4ade-8838-478ef2a21269@43ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
-DTEND:20250228T194500Z
-DTSTART:20250228T173000Z
-SUMMARY:Innowacje Finansowe Fin Tech (wykład do wyboru)
-UID:28fd18d3-b557-49b7-a51c-0443d545ec08@28fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250321T194500Z
-DTSTART:20250321T173000Z
-SUMMARY:Prawo handlowe (wykład)
-UID:fd6b12d7-a148-4ee9-afcf-e2ae785a15bc@fd6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20250524T133000Z
-LOCATION:Paw.F 106
-DTSTART:20250524T111500Z
-SUMMARY:Innowacje Finansowe Fin Tech (ćwiczenia do wyboru)
-UID:4efd27b6-7161-4df8-ba1d-9fa8264d8258@4efd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20250607T104500Z
-LOCATION:Paw.F 715
-DTSTART:20250607T083000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:7db75b79-0789-4eb0-8ebc-a76a9a9f9ac6@7db7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20250905T184500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250905T163000Z
-SUMMARY: (egzamin)
-UID:81e86d29-0441-4028-a34c-1ed0cf7e6995@81e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Surówka
-DTEND:20250315T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250315T093000Z
-SUMMARY:Analiza finansowa (ćwiczenia)
-UID:dd94e68b-57f6-443c-aec9-42c0973b15b9@dd94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250905T161500Z
-LOCATION:Bibl. 443
-DTSTART:20250905T144500Z
-SUMMARY: (egzamin)
-UID:a7d5b865-29a8-4cf3-a97b-7727e9e73364@a7d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
-DTEND:20250411T184500Z
-DTSTART:20250411T163000Z
-SUMMARY:Innowacje Finansowe Fin Tech (wykład do wyboru)
-UID:6b883aa8-4773-460f-9af7-5e7bd9dec0de@6b88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250307T194500Z
-DTSTART:20250307T173000Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:c119c5aa-ce7f-45ca-b3f6-23436c944bf0@c119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250322T091500Z
-LOCATION:Paw.F 107
-DTSTART:20250322T070000Z
-SUMMARY:Klimat\, finanse i zielona gospodarka (ćwiczenia do wyboru)
-UID:0e381667-2ab8-429d-9211-8e2633cda97c@0e38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250309T114500Z
-DTSTART:20250309T093000Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:51a55b72-fdfe-4e4d-a5c8-63a271b4fdfa@51a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250525T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20250525T163000Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (egzamin)
-UID:e2eb00f7-4a67-48b4-8513-376c51d8cc39@e2eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20250301T114500Z
-LOCATION:Paw.F 715
-DTSTART:20250301T093000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:1389dfa0-1dcd-498a-bfaa-15b4c4e7498d@1389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250411T184500Z
-DTSTART:20250411T163000Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
-UID:5aacc7f3-4054-4fc2-bdef-6c2a412211ab@5aac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250530T184500Z
-DTSTART:20250530T163000Z
-SUMMARY:Rynki finansowe (wykład)
-UID:e7121508-40bd-49fb-844e-a0560f64a487@e712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250330T133000Z
-DTSTART:20250330T111500Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (wykład do wyboru)
-UID:c987602d-ae9b-47cc-820e-e422f9f63802@c987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250302T114500Z
-DTSTART:20250302T093000Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (wykład do wyboru)
-UID:78e211aa-4e30-4a7d-819e-8c3dd65184db@78e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
-DTEND:20250309T091500Z
-DTSTART:20250309T070000Z
-SUMMARY:Analiza finansowa (wykład)
-UID:71eacc44-53fa-4591-8a74-abf72762f561@71ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250524T133000Z
-LOCATION:Platforma Moodle
-DTSTART:20250524T111500Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (Ćwiczenia e-learningowe)
-UID:5f8c61c5-3f05-40d0-b73c-83edf72bb622@5f8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250412T104500Z
-DTSTART:20250412T083000Z
-SUMMARY:Prawo handlowe (Przeniesienie zajęć)
-UID:729bfb97-d8b3-49c9-8998-6187633896d6@729b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20250510T081500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250510T060000Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (ćwiczenia do wyboru)
-UID:b49b4c77-5911-4984-bd3d-3ddb2f446195@b49b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Rozwój zrównoważony (wykład do wyboru)
-UID:a6ee4165-e527-4f86-bd1d-570610844c99@a6ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20250524T104500Z
-LOCATION:Paw.F 715
-DTSTART:20250524T083000Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:3da7c062-50b7-4891-9fd8-1109584f2d9f@3da7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250411T160000Z
-DTSTART:20250411T134500Z
-SUMMARY:Prawo handlowe (wykład)
-UID:f5a6fc6f-6f99-4c95-a120-436439b1d748@f5a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250620T171500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21\, Paw.A 117 lab. Win10\, Office21\, Paw.A 118 lab. Win10\, Office21
-DTSTART:20250620T163000Z
-SUMMARY:Rynki finansowe (egzamin)
-UID:f8a8d054-b45a-48b1-afd9-d2bbebaf06f2@f8a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Klimat\, finanse i zielona gospodarka (wykład do wyboru)
-UID:0091e095-4e8a-4c1f-ab1c-ac0e28c19c6b@0091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250510T133000Z
-LOCATION:Bud.gł. 7
-DTSTART:20250510T111500Z
-SUMMARY:Prawo handlowe (ćwiczenia)
-UID:dbd98d32-f0ae-4375-8cb0-22bcc62b601a@dbd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
-DTEND:20250328T170000Z
-DTSTART:20250328T144500Z
-SUMMARY:Analiza finansowa (wykład)
-UID:5352cbd3-42f9-47b7-b79e-170e79d2f48d@5352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250413T104500Z
-DTSTART:20250413T083000Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (Przeniesienie zajęć)
-UID:092025c6-116b-4c8f-b906-4844fd0e1d41@0920.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250530T160000Z
-DTSTART:20250530T134500Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:1012c081-feb7-4123-9d1a-62d84b7cf612@1012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250509T160000Z
-DTSTART:20250509T134500Z
-SUMMARY:Prawo handlowe (wykład)
-UID:53453dc7-b6ac-424e-9b11-adbca9622ce1@5345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250404T184500Z
-DTSTART:20250404T163000Z
-SUMMARY:Prawo handlowe (wykład)
-UID:306849c3-d79f-4b33-a1e9-c835dec38313@3068.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250426T064500Z
-DTSTART:20250426T060000Z
-SUMMARY:Rozwój zrównoważony (wykład do wyboru)
-UID:a0ecaed5-7453-4292-a14f-b88fb2c6c0c5@a0ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250228T194500Z
-DTSTART:20250228T173000Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
-UID:8d2e3025-dcf2-4330-b876-52035c83c980@8d2e.org
+UID:d38d43fe-a185-41ef-b181-ff80cf407c7d@d38d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Oleksy
 DTEND:20250509T184500Z
 DTSTART:20250509T163000Z
 SUMMARY:Rynki finansowe (wykład)
-UID:fafc35f7-e80b-418f-a6bb-08d28850e013@fafc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250412T081500Z
-LOCATION:Paw.F 107
-DTSTART:20250412T060000Z
-SUMMARY:Klimat\, finanse i zielona gospodarka (ćwiczenia do wyboru)
-UID:6ae2e749-0046-4bf3-b058-61d7f30e0170@6ae2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250606T160000Z
-DTSTART:20250606T134500Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:ecf2d980-9c6d-4c33-9650-496fd331452e@ecf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20250322T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250322T093000Z
-SUMMARY:Rynki finansowe (ćwiczenia)
-UID:7ee854ee-3f89-4dca-b82e-71612eaf5dd4@7ee8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250315T194500Z
-LOCATION:Paw.F 102
-DTSTART:20250315T173000Z
-SUMMARY:Prawo handlowe (ćwiczenia)
-UID:8154319f-3995-4355-8995-cb0755363206@8154.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
-DTEND:20250330T081500Z
-DTSTART:20250330T060000Z
-SUMMARY:Analiza finansowa (wykład)
-UID:132b5a24-8efa-4c0e-9d01-105b515670ee@132b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
-DTEND:20250314T194500Z
-DTSTART:20250314T173000Z
-SUMMARY:Innowacje Finansowe Fin Tech (wykład do wyboru)
-UID:097d3b7a-5b50-47be-a55f-84223ccbdbe2@097d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250228T194500Z
-DTSTART:20250228T173000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:3ba90ff2-0cd3-4b57-bd6b-a11a9df6c1f6@3ba9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder  dr Bartłomiej Wrona
-DTEND:20250627T184500Z
-LOCATION:Paw.S sala 8\, Paw.S sala 9
-DTSTART:20250627T163000Z
-SUMMARY: (egzamin)
-UID:a7503540-da43-48e3-9a9e-a12eba3adecf@a750.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20250322T143000Z
-LOCATION:Paw.F 715
-DTSTART:20250322T121500Z
-SUMMARY:Rachunkowość finansowa (ćwiczenia)
-UID:8e3c8281-4622-4581-bee1-afa53df97003@8e3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20250412T133000Z
-DTSTART:20250412T111500Z
-SUMMARY:Rynki finansowe (Przeniesienie zajęć)
-UID:105fdc86-06a8-4319-a17e-df3baf99dd75@105f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250316T091500Z
-DTSTART:20250316T070000Z
-SUMMARY:Klimat\, finanse i zielona gospodarka (wykład do wyboru)
-UID:32b68b59-0c6d-4c8e-b540-31ebbe293cd5@32b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250314T194500Z
-LOCATION:Platforma Moodle
-DTSTART:20250314T173000Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład e-learningowy)
-UID:b84db389-f086-44ec-92d4-d194ba0a554e@b84d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250315T091500Z
-LOCATION:Paw.F 106
-DTSTART:20250315T070000Z
-SUMMARY:Rozwój zrównoważony (ćwiczenia do wyboru)
-UID:b06c4158-a694-4494-9687-6a0193bb2b9f@b06c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250427T160000Z
-DTSTART:20250427T134500Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (wykład do wyboru)
-UID:afdf4d18-6a78-4206-9f77-15437987eaa0@afdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250302T143000Z
-DTSTART:20250302T121500Z
-SUMMARY:Rynki finansowe (wykład)
-UID:b0fcb5bf-2860-4650-adba-23edbf2e54c5@b0fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250411T184500Z
-DTSTART:20250411T163000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:c81c4c2c-e954-4386-8a30-3413363be8ea@c81c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20250405T081500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250405T060000Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (ćwiczenia do wyboru)
-UID:17c6c5a3-8b6b-4f0e-aeeb-f9bd7325db5d@17c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250314T170000Z
-DTSTART:20250314T144500Z
-SUMMARY:Prawo handlowe (wykład)
-UID:7eeb3889-7504-498b-89e8-409a0c5fb082@7eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
-DTEND:20250621T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20250621T111500Z
-SUMMARY:Analiza finansowa (egzamin)
-UID:b6c47a6f-bc74-42e9-9a41-b1c75c9beb35@b6c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250531T133000Z
-LOCATION:Paw.F 717
-DTSTART:20250531T111500Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (ćwiczenia do wyboru)
-UID:e9403126-2345-4e47-b140-2f376e45c46b@e940.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250614T133000Z
-LOCATION:Paw.C sala A
-DTSTART:20250614T111500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (ćwiczenia do wyboru)
-UID:5be96df5-6243-41f1-ae40-89bad04a01ba@5be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250511T151500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250511T134500Z
-SUMMARY:Rozwój zrównoważony (egzamin)
-UID:a136b190-39f9-468a-86ae-238fe23e76f5@a136.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250228T170000Z
-DTSTART:20250228T144500Z
-SUMMARY:Prawo handlowe (wykład)
-UID:64289b74-256b-4fc0-afb6-b746d3b78c94@6428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250405T081500Z
-LOCATION:Paw.F 106
-DTSTART:20250405T060000Z
-SUMMARY:Rozwój zrównoważony (ćwiczenia do wyboru)
-UID:77343b4f-df73-46ec-8f68-d358038949ad@7734.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250426T081500Z
-DTSTART:20250426T064500Z
-SUMMARY:Rozwój zrównoważony (wykład do wyboru)
-UID:3a02be9c-267d-4acb-b15c-a6f715d3998c@3a02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250404T160000Z
-DTSTART:20250404T134500Z
-SUMMARY:Rachunkowość finansowa (wykład)
-UID:fbeb4f8c-868f-4ae1-84e5-3b0836915f6d@fbeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Gnela
-DTEND:20250622T180000Z
-LOCATION:Bibl. 443
-DTSTART:20250622T163000Z
-SUMMARY:Prawo handlowe (egzamin)
-UID:f92db0d7-50c0-4a0f-88a8-d9394b55b44d@f92d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20250413T133000Z
-DTSTART:20250413T111500Z
-SUMMARY:Rynki finansowe (wykład)
-UID:41579fc2-e51a-4fc6-940c-9bcdf3d2d4f9@4157.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
-DTEND:20250315T091500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250315T070000Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (ćwiczenia do wyboru)
-UID:c1ef789e-1d65-40e2-b5f2-2baa00f28c76@c1ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250413T081500Z
-DTSTART:20250413T060000Z
-SUMMARY:Klimat\, finanse i zielona gospodarka (wykład do wyboru)
-UID:5688fdff-8e4a-4985-864f-8f81b015ebc2@5688.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20250614T133000Z
-LOCATION:Paw.F 106
-DTSTART:20250614T111500Z
-SUMMARY:Innowacje Finansowe Fin Tech (ćwiczenia do wyboru)
-UID:2db99269-e22a-4fab-8e77-d71c764a90e9@2db9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Igor Styn
-DTEND:20250531T133000Z
-LOCATION:Paw.F 106
-DTSTART:20250531T111500Z
-SUMMARY:Innowacje Finansowe Fin Tech (ćwiczenia do wyboru)
-UID:b34f8166-23ee-4be2-89c8-8faea829d479@b34f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250314T194500Z
-DTSTART:20250314T173000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:67a82ea5-2596-4310-96cd-8134c795767d@67a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250531T133000Z
-LOCATION:Paw.C sala A
-DTSTART:20250531T111500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (ćwiczenia do wyboru)
-UID:74da3261-4a07-402a-b341-b73ef041702d@74da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250425T160000Z
-DTSTART:20250425T134500Z
-SUMMARY:Podstawowe problemy środowiska i klimatu (Przeniesienie zajęć)
-UID:79c3065e-7735-45d1-b219-d3ebb30ba67f@79c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250510T081500Z
-LOCATION:Paw.F 106
-DTSTART:20250510T060000Z
-SUMMARY:Rozwój zrównoważony (ćwiczenia do wyboru)
-UID:2c8776b8-88f9-44ec-b6bc-d938032ed728@2c87.org
+UID:1fc8421a-8946-42fb-8a27-f68ced450d5f@1fc8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Oleksij Kelebaj
@@ -605,30 +37,297 @@ DTEND:20250510T104500Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
 DTSTART:20250510T083000Z
 SUMMARY:Rynki finansowe (ćwiczenia)
-UID:48640438-d971-4d7e-b155-abcd9a5b6631@4864.org
+UID:521003c8-319b-4c24-a8a6-3c3e7e23387c@5210.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ksymena Rosiek
-DTEND:20250524T081500Z
-LOCATION:Paw.F 107
-DTSTART:20250524T060000Z
-SUMMARY:Klimat\, finanse i zielona gospodarka (ćwiczenia do wyboru)
-UID:0b80baaf-5f91-4845-b80e-111f33328740@0b80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250614T133000Z
-LOCATION:Paw.F 717
-DTSTART:20250614T111500Z
-SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (ćwiczenia do wyboru)
-UID:c55acdf0-c50d-4071-a137-46d2f0b1cf13@c55a.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
+DTEND:20250228T194500Z
+DTSTART:20250228T173000Z
+SUMMARY:Innowacje Finansowe Fin Tech (wykład do wyboru)
+UID:c2d06439-36fd-439a-96ea-915384cfdbda@c2d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250323T091500Z
-DTSTART:20250323T070000Z
+DTEND:20250307T194500Z
+DTSTART:20250307T173000Z
 SUMMARY:Rachunkowość finansowa (wykład)
-UID:d16fc290-fdd7-40ac-af5f-7556cfdbd1bb@d16f.org
+UID:02f29346-893a-402c-962e-aedbb37a250b@02f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250510T133000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250510T111500Z
+SUMMARY:Prawo handlowe (ćwiczenia)
+UID:94828d3d-d676-4e81-8ba9-bdbb117e4b0a@9482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250614T133000Z
+LOCATION:Paw.C sala A
+DTSTART:20250614T111500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (ćwiczenia do wyboru)
+UID:a36a7a62-b43f-4009-9ef7-79e6e6c44344@a36a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250405T081500Z
+LOCATION:Paw.F 106
+DTSTART:20250405T060000Z
+SUMMARY:Rozwój zrównoważony (ćwiczenia do wyboru)
+UID:da5652a7-390d-4e70-807e-9435bf31e221@da56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Rozwój zrównoważony (wykład do wyboru)
+UID:65cd5043-f8fb-482f-a868-8c2d8602c2e4@65cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250426T081500Z
+DTSTART:20250426T064500Z
+SUMMARY:Rozwój zrównoważony (wykład do wyboru)
+UID:11d7bb78-a6ce-4f7e-8b2f-21e8a7188bde@11d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250413T081500Z
+DTSTART:20250413T060000Z
+SUMMARY:Rozwój zrównoważony (wykład do wyboru)
+UID:b38d26ff-d440-4e31-9da2-a12eb1c846e8@b38d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250425T160000Z
+DTSTART:20250425T134500Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (Przeniesienie zajęć)
+UID:a9b1498b-e1b4-4bcc-b591-60f97363cd81@a9b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250524T133000Z
+LOCATION:Platforma Moodle
+DTSTART:20250524T111500Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (Ćwiczenia e-learningowe)
+UID:72fe9191-8c1f-4365-a2ea-2cfb9e08e916@72fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20250412T133000Z
+DTSTART:20250412T111500Z
+SUMMARY:Rynki finansowe (Przeniesienie zajęć)
+UID:78596d78-1055-46d0-967e-8186cfc0d818@7859.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250323T114500Z
+DTSTART:20250323T093000Z
+SUMMARY:Rynki finansowe (wykład)
+UID:011fd980-b120-4a12-9b52-bb5e5b582988@011f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20250614T133000Z
+LOCATION:Paw.F 106
+DTSTART:20250614T111500Z
+SUMMARY:Innowacje Finansowe Fin Tech (ćwiczenia do wyboru)
+UID:d5ce8846-4239-4e8c-8b9d-a888a3eb4ba1@d5ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20250405T104500Z
+LOCATION:Paw.F 715
+DTSTART:20250405T083000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:c5e76361-e055-44f8-999a-198338e8becb@c5e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250622T180000Z
+LOCATION:Bibl. 443
+DTSTART:20250622T163000Z
+SUMMARY:Prawo handlowe (egzamin)
+UID:cc6231d5-2db5-4890-9bb5-4db934bbcd92@cc62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250530T160000Z
+DTSTART:20250530T134500Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:33b0c975-a196-4db2-82a7-63765b51ff71@33b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250411T160000Z
+DTSTART:20250411T134500Z
+SUMMARY:Prawo handlowe (wykład)
+UID:37886a66-ec15-435f-a074-5ab67aa83b16@3788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
+DTEND:20250314T194500Z
+DTSTART:20250314T173000Z
+SUMMARY:Innowacje Finansowe Fin Tech (wykład do wyboru)
+UID:9d94eadf-9d26-42eb-b5e2-c62dc65b1787@9d94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250510T081500Z
+LOCATION:Paw.F 106
+DTSTART:20250510T060000Z
+SUMMARY:Rozwój zrównoważony (ćwiczenia do wyboru)
+UID:a0ad84b7-5c97-4800-be3a-c709f3f0359e@a0ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250525T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250525T163000Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (egzamin)
+UID:075d8ab0-60e8-4b04-901e-e09ac38e2b4b@075d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Klimat\, finanse i zielona gospodarka (wykład do wyboru)
+UID:acf054be-b134-4e2e-9ab8-774ab17d9e12@acf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250413T104500Z
+DTSTART:20250413T083000Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (Przeniesienie zajęć)
+UID:57c2d4fd-aa06-4045-b14b-080486d3ccbe@57c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250314T170000Z
+DTSTART:20250314T144500Z
+SUMMARY:Prawo handlowe (wykład)
+UID:5fa16d86-97fd-479a-b94d-b20b85ae676d@5fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250606T160000Z
+DTSTART:20250606T134500Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:2f3f8644-4b93-4ab9-a0c6-71cc5888ddd6@2f3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250426T064500Z
+DTSTART:20250426T060000Z
+SUMMARY:Rozwój zrównoważony (wykład do wyboru)
+UID:674eaf94-0d25-4eea-879a-a18fc73b25d2@674e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20250301T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250301T070000Z
+SUMMARY:Analiza finansowa (ćwiczenia)
+UID:b99f68cf-2e80-4b9c-a150-2cbe8aaa8a24@b99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250314T194500Z
+LOCATION:Platforma Moodle
+DTSTART:20250314T173000Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład e-learningowy)
+UID:320fa7a2-6002-468e-84c8-ad2d088ce571@320f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250905T161500Z
+LOCATION:Bibl. 443
+DTSTART:20250905T144500Z
+SUMMARY: (egzamin)
+UID:e2c893fc-8305-4a6e-96d9-3cfce5989d31@e2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250531T133000Z
+LOCATION:Paw.C sala A
+DTSTART:20250531T111500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (ćwiczenia do wyboru)
+UID:36b7102e-3fd2-4146-8507-e06d1185e726@36b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250509T160000Z
+DTSTART:20250509T134500Z
+SUMMARY:Prawo handlowe (wykład)
+UID:67251c85-5adf-438d-8fab-fe41636cce90@6725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250404T184500Z
+DTSTART:20250404T163000Z
+SUMMARY:Prawo handlowe (wykład)
+UID:f8553bff-6525-4190-b7b0-e12a38df8b72@f855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250228T194500Z
+DTSTART:20250228T173000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:01fc7ead-7dbf-4e87-8f71-4348416cdab7@01fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250330T081500Z
+DTSTART:20250330T060000Z
+SUMMARY:Analiza finansowa (wykład)
+UID:ebff6782-d44f-4575-93a7-a03ca09e38d1@ebff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20250511T073000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250511T060000Z
+SUMMARY:Rynki finansowe (ćwiczenia)
+UID:b586d0ae-b800-451d-839c-0a02d0e28fac@b586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250302T143000Z
+DTSTART:20250302T121500Z
+SUMMARY:Rynki finansowe (wykład)
+UID:ed6bd85b-0a63-4801-81a1-3e3890dded31@ed6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250621T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250621T111500Z
+SUMMARY:Analiza finansowa (egzamin)
+UID:6a765fa2-d9ce-46d9-aa06-1c13dc22d0ac@6a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250412T081500Z
+LOCATION:Paw.F 107
+DTSTART:20250412T060000Z
+SUMMARY:Klimat\, finanse i zielona gospodarka (ćwiczenia do wyboru)
+UID:120cd827-3eb6-43df-bb82-ea52e636ebb4@120c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250228T170000Z
+DTSTART:20250228T144500Z
+SUMMARY:Prawo handlowe (wykład)
+UID:bd93ca87-9ec2-4309-bd25-1b199634ad41@bd93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250620T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21\, Paw.A 117 lab. Win10\, Office21\, Paw.A 118 lab. Win10\, Office21
+DTSTART:20250620T163000Z
+SUMMARY:Rynki finansowe (egzamin)
+UID:73beea12-ff04-46e5-8e58-7560d701ff9a@73be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
@@ -636,6 +335,307 @@ DTEND:20250524T133000Z
 LOCATION:Paw.C sala A
 DTSTART:20250524T111500Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (ćwiczenia do wyboru)
-UID:5b0d2dcb-521d-4ff3-aaac-42b3ca02f6ce@5b0d.org
+UID:19e60003-2bcf-45ae-b55c-30978b3a60a2@19e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250314T194500Z
+DTSTART:20250314T173000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:91f8346d-7a3f-465d-83ed-7229dfd65417@91f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250309T114500Z
+DTSTART:20250309T093000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:ff144205-f18a-481a-bc8a-9e4c7f51a00e@ff14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250315T194500Z
+LOCATION:Paw.F 102
+DTSTART:20250315T173000Z
+SUMMARY:Prawo handlowe (ćwiczenia)
+UID:dc73d424-b459-4fb2-86f9-57ba6d546fdf@dc73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250323T091500Z
+DTSTART:20250323T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:3b1cf6fb-7a06-4e4b-b356-c306214099aa@3b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20250510T081500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250510T060000Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (ćwiczenia do wyboru)
+UID:84e1ef27-9d22-4345-8cc2-8779d1b74843@84e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20250607T104500Z
+LOCATION:Paw.F 715
+DTSTART:20250607T083000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:846ea972-1ff1-4ecc-bf20-16a43548ae3c@846e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250302T114500Z
+DTSTART:20250302T093000Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (wykład do wyboru)
+UID:57efb52b-45f2-4b99-8ddd-df8632d8ad6a@57ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20250315T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250315T093000Z
+SUMMARY:Analiza finansowa (ćwiczenia)
+UID:8095b280-2a16-4487-96c4-2d03f5d0be19@8095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20250531T133000Z
+LOCATION:Paw.F 106
+DTSTART:20250531T111500Z
+SUMMARY:Innowacje Finansowe Fin Tech (ćwiczenia do wyboru)
+UID:792de4b7-350d-43c0-9f1d-290aa94d311c@792d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250427T160000Z
+DTSTART:20250427T134500Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (wykład do wyboru)
+UID:98c98f1d-500e-4979-a7ec-bbd2981df9be@98c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250315T091500Z
+LOCATION:Paw.F 106
+DTSTART:20250315T070000Z
+SUMMARY:Rozwój zrównoważony (ćwiczenia do wyboru)
+UID:37d2920c-2a09-4921-9519-49dfd43f4a54@37d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250614T081500Z
+LOCATION:Bud.gł. 7
+DTSTART:20250614T060000Z
+SUMMARY:Prawo handlowe (ćwiczenia)
+UID:03186f73-1a30-4170-875d-00dcea7ebeda@0318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250412T104500Z
+DTSTART:20250412T083000Z
+SUMMARY:Prawo handlowe (Przeniesienie zajęć)
+UID:3474988f-7056-4ddb-bd0a-9efd162445d6@3474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250228T194500Z
+DTSTART:20250228T173000Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
+UID:afae43cd-2ab1-455b-adc8-18318ca19ce4@afae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Igor Styn
+DTEND:20250524T133000Z
+LOCATION:Paw.F 106
+DTSTART:20250524T111500Z
+SUMMARY:Innowacje Finansowe Fin Tech (ćwiczenia do wyboru)
+UID:a2e8ee19-1c37-4634-9b1e-c6af7c394e62@a2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250411T184500Z
+DTSTART:20250411T163000Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (wykład do wyboru)
+UID:f7e63272-2b58-4a2b-b6fc-593fa80d8628@f7e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250309T143000Z
+DTSTART:20250309T121500Z
+SUMMARY:Rynki finansowe (wykład)
+UID:0e8fbc80-b768-430d-bb93-dd572889c32e@0e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20250315T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250315T070000Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (ćwiczenia do wyboru)
+UID:35adb12b-c504-4126-8b90-92ea3ddab358@35ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250413T133000Z
+DTSTART:20250413T111500Z
+SUMMARY:Rynki finansowe (wykład)
+UID:b3b7a042-73cc-4690-9e57-c50d2e9f2f15@b3b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250404T160000Z
+DTSTART:20250404T134500Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:d47114b8-a0b1-48ae-9293-7bee483e3d97@d471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250328T170000Z
+DTSTART:20250328T144500Z
+SUMMARY:Analiza finansowa (wykład)
+UID:430580ce-2939-4b3b-b39e-29df12f216f2@4305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250511T151500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250511T134500Z
+SUMMARY:Rozwój zrównoważony (egzamin)
+UID:2fea9993-35c7-4aa3-b3de-96d92fe9e615@2fea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250531T133000Z
+LOCATION:Paw.F 717
+DTSTART:20250531T111500Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (ćwiczenia do wyboru)
+UID:13b4a736-20e5-42a2-b827-ad04257725b2@13b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250316T091500Z
+DTSTART:20250316T070000Z
+SUMMARY:Klimat\, finanse i zielona gospodarka (wykład do wyboru)
+UID:0110bfc8-d180-4cbf-871f-d5bb062e661c@0110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250524T081500Z
+LOCATION:Paw.F 107
+DTSTART:20250524T060000Z
+SUMMARY:Klimat\, finanse i zielona gospodarka (ćwiczenia do wyboru)
+UID:fcdbe694-8852-4c01-94d3-a4f6f9f503a4@fcdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20250322T143000Z
+LOCATION:Paw.F 715
+DTSTART:20250322T121500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:36a4977c-53c8-4889-ab10-5a90cfe03550@36a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20250524T104500Z
+LOCATION:Paw.F 715
+DTSTART:20250524T083000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:11734d85-1aef-4d28-9480-6a0d1ac22d20@1173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250614T133000Z
+LOCATION:Paw.F 717
+DTSTART:20250614T111500Z
+SUMMARY:Wycena w zarządzaniu przedsiębiorstwem (ćwiczenia do wyboru)
+UID:2ed5d32f-afd4-4d9c-8e3f-448f4a22a3e8@2ed5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20250322T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250322T093000Z
+SUMMARY:Rynki finansowe (ćwiczenia)
+UID:7cec3c5c-230a-4f16-ab39-7f0fe84e004d@7cec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20250511T104500Z
+LOCATION:Paw.F 715
+DTSTART:20250511T083000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:b8692bc4-3d2c-4b1b-b277-c6cd5fd39ca8@b869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder  dr Bartłomiej Wrona
+DTEND:20250627T184500Z
+LOCATION:Paw.S sala 8\, Paw.S sala 9
+DTSTART:20250627T163000Z
+SUMMARY: (egzamin)
+UID:da7bda34-a961-44b7-a98e-c8fa26567ac6@da7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20250301T114500Z
+LOCATION:Paw.F 715
+DTSTART:20250301T093000Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:2560064e-65bf-4e4d-b956-7009cc2ffa2a@2560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
+DTEND:20250411T184500Z
+DTSTART:20250411T163000Z
+SUMMARY:Innowacje Finansowe Fin Tech (wykład do wyboru)
+UID:1d1fe01a-0e87-488e-bb37-e0ad65661500@1d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250322T091500Z
+LOCATION:Paw.F 107
+DTSTART:20250322T070000Z
+SUMMARY:Klimat\, finanse i zielona gospodarka (ćwiczenia do wyboru)
+UID:e6c7b2f9-fb99-4082-9a18-81adf455ba4f@e6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250411T184500Z
+DTSTART:20250411T163000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:4c9c3c73-4fc1-4dfe-be40-f5c385185161@4c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250330T133000Z
+DTSTART:20250330T111500Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (wykład do wyboru)
+UID:58b229fa-434f-465f-8579-7ed485e9a37b@58b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20250321T194500Z
+DTSTART:20250321T173000Z
+SUMMARY:Prawo handlowe (wykład)
+UID:77eeb25a-38bd-47d7-a430-e9e981c19d38@77ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250413T081500Z
+DTSTART:20250413T060000Z
+SUMMARY:Klimat\, finanse i zielona gospodarka (wykład do wyboru)
+UID:7e813c7f-33df-4eae-ad8c-2475c200ff44@7e81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Mazurek-Czarnecka
+DTEND:20250405T081500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250405T060000Z
+SUMMARY:Podstawowe problemy środowiska i klimatu (ćwiczenia do wyboru)
+UID:1ce19416-a34f-44fa-9777-60446d916dec@1ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250530T184500Z
+DTSTART:20250530T163000Z
+SUMMARY:Rynki finansowe (wykład)
+UID:a83a3f4d-e79d-402c-a859-2804b4900716@a83a.org
 END:VEVENT
 END:VCALENDAR
