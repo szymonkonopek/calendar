@@ -2,19 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20250302T114500Z
+DTSTART:20250302T093000Z
+SUMMARY:Metody analizy przedsiębiorstw (wykład)
+UID:567c0711-678b-4937-a0ff-3a43dcc4d018@567c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250322T170000Z
+DTSTART:20250322T144500Z
+SUMMARY:Metody empirycznej oceny ryzyka (wykład)
+UID:cfa7d09b-e4f7-4fb7-a79a-83edbb66ab2f@cfa7.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Kiełbasa
 DTEND:20250405T133000Z
 DTSTART:20250405T111500Z
 SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (Przeniesienie zajęć)
-UID:9fa23a66-ffea-46c0-9ff9-669a7e47f00e@9fa2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250524T133000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250524T111500Z
-SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:c318a5c6-72eb-465d-9b8d-12b958a4bb88@c318.org
+UID:c7300a9d-f324-4509-aaa6-a4f1574cc7c7@c730.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
@@ -22,226 +28,7 @@ DTEND:20250308T123000Z
 LOCATION:Paw.B 351
 DTSTART:20250308T093000Z
 SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
-UID:bd215398-efa2-4eff-9198-b59bb4f028b2@bd21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250615T083000Z
-LOCATION:Paw.C sala D
-DTSTART:20250615T074500Z
-SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (konwersatorium do wyboru)
-UID:7e70112f-1423-4e24-8dfc-afe5ba9598cc@7e70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20250525T114500Z
-DTSTART:20250525T093000Z
-SUMMARY:Prawo własności intelektualnej i nowych technologii (Przeniesienie zajęć)
-UID:19948bfd-250a-4cc8-8827-51ae369cc098@1994.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250405T184500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250405T163000Z
-SUMMARY:Metody empirycznej oceny ryzyka (ćwiczenia)
-UID:4987107f-baa9-40e2-bdf4-da54e568d924@4987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250524T110000Z
-LOCATION:Paw.B 056 (KSB)
-DTSTART:20250524T093000Z
-SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
-UID:6381a46d-c7ab-4bb4-b4a6-b0ee08c9a199@6381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250309T143000Z
-DTSTART:20250309T121500Z
-SUMMARY:Metody analizy przedsiębiorstw (wykład)
-UID:590abf0c-a851-4963-8e84-6e4aafef65ff@590a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20250425T160000Z
-LOCATION:Paw.B 251
-DTSTART:20250425T134500Z
-SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
-UID:35da09b4-1a89-4685-a827-f467d2aba387@35da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
-DTEND:20250523T160000Z
-LOCATION:Bud.gł. 8
-DTSTART:20250523T134500Z
-SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
-UID:2d28b23c-0a91-4e5b-b68c-6dcd4380fb9a@2d28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250614T081500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250614T060000Z
-SUMMARY:Metody empirycznej oceny ryzyka (ćwiczenia)
-UID:a39f8398-9b75-4eee-8dd6-8088f5a89fd3@a39f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250426T160000Z
-DTSTART:20250426T134500Z
-SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (Przeniesienie zajęć)
-UID:28b10d62-5a46-4f96-834f-2aef3d6fe66e@28b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250321T170000Z
-LOCATION:Bibl. 440
-DTSTART:20250321T144500Z
-SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (konwersatorium do wyboru)
-UID:9f181784-8096-4e83-ad85-997dbac4ea20@9f18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250426T184500Z
-DTSTART:20250426T163000Z
-SUMMARY:Metody analizy przedsiębiorstw (Przeniesienie zajęć)
-UID:06189c41-263c-43bd-a4da-256875f6c8cd@0618.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250426T133000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250426T111500Z
-SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:bbd998e8-87ca-4fd8-b405-db7a68081248@bbd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250308T091500Z
-LOCATION:Bibl. 440
-DTSTART:20250308T070000Z
-SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (konwersatorium do wyboru)
-UID:3381f7e3-8b9f-41a7-a691-d71a0aebc5aa@3381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250510T081500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250510T060000Z
-SUMMARY:Metody empirycznej oceny ryzyka (ćwiczenia)
-UID:7b97616f-1a71-407d-92b6-24f75949d78b@7b97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250510T104500Z
-LOCATION:Bud.gł. 6
-DTSTART:20250510T083000Z
-SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:39265b36-26a9-48f6-8f31-3004fe984fcb@3926.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20250307T171500Z
-DTSTART:20250307T154500Z
-SUMMARY:Metody analizy przedsiębiorstw (wykład)
-UID:55546c6d-41f8-4707-a449-d7bca06a0751@5554.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Metody empirycznej oceny ryzyka (wykład)
-UID:826f1fbf-2598-4a2a-87af-8750c6630d1c@826f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250614T133000Z
-DTSTART:20250614T111500Z
-SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (Przeniesienie zajęć)
-UID:7bec6cdc-5805-42ff-97d2-d810a174e743@7bec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250524T160000Z
-DTSTART:20250524T134500Z
-SUMMARY:Metody analizy przedsiębiorstw (Przeniesienie zajęć)
-UID:0a6ea26e-060b-40ee-a96b-2f35d468ff8d@0a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250525T124500Z
-LOCATION:Paw.F 717
-DTSTART:20250525T111500Z
-SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
-UID:b5243d59-355c-4efe-9d5e-e66fab44b3eb@b524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Kiełbasa
-DTEND:20250607T141500Z
-LOCATION:Paw.S sala 10
-DTSTART:20250607T120000Z
-SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:e7d034f8-87ec-47ee-8605-1ad72a5c0792@e7d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250511T133000Z
-DTSTART:20250511T111500Z
-SUMMARY:Metody empirycznej oceny ryzyka (wykład)
-UID:d2dc39b1-1750-4dbd-adb3-07406ee137b2@d2dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250510T133000Z
-DTSTART:20250510T111500Z
-SUMMARY:Metody analizy przedsiębiorstw (Przeniesienie zajęć)
-UID:d458af97-5404-4d74-864e-da7d57bccb89@d458.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250525T110000Z
-LOCATION:Paw.F 715
-DTSTART:20250525T093000Z
-SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
-UID:979eb2da-48ca-49ea-a58b-793e8c689bfc@979e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20250302T114500Z
-DTSTART:20250302T093000Z
-SUMMARY:Metody analizy przedsiębiorstw (wykład)
-UID:c1e89a7c-2c59-43cb-8f8a-6313b214e957@c1e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250523T160000Z
-DTSTART:20250523T134500Z
-SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (Przeniesienie zajęć)
-UID:48bb68b5-38b9-4ec6-8c60-93bb92ca0558@48bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250614T104500Z
-LOCATION:Paw.F 102
-DTSTART:20250614T083000Z
-SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
-UID:e4cfa8a6-8b75-4101-bd17-aeef076cd414@e4cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250511T090000Z
-DTSTART:20250511T064500Z
-SUMMARY:Metody analizy przedsiębiorstw (wykład)
-UID:ac645a23-9ea2-47bf-aa6b-ec57b9e9402c@ac64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250523T184500Z
-LOCATION:Paw.F 415
-DTSTART:20250523T163000Z
-SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
-UID:6ab36a06-e43d-46ac-9d88-c43f5d9cc36b@6ab3.org
+UID:8a03bb5e-7c15-4275-89d3-b4edb9a95040@8a03.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
@@ -249,44 +36,15 @@ DTEND:20250626T180000Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20250626T163000Z
 SUMMARY:Metody analizy przedsiębiorstw (egzamin)
-UID:16ef234a-4c04-4eeb-99f5-41ff001b5d95@16ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250406T113000Z
-DTSTART:20250406T083000Z
-SUMMARY:Metody analizy przedsiębiorstw (wykład)
-UID:36b38c30-1b92-4802-b271-6219c70a2540@36b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20250525T143000Z
-LOCATION:Paw.F 106
-DTSTART:20250525T130000Z
-SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
-UID:1870b797-5e85-4362-adc2-21a9cebf908c@1870.org
+UID:3482f48c-23fc-4908-a246-508b5ea75874@3482.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20250607T183000Z
-LOCATION:Paw.C sala F
-DTSTART:20250607T144500Z
+DTEND:20250308T091500Z
+LOCATION:Bibl. 440
+DTSTART:20250308T070000Z
 SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (konwersatorium do wyboru)
-UID:8aecdea8-df85-48af-af52-15d463fd62e3@8aec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20250406T151500Z
-DTSTART:20250406T130000Z
-SUMMARY:Metody analizy przedsiębiorstw (wykład)
-UID:64c936a7-bcb7-4515-9404-5000d9435072@64c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250322T170000Z
-DTSTART:20250322T144500Z
-SUMMARY:Metody empirycznej oceny ryzyka (wykład)
-UID:48bc3251-662f-40bf-a0b5-c24911016e57@48bc.org
+UID:08d9a206-df61-4c9e-9559-97f5f0f36860@08d9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
@@ -294,6 +52,248 @@ DTEND:20250314T191500Z
 LOCATION:Paw.B 251
 DTSTART:20250314T144500Z
 SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
-UID:b7de80fe-3aa2-49cb-a7e4-1020c0b02605@b7de.org
+UID:96c8fcd7-5beb-4393-932f-32f78753042b@96c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250426T133000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250426T111500Z
+SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
+UID:56c0d88e-29f6-4ee6-ba9e-1a9913c11742@56c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250511T133000Z
+DTSTART:20250511T111500Z
+SUMMARY:Metody empirycznej oceny ryzyka (wykład)
+UID:2eee4ed5-f519-4925-ba4b-a38765178a35@2eee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250525T110000Z
+LOCATION:Paw.F 715
+DTSTART:20250525T093000Z
+SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
+UID:24ae7519-39f7-4154-b8a8-2b55f515df1a@24ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250510T104500Z
+LOCATION:Bud.gł. 6
+DTSTART:20250510T083000Z
+SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
+UID:60313ed5-580a-4df6-97fd-47e02b8fb73d@6031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20250425T160000Z
+LOCATION:Paw.B 251
+DTSTART:20250425T134500Z
+SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
+UID:ad1d159c-e1cd-48b5-934b-8dfeba1a066f@ad1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250406T151500Z
+DTSTART:20250406T130000Z
+SUMMARY:Metody analizy przedsiębiorstw (wykład)
+UID:3a2b7e73-dec2-4708-870c-9564cb0555f0@3a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250524T110000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250524T093000Z
+SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
+UID:6f104ddd-2e20-49fa-9d0b-90c3ae1a3ca5@6f10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20250525T114500Z
+DTSTART:20250525T093000Z
+SUMMARY:Prawo własności intelektualnej i nowych technologii (Przeniesienie zajęć)
+UID:642c98dc-7c60-4aff-bdaa-68485fd7f0e5@642c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250525T143000Z
+LOCATION:Paw.F 106
+DTSTART:20250525T130000Z
+SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
+UID:4ceacf79-8586-404f-94a5-eabc0cfe3dbe@4cea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250406T113000Z
+DTSTART:20250406T083000Z
+SUMMARY:Metody analizy przedsiębiorstw (wykład)
+UID:bf6d0da8-d170-4fd6-bf11-cc4297b96c71@bf6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250321T170000Z
+LOCATION:Bibl. 440
+DTSTART:20250321T144500Z
+SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (konwersatorium do wyboru)
+UID:bd53531f-ab61-4258-a05f-0db5201ec67c@bd53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250309T143000Z
+DTSTART:20250309T121500Z
+SUMMARY:Metody analizy przedsiębiorstw (wykład)
+UID:19c4745f-ac24-4a0e-9aac-ee1cab7418b1@19c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20250523T160000Z
+LOCATION:Bud.gł. 8
+DTSTART:20250523T134500Z
+SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
+UID:b2947c57-65af-42d5-b4b1-0dddcb9721ae@b294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250524T160000Z
+DTSTART:20250524T134500Z
+SUMMARY:Metody analizy przedsiębiorstw (Przeniesienie zajęć)
+UID:0c61cce6-42db-478f-833f-96c1e1020163@0c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250607T141500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250607T120000Z
+SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
+UID:75749cab-aec3-4fe4-a500-3a0ad2ac443e@7574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250524T133000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250524T111500Z
+SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
+UID:1aced2c8-dcd3-4ab1-ada3-2a273697eee9@1ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20250511T090000Z
+DTSTART:20250511T064500Z
+SUMMARY:Metody analizy przedsiębiorstw (wykład)
+UID:78480d9f-68da-4f10-b250-185488463923@7848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250615T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20250615T074500Z
+SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (konwersatorium do wyboru)
+UID:e0d28043-79e8-43b1-b9d4-e0884c2ae9be@e0d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kiełbasa
+DTEND:20250614T133000Z
+DTSTART:20250614T111500Z
+SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (Przeniesienie zajęć)
+UID:2a1d9de2-0aee-406a-828e-2e4ccce73267@2a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250525T124500Z
+LOCATION:Paw.F 717
+DTSTART:20250525T111500Z
+SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
+UID:7cd17c23-572a-44e7-a52d-65a1b0efa2f6@7cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250405T184500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250405T163000Z
+SUMMARY:Metody empirycznej oceny ryzyka (ćwiczenia)
+UID:49607736-dc6e-4f16-9182-74831506d9a3@4960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250523T160000Z
+DTSTART:20250523T134500Z
+SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (Przeniesienie zajęć)
+UID:bba3e94d-e7b1-4afd-bbf1-99b6ad342c76@bba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250510T133000Z
+DTSTART:20250510T111500Z
+SUMMARY:Metody analizy przedsiębiorstw (Przeniesienie zajęć)
+UID:1a6c3c94-e839-49a1-9f28-30166bf958f6@1a6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20250307T171500Z
+DTSTART:20250307T154500Z
+SUMMARY:Metody analizy przedsiębiorstw (wykład)
+UID:7f9bd39d-b223-40cf-80d6-0b84438d52ca@7f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Metody empirycznej oceny ryzyka (wykład)
+UID:97c93df1-7a68-43cc-9e28-65a588a49c1c@97c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250426T184500Z
+DTSTART:20250426T163000Z
+SUMMARY:Metody analizy przedsiębiorstw (Przeniesienie zajęć)
+UID:04c7d377-8320-4716-829e-b00d65e7f928@04c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250523T184500Z
+LOCATION:Paw.F 415
+DTSTART:20250523T163000Z
+SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
+UID:8a0209f1-eb58-4d84-ba24-75a3d839b3f0@8a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250607T183000Z
+LOCATION:Paw.C sala F
+DTSTART:20250607T144500Z
+SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (konwersatorium do wyboru)
+UID:bbb2bd00-8082-48e1-a3e3-4c99cef9aa7e@bbb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250614T104500Z
+LOCATION:Paw.F 102
+DTSTART:20250614T083000Z
+SUMMARY:Metody analizy przedsiębiorstw (ćwiczenia)
+UID:12486a84-6f3d-41df-b99a-7d12f2677bb9@1248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250426T160000Z
+DTSTART:20250426T134500Z
+SUMMARY:Publicznoprawna Ochrona klienta na rynku finansowym (Przeniesienie zajęć)
+UID:d912560c-2851-4b48-bb23-8db0c2b2615d@d912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250510T081500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250510T060000Z
+SUMMARY:Metody empirycznej oceny ryzyka (ćwiczenia)
+UID:89c0d8c1-e774-4fd5-96a8-e7b001d8d5e7@89c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250614T081500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250614T060000Z
+SUMMARY:Metody empirycznej oceny ryzyka (ćwiczenia)
+UID:35db4707-e019-4750-ba3e-2d9c7e7c7a6a@35db.org
 END:VEVENT
 END:VCALENDAR
