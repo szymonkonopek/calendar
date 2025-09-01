@@ -2,11 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250124T171500Z
-DTSTART:20250124T154500Z
-SUMMARY:Badania operacyjne (Przeniesienie zajęć)
-UID:0a6c20db-4c78-45f5-8767-ff06844b7010@0a6c.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241005T104500Z
+DTSTART:20241005T083000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:b5b64743-a530-4dfe-88a6-1442e00e9be7@b5b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241214T104500Z
+DTSTART:20241214T074500Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:a57b6495-18dd-42fa-b84c-3f4481a3b003@a57b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Rola
@@ -14,334 +21,7 @@ DTEND:20241129T193000Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
 DTSTART:20241129T163000Z
 SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
-UID:667dfb68-fbeb-4ab2-ba54-80367121758a@667d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20250222T100000Z
-LOCATION:Paw.F 715
-DTSTART:20250222T074500Z
-SUMMARY:Analiza finansowych szeregów czasowych (egzamin)
-UID:c99a0446-76ec-4258-99bc-5f7a3ba5c0ba@c99a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241020T090000Z
-DTSTART:20241020T064500Z
-SUMMARY:Badania operacyjne (Przeniesienie zajęć)
-UID:cf218faf-28a3-4a79-8dd2-e93b244f3d93@cf21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241122T194500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20241122T173000Z
-SUMMARY:Analiza zmiennych jakościowych (laboratorium)
-UID:40076a4a-9ee2-4fef-8c4a-62b62312a6bc@4007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20241124T100000Z
-DTSTART:20241124T074500Z
-SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
-UID:0ff6b6df-512f-418f-ae02-338e41014786@0ff6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20241020T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241020T093000Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:d2df35a4-4d8d-4599-9cee-a2d358a585f3@d2df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241214T104500Z
-DTSTART:20241214T074500Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:5587eeeb-5cd8-4f7c-8f85-97fd7240222b@5587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241215T091500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20241215T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:32ed9431-c7c9-4ca5-88c6-8639f70e64a7@32ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20250221T184500Z
-LOCATION:Paw.A 301b
-DTSTART:20250221T163000Z
-SUMMARY: (egzamin)
-UID:a4235bd6-d319-438a-8cf4-ea5afbb8efd0@a423.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20241006T114500Z
-DTSTART:20241006T093000Z
-SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
-UID:b3d46fba-cb54-46b0-bf8a-79e946b60716@b3d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20241115T170000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241115T144500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:9002385c-c4ae-40ee-8dc9-586bdd62bd55@9002.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20241117T100000Z
-DTSTART:20241117T074500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:8ddde247-1ef5-4c4e-94e2-937a96016d56@8ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241215T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20241215T093000Z
-SUMMARY:Analiza zmiennych jakościowych (laboratorium)
-UID:44bfe50b-45f4-4e3a-adbf-39c5739f5610@44bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241124T151500Z
-DTSTART:20241124T130000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:2d1600f5-434d-4513-abac-bbbd56dcd55a@2d16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241006T090000Z
-DTSTART:20241006T064500Z
-SUMMARY:Badania operacyjne (wykład)
-UID:1c533f25-1dcb-412e-9c39-5af59aa70df8@1c53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250125T120000Z
-LOCATION:Paw.B 056 (KSB)
-DTSTART:20250125T103000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:490412d4-3b10-4e5c-b98c-3d1d6b093136@4904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241221T170000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241221T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
-UID:eeb8a502-7320-434a-9323-fc60ebe270d8@eeb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241123T141500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20241123T111500Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:4c1414c3-37cb-410d-9824-4b0ce6b31ea2@4c14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20250201T124500Z
-LOCATION:Paw.F 715
-DTSTART:20250201T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (egzamin)
-UID:2253679a-bc8d-4795-9e5a-108d5a927223@2253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241005T081500Z
-DTSTART:20241005T060000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:d18541a4-7c3e-4b0e-8c01-708febea4211@d185.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20250112T180000Z
-LOCATION:Paw.A 301b
-DTSTART:20250112T154500Z
-SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
-UID:1e90c986-6db0-4e92-9595-c85f4c4497f5@1e90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20241213T180000Z
-DTSTART:20241213T154500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:e58f42d6-bd92-4eb4-872c-c594aeb80334@e58f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20241220T194500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20241220T173000Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:defd8f5b-03ea-4432-b8aa-e6ea0ee8e75d@defd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20250110T193000Z
-DTSTART:20250110T163000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:28af866a-9b1a-4ee3-9e98-1f808c4c4d21@28af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20241018T184500Z
-DTSTART:20241018T163000Z
-SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
-UID:10bf09c5-6f2a-4fd1-9744-7dab26362432@10bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20241019T100000Z
-DTSTART:20241019T074500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:3b8e335e-eb8a-4a77-8989-04452852f933@3b8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20241122T170000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241122T144500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:612dd77b-0c64-40bd-98da-080e5057c091@612d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20241020T141500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241020T120000Z
-SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
-UID:3cd88e1c-d7dd-4854-b61f-f6b960fab9a3@3cd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241214T143000Z
-DTSTART:20241214T121500Z
-SUMMARY:Badania operacyjne (wykład)
-UID:2317c2f8-9670-4fd7-a7aa-d07a6d274303@2317.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20250112T124500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250112T103000Z
-SUMMARY:Analiza zmiennych jakościowych (laboratorium)
-UID:c2cb6f72-bbb1-4756-b7f0-9cf17c76f1db@c2cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241019T123000Z
-DTSTART:20241019T101500Z
-SUMMARY:Analiza zmiennych jakościowych (wykład)
-UID:9e726350-b723-4b2e-8340-fd6eeae608d2@9e72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20250126T161500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250126T144500Z
-SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
-UID:2db9c3eb-5fca-43ea-89ec-006eddb05e68@2db9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20250209T124500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20250209T111500Z
-SUMMARY:Metoda reprezentacyjna (egzamin)
-UID:39bd5785-e6e1-471a-93b5-928fbb15a99f@39bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241130T100000Z
-DTSTART:20241130T070000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:396f5d8d-4a84-4690-af58-adf5b12ccde7@396f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241116T143000Z
-LOCATION:Paw.S sala 6
-DTSTART:20241116T121500Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:5f92e0b6-845e-4b21-b7af-94dd97d05317@5f92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20250112T151500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250112T130000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:a0216d61-d61f-48c8-be1f-3f80efb1c6be@a021.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20241115T194500Z
-LOCATION:Paw.B 056 (KSB)
-DTSTART:20241115T173000Z
-SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
-UID:9a106f8e-9a06-4b02-9232-023dd2bb038a@9a10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241124T124500Z
-DTSTART:20241124T103000Z
-SUMMARY:Analiza zmiennych jakościowych (wykład)
-UID:21b590ed-2511-4648-a745-b5b611366c87@21b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241020T170000Z
-LOCATION:Bibl. 443
-DTSTART:20241020T144500Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:62642d7d-3277-4b90-8ccb-f464bf7eda39@6264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241123T170000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20241123T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
-UID:31d706d3-ce48-472d-8e39-211f725799f8@31d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241018T160000Z
-DTSTART:20241018T134500Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:00da5660-5477-46aa-92d0-ff3aa8204329@00da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20250125T143000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250125T121500Z
-SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
-UID:59b669dc-7d07-401f-8e6d-359347e9435d@59b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20241215T143000Z
-LOCATION:Paw.A 301b
-DTSTART:20241215T121500Z
-SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
-UID:7a077969-aa58-444b-aaf4-81af18cdff02@7a07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20250202T130000Z
-LOCATION:Paw.C sala E
-DTSTART:20250202T121500Z
-SUMMARY: (rezerwacja)
-UID:21edd743-1102-4871-ab8b-68e404c3571b@21ed.org
+UID:adf3e738-0608-43f1-9893-48cd9ef13d2e@adf3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
@@ -349,30 +29,37 @@ DTEND:20250209T101500Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20250209T084500Z
 SUMMARY: (egzamin)
-UID:24fdd90b-d7d2-4595-8773-bb39c51977b3@24fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20241220T170000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241220T144500Z
-SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
-UID:a3cea8da-2267-456d-82b2-6c2ab6aabf7c@a3ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20241005T104500Z
-DTSTART:20241005T083000Z
-SUMMARY:Analiza zmiennych jakościowych (wykład)
-UID:e5d00787-0bc7-45c5-aab9-cafc3193e99d@e5d0.org
+UID:83c5104a-81c5-4c70-a3a5-d9185093d782@83c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20250125T170000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250125T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
-UID:39f63d25-c99e-4b1b-8011-5eea2c609037@39f6.org
+DTEND:20250222T100000Z
+LOCATION:Paw.F 715
+DTSTART:20250222T074500Z
+SUMMARY:Analiza finansowych szeregów czasowych (egzamin)
+UID:a2c27943-3360-45a9-9c79-b281212979fb@a2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241124T100000Z
+DTSTART:20241124T074500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:92788d87-bbd2-4359-adf9-c1d2f0e7e10a@9278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241124T151500Z
+DTSTART:20241124T130000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:d3e014cd-380c-4c74-9816-ae1816d5d24d@d3e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250112T151500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250112T130000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:7bf325d6-8446-4ef4-92ab-99f4dda44ab7@7bf3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Lipieta
@@ -380,7 +67,86 @@ DTEND:20250124T194500Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20250124T173000Z
 SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:d7e09a45-fac0-4acb-938b-82e24d16f93c@d7e0.org
+UID:205b72f4-8217-4203-8588-4a28caaa5eea@205b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241116T143000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241116T121500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:3a1f521e-d2c1-44ec-a2bc-bf59cf4a8adf@3a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20250112T180000Z
+LOCATION:Paw.A 301b
+DTSTART:20250112T154500Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:5e4e5fd4-096a-4ec8-898f-a43105fcf305@5e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250125T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250125T103000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:c3be2d15-ef8e-424e-84ce-fe85aaf8115d@c3be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20241122T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241122T144500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:d552fb5e-30a1-486d-8aaa-30739882c9e0@d552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241122T194500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241122T173000Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:d72341d0-9652-46ef-ac33-97cbb1aa912e@d723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241215T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241215T093000Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:dedbefe8-7867-4ed8-ae6a-e0dbf1bb95ca@dedb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20250201T124500Z
+LOCATION:Paw.F 715
+DTSTART:20250201T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (egzamin)
+UID:fc3e7fd8-2061-4732-8d4f-d39113668cb4@fc3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20250110T193000Z
+DTSTART:20250110T163000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:df2c5346-2e84-4138-ad59-0d58c78b8b1c@df2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20241220T194500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241220T173000Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:63b91d90-57bf-45da-aac8-6dbb3f8783eb@63b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20241220T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241220T144500Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:1dc0eb63-931d-4303-a357-d583076cb9e9@1dc0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Lipieta
@@ -388,46 +154,7 @@ DTEND:20241221T194500Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20241221T173000Z
 SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:d3d7a790-4f4f-4ca8-9ebd-c754d4d894f5@d3d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20241215T180000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241215T154500Z
-SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
-UID:f8dee26d-7129-4e4a-893f-1c3d3ba7733e@f8de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20241221T144500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20241221T140000Z
-SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
-UID:02f65184-fa3c-4bd4-8381-ba963f968ac1@02f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
-DTEND:20250111T174500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250111T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
-UID:a99d1e94-1a2a-4be8-8e5e-cad031863902@a99d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20250208T101500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250208T084500Z
-SUMMARY: (egzamin)
-UID:b2904973-0bb0-47eb-a022-40fe03b7fff3@b290.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20241123T141500Z
-DTSTART:20241123T111500Z
-SUMMARY:Badania operacyjne (Przeniesienie zajęć)
-UID:e1de4ead-8402-4bc5-87c8-8c615981300d@e1de.org
+UID:40a66622-cac0-4f59-9981-9d7bc28c8ed3@40a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
@@ -435,6 +162,279 @@ DTEND:20241116T174500Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20241116T144500Z
 SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
-UID:842305fb-0aea-498f-86c3-94bc084f7c01@8423.org
+UID:ed1c9951-d8dd-47f3-acb0-48854e0506c1@ed1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241005T081500Z
+DTSTART:20241005T060000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:06a65308-a502-4030-8635-bf9b1ada02e4@06a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20250209T124500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250209T111500Z
+SUMMARY:Metoda reprezentacyjna (egzamin)
+UID:cc8766bd-3a80-4236-a77a-59b0f7471775@cc87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241006T090000Z
+DTSTART:20241006T064500Z
+SUMMARY:Badania operacyjne (wykład)
+UID:bbe5da3f-8ec5-414f-9884-63de41f69b69@bbe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241215T143000Z
+LOCATION:Paw.A 301b
+DTSTART:20241215T121500Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:a8c33847-b70d-4e47-9833-c765d2b1b959@a8c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20241213T180000Z
+DTSTART:20241213T154500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:bee8a3f9-53d5-4378-828b-4613c2062882@bee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20241115T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241115T144500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:6f6bf243-5dc8-4fc3-95e2-cc513bc9d2cb@6f6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250208T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250208T084500Z
+SUMMARY: (egzamin)
+UID:127c4fae-445c-4d37-9e64-042bf0ea1e67@127c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20241020T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241020T093000Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:ddb3a136-6a7d-4450-bac1-f49384740284@ddb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241018T184500Z
+DTSTART:20241018T163000Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:842ea95c-64f3-4c1d-8567-61a35efa36e3@842e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20241117T100000Z
+DTSTART:20241117T074500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:0dc7ed7a-80b0-49fa-bbdb-a1fa5f730b48@0dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241124T124500Z
+DTSTART:20241124T103000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:8cd86d06-2c66-41b6-bd16-1c472970e3f1@8cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241020T170000Z
+LOCATION:Bibl. 443
+DTSTART:20241020T144500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:a5426728-a031-49be-b514-2f96ab34a612@a542.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250124T171500Z
+DTSTART:20250124T154500Z
+SUMMARY:Badania operacyjne (Przeniesienie zajęć)
+UID:6113f299-ce19-4630-beef-72f6c7b57d6a@6113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241020T090000Z
+DTSTART:20241020T064500Z
+SUMMARY:Badania operacyjne (Przeniesienie zajęć)
+UID:989fe468-f3a3-410d-b60a-512ddc9bc01d@989f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241123T141500Z
+DTSTART:20241123T111500Z
+SUMMARY:Badania operacyjne (Przeniesienie zajęć)
+UID:be97eda7-1a6f-492d-bd22-66b9b4fd23a1@be97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250112T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250112T103000Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:7729dc05-205a-4764-ba00-2bcfab480c5b@7729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241130T100000Z
+DTSTART:20241130T070000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:9f30eb75-5efe-4a1f-88e9-f61dd6f1c231@9f30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241115T194500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241115T173000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:0108e713-4d7b-4b23-982f-4c00840ce92b@0108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20250111T174500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250111T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:7abff08f-fb7c-4de2-8821-ddba9ef7fbb2@7abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20250126T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250126T144500Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:84238d46-86ca-431e-8291-7d598a30b132@8423.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20250202T130000Z
+LOCATION:Paw.C sala E
+DTSTART:20250202T121500Z
+SUMMARY: (rezerwacja)
+UID:33a5f45e-0bb4-42ee-9745-31d13c856e33@33a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20241019T100000Z
+DTSTART:20241019T074500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:cdd227d7-1f73-4c27-b007-a3f06ca4d13e@cdd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241214T143000Z
+DTSTART:20241214T121500Z
+SUMMARY:Badania operacyjne (wykład)
+UID:88fd2b47-16fd-4dca-ac5b-e4a8fea2b1d7@88fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241006T114500Z
+DTSTART:20241006T093000Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:83fac72f-ec39-42fa-8122-ebe87b0cb214@83fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241215T091500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241215T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:d50bb6de-098d-4031-9d6f-92cf1f433132@d50b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241221T144500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241221T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:bf82dca8-8361-40ef-b311-be61383ef111@bf82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20250221T184500Z
+LOCATION:Paw.A 301b
+DTSTART:20250221T163000Z
+SUMMARY: (egzamin)
+UID:9b17b245-a4e1-4e4b-9883-56fe49c92b1a@9b17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250125T143000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250125T121500Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:479353c3-43c0-4a03-a953-240817c51576@4793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241123T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241123T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:7959887d-ea60-44d4-bb66-3e1e1bd4722c@7959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241018T160000Z
+DTSTART:20241018T134500Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:298e9200-8164-4d8b-832d-58547e1e1808@298e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20241215T180000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241215T154500Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:0b69157a-8291-4768-8c7f-a764a501b9bb@0b69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20250125T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250125T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:102c1ddd-86fd-486f-968b-735f761ca556@102c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20241020T141500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241020T120000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:7e5fc9dc-19ca-41c9-a1dd-29c1093f52ff@7e5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241221T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241221T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:8deacd4c-e386-436f-99ca-a74c6d85c358@8dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241123T141500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241123T111500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:30be80da-823d-45b8-b8a4-75df78d41d00@30be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241019T123000Z
+DTSTART:20241019T101500Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:9e909f6e-c40f-4ad1-a2df-feaaee111f32@9e90.org
 END:VEVENT
 END:VCALENDAR
