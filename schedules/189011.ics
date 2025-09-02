@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241214T144500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241214T140000Z
+SUMMARY:Narzędzia wizualizacji i prezentacja danych (konwersatorium)
+UID:a27b001b-2e69-4550-bf12-911fe2bbf7a1@a27b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20241116T151500Z
-DTSTART:20241116T130000Z
+DTEND:20241213T170000Z
+DTSTART:20241213T144500Z
 SUMMARY:Spółki i umowy handlowe (wykład)
-UID:a085ee99-5d5a-4e81-9b35-7aa49e77a0a5@a085.org
+UID:bc2912dd-d023-4f38-a318-eb44b358f05c@bc29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Inga Mizdrak
@@ -14,7 +22,21 @@ DTEND:20250126T091500Z
 LOCATION:Paw.C sala D
 DTSTART:20250126T074500Z
 SUMMARY: (rezerwacja)
-UID:26d8e26a-5e8e-4652-b91b-add0554520fb@26d8.org
+UID:f11679e9-5e70-40c2-b274-f109c1a761c4@f116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Budzanowska
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Współczesne teorie administracji publicznej (wykład)
+UID:412f1244-ea8f-4d5a-a374-44b99aebf95c@412f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241020T114500Z
+DTSTART:20241020T093000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
+UID:f39cce4b-0819-4006-ada3-258f6f8696ce@f39c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Adam Drozdek
@@ -22,163 +44,7 @@ DTEND:20241019T114500Z
 LOCATION:Rakowicka 16 sala 12
 DTSTART:20241019T093000Z
 SUMMARY:Prawo i polityka celna (konwersatorium)
-UID:0ce6f070-ff9b-48cf-a5dc-f21ec99ad1c5@0ce6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20241214T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20241214T084500Z
-SUMMARY:Prawo i polityka celna (konwersatorium)
-UID:4fdfe232-5f48-43d5-b2c3-69fd93b8754d@4fdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20250201T153000Z
-LOCATION:Paw.B 151
-DTSTART:20250201T140000Z
-SUMMARY:Prawo i polityka celna (zaliczenie)
-UID:5b0e0691-bec4-4dbc-8c2b-72f3bec2edbf@5b0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Spółki i umowy handlowe (wykład)
-UID:29cf90ee-9525-4212-b6a3-f05b2c4836ff@29cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20241020T114500Z
-DTSTART:20241020T093000Z
-SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
-UID:b26bda75-6d9f-4bad-a091-f2394070f703@b26b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
-DTEND:20241020T090000Z
-DTSTART:20241020T064500Z
-SUMMARY:Działalność oświatowa (wykład)
-UID:fec659a2-f6b6-48f9-98d6-8a678cbae44c@fec6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20241201T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20241201T084500Z
-SUMMARY:Postępowanie podatkowe (konwersatorium)
-UID:afbf9f39-f2b4-4baf-92e4-e7c66a163bfb@afbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Budzanowska
-DTEND:20241213T194500Z
-DTSTART:20241213T173000Z
-SUMMARY:Współczesne teorie administracji publicznej (Przeniesienie zajęć)
-UID:66ea7ffb-e858-498d-8a4a-dfeaad5daaf9@66ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Budzanowska
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Współczesne teorie administracji publicznej (wykład)
-UID:c51f973a-6737-4f72-acdc-caeb29bc1f7b@c51f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20241018T184500Z
-DTSTART:20241018T163000Z
-SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (Przeniesienie zajęć)
-UID:e19c6fce-b29d-4541-bf2a-8edf89e69677@e19c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241117T170000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20241117T144500Z
-SUMMARY:Narzędzia wizualizacji i prezentacja danych (konwersatorium)
-UID:6f517d69-dd84-4420-9d14-2d508a4feff6@6f51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20241130T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20241130T084500Z
-SUMMARY:Prawo i polityka celna (konwersatorium)
-UID:8c85f7f5-1cfa-45ff-a851-1959069d677d@8c85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20241019T090000Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20241019T064500Z
-SUMMARY:Postępowanie podatkowe (konwersatorium)
-UID:3d7ae3bb-c2e7-4e3c-94d4-73a35ca7fc1d@3d7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20250119T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20250119T084500Z
-SUMMARY:Postępowanie podatkowe (konwersatorium)
-UID:8e65e1cf-5f3d-4f7e-8604-f4432eea7070@8e65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20241018T184500Z
-DTSTART:20241018T163000Z
-SUMMARY:Spółki i umowy handlowe (wykład)
-UID:f3c6ad67-54ec-4619-8bd4-ea38bd805064@f3c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Budzanowska
-DTEND:20241025T184500Z
-DTSTART:20241025T163000Z
-SUMMARY:Współczesne teorie administracji publicznej (Przeniesienie zajęć)
-UID:c1be524e-728e-4f9e-a775-62dfbb1bbde0@c1be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20241026T114500Z
-DTSTART:20241026T093000Z
-SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
-UID:f556f766-f10f-4b68-a972-56a4f91f3e9f@f556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
-DTEND:20241130T143000Z
-LOCATION:Paw.B 151
-DTSTART:20241130T121500Z
-SUMMARY:Samorząd terytorialny państw europejskich w perspektywie porównawczej (konwersatorium)
-UID:edf92a6a-960a-471a-bab2-59ace4fbed71@edf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20241215T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20241215T084500Z
-SUMMARY:Postępowanie podatkowe (konwersatorium)
-UID:b65dcff7-89b3-428f-bb60-d0afe89ffdf5@b65d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
-DTEND:20241026T090000Z
-DTSTART:20241026T064500Z
-SUMMARY:Działalność oświatowa (wykład)
-UID:446c16de-49d7-4af9-8252-a3698698fcb1@446c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Budzanowska
-DTEND:20241123T180000Z
-DTSTART:20241123T154500Z
-SUMMARY:Współczesne teorie administracji publicznej (wykład)
-UID:e116dbd5-d264-498a-88cc-fa357477df50@e116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
-DTEND:20250117T170000Z
-DTSTART:20250117T144500Z
-SUMMARY:Działalność oświatowa (wykład)
-UID:3c35878b-88a9-4932-835f-192a848eefa9@3c35.org
+UID:dde3a19a-51d5-4a50-806e-c2b461434c6e@dde3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Błażej Mazur
@@ -186,37 +52,14 @@ DTEND:20250118T170000Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20250118T144500Z
 SUMMARY:Narzędzia wizualizacji i prezentacja danych (konwersatorium)
-UID:7f50b199-1e91-48c0-8576-3aea0e66e624@7f50.org
+UID:e39dfa1a-79c9-45f5-bd2b-2df25aee567d@e39d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
-DTEND:20241116T100000Z
-DTSTART:20241116T074500Z
+DTEND:20241026T090000Z
+DTSTART:20241026T064500Z
 SUMMARY:Działalność oświatowa (wykład)
-UID:a1066018-c9c2-462a-b21f-c8d4c6bf2df5@a106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
-DTEND:20250126T114500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20250126T093000Z
-SUMMARY:Samorząd terytorialny państw europejskich w perspektywie porównawczej (konwersatorium)
-UID:2e771e38-9ab9-4575-bfc6-3dd4b8324624@2e77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20241027T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20241027T093000Z
-SUMMARY:Postępowanie podatkowe (konwersatorium)
-UID:1559f0e4-4bf0-4879-9991-dd66f351e138@1559.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20250117T194500Z
-DTSTART:20250117T173000Z
-SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
-UID:1761c237-de1c-43b5-9282-6cc299d15996@1761.org
+UID:aaf4c860-349e-4cdb-9f50-ee268ba4eb4e@aaf4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
@@ -224,7 +67,23 @@ DTEND:20241117T114500Z
 LOCATION:Rakowicka 16 sala 11
 DTSTART:20241117T093000Z
 SUMMARY:Samorząd terytorialny państw europejskich w perspektywie porównawczej (konwersatorium)
-UID:a3dc86c4-fb06-4e2c-b3c1-3fc82f688a11@a3dc.org
+UID:19dcf7f9-99d2-486d-8b36-12984139eeee@19dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20250119T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250119T084500Z
+SUMMARY:Postępowanie podatkowe (konwersatorium)
+UID:7eae788f-d435-4b02-a051-5c0add3c604c@7eae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20250201T153000Z
+LOCATION:Paw.B 151
+DTSTART:20250201T140000Z
+SUMMARY:Prawo i polityka celna (zaliczenie)
+UID:49d0ddc6-1271-4dd3-a0fc-310e85d3df25@49d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
@@ -232,67 +91,80 @@ DTEND:20241215T171500Z
 LOCATION:.
 DTSTART:20241215T154500Z
 SUMMARY: (egzamin)
-UID:576540fd-f8c1-4e4d-a038-eadc7ea38bfa@5765.org
+UID:30883e3b-e77b-479c-9d1f-01a84bdb6cf7@3088.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20241027T091500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20241027T070000Z
-SUMMARY:Prawo i polityka celna (konwersatorium)
-UID:f2724342-1cc3-4277-9175-a545d7fd9afb@f272.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20241018T184500Z
+DTSTART:20241018T163000Z
+SUMMARY:Spółki i umowy handlowe (wykład)
+UID:fb5f58dd-7beb-41e0-828d-afaf1a29f185@fb5f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241214T144500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20241214T140000Z
-SUMMARY:Narzędzia wizualizacji i prezentacja danych (konwersatorium)
-UID:4662110b-0e54-46d3-9d73-3bd324553013@4662.org
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241116T124500Z
+DTSTART:20241116T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
+UID:0206e3dc-f5fb-4120-8f34-b163fbcb571f@0206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241018T184500Z
+DTSTART:20241018T163000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (Przeniesienie zajęć)
+UID:bf34769e-5d88-4fc3-b206-0a83ac4f31d5@bf34.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
 DTEND:20250125T100000Z
 DTSTART:20250125T074500Z
 SUMMARY:Działalność oświatowa (wykład)
-UID:303e3022-2cdc-4deb-acbb-f35624cc531d@303e.org
+UID:f1889b6f-ce37-42f2-9b60-40353955dd6a@f188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
+DTEND:20250117T170000Z
+DTSTART:20250117T144500Z
+SUMMARY:Działalność oświatowa (wykład)
+UID:247128ab-fc53-4d84-a01a-556171cfa599@2471.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20241020T141500Z
-DTSTART:20241020T120000Z
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
 SUMMARY:Spółki i umowy handlowe (wykład)
-UID:b707227c-7c4c-4790-a6b9-2ca94b531d4b@b707.org
+UID:f0854721-e991-4e7d-b9e6-09ce50058014@f085.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Adam Drozdek
-DTEND:20250201T171500Z
-LOCATION:Paw.B 151
-DTSTART:20250201T154500Z
-SUMMARY:Postępowanie podatkowe (zaliczenie)
-UID:4d33c0ac-2682-4877-81f5-a8a6f0fae1d9@4d33.org
+DTEND:20241130T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241130T084500Z
+SUMMARY:Prawo i polityka celna (konwersatorium)
+UID:31c76b44-cdff-4145-86e0-3c2b0d9e33f5@31c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20241129T194500Z
-DTSTART:20241129T173000Z
+DTEND:20250117T194500Z
+DTSTART:20250117T173000Z
 SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
-UID:7415f838-23b3-40c8-80f3-a98ce49a9913@7415.org
+UID:ead99711-8016-4e8f-825a-a599f65a40cf@ead9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Błażej Mazur
-DTEND:20241214T134500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20241214T121500Z
-SUMMARY:Narzędzia wizualizacji i prezentacja danych (konwersatorium)
-UID:b14d62ff-45c0-4687-b7f4-5f1c0c36a15a@b14d.org
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241214T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241214T084500Z
+SUMMARY:Prawo i polityka celna (konwersatorium)
+UID:1e6ecfc3-f642-461d-9fe8-a2d94291a696@1e6e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Budzanowska
-DTEND:20241018T160000Z
-DTSTART:20241018T134500Z
-SUMMARY:Współczesne teorie administracji publicznej (wykład)
-UID:e7f8a38b-d304-486b-b4e2-7fa55f4aa9ac@e7f8.org
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
+DTEND:20241130T143000Z
+LOCATION:Paw.B 151
+DTSTART:20241130T121500Z
+SUMMARY:Samorząd terytorialny państw europejskich w perspektywie porównawczej (konwersatorium)
+UID:21bc375b-1860-405f-91f9-193a4c8905f7@21bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Adam Drozdek
@@ -300,34 +172,162 @@ DTEND:20250118T141500Z
 LOCATION:Rakowicka 16 sala 12
 DTSTART:20250118T111500Z
 SUMMARY:Prawo i polityka celna (konwersatorium)
-UID:a4bbe0b8-f02e-4dd3-aec5-d453422d9fc0@a4bb.org
+UID:a97f173c-271a-4ed4-ac71-a1f068ca3fab@a97f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Budzanowska
+DTEND:20241018T160000Z
+DTSTART:20241018T134500Z
+SUMMARY:Współczesne teorie administracji publicznej (wykład)
+UID:621dbbf9-b028-4f21-bf94-1576b0c816f0@621d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20241020T141500Z
+DTSTART:20241020T120000Z
+SUMMARY:Spółki i umowy handlowe (wykład)
+UID:4b933973-8527-4b7b-84c0-26ed8c9e8222@4b93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Spółki i umowy handlowe (wykład)
+UID:5f76499d-e994-428e-8f24-9cfff3e6b19e@5f76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241201T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241201T084500Z
+SUMMARY:Postępowanie podatkowe (konwersatorium)
+UID:6a6e7bb4-064e-464c-b955-455d8a03a500@6a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
+DTEND:20250126T114500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250126T093000Z
+SUMMARY:Samorząd terytorialny państw europejskich w perspektywie porównawczej (konwersatorium)
+UID:03690fe4-5401-43fc-898d-e50b8f17e20f@0369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20250201T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250201T154500Z
+SUMMARY:Postępowanie podatkowe (zaliczenie)
+UID:a86d207e-e061-4f10-93f8-f7f9d63520b1@a86d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241215T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241215T084500Z
+SUMMARY:Postępowanie podatkowe (konwersatorium)
+UID:315422c0-ae0f-475b-adac-889735acf138@3154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241026T114500Z
+DTSTART:20241026T093000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
+UID:d1942680-382c-4580-ab2d-d5fb0113ea13@d194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Budzanowska
+DTEND:20241213T194500Z
+DTSTART:20241213T173000Z
+SUMMARY:Współczesne teorie administracji publicznej (Przeniesienie zajęć)
+UID:9447f188-ce5e-4014-a1e5-c1c73cf35acc@9447.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241214T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241214T121500Z
+SUMMARY:Narzędzia wizualizacji i prezentacja danych (konwersatorium)
+UID:c25e371a-7aea-48e2-9470-b4628a04f644@c25e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
+DTEND:20241116T100000Z
+DTSTART:20241116T074500Z
+SUMMARY:Działalność oświatowa (wykład)
+UID:6d4d70d8-4076-426a-8215-66a416c45b83@6d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
+DTEND:20241020T090000Z
+DTSTART:20241020T064500Z
+SUMMARY:Działalność oświatowa (wykład)
+UID:ffa70cf3-623c-477f-a4c4-0ef26f2ebe5e@ffa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
+DTEND:20241116T151500Z
+DTSTART:20241116T130000Z
+SUMMARY:Spółki i umowy handlowe (wykład)
+UID:f001610c-9399-4473-ade1-3c61f8af1331@f001.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241019T090000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241019T064500Z
+SUMMARY:Postępowanie podatkowe (konwersatorium)
+UID:53775bbe-5044-4141-8f29-a5285483511e@5377.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241027T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241027T093000Z
+SUMMARY:Postępowanie podatkowe (konwersatorium)
+UID:f80c4d88-5a21-4ded-ab31-d22140087c36@f80c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241129T194500Z
+DTSTART:20241129T173000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
+UID:bba12189-ddab-4db1-9b81-015501bd5c2c@bba1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Andrzej Piasecki
 DTEND:20241129T170000Z
 DTSTART:20241129T144500Z
 SUMMARY:Działalność oświatowa (wykład)
-UID:55bf2087-c78d-448c-8bd3-158b7a39158f@55bf.org
+UID:fa7b9e54-7f32-4571-b0e2-53929c274e34@fa7b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Spółki i umowy handlowe (wykład)
-UID:5067f10e-c51a-4455-a3ff-4ba8d3291082@5067.org
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241117T170000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241117T144500Z
+SUMMARY:Narzędzia wizualizacji i prezentacja danych (konwersatorium)
+UID:fd5a4f53-5ed6-439d-8cad-468c390acfa9@fd5a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Inga Mizdrak
-DTEND:20241116T124500Z
-DTSTART:20241116T103000Z
-SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (wykład)
-UID:96d7f856-cb7a-4cfe-87bc-5009205d0fe8@96d7.org
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241027T091500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241027T070000Z
+SUMMARY:Prawo i polityka celna (konwersatorium)
+UID:e37d5db3-8040-4d83-8086-2fffdd3bd6c2@e37d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aldona Piotrowska
-DTEND:20241213T170000Z
-DTSTART:20241213T144500Z
-SUMMARY:Spółki i umowy handlowe (wykład)
-UID:434de5b5-f617-4893-b885-8fe94f13f49a@434d.org
+DESCRIPTION:Instructor: dr Anna Budzanowska
+DTEND:20241123T180000Z
+DTSTART:20241123T154500Z
+SUMMARY:Współczesne teorie administracji publicznej (wykład)
+UID:8f6f4976-c317-421e-8a87-1c27d6637a55@8f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Budzanowska
+DTEND:20241025T184500Z
+DTSTART:20241025T163000Z
+SUMMARY:Współczesne teorie administracji publicznej (Przeniesienie zajęć)
+UID:26f41d24-eb6c-40be-98c0-8309b3288eeb@26f4.org
 END:VEVENT
 END:VCALENDAR

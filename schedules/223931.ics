@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250301T124500Z
-DTSTART:20250301T103000Z
-SUMMARY:Logistyka e-commerce (wykład)
-UID:26c01a5e-a3f2-40da-8979-67dda58ee3fb@26c0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Magdalena Satora
 DTEND:20250510T090000Z
 LOCATION:Paw.S sala 5
 DTSTART:20250510T064500Z
 SUMMARY:Logistyka e-commerce (ćwiczenia)
-UID:5ebe1636-66aa-4bf5-8148-75f8ea397a47@5ebe.org
+UID:41fcab2f-e6d0-49ad-a171-79148bb82e44@41fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20250518T100000Z
+DTSTART:20250518T074500Z
+SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (wykład)
+UID:c3d66f93-7215-46cf-9aec-6d6a37274a4b@c3d6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
@@ -22,60 +22,14 @@ DTEND:20250315T100000Z
 LOCATION:Paw.C sala F
 DTSTART:20250315T074500Z
 SUMMARY:Podstawy marketingu w e-commerce (konwersatorium do wyboru)
-UID:06751e0c-57fb-437d-a8b4-548b8df3e9c2@0675.org
+UID:01a15f3c-3b41-4cfe-b015-872ffcceecd0@01a1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Orzeł
-DTEND:20250307T194500Z
-DTSTART:20250307T173000Z
-SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (wykład)
-UID:9bc3271b-a73a-48d6-a349-75618c405387@9bc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20250509T184500Z
-LOCATION:Paw.C sala A
-DTSTART:20250509T163000Z
-SUMMARY:CSR w branży logistycznej (konwersatorium)
-UID:955f4776-d80a-47f0-8ebc-28bf66d424ae@955f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20250525T104500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20250525T083000Z
-SUMMARY:CSR w branży logistycznej (konwersatorium)
-UID:508a6500-1a1e-423e-97d0-c74c65b0d212@508a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250510T160000Z
-DTSTART:20250510T134500Z
-SUMMARY:Podstawy marketingu w e-commerce (Przeniesienie zajęć)
-UID:7e704c97-1651-4c8e-9400-a84e1e705a58@7e70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20250411T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250411T134500Z
-SUMMARY:Logistyka e-commerce (ćwiczenia)
-UID:812d5f0f-6401-421c-bd4e-1f25ddd5b913@812d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250525T141500Z
-LOCATION:Paw.C sala B
-DTSTART:20250525T111500Z
-SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
-UID:3e9209e2-8bdf-42c3-9384-f1cc0cbcd6c5@3e92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20250613T184500Z
-DTSTART:20250613T163000Z
-SUMMARY:CSR w branży logistycznej (Przeniesienie zajęć)
-UID:654a01e2-65b8-413c-bc9e-876828b415b2@654a.org
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250511T090000Z
+DTSTART:20250511T064500Z
+SUMMARY:Logistyka e-commerce (wykład)
+UID:dd9e428e-71ce-49a2-9caa-1e254d755503@dd9e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Magdalena Satora
@@ -83,114 +37,21 @@ DTEND:20250316T100000Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20250316T074500Z
 SUMMARY:Logistyka e-commerce (ćwiczenia)
-UID:89fd0617-df89-40db-a21b-25ba2f682302@89fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
-DTEND:20250411T184500Z
-LOCATION:Paw.C sala F
-DTSTART:20250411T163000Z
-SUMMARY:Podstawy marketingu w e-commerce (konwersatorium do wyboru)
-UID:2de04d40-b9cf-4b4e-9e1e-49068d074d4f@2de0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250509T184500Z
-DTSTART:20250509T163000Z
-SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (Przeniesienie zajęć)
-UID:e315cf62-8f2b-4321-8dbb-18628eb2ab19@e315.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250330T090000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250330T060000Z
-SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
-UID:70d1b9f4-313c-4fb0-9495-d4829440ade7@70d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250315T124500Z
-LOCATION:Paw.C sala B
-DTSTART:20250315T103000Z
-SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
-UID:eb6d0dc8-f3e6-4c14-84f2-4e560a87c4b5@eb6d.org
+UID:8531c76a-90da-48e4-945a-20b8a0fbb9d0@8531.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250413T104500Z
-LOCATION:Paw.U sala K
-DTSTART:20250413T083000Z
-SUMMARY:Techniki przewozu towarów (konwersatorium do wyboru)
-UID:702c5951-834b-4474-b9b6-63d19fc6a0d7@702c.org
+DTEND:20250301T124500Z
+DTSTART:20250301T103000Z
+SUMMARY:Logistyka e-commerce (wykład)
+UID:5410c828-4965-4859-8f7b-f72a4f81eb6b@5410.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20250510T123000Z
-LOCATION:Bud.gł. 2
-DTSTART:20250510T093000Z
-SUMMARY:CSR w branży logistycznej (konwersatorium)
-UID:4c2b6bb3-f8e8-4802-a049-1d44f2a21776@4c2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Orzeł
-DTEND:20250518T100000Z
-DTSTART:20250518T074500Z
-SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (wykład)
-UID:e9c7c524-67c8-419a-8943-4a67242feb50@e9c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20250330T123000Z
-LOCATION:Paw.B 151
-DTSTART:20250330T093000Z
-SUMMARY:CSR w branży logistycznej (konwersatorium)
-UID:70345035-c225-4fc7-a9b9-5f26dd593316@7034.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Orzeł
-DTEND:20250404T184500Z
-DTSTART:20250404T163000Z
-SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (wykład)
-UID:6e996f5f-1f2c-4f96-8e32-d759faa8fdbd@6e99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20250524T160000Z
-DTSTART:20250524T134500Z
-SUMMARY:Logistyka e-commerce (Przeniesienie zajęć)
-UID:e94e2383-b38f-4593-b06b-bc767f421bb7@e94e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250328T194500Z
-LOCATION:Paw.U sala K
-DTSTART:20250328T173000Z
-SUMMARY:Techniki przewozu towarów (konwersatorium do wyboru)
-UID:12d8ceff-66c3-44e5-9573-7a0396269d8a@12d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
-DTEND:20250412T164500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20250412T134500Z
-SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
-UID:0ecf6407-63f3-4921-8ca7-e387278332bf@0ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20250524T171500Z
-LOCATION:Paw.U sala M
-DTSTART:20250524T163000Z
-SUMMARY:Ekologiczne aspekty logistyki (konwersatorium)
-UID:81b496ff-725e-45cb-9c7d-4c49de4fabf0@81b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Orzeł
-DTEND:20250329T124500Z
-DTSTART:20250329T103000Z
-SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (Przeniesienie zajęć)
-UID:5e9d3f43-150e-4799-a448-04a08c63931b@5e9d.org
+DTEND:20250613T184500Z
+DTSTART:20250613T163000Z
+SUMMARY:CSR w branży logistycznej (Przeniesienie zajęć)
+UID:660c9ef3-0b9c-4040-9b2f-327528f862b4@660c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
@@ -198,60 +59,7 @@ DTEND:20250328T170000Z
 LOCATION:Paw.B 351
 DTSTART:20250328T144500Z
 SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
-UID:bead0337-233b-4501-8381-a63ba40e39f9@bead.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20250509T161500Z
-LOCATION:Paw.U sala K
-DTSTART:20250509T144500Z
-SUMMARY:Ekologiczne aspekty logistyki (konwersatorium)
-UID:d7870411-dfa4-475d-a905-aaf2beb4f03a@d787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20250413T133000Z
-LOCATION:Paw.U sala M
-DTSTART:20250413T111500Z
-SUMMARY:Ekologiczne aspekty logistyki (konwersatorium)
-UID:8d814ca9-e9a8-49c9-815a-8631f713f626@8d81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250511T090000Z
-DTSTART:20250511T064500Z
-SUMMARY:Logistyka e-commerce (wykład)
-UID:506a7543-8886-462a-827a-72828704e07a@506a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Orzeł
-DTEND:20250301T100000Z
-DTSTART:20250301T074500Z
-SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (Przeniesienie zajęć)
-UID:e2cd2d75-2d76-42c4-bfec-0a65d421db59@e2cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250316T124500Z
-LOCATION:Paw.U sala K
-DTSTART:20250316T103000Z
-SUMMARY:Techniki przewozu towarów (konwersatorium do wyboru)
-UID:815bf3d0-cb4b-43aa-aeab-f9b57ad4ba90@815b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20250329T100000Z
-DTSTART:20250329T074500Z
-SUMMARY:Logistyka e-commerce (wykład)
-UID:a3ae20a8-fc0f-43fe-ac12-fb07254f24ea@a3ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20250412T131500Z
-LOCATION:Paw.C sala F
-DTSTART:20250412T101500Z
-SUMMARY:CSR w branży logistycznej (konwersatorium)
-UID:543942c7-8453-4313-b78e-05115af6b1c7@5439.org
+UID:1b1363ce-d178-40d5-aa35-ee82fa07b4fb@1b13.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
@@ -259,7 +67,30 @@ DTEND:20250525T170000Z
 LOCATION:Paw.C sala A
 DTSTART:20250525T144500Z
 SUMMARY:Podstawy marketingu w e-commerce (konwersatorium do wyboru)
-UID:5a0ce372-4e8f-4e7d-bb76-7c115c933e35@5a0c.org
+UID:db2e9840-31de-4f76-80ca-2831f0994b78@db2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250411T184500Z
+LOCATION:Paw.C sala F
+DTSTART:20250411T163000Z
+SUMMARY:Podstawy marketingu w e-commerce (konwersatorium do wyboru)
+UID:d0dd2fc2-313d-4495-a70f-33029efb8048@d0dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250315T124500Z
+LOCATION:Paw.C sala B
+DTSTART:20250315T103000Z
+SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
+UID:d57414f8-2ea2-4e1b-9935-1cff7309b42c@d574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250509T184500Z
+DTSTART:20250509T163000Z
+SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (Przeniesienie zajęć)
+UID:a73ae896-e56f-4b29-9c39-2fd92c63926c@a73a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Jachimowski
@@ -267,20 +98,189 @@ DTEND:20250330T151500Z
 LOCATION:Paw.U sala M
 DTSTART:20250330T130000Z
 SUMMARY:Ekologiczne aspekty logistyki (konwersatorium)
-UID:85b5f261-9504-4b40-93c9-74c7124edbc5@85b5.org
+UID:4bad728f-05cd-48e6-a39c-a39ebbba324a@4bad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20250613T160000Z
-DTSTART:20250613T134500Z
-SUMMARY:Logistyka e-commerce (Przeniesienie zajęć)
-UID:32f4381d-a772-4143-92c1-ae419d66c704@32f4.org
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20250509T184500Z
+LOCATION:Paw.C sala A
+DTSTART:20250509T163000Z
+SUMMARY:CSR w branży logistycznej (konwersatorium)
+UID:890f6cd6-26f0-4091-a724-862371ef2220@890f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20250404T184500Z
+DTSTART:20250404T163000Z
+SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (wykład)
+UID:f678e88c-05c3-439d-976a-8ed99d139461@f678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20250510T123000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250510T093000Z
+SUMMARY:CSR w branży logistycznej (konwersatorium)
+UID:d0be5280-6774-4507-a676-3631bf26d5e9@d0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250413T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20250413T111500Z
+SUMMARY:Ekologiczne aspekty logistyki (konwersatorium)
+UID:07b71950-8ebe-4556-990c-d62254d59d3d@07b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250329T100000Z
+DTSTART:20250329T074500Z
+SUMMARY:Logistyka e-commerce (wykład)
+UID:77ae3e77-f7d3-40b2-afda-52f80fc25c59@77ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karolina Orzeł
 DTEND:20250511T114500Z
 DTSTART:20250511T093000Z
 SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (Przeniesienie zajęć)
-UID:936b032f-ec9d-4ea9-a1ec-6be4bf1eb8da@936b.org
+UID:8db159da-d51c-4daa-994d-79a93d9241e1@8db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20250524T160000Z
+DTSTART:20250524T134500Z
+SUMMARY:Logistyka e-commerce (Przeniesienie zajęć)
+UID:75ec8af8-13dc-49a2-a753-0ccb758b133e@75ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250316T124500Z
+LOCATION:Paw.U sala K
+DTSTART:20250316T103000Z
+SUMMARY:Techniki przewozu towarów (konwersatorium do wyboru)
+UID:33f509c9-8e20-47ce-bb85-b07ef8746141@33f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250328T194500Z
+LOCATION:Paw.U sala K
+DTSTART:20250328T173000Z
+SUMMARY:Techniki przewozu towarów (konwersatorium do wyboru)
+UID:4a733f8d-bf99-44ee-89e0-c637b4e92ec9@4a73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20250330T123000Z
+LOCATION:Paw.B 151
+DTSTART:20250330T093000Z
+SUMMARY:CSR w branży logistycznej (konwersatorium)
+UID:8d8dccc4-7a42-4df3-afe3-530bb4957e80@8d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20250307T194500Z
+DTSTART:20250307T173000Z
+SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (wykład)
+UID:5ac486ba-c1e9-482a-a0cd-de57de3fa311@5ac4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20250613T160000Z
+DTSTART:20250613T134500Z
+SUMMARY:Logistyka e-commerce (Przeniesienie zajęć)
+UID:f25eefa0-9b4c-4502-b0a4-5824ad3585ee@f25e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20250525T104500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250525T083000Z
+SUMMARY:CSR w branży logistycznej (konwersatorium)
+UID:a67ce6f6-455d-4cb8-b62c-780f4a85c2a5@a67c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250413T104500Z
+LOCATION:Paw.U sala K
+DTSTART:20250413T083000Z
+SUMMARY:Techniki przewozu towarów (konwersatorium do wyboru)
+UID:6b376a88-6e50-45c1-be4b-0553ebd48443@6b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250330T090000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250330T060000Z
+SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
+UID:f640eedc-b4ff-4869-81df-28f0f841ff0c@f640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250509T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20250509T144500Z
+SUMMARY:Ekologiczne aspekty logistyki (konwersatorium)
+UID:9067c741-ceec-4044-8eae-982355e358d9@9067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250412T164500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250412T134500Z
+SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
+UID:4233bae1-2f55-406c-a657-7430a9e21500@4233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20250301T100000Z
+DTSTART:20250301T074500Z
+SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (Przeniesienie zajęć)
+UID:c236d71a-4514-4111-bd92-e0ee99ebd628@c236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Bartosz Rozmund
+DTEND:20250525T141500Z
+LOCATION:Paw.C sala B
+DTSTART:20250525T111500Z
+SUMMARY:Zarządzanie międzynarodowymi projektami logistycznymi (konwersatorium)
+UID:555f2cae-3d55-4716-bc40-c7a0f947ba82@555f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20250412T131500Z
+LOCATION:Paw.C sala F
+DTSTART:20250412T101500Z
+SUMMARY:CSR w branży logistycznej (konwersatorium)
+UID:e733feda-296e-4da0-b471-e01e8e26aba6@e733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250524T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20250524T163000Z
+SUMMARY:Ekologiczne aspekty logistyki (konwersatorium)
+UID:af8ef4a2-3dfb-4dc1-9f9e-6d0fc37b5976@af8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250510T160000Z
+DTSTART:20250510T134500Z
+SUMMARY:Podstawy marketingu w e-commerce (Przeniesienie zajęć)
+UID:9851d249-23d6-428d-ab13-d3c01ad859f2@9851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20250329T124500Z
+DTSTART:20250329T103000Z
+SUMMARY:Zarządzanie zakupami i zaopatrzeniem w łańcuchu dostaw (Przeniesienie zajęć)
+UID:2bbbe196-646b-4333-949d-e000e51ae96d@2bbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20250411T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250411T134500Z
+SUMMARY:Logistyka e-commerce (ćwiczenia)
+UID:2d763dbc-c08a-4479-892c-9f168dff45cc@2d76.org
 END:VEVENT
 END:VCALENDAR
