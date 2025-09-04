@@ -2,12 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250224T153000Z
-LOCATION:Paw.G 10
-DTSTART:20250224T140000Z
-SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
-UID:3b7e5386-324b-4a3a-8621-fc0e7ad48564@3b7e.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250610T073000Z
+DTSTART:20250610T060000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
+UID:db4d3bbc-6f91-4cd9-a00e-e03c27e9425e@db4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250423T081500Z
+DTSTART:20250423T064500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:914f424d-e677-4d46-bae0-760e106d053f@914f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250512T174500Z
+DTSTART:20250512T153000Z
+SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
+UID:fef7bcc0-d2e6-4b56-b139-407e25a4a7ec@fef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250415T073000Z
+DTSTART:20250415T060000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
+UID:f2f9620f-a9f1-4263-9f28-18513451c829@f2f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250414T180000Z
+DTSTART:20250414T163000Z
+SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
+UID:ad712657-ec9a-4e79-b51c-90c4c07c57a1@ad71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250408T110000Z
+DTSTART:20250408T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:f0d0234b-f763-48dc-86cf-2e8f6133bfa1@f0d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
@@ -15,136 +49,63 @@ DTEND:20250410T161500Z
 LOCATION:Platforma Moodle
 DTSTART:20250410T144500Z
 SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
-UID:14c595d8-5e75-4191-806a-c040f8ae3eec@14c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250226T091500Z
-DTSTART:20250226T074500Z
-SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:285abd33-7ff3-4117-a2c1-dd20452d50de@285a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250507T081500Z
-DTSTART:20250507T064500Z
-SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:1fe81867-45bb-4024-abc7-56eab4eaca3b@1fe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250311T134500Z
-DTSTART:20250311T121500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:c394dadc-5275-496f-be02-e25d2686e0bf@c394.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250610T073000Z
-DTSTART:20250610T060000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
-UID:2938a591-afa6-4de1-a136-d4068a3c0772@2938.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250311T120000Z
-DTSTART:20250311T103000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:30c941ea-dab1-42f9-be34-a8c8e098cc76@30c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250326T083000Z
-DTSTART:20250326T070000Z
-SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:9a56af58-9482-41c8-9990-f31601dbfd6c@9a56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250520T124500Z
-DTSTART:20250520T111500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:c99edf62-dde4-4684-9940-52c9489435cf@c99e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250225T134500Z
-DTSTART:20250225T121500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:62af7077-2ab5-4f6e-b3a6-29d8a9dd0d56@62af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250304T101500Z
-DTSTART:20250304T084500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:534ea7a0-28ec-4944-9c7f-c863e9012dce@534e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250318T101500Z
-DTSTART:20250318T084500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:0ae51b69-1f83-4a27-9d28-7d5178591612@0ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250408T124500Z
-DTSTART:20250408T111500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:01e8dddf-129b-4997-9a69-c95fbd0b12ff@01e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250508T161500Z
-LOCATION:Platforma Moodle
-DTSTART:20250508T144500Z
-SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
-UID:9fa87994-2f6e-4147-9201-3eb30ba36542@9fa8.org
+UID:54bd5468-9310-4e22-bdb9-533f4b2ee619@54bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
 DTEND:20250507T100000Z
 DTSTART:20250507T083000Z
 SUMMARY:Ekonomiczne aspekty jakości (wykład do wyboru)
-UID:1602c7df-0b4e-4296-9a07-c31109048643@1602.org
+UID:3d542afa-7b3c-435c-94a1-daacced5d182@3d54.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250429T073000Z
-DTSTART:20250429T060000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
-UID:adcea99f-9b6c-4019-878f-5114a7bbdc61@adce.org
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250408T124500Z
+DTSTART:20250408T111500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:cde61c73-6207-477a-b4da-a4984e616dcc@cde6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250609T174500Z
+DTSTART:20250609T153000Z
+SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
+UID:6cdb1aab-f416-4777-89be-20cd051039cc@6cdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250610T091500Z
-DTSTART:20250610T083000Z
+DTEND:20250225T120000Z
+DTSTART:20250225T103000Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:db782bb0-d621-4adc-8425-b209efae22a1@db78.org
+UID:6e7a1697-43a0-43e6-ae57-abd217467d98@6e7a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250909T091500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250909T083000Z
-SUMMARY:Psychospołeczne aspekty jakości (zaliczenie)
-UID:1228bec3-d5d7-407e-b77f-736ea8faf53f@1228.org
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250225T134500Z
+DTSTART:20250225T121500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:43e26cca-7b01-4baa-a82c-e790f14b8da6@43e2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250611T091500Z
-DTSTART:20250611T083000Z
-SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:c8558774-6b05-4002-be36-1066a270ee47@c855.org
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250318T101500Z
+DTSTART:20250318T084500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:8e2d0d54-d3e8-4a1a-8333-74aa2dee22ca@8e2d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20250324T133000Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20250324T111500Z
-SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
-UID:8304aac5-1780-40a8-9746-94c5b875efff@8304.org
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250415T083000Z
+DTSTART:20250415T074500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:73b90a35-2db3-4e09-a3e4-2872550497df@73b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250506T124500Z
+DTSTART:20250506T111500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:9dc182a0-8840-4f95-bc92-e465386e70ee@9dc1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
@@ -152,21 +113,21 @@ DTEND:20250313T171500Z
 LOCATION:Platforma Moodle
 DTSTART:20250313T154500Z
 SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
-UID:a6afdd73-aa53-4b40-a9c9-cd8352039766@a6af.org
+UID:2279249c-10eb-484a-ad18-16b87037460c@2279.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250304T083000Z
-DTSTART:20250304T070000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
-UID:852c31eb-1e55-493a-8adb-d6f08f9f3103@852c.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250409T081500Z
+DTSTART:20250409T064500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:cef7a830-8765-4003-9747-f3a5a291d9c7@cef7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250414T180000Z
-DTSTART:20250414T163000Z
-SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
-UID:bd1c1509-214c-4b7f-a81f-931100ed1a21@bd1c.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250611T091500Z
+DTSTART:20250611T083000Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:b9909842-8bbb-4847-8562-467d5e0336a4@b990.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
@@ -174,239 +135,14 @@ DTEND:20250616T124500Z
 LOCATION:Paw.U sala M
 DTSTART:20250616T111500Z
 SUMMARY: (rezerwacja)
-UID:701a3d92-f57c-47be-afda-09680eb5aaa6@701a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250520T110000Z
-DTSTART:20250520T093000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:38439082-03ec-4184-a853-5b343a8c6a84@3843.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250603T124500Z
-DTSTART:20250603T111500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:ce6d5125-7730-4ff5-92f3-d7a11b4181f0@ce6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250610T083000Z
-DTSTART:20250610T074500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:49ae6aff-f08c-432d-99c6-54369c75e255@49ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250519T151500Z
-LOCATION:Paw.G 10
-DTSTART:20250519T130000Z
-SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
-UID:17694661-3137-44ca-9787-fa3437935fbc@1769.org
+UID:18a265ee-d254-41f0-8547-069158030861@18a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
 DTEND:20250312T083000Z
 DTSTART:20250312T070000Z
 SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:905bb13d-947d-45b8-a522-c32c68f8ea86@905b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250325T134500Z
-DTSTART:20250325T121500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:207bd2b9-34c3-4806-9ec9-c195ff851703@207b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250513T081500Z
-DTSTART:20250513T060000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
-UID:1eaf33bd-29e4-4954-a805-07380b652a43@1eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250519T180000Z
-DTSTART:20250519T163000Z
-SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
-UID:1d5b1dfc-a3f6-4a64-a312-d7924f869e4e@1d5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250423T081500Z
-DTSTART:20250423T064500Z
-SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:a38b5803-1b2b-42f0-9b84-63274cbd6b24@a38b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250401T073000Z
-DTSTART:20250401T060000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (Przeniesienie zajęć)
-UID:bd91cbc8-bb4f-4aef-a139-7fa5e24735a7@bd91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250522T153000Z
-LOCATION:Platforma Moodle
-DTSTART:20250522T144500Z
-SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
-UID:8e93bf30-4db6-4498-9118-7321ffb731c7@8e93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20250331T123000Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20250331T101500Z
-SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
-UID:6f608503-d627-447a-9093-9df6ff4ea245@6f60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250312T110000Z
-DTSTART:20250312T093000Z
-SUMMARY:Ekonomiczne aspekty jakości (wykład do wyboru)
-UID:0cdb89fc-08f0-4305-87dc-53f81712194b@0cdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250318T083000Z
-DTSTART:20250318T070000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
-UID:7fb6c5e8-42cb-4e00-a180-9e34d88244f9@7fb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250401T091500Z
-DTSTART:20250401T074500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:b56674af-6a15-49d1-944f-bcec10b0e898@b566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250324T153000Z
-LOCATION:Paw.G 10
-DTSTART:20250324T140000Z
-SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
-UID:9c45b34c-8412-4b6f-8aa0-fbf00f88be92@9c45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250325T101500Z
-DTSTART:20250325T084500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:dbb4d4ff-5217-47f1-8554-2cc34f10d8e2@dbb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250327T171500Z
-LOCATION:Platforma Moodle
-DTSTART:20250327T154500Z
-SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
-UID:2431c1ed-bb2c-4aee-8dd6-45d380954d4f@2431.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250408T110000Z
-DTSTART:20250408T093000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:8ddf8203-f484-433e-8afa-26b1b83b16df@8ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250408T073000Z
-DTSTART:20250408T060000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
-UID:43a71f32-7763-4a5a-9493-5167ecb2fcef@43a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250602T143000Z
-LOCATION:Paw.G 10
-DTSTART:20250602T130000Z
-SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
-UID:dca06c76-e6c0-426a-b109-b1cc11ba680c@dca0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250408T091500Z
-DTSTART:20250408T074500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:0b4a151b-62c2-42bd-8ec7-a3799b7ec5a4@0b4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20250317T133000Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20250317T111500Z
-SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
-UID:dd32877d-e532-4a7b-9ae7-f112b2c13a7e@dd32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20250310T133000Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20250310T111500Z
-SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
-UID:3ce3ac40-db78-47a3-a0b4-7776fa1cb85d@3ce3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250409T100000Z
-DTSTART:20250409T083000Z
-SUMMARY:Ekonomiczne aspekty jakości (wykład do wyboru)
-UID:53733a00-da3c-4013-9ee3-7c2cc8e00009@5373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250415T083000Z
-DTSTART:20250415T074500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:fbe1f375-4516-4381-8407-9373b256333d@fbe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250304T133000Z
-DTSTART:20250304T103000Z
-SUMMARY: (rezerwacja)
-UID:1dbfbfc9-5c4b-4f3e-9d35-e83271dda01f@1dbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250506T110000Z
-DTSTART:20250506T093000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:951e5619-8dcc-4857-abe6-44924a468754@951e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250326T114500Z
-DTSTART:20250326T084500Z
-SUMMARY: (rezerwacja)
-UID:5418b3b5-b6ba-4f00-baa5-5d384d7f4959@5418.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250521T081500Z
-DTSTART:20250521T064500Z
-SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:899dbeee-7cd0-4cce-a759-b627532738f0@899d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250512T174500Z
-DTSTART:20250512T153000Z
-SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
-UID:a4becdef-0f19-49f8-a0f9-e6402b5ec765@a4be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250325T120000Z
-DTSTART:20250325T103000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:1301db14-5ed1-4219-99a2-16d636d1e720@1301.org
+UID:a7e2b667-b1ab-4c3c-9b8f-d392ee648486@a7e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
@@ -414,100 +150,88 @@ DTEND:20250324T101500Z
 LOCATION:Bud.gł. 8
 DTSTART:20250324T084500Z
 SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
-UID:7d4beaaa-1dd5-4113-87a1-876ca1048151@7d4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250526T180000Z
-DTSTART:20250526T163000Z
-SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
-UID:f828dce1-cdf2-4296-8560-dd58ef972c5d@f828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250602T174500Z
-DTSTART:20250602T153000Z
-SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
-UID:1deed275-f460-48e5-8f04-9874a78659af@1dee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250409T081500Z
-DTSTART:20250409T064500Z
-SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
-UID:5e8e4012-1faf-4e23-bc0f-6053259682c3@5e8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20250415T073000Z
-DTSTART:20250415T060000Z
-SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
-UID:5c2e7394-2f9f-4659-9d9b-0004e1c58493@5c2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20250506T124500Z
-DTSTART:20250506T111500Z
-SUMMARY:Ekonomika handlu (wykład)
-UID:c05dd5d8-9586-4579-be70-678f082fd1e6@c05d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250603T110000Z
-DTSTART:20250603T093000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:1cda2ff5-69d7-45cd-9203-d8aede1f9b1a@1cda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250311T101500Z
-DTSTART:20250311T084500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:83967a9c-bc50-4723-9e67-a84bb3d24c74@8396.org
+UID:b6c80165-7f27-4936-a9a7-044df6865765@b6c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250310T153000Z
+DTEND:20250224T153000Z
 LOCATION:Paw.G 10
-DTSTART:20250310T140000Z
+DTSTART:20250224T140000Z
 SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
-UID:5c7af5e0-83da-4d8a-af96-fd33603e6833@5c7a.org
+UID:7a787e3f-a407-4f7e-b354-c51d22bba281@7a78.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20250327T150000Z
-DTSTART:20250327T103000Z
+DTEND:20250304T133000Z
+DTSTART:20250304T103000Z
 SUMMARY: (rezerwacja)
-UID:45b49690-0ea6-4c30-89e6-a605630600ed@45b4.org
+UID:50386b18-c3ac-4b38-a76e-57244e22e6a3@5038.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
-DTEND:20250505T143000Z
-LOCATION:Paw.G 10
-DTSTART:20250505T130000Z
-SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
-UID:a718012d-0d25-40d2-b52b-0872083d7301@a718.org
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20250310T133000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20250310T111500Z
+SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
+UID:4613f6e3-c8ee-41d4-ae90-75aa3a78e7e5@4613.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20250225T101500Z
-DTSTART:20250225T084500Z
-SUMMARY:Innowacje w dystrybucji (wykład)
-UID:7c6df122-4b58-4dbb-8ee4-762b8f0a634a@7c6d.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250326T083000Z
+DTSTART:20250326T070000Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:ef206f29-ac67-46a0-b7e5-49f27b101315@ef20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250409T100000Z
+DTSTART:20250409T083000Z
+SUMMARY:Ekonomiczne aspekty jakości (wykład do wyboru)
+UID:1a1cea81-3417-4159-a507-fa39211db244@1a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250401T073000Z
+DTSTART:20250401T060000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (Przeniesienie zajęć)
+UID:6816a9b7-1071-4bde-9095-ad6a30ce22e9@6816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250508T161500Z
+LOCATION:Platforma Moodle
+DTSTART:20250508T144500Z
+SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
+UID:9cdbf081-773e-4fe4-92e6-954fef2681f4@9cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250513T081500Z
+DTSTART:20250513T060000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
+UID:dc65615c-94b4-4cc0-b969-c3cf1bc4fa47@dc65.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
-DTEND:20250609T174500Z
-DTSTART:20250609T153000Z
+DTEND:20250519T180000Z
+DTSTART:20250519T163000Z
 SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
-UID:b0e37953-b13f-46f4-b22e-f7b062fb226e@b0e3.org
+UID:aab03369-bfec-4a6a-97ee-112b2bf89c6d@aab0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20250225T120000Z
-DTSTART:20250225T103000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:d7a54895-f77b-40f1-8503-9044e882f962@d7a5.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250429T073000Z
+DTSTART:20250429T060000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
+UID:9d9af938-d9a9-46f2-80ab-60a9c5ba61da@9d9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20250324T133000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20250324T111500Z
+SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
+UID:1d77778b-10ed-4dea-89a6-9d4de59050df@1d77.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Turek
@@ -515,6 +239,282 @@ DTEND:20250303T133000Z
 LOCATION:Sienk. 4 pr. an .sens.
 DTSTART:20250303T111500Z
 SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
-UID:45d4a422-6c40-4298-8eee-986284f633bc@45d4.org
+UID:dc4430c6-c973-4f5c-9c6d-989d6d97e1d5@dc44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250505T143000Z
+LOCATION:Paw.G 10
+DTSTART:20250505T130000Z
+SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
+UID:35788a06-fdc8-4ae4-8a60-35752f1205ab@3578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250520T110000Z
+DTSTART:20250520T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:f187da60-7f1c-4aba-81c0-b2491f068b42@f187.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250312T110000Z
+DTSTART:20250312T093000Z
+SUMMARY:Ekonomiczne aspekty jakości (wykład do wyboru)
+UID:75d0c7f7-303b-4a73-953b-3a55fe4d1c6a@75d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250506T110000Z
+DTSTART:20250506T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:d5eb0fba-7fd0-4406-8d2a-79f6f2ccaa03@d5eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250324T153000Z
+LOCATION:Paw.G 10
+DTSTART:20250324T140000Z
+SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
+UID:60c266f7-c99f-46fd-aab7-51a543da8035@60c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250520T124500Z
+DTSTART:20250520T111500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:2f2f0886-708d-4ad4-809b-a8ba6a73c7e4@2f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250318T083000Z
+DTSTART:20250318T070000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
+UID:fce03272-e468-4e6c-a41e-f22234068659@fce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250311T101500Z
+DTSTART:20250311T084500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:63fec6fc-891e-41d0-8ada-a2747817be64@63fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250522T153000Z
+LOCATION:Platforma Moodle
+DTSTART:20250522T144500Z
+SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
+UID:1bc74c37-c1ec-40a8-b0fa-89a08a4d1f59@1bc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250327T150000Z
+DTSTART:20250327T103000Z
+SUMMARY: (rezerwacja)
+UID:c179fda4-c62d-4b31-9f65-8f6b5770bbae@c179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250519T151500Z
+LOCATION:Paw.G 10
+DTSTART:20250519T130000Z
+SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
+UID:5fe3b972-a0d0-4988-a596-e32f478ad6b4@5fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250304T101500Z
+DTSTART:20250304T084500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:76b26e10-2cb0-415e-8237-30898bec81b3@76b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250310T153000Z
+LOCATION:Paw.G 10
+DTSTART:20250310T140000Z
+SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
+UID:77098dd0-a1c4-436f-9cc0-8e41321e82c5@7709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250603T124500Z
+DTSTART:20250603T111500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:0996b878-ef57-498d-ac55-0cb8b5fcdf8c@0996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250602T174500Z
+DTSTART:20250602T153000Z
+SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
+UID:505108e3-3d5c-43fd-b6ae-bc629a099750@5051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250610T083000Z
+DTSTART:20250610T074500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:d02ab134-5436-4bd1-b9dd-57ce06245645@d02a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250325T120000Z
+DTSTART:20250325T103000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:30e1139c-c18d-45ee-b5a2-4a6a18340898@30e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250325T101500Z
+DTSTART:20250325T084500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:d81214e5-02b6-4763-8740-66c5a4465294@d812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250507T081500Z
+DTSTART:20250507T064500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:804255f4-b3e3-48bd-9835-3be20a6d38e9@8042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250408T091500Z
+DTSTART:20250408T074500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:8236ddb5-ce76-4e74-a23f-7dfb0c3d7a98@8236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250526T180000Z
+DTSTART:20250526T163000Z
+SUMMARY:Produkcja żywności ekologicznej przykładem produkcji o obiegu zamknięt (wykład do wyboru)
+UID:ebe2d767-8715-4a0e-acc5-8085872de6e4@ebe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20250317T133000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20250317T111500Z
+SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
+UID:8f80c42e-a8bb-40ce-bb85-a0c12f2b2b5d@8f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250602T143000Z
+LOCATION:Paw.G 10
+DTSTART:20250602T130000Z
+SUMMARY:Style i techniki negocjacji biznesowych (konwersatorium)
+UID:a91ed25f-d7bd-4acb-82ce-8ec063888770@a91e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250327T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20250327T154500Z
+SUMMARY:Ekonomiczne aspekty jakości (wykład e-learningowy)
+UID:ff8b1d2c-818b-49f1-b6a2-1be2c9c5ac88@ff8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250311T134500Z
+DTSTART:20250311T121500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:0cfe6ee4-0942-4f4a-869f-320ce5e35012@0cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250311T120000Z
+DTSTART:20250311T103000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:16720c80-d1c5-4dbd-bf2b-933e091da68b@1672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250326T114500Z
+DTSTART:20250326T084500Z
+SUMMARY: (rezerwacja)
+UID:782ae706-47f7-494d-96cc-1c7f2dc8e3ac@782a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250603T110000Z
+DTSTART:20250603T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:80782bb2-5397-4b76-8992-d38365c39481@8078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250226T091500Z
+DTSTART:20250226T074500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:68952f40-1991-4c05-b490-3000e23956e5@6895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250325T134500Z
+DTSTART:20250325T121500Z
+SUMMARY:Ekonomika handlu (wykład)
+UID:3679d53d-c5fe-4f34-90fd-d8f45a456a11@3679.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250401T091500Z
+DTSTART:20250401T074500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:839c581e-1666-4857-a74b-39608035f5be@839c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250304T083000Z
+DTSTART:20250304T070000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
+UID:bf0648b5-fa53-4960-8d47-390d70781090@bf06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20250331T123000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20250331T101500Z
+SUMMARY:Cechy sensoryczne w promocji produktów (ćwiczenia)
+UID:6e38985e-1730-41f6-948a-edd269ac8975@6e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250909T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250909T083000Z
+SUMMARY:Psychospołeczne aspekty jakości (zaliczenie)
+UID:44052fef-48ce-49c3-8169-9101b41c77b0@4405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20250225T101500Z
+DTSTART:20250225T084500Z
+SUMMARY:Innowacje w dystrybucji (wykład)
+UID:d2a4f5e8-1d97-482f-87d5-d84e8fceba8b@d2a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250610T091500Z
+DTSTART:20250610T083000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:ebed6131-694c-4ff6-96df-157de4778bff@ebed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250521T081500Z
+DTSTART:20250521T064500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:23e40744-658f-4b86-b74f-80d88248c17a@23e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250408T073000Z
+DTSTART:20250408T060000Z
+SUMMARY:Analiza strategiczna przedsiębiorstwa (wykład do wyboru)
+UID:22fb8bee-3e37-4609-b6db-5b86bfe4cc2c@22fb.org
 END:VEVENT
 END:VCALENDAR
