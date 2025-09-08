@@ -2,47 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241129T194500Z
-DTSTART:20241129T173000Z
-SUMMARY:Audyt ekologiczny (Przeniesienie zajęć)
-UID:f6ec386b-0c16-46cc-b16b-f8582b0eba99@f6ec.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20241004T184500Z
-DTSTART:20241004T163000Z
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
 SUMMARY:Rewizja finansowa (wykład)
-UID:1b39de0a-26b0-4c9d-bd15-17a04fe7a8bf@1b39.org
+UID:329d5a0a-eb86-4260-82a6-ac7b9f55edf8@329d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20241117T151500Z
-DTSTART:20241117T130000Z
-SUMMARY:Rewizja finansowa (Przeniesienie zajęć)
-UID:da23b7b0-b143-4f5f-bbcd-b4ce4293a41d@da23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20241026T160000Z
-DTSTART:20241026T134500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:1b08924e-95b6-4a8c-92c4-12d288b1c26e@1b08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20241221T100000Z
-LOCATION:Paw.F 415
-DTSTART:20241221T074500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:5f2ebd11-93f9-4eea-a38d-3cb3c3b720f7@5f2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20241130T124500Z
-DTSTART:20241130T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (Przeniesienie zajęć)
-UID:ce43ad8f-dce6-4171-9c1e-a252691dc09c@ce43.org
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250118T194500Z
+DTSTART:20250118T173000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Przeniesienie zajęć)
+UID:dca9593a-e832-4d62-95ed-83588b7ff4f7@dca9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
@@ -50,155 +21,28 @@ DTEND:20241130T151500Z
 LOCATION:Paw.F 613
 DTSTART:20241130T130000Z
 SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:364f074a-44e8-4ad1-9dd0-ca50d2961813@364f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Surówka
-DTEND:20241130T180000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241130T154500Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:7538eb3f-c698-4d92-9583-03617697d356@7538.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20241201T124500Z
-DTSTART:20241201T103000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:e0de83ad-8a21-403e-a0f4-892d8bdb86fc@e0de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20250222T124500Z
-LOCATION:Paw.F 102
-DTSTART:20250222T111500Z
-SUMMARY: (egzamin)
-UID:7eafe67f-4eb2-43b2-9615-b0cdcc0b284d@7eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20241220T194500Z
-DTSTART:20241220T173000Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:32f9f74b-28e1-414f-b1b9-3835fc786010@32f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Surówka
-DTEND:20250118T114500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250118T093000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:7683afb8-ffbf-423b-a43b-7bc69874f14f@7683.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20250222T101500Z
-LOCATION:Paw.F 515
-DTSTART:20250222T084500Z
-SUMMARY: (egzamin)
-UID:e2f88301-fbe4-451b-acbe-1bcc909d20cf@e2f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20241005T081500Z
-DTSTART:20241005T060000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
-UID:9eebe438-fc27-49d3-90d1-d5f14707da9f@9eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20241208T124500Z
-DTSTART:20241208T103000Z
-SUMMARY:Raportowanie i atestacjai nformacji z zakresu ESG (Envir\,Social\,Gover) (wykład do wyboru)
-UID:a4aa5a80-be47-49a5-a52e-ad1599e26fca@a4aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Raportowanie i atestacjai nformacji z zakresu ESG (Envir\,Social\,Gover) (Przeniesienie zajęć)
-UID:8553df61-cc22-4ad1-b37a-1308636e8089@8553.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20241027T114500Z
-DTSTART:20241027T093000Z
-SUMMARY:Raportowanie i atestacjai nformacji z zakresu ESG (Envir\,Social\,Gover) (wykład do wyboru)
-UID:d8d4b3e7-d73e-4ec6-bf66-24e7fbc826ac@d8d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20250221T194500Z
-LOCATION:Paw.C  Nowa Aula\, Paw.C sala E
-DTSTART:20250221T173000Z
-SUMMARY:Kontrola i audyt wewnętrzny\, Rewizja finansowa (egzamin)
-UID:1e107e7e-defc-4839-950a-49aed0361fd8@1e10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20250118T143000Z
-DTSTART:20250118T121500Z
-SUMMARY:Rewizja finansowa (Przeniesienie zajęć)
-UID:7d68b715-77a5-446a-bc25-2192b753d294@7d68.org
+UID:cda6c981-70af-4c06-88b1-40f6148724aa@cda6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
 DTEND:20241012T090000Z
 DTSTART:20241012T064500Z
 SUMMARY:Raportowanie i atestacjai nformacji z zakresu ESG (Envir\,Social\,Gover) (wykład do wyboru)
-UID:76d7f8af-8424-44eb-b6c1-51f3eeebdee0@76d7.org
+UID:496d4184-aa22-480b-9efe-f5d7400b3f44@496d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20241117T124500Z
-DTSTART:20241117T103000Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
-UID:d65f3bd0-2167-43d7-883b-274f4b2e052e@d65f.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241027T114500Z
+DTSTART:20241027T093000Z
+SUMMARY:Raportowanie i atestacjai nformacji z zakresu ESG (Envir\,Social\,Gover) (wykład do wyboru)
+UID:0ee3c0e1-e38f-44c3-8708-b91faac7371c@0ee3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20250126T124500Z
-LOCATION:Paw.C sala E
-DTSTART:20250126T103000Z
-SUMMARY: (egzamin)
-UID:ddfbe9b1-f882-4232-a996-82508713130a@ddfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241026T133000Z
-DTSTART:20241026T111500Z
-SUMMARY:Audyt ekologiczny (wykład do wyboru)
-UID:aee0b4d6-191b-4fc4-b9c9-a3643438d9f0@aee0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20241117T180000Z
-DTSTART:20241117T154500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:e882f18a-cc5a-496c-b81a-16e9e417eabf@e882.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:765c1484-2405-4d60-9f2c-dc6f4adb56b5@765c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20250207T180000Z
-LOCATION:Paw.S sala 7\, Paw.S sala 8\, Paw.S sala 9
-DTSTART:20250207T154500Z
-SUMMARY:Rewizja finansowa (egzamin)
-UID:4ef81ca8-37c5-42ed-9ca4-3e6ac8bbd942@4ef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20250118T091500Z
-LOCATION:Paw.F 516
-DTSTART:20250118T070000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:2187d182-d9f5-4e30-aecf-dd0b706904dd@2187.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241208T124500Z
+DTSTART:20241208T103000Z
+SUMMARY:Raportowanie i atestacjai nformacji z zakresu ESG (Envir\,Social\,Gover) (wykład do wyboru)
+UID:83fa08e2-5825-4b01-b9da-b8f44f1eaf12@83fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Zieniuk
@@ -206,29 +50,28 @@ DTEND:20241130T190000Z
 LOCATION:Paw.S sala 8
 DTSTART:20241130T181500Z
 SUMMARY: (rezerwacja)
-UID:7b545379-131b-4aca-a744-50edf5b3903f@7b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20241006T114500Z
-DTSTART:20241006T093000Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:4357d3b7-60f9-45c0-bee2-0590b73b7dd3@4357.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250118T143000Z
-LOCATION:Paw.F 613
-DTSTART:20250118T121500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:76ebbd6d-ae8f-4e85-945a-f7e9f02ebe45@76eb.org
+UID:2708ff84-d7b9-42d7-83ad-c139b565fdad@2708.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
 DTEND:20241004T160000Z
 DTSTART:20241004T134500Z
 SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
-UID:26926962-7ec8-405b-9972-1062bece7746@2692.org
+UID:68aa7c0a-4448-474c-a0b9-aeab5a900705@68aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241006T090000Z
+DTSTART:20241006T064500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:3d53c502-4892-49a7-a7c7-9779eccc3681@3d53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241005T081500Z
+DTSTART:20241005T060000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:26bac36f-19d7-41c1-b6cb-41fe779bf826@26ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
@@ -236,80 +79,38 @@ DTEND:20241221T151500Z
 LOCATION:Paw.F 613
 DTSTART:20241221T130000Z
 SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:a0c2c412-cd11-4cb2-9931-d5465421a6b7@a0c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Zieniuk
-DTEND:20241027T143000Z
-DTSTART:20241027T121500Z
-SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
-UID:1bc9d75a-a9cc-4920-8be7-aeefd88c14f2@1bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
-DTEND:20241207T100000Z
-LOCATION:Paw.F 415
-DTSTART:20241207T074500Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
-UID:5a791d14-ab17-433b-b160-11e8456d11c4@5a79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Surówka
-DTEND:20241207T124500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20241207T103000Z
-SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
-UID:1aa6d5c5-1f9c-4612-93c1-91dfd8a73d7a@1aa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20241006T090000Z
-DTSTART:20241006T064500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:e74e6ae5-0016-4c89-b8d3-91eb369294fa@e74e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Audyt ekologiczny (wykład do wyboru)
-UID:16cdccd9-62ec-483d-ad03-717b8817007d@16cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20241027T091500Z
-DTSTART:20241027T070000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:493c5450-b4c9-4b8a-ba3e-0cacb337338e@493c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20241201T151500Z
-DTSTART:20241201T130000Z
-SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:bb6318ed-422e-426e-82de-b65103f77148@bb63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20250126T134500Z
-LOCATION:Paw.C sala F
-DTSTART:20250126T130000Z
-SUMMARY:Audyt ekologiczny (egzamin)
-UID:c6173e5b-96aa-499a-9c11-1976bc6fbbbc@c617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
-DTEND:20241208T100000Z
-DTSTART:20241208T074500Z
-SUMMARY:Audyt ekologiczny (wykład do wyboru)
-UID:f087e3c4-236b-4529-ac50-5a0d9245e0dc@f087.org
+UID:bc3b4c0a-9ae8-4ad9-8cc4-a0896e7f61ab@bc3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20250118T194500Z
-DTSTART:20250118T173000Z
-SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (Przeniesienie zajęć)
-UID:a090603c-040f-4e8e-83e4-6fcd1008c0c4@a090.org
+DTEND:20250118T143000Z
+LOCATION:Paw.F 613
+DTSTART:20250118T121500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:bf4de916-eb39-4705-b724-13c954c4e8c6@bf4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250126T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20250126T103000Z
+SUMMARY: (egzamin)
+UID:8a7d9257-db8a-4865-bd61-a83136335183@8a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241130T180000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241130T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:de12b735-c5a1-463f-a6a6-c7a5d64dec21@de12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241130T124500Z
+DTSTART:20241130T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (Przeniesienie zajęć)
+UID:21c5ba3c-788a-4d73-977f-2881b9fffa6e@21c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
@@ -317,22 +118,177 @@ DTEND:20241207T151500Z
 LOCATION:Paw.S sala 4
 DTSTART:20241207T130000Z
 SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:a5dd27b4-e5ab-4397-abb7-6cae6d1ef20e@a5dd.org
+UID:2e5b8253-7c17-4bc3-99b4-6b8e86d36842@2e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20250221T194500Z
+LOCATION:Paw.C  Nowa Aula\, Paw.C sala E
+DTSTART:20250221T173000Z
+SUMMARY:Kontrola i audyt wewnętrzny\, Rewizja finansowa (egzamin)
+UID:b2322869-a949-4844-a182-7440d75d083a@b232.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
 DTEND:20241026T184500Z
 DTSTART:20241026T163000Z
 SUMMARY:Analiza sprawozdań finansowych (wykład)
-UID:ee6fb419-f06e-4dc1-b39b-e25f12bc3c94@ee6f.org
+UID:1ea9d096-a610-4908-93b8-9ca554485497@1ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241207T100000Z
+LOCATION:Paw.F 415
+DTSTART:20241207T074500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:491e89cc-edca-4919-986a-3e176b683791@491e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241026T133000Z
+DTSTART:20241026T111500Z
+SUMMARY:Audyt ekologiczny (wykład do wyboru)
+UID:9b7f640a-8da7-44a0-b486-a99dfa60f4f1@9b7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250126T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20250126T130000Z
+SUMMARY:Audyt ekologiczny (egzamin)
+UID:36edbfc2-3735-4c51-8362-2dd3fdc2fa11@36ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20241117T180000Z
+DTSTART:20241117T154500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:4a687494-bc6f-449f-8547-0b7d322b10a6@4a68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241221T100000Z
+LOCATION:Paw.F 415
+DTSTART:20241221T074500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:7a7e1af9-1ad2-4287-81e9-1069916a546f@7a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241026T160000Z
+DTSTART:20241026T134500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:97769bd6-2ae8-409a-92fb-03c87c9e32eb@9776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241207T124500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241207T103000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:1950d012-b9db-4fa4-98ce-1ae1f6232a26@1950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241117T151500Z
+DTSTART:20241117T130000Z
+SUMMARY:Rewizja finansowa (Przeniesienie zajęć)
+UID:d2f533aa-27b4-4fec-8dab-f3e2ef2793e6@d2f5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20250118T170000Z
-LOCATION:Paw.S sala 3
-DTSTART:20250118T144500Z
+DTEND:20250222T101500Z
+LOCATION:Paw.F 515
+DTSTART:20250222T084500Z
+SUMMARY: (egzamin)
+UID:b81f96bb-7b8f-427a-95dc-de38d42ed656@b81f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241201T151500Z
+DTSTART:20241201T130000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:e893314a-334a-407c-9ab1-64a90d25db15@e893.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241004T184500Z
+DTSTART:20241004T163000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:d8f79d67-4f75-4b1a-b7b5-db6f05e31e35@d8f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20250222T124500Z
+LOCATION:Paw.F 102
+DTSTART:20250222T111500Z
+SUMMARY: (egzamin)
+UID:f6085355-79ed-4151-949f-24cbf63ddf26@f608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241129T194500Z
+DTSTART:20241129T173000Z
+SUMMARY:Audyt ekologiczny (Przeniesienie zajęć)
+UID:66d11b47-c3e8-4d0a-b592-18c59f192412@66d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20250207T180000Z
+LOCATION:Paw.S sala 7\, Paw.S sala 8\, Paw.S sala 9
+DTSTART:20250207T154500Z
+SUMMARY:Rewizja finansowa (egzamin)
+UID:acf308d8-8d4d-435a-a2c0-e2d085e1a54a@acf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Audyt ekologiczny (wykład do wyboru)
+UID:e0d54f84-f624-4181-af5c-fe41a822dd67@e0d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Raportowanie i atestacjai nformacji z zakresu ESG (Envir\,Social\,Gover) (Przeniesienie zajęć)
+UID:ecd6dab8-7d6b-4d17-8b27-430ef4eec6ca@ecd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241027T091500Z
+DTSTART:20241027T070000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:9649dc4b-6bbf-4b09-89fe-d2103ee9866d@9649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241027T143000Z
+DTSTART:20241027T121500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:0ddaa832-d80b-4cd0-b032-e149255573ef@0dda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20250118T091500Z
+LOCATION:Paw.F 516
+DTSTART:20250118T070000Z
 SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:23582fbe-fc5a-459d-ab2e-5aba6a3306d7@2358.org
+UID:0489f81c-761d-4c01-97a5-5291cc0406dc@0489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250118T143000Z
+DTSTART:20250118T121500Z
+SUMMARY:Rewizja finansowa (Przeniesienie zajęć)
+UID:d0fd9fa5-91a8-4b3f-aba3-5401ef9e3ce5@d0fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241006T114500Z
+DTSTART:20241006T093000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:af5ee146-0a41-40a3-aebb-ded5699f4b29@af5e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Chłapek
@@ -340,6 +296,50 @@ DTEND:20241221T124500Z
 LOCATION:Paw.F 516
 DTSTART:20241221T103000Z
 SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:809c0879-1cbd-459d-8eca-347b31847ec4@809c.org
+UID:4991e97f-79ce-4a2e-9a5d-1c2b89a5ed78@4991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241117T124500Z
+DTSTART:20241117T103000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:0e8cf024-b301-48a7-80eb-2904c9c6e414@0e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241208T100000Z
+DTSTART:20241208T074500Z
+SUMMARY:Audyt ekologiczny (wykład do wyboru)
+UID:07634338-5f96-41f7-a550-1afdd36cca23@0763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241220T194500Z
+DTSTART:20241220T173000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:12651874-8188-49dd-98e5-c33c8f106c13@1265.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241201T124500Z
+DTSTART:20241201T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:87aa99b7-ee78-4b8f-b957-3a63c93357f4@87aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20250118T114500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250118T093000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:ed168a37-68bf-4a3d-9626-01f7698f01cc@ed16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20250118T170000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250118T144500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:2b576c82-2e6f-4780-a98c-cb6eef0053ef@2b57.org
 END:VEVENT
 END:VCALENDAR
