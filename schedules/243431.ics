@@ -2,11 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250524T081500Z
+LOCATION:Paw.F 102
+DTSTART:20250524T060000Z
+SUMMARY:Zarządzanie interesariuszami (ćwiczenia)
+UID:df8cb3ee-e496-472d-8f24-4c26797b05e7@df8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20250309T091500Z
+DTSTART:20250309T070000Z
+SUMMARY:Zarządzanie interesariuszami (wykład)
+UID:6022abee-fed2-47d6-8654-b4677402dc66@6022.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
 DTEND:20250309T114500Z
 DTSTART:20250309T093000Z
 SUMMARY:Metody analizy wieokryterialnej (Przeniesienie zajęć)
-UID:b3832aa2-7982-4a1c-95bb-e50f5ece8655@b383.org
+UID:eacac1b0-b49d-4475-80d7-4caff9704408@eaca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250321T194500Z
+DTSTART:20250321T173000Z
+SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
+UID:529a4a57-a84e-42ec-8e0b-8e3cbfeef3f8@529a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
@@ -14,147 +36,56 @@ DTEND:20250607T104500Z
 LOCATION:Paw.F 413
 DTSTART:20250607T083000Z
 SUMMARY:Metody zwinnego zarządzania projektami (ćwiczenia)
-UID:4803fb35-593f-4efa-b611-38de4fb56f94@4803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
-DTEND:20250323T091500Z
-DTSTART:20250323T070000Z
-SUMMARY:Zarządzanie interesariuszami (wykład)
-UID:2180f1e9-2c63-4c35-b09b-2233a900156a@2180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20250308T091500Z
-LOCATION:Paw.F 102
-DTSTART:20250308T070000Z
-SUMMARY:Zarządzanie interesariuszami (ćwiczenia)
-UID:95ab5b2d-823c-4a41-af7e-66b2ccc27eaf@95ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250427T090000Z
-DTSTART:20250427T064500Z
-SUMMARY:Metody analizy wieokryterialnej (wykład)
-UID:b75d621f-7af5-4eee-95d8-4b47ec17a46c@b75d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
-DTEND:20250406T081500Z
-DTSTART:20250406T060000Z
-SUMMARY:Zarządzanie interesariuszami (wykład)
-UID:2dad6d9a-078e-4f83-abfa-b67befd39103@2dad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250427T114500Z
-DTSTART:20250427T093000Z
-SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
-UID:96db7e1c-e675-47a9-8318-2eebbb589873@96db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250621T094500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20250621T060000Z
-SUMMARY:Model kompetencyjny IPMA (egzamin)
-UID:e45108c5-92e5-43a6-b3af-4c4b79866385@e451.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
-DTEND:20250309T091500Z
-DTSTART:20250309T070000Z
-SUMMARY:Zarządzanie interesariuszami (wykład)
-UID:1a36b221-81f3-4628-8bdd-ff1944186dbb@1a36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250321T170000Z
-DTSTART:20250321T144500Z
-SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
-UID:6f44de51-ba83-4a49-bec8-eee0b2c4ab75@6f44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250323T114500Z
-DTSTART:20250323T093000Z
-SUMMARY:Metody analizy wieokryterialnej (wykład)
-UID:2546e958-9fd2-490a-86fc-1a24a8ebfb04@2546.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Hamerska
-DTEND:20250322T143000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250322T121500Z
-SUMMARY:Metody analizy wieokryterialnej (ćwiczenia)
-UID:856a8a93-435d-42ae-a1a2-4cd973012625@856a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250309T143000Z
-DTSTART:20250309T121500Z
-SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
-UID:d1e948b6-c0dc-4d40-a43e-cc3c64754c06@d1e9.org
+UID:bf718c5f-e8b4-41a2-a944-738bae2a9e74@bf71.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
 DTEND:20250404T160000Z
 DTSTART:20250404T134500Z
 SUMMARY:Metody analizy wieokryterialnej (wykład)
-UID:b92e3bc8-37f0-4671-899d-ee225e94e033@b92e.org
+UID:e2ce17fb-232a-4f7b-ac9b-1f9b56fbcb48@e2ce.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Hamerska
-DTEND:20250426T160000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250426T134500Z
-SUMMARY:Metody analizy wieokryterialnej (ćwiczenia)
-UID:75ce37e6-b544-4b62-814e-e96faadcffc2@75ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
-DTEND:20250301T114500Z
-DTSTART:20250301T093000Z
-SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
-UID:64a6b936-7c17-477b-8630-a38a21117486@64a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Hamerska
-DTEND:20250607T081500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250607T060000Z
-SUMMARY:Metody analizy wieokryterialnej (ćwiczenia)
-UID:08854bff-864c-4dfa-9ce7-6e5ebd4ae80d@0885.org
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250323T114500Z
+DTSTART:20250323T093000Z
+SUMMARY:Metody analizy wieokryterialnej (wykład)
+UID:f5e09da2-7353-4db5-8156-f685c251ab21@f5e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
 DTEND:20250323T151500Z
 DTSTART:20250323T130000Z
 SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
-UID:5b5c3780-2030-43b0-aefc-5a6577e8b49b@5b5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20250405T081500Z
-LOCATION:Platforma Moodle
-DTSTART:20250405T060000Z
-SUMMARY:Zarządzanie interesariuszami (Ćwiczenia e-learningowe)
-UID:e56720d5-4ca2-4b4e-82a9-8609c819fbac@e567.org
+UID:8686eed2-0231-4904-afc5-b38a2e620ba5@8686.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20250523T184500Z
-DTSTART:20250523T163000Z
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
 SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
-UID:f1a0ce8b-cb47-49ae-99c1-a41095df26a1@f1a0.org
+UID:cbc5a84d-c69a-40a5-a6a7-c4a33b74b95b@cbc5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250621T133000Z
-LOCATION:Bibl. 441
-DTSTART:20250621T120000Z
-SUMMARY:Aspekty prawne w projektach budowlanych\, Prawo obrotu nieruchomościami (egzamin)
-UID:0fafd1e1-2f9d-4bdf-b8eb-f8da01a4b12e@0faf.org
+DTEND:20250907T124500Z
+DTSTART:20250907T111500Z
+SUMMARY:Prawo rzeczowe (Przeniesienie zajęć)
+UID:4f7c31c2-c4f8-4453-b2ff-3a36ac969787@4f7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250525T141500Z
+DTSTART:20250525T120000Z
+SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
+UID:244d5124-49aa-4000-ae93-a352afd11b16@244d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250321T170000Z
+DTSTART:20250321T144500Z
+SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
+UID:6d4e3bb7-dca5-4cb4-9cc8-c05c7a682d5f@6d4e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
@@ -162,92 +93,59 @@ DTEND:20250322T114500Z
 LOCATION:Paw.F 413
 DTSTART:20250322T093000Z
 SUMMARY:Metody zwinnego zarządzania projektami (ćwiczenia)
-UID:aab2c3c0-df7e-4484-bbfc-c36bdd936d61@aab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250301T143000Z
-DTSTART:20250301T121500Z
-SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
-UID:8cf31902-cf20-4659-b888-72c6d596d003@8cf3.org
+UID:ceaaba80-6f0a-4ce7-9537-2e944f08053d@ceaa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Ireneusz Rynduch
-DTEND:20250524T081500Z
-LOCATION:Paw.F 102
-DTSTART:20250524T060000Z
-SUMMARY:Zarządzanie interesariuszami (ćwiczenia)
-UID:3fa2d381-db2a-4de5-a041-49f6da9dd200@3fa2.org
+DTEND:20250405T081500Z
+LOCATION:Platforma Moodle
+DTSTART:20250405T060000Z
+SUMMARY:Zarządzanie interesariuszami (Ćwiczenia e-learningowe)
+UID:06fe5ca1-8a5e-455b-83bd-cf4f0dc95fa2@06fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250621T094500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250621T060000Z
+SUMMARY:Model kompetencyjny IPMA (egzamin)
+UID:c1c1f67e-bf7a-4ff4-ae15-9019a1344e74@c1c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250301T091500Z
-DTSTART:20250301T070000Z
-SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
-UID:321c76c6-4c39-490e-a119-bdedbf5f26ca@321c.org
+DTEND:20250621T133000Z
+LOCATION:Bibl. 441
+DTSTART:20250621T120000Z
+SUMMARY:Aspekty prawne w projektach budowlanych\, Prawo obrotu nieruchomościami (egzamin)
+UID:82cedbbc-dd4f-45c2-9d1c-3e4077bbb610@82ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250525T141500Z
-DTSTART:20250525T120000Z
+DTEND:20250309T143000Z
+DTSTART:20250309T121500Z
 SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
-UID:a546707a-5a8c-46ea-8a4f-5ca49f34ac50@a546.org
+UID:3a95e1df-4b66-42f2-aee7-0c8cbd8944d0@3a95.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250606T160000Z
-DTSTART:20250606T134500Z
-SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
-UID:9f785d84-0c5e-4cdd-8da3-8c6ec4a4468f@9f78.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20250323T091500Z
+DTSTART:20250323T070000Z
+SUMMARY:Zarządzanie interesariuszami (wykład)
+UID:fb824fd0-07df-4e1f-a264-be788fea04d4@fb82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Kamila Kwiatkowska
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
+DTEND:20250523T184500Z
+DTSTART:20250523T163000Z
 SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
-UID:a1d2a166-3640-4c58-95bb-8a59a1aaa297@a1d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250302T114500Z
-DTSTART:20250302T093000Z
-SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
-UID:cef5f5ff-f896-434f-b02d-2e5880e9bb2c@cef5.org
+UID:e735fcc1-ce0e-41a4-91e4-4cd98280e2d1@e735.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20250307T170000Z
-DTSTART:20250307T144500Z
+DTEND:20250606T184500Z
+DTSTART:20250606T163000Z
 SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
-UID:d83a1121-1981-4af7-85de-fdff914dfc0e@d83a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250404T184500Z
-DTSTART:20250404T163000Z
-SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
-UID:00a51645-c4c3-4b37-89e8-89fe69470398@00a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250525T114500Z
-DTSTART:20250525T093000Z
-SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
-UID:b43de34f-de5d-490d-a8cd-2eefe8c85b78@b43d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250427T141500Z
-DTSTART:20250427T120000Z
-SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
-UID:c05645ac-3553-488f-a7b7-a49b2bf94f2f@c056.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20250907T124500Z
-DTSTART:20250907T111500Z
-SUMMARY:Prawo rzeczowe (Przeniesienie zajęć)
-UID:60f8ccbc-89a2-4ef7-ac2a-33b504ac38c5@60f8.org
+UID:a2cb5f5f-6513-47e1-a7e0-2fa99851f8a5@a2cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
@@ -255,7 +153,123 @@ DTEND:20250628T100000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21\, Paw.A 118 lab. Win10\, Office21
 DTSTART:20250628T074500Z
 SUMMARY:Model kompetencyjny IPMA (egzamin)
-UID:e5cb800f-5f0f-44c3-b2b6-40d0b07d8f58@e5cb.org
+UID:d4149a1d-c330-4368-9ea4-9055375ee56e@d414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250525T114500Z
+DTSTART:20250525T093000Z
+SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
+UID:d922228c-72d8-48af-b065-8728aaabf598@d922.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250301T091500Z
+DTSTART:20250301T070000Z
+SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
+UID:ab77e183-85a2-4f79-a326-a665e745e821@ab77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250427T141500Z
+DTSTART:20250427T120000Z
+SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
+UID:0aa4cf50-e48e-45ef-90af-51a874f5d827@0aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20250406T081500Z
+DTSTART:20250406T060000Z
+SUMMARY:Zarządzanie interesariuszami (wykład)
+UID:9ce0a869-77cb-4bd8-b7e4-eb8edf79215c@9ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250308T091500Z
+LOCATION:Paw.F 102
+DTSTART:20250308T070000Z
+SUMMARY:Zarządzanie interesariuszami (ćwiczenia)
+UID:1e560ca6-46af-43a3-9a34-080d247267e9@1e56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20250307T170000Z
+DTSTART:20250307T144500Z
+SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
+UID:6fec97a4-e426-436b-9940-149e310a7629@6fec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250607T081500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250607T060000Z
+SUMMARY:Metody analizy wieokryterialnej (ćwiczenia)
+UID:66562aaf-ca60-4e6c-8617-a5f63a89aac3@6656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250426T160000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250426T134500Z
+SUMMARY:Metody analizy wieokryterialnej (ćwiczenia)
+UID:5068737f-e2d4-46f6-bd13-78846f7db677@5068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250302T114500Z
+DTSTART:20250302T093000Z
+SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
+UID:56fd8bae-14d7-4b0f-b7fe-882eb1ab1d27@56fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Sławomir Wawak
+DTEND:20250301T114500Z
+DTSTART:20250301T093000Z
+SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
+UID:0c0fdeb1-26f0-4449-a9f2-695634634b23@0c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250301T143000Z
+DTSTART:20250301T121500Z
+SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
+UID:2e1f1827-76f9-4a0b-82fd-0fe35d0bbda3@2e1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250322T143000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250322T121500Z
+SUMMARY:Metody analizy wieokryterialnej (ćwiczenia)
+UID:f682dedf-e894-4791-87b9-9acf4640e8f1@f682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250427T114500Z
+DTSTART:20250427T093000Z
+SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
+UID:42f62879-235c-48ce-8e23-1a060d85c149@42f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250427T090000Z
+DTSTART:20250427T064500Z
+SUMMARY:Metody analizy wieokryterialnej (wykład)
+UID:c1058f81-0029-4e01-9c9d-90ad268d1435@c105.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20250606T160000Z
+DTSTART:20250606T134500Z
+SUMMARY:Aspekty prawne w projektach budowlanych (wykład do wyboru)
+UID:b1b6654a-7fc7-46f9-961f-ea1403b41a75@b1b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Snarska
+DTEND:20250404T184500Z
+DTSTART:20250404T163000Z
+SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
+UID:b9995634-2950-4997-a01d-dcc27e2d9399@b999.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
@@ -263,21 +277,7 @@ DTEND:20250907T124500Z
 LOCATION:Paw.B 151
 DTSTART:20250907T111500Z
 SUMMARY:Prawo rzeczowe (egzamin)
-UID:6ad7a59b-af6f-4547-a723-85f7a155af1a@6ad7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
-DTEND:20250606T184500Z
-DTSTART:20250606T163000Z
-SUMMARY:Model kompetencyjny IPMA (wykład do wyboru)
-UID:a794e37e-8ba3-424b-83d4-f19c4805dd94@a794.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Snarska
-DTEND:20250321T194500Z
-DTSTART:20250321T173000Z
-SUMMARY:Sztuczna inteligencja (AI) w biznesie (wykład do wyboru)
-UID:b45b981d-bdb2-4916-b708-5f44262c2121@b45b.org
+UID:a4ace89c-27a4-47cd-beb9-20178735efde@a4ac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
@@ -285,6 +285,6 @@ DTEND:20250426T104500Z
 LOCATION:Paw.F 413
 DTSTART:20250426T083000Z
 SUMMARY:Metody zwinnego zarządzania projektami (ćwiczenia)
-UID:0fea2914-5ea4-476d-bd22-d17350a2abb3@0fea.org
+UID:97395d4e-0162-46cd-8881-f2147218a814@9739.org
 END:VEVENT
 END:VCALENDAR

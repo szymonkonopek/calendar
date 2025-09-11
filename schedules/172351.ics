@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20250110T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250110T140000Z
+SUMMARY:Podstawy przedsiębiorczości (egzamin)
+UID:fc9f4fa2-0f2e-487b-aa06-6d5e0519d736@fc9f.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20250201T074500Z
-LOCATION:Paw.S sala 6
-DTSTART:20250201T070000Z
-SUMMARY: (egzamin)
-UID:52406026-22e9-43c4-856c-80fd8d719b28@5240.org
+DTEND:20241012T123000Z
+DTSTART:20241012T101500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:f6b1c96e-a3d5-4725-bf8c-4efb5afea6b3@f6b1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Izabela Czaja
@@ -15,85 +22,7 @@ DTEND:20241213T170000Z
 LOCATION:Paw.U sala O
 DTSTART:20241213T144500Z
 SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
-UID:14d6967b-ba84-4af3-90fd-3c38ccdbdfbd@14d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20241215T170000Z
-LOCATION:Paw.F 416
-DTSTART:20241215T144500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:5c55d516-634b-4b0f-8146-23df908e5f5c@5c55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241130T141500Z
-DTSTART:20241130T111500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:32b9a272-1ba0-426e-8cd6-74644d539f8e@32b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Izabela Czaja
-DTEND:20250125T151500Z
-LOCATION:Paw.U sala O
-DTSTART:20250125T130000Z
-SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
-UID:a818c4f7-4d9e-4d6a-af6a-84c1a2e175d4@a818.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20250222T101500Z
-LOCATION:Paw.B 451
-DTSTART:20250222T093000Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (egzamin)
-UID:bb9460b0-cd0d-445a-b2f0-eaacbdbc8574@bb94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20241013T133000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20241013T111500Z
-SUMMARY:Prawo technologii informacyjnych i komunikacyjnych (konwersatorium do wyboru)
-UID:79eb98ea-c418-4fc4-baac-57de3b9467a4@79eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20241122T194500Z
-LOCATION:Paw.B 351
-DTSTART:20241122T173000Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:1e44a70f-bd5e-43c1-9a85-69b08a6234ea@1e44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20241116T104500Z
-DTSTART:20241116T074500Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:22d3c73b-f87d-4ac7-9b34-43b794208fb1@22d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20241207T104500Z
-LOCATION:Paw.C sala D
-DTSTART:20241207T074500Z
-SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
-UID:141a3aab-f425-4381-8b6b-a14f63251150@141a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20241221T141500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20241221T111500Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:ac5f53c4-20ea-43c7-9326-22d8888b394d@ac5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20250126T171500Z
-LOCATION:Paw.B 151
-DTSTART:20250126T154500Z
-SUMMARY: (egzamin)
-UID:bb27cd31-02ec-4727-af73-82d0433e64c4@bb27.org
+UID:553ae2ec-4608-42fe-9855-cd44becb8c8a@553a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
@@ -101,93 +30,7 @@ DTEND:20241207T141500Z
 LOCATION:Paw.U sala T (Kat. ZKL)
 DTSTART:20241207T111500Z
 SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:79c441cb-3b94-45c9-8b02-24b295cf86b4@79c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20241123T104500Z
-LOCATION:Paw.E sala J
-DTSTART:20241123T074500Z
-SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
-UID:da171520-450a-488d-8fca-0372796bd831@da17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20241124T151500Z
-LOCATION:Paw.F 413
-DTSTART:20241124T121500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:05d5b5f3-cb29-4116-86c2-2014636baeb3@05d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20241013T160000Z
-LOCATION:Paw.F 413
-DTSTART:20241013T134500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:f2b93947-21c7-47bd-8483-291802abba3a@f2b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20250209T110000Z
-LOCATION:Paw.B 251
-DTSTART:20250209T093000Z
-SUMMARY:Zamówienia publiczne (kolokwium)
-UID:29ddef37-3688-4b5d-a8ea-3e55ccc89733@29dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20241027T091500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20241027T070000Z
-SUMMARY:Prawo technologii informacyjnych i komunikacyjnych (konwersatorium do wyboru)
-UID:70b48338-ef9f-4bba-9c13-1b500f78ce6f@70b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241206T194500Z
-DTSTART:20241206T173000Z
-SUMMARY:Filozofia z elementami etyki zawodowej (Przeniesienie zajęć)
-UID:65d927b7-8b83-4096-a413-7ac2275cab3d@65d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20241206T170000Z
-DTSTART:20241206T144500Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:76990bdd-71c3-4364-9b58-0aeeb64c3e92@7699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20250126T151500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250126T121500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:af5b8bba-9c58-490d-ad21-cc624a76db1c@af5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20241222T143000Z
-LOCATION:Paw.E sala J
-DTSTART:20241222T121500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:3a83650f-8cb4-4063-b8d6-5c26a3703710@3a83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20241208T151500Z
-LOCATION:Paw.F 413
-DTSTART:20241208T121500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:e18803ec-73bf-4f97-8074-8ee4a51409f7@e188.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20241027T151500Z
-LOCATION:Paw.F 413
-DTSTART:20241027T121500Z
-SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:de3ff022-5ca6-4248-88ff-82cc524f0e3d@de3f.org
+UID:a28c876f-9236-4b70-baca-af3760091574@a28c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Miś
@@ -195,21 +38,23 @@ DTEND:20250110T184500Z
 LOCATION:Paw.F 416
 DTSTART:20250110T154500Z
 SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:5aa99f61-1f4b-45a9-9684-232251454890@5aa9.org
+UID:6e251dc8-7991-4b3f-bf61-254463878e91@6e25.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Podstawy przedsiębiorczości (wykład)
-UID:89082d7d-9b08-48a2-a701-79d72f89ea04@8908.org
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20250125T151500Z
+LOCATION:Paw.U sala O
+DTSTART:20250125T130000Z
+SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
+UID:aad3b1bc-ba44-4a9e-a5ad-4f1d20f2716a@aad3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20241220T170000Z
-DTSTART:20241220T144500Z
-SUMMARY:Podstawy przedsiębiorczości (wykład)
-UID:0fb9b7d5-2f93-4c87-a436-d704159da36d@0fb9.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20250126T151500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250126T121500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:6ef60a7e-fc44-4d3d-a786-6f532730cd1f@6ef6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Miś
@@ -217,22 +62,37 @@ DTEND:20241117T151500Z
 LOCATION:Paw.F 416
 DTSTART:20241117T121500Z
 SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:1c6dee99-686a-4c4b-9b11-73ffe9c513bc@1c6d.org
+UID:eb218d35-62ba-4fa4-8bb5-3158134f8fa7@eb21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
 DTEND:20241026T094500Z
 DTSTART:20241026T064500Z
 SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:0ac91fc1-8828-4ed1-a71d-1185acd7ce24@0ac9.org
+UID:50d8bb46-d996-4839-80ad-d44e8bfce384@50d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20241215T170000Z
+LOCATION:Paw.F 416
+DTSTART:20241215T144500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium)
+UID:18f8ba44-4b6d-4545-9f96-d6d2733097cd@18f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Podstawy przedsiębiorczości (wykład)
+UID:7ab6796a-0544-49fd-857d-f096e62ac235@7ab6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20241214T141500Z
-LOCATION:Bud.gł. 6
-DTSTART:20241214T111500Z
+DTEND:20241027T091500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241027T070000Z
 SUMMARY:Prawo technologii informacyjnych i komunikacyjnych (konwersatorium do wyboru)
-UID:d493858a-11b5-4821-95e8-6bb2fec9e143@d493.org
+UID:e805c94d-2456-4fa0-b9d9-47fd555b9220@e805.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Grzybowski
@@ -240,140 +100,23 @@ DTEND:20241129T184500Z
 LOCATION:Paw.C sala F
 DTSTART:20241129T154500Z
 SUMMARY:Prawo technologii informacyjnych i komunikacyjnych (konwersatorium do wyboru)
-UID:b61f5e09-4c82-4a92-b971-0064f1bb6dcf@b61f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241116T141500Z
-DTSTART:20241116T111500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:0fd12714-3a36-4ce9-b8af-9bdc5b71bdf4@0fd1.org
+UID:eac18967-fd62-4618-9e4c-39050cd3bdc4@eac1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr hab. Igor Zachariasz
-DTEND:20241215T143000Z
+DTEND:20241124T151500Z
 LOCATION:Paw.F 413
-DTSTART:20241215T121500Z
+DTSTART:20241124T121500Z
 SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
-UID:9a805de4-84f6-4a7c-8ce6-5b0235e87725@9a80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20250112T151500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250112T121500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:a7bebe3c-4d5e-4330-879d-8dce668955ca@a7be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Izabela Czaja
-DTEND:20250111T151500Z
-LOCATION:Bud.gł. 7
-DTSTART:20250111T130000Z
-SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
-UID:922dd219-9533-4cfc-bd46-e7e536376796@922d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20250208T101500Z
-LOCATION:Paw.B 451
-DTSTART:20250208T084500Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (egzamin)
-UID:ae7a440a-3c08-46a9-976c-1cde77ef6fd3@ae7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20250110T153000Z
-LOCATION:Paw.S sala 8
-DTSTART:20250110T140000Z
-SUMMARY:Podstawy przedsiębiorczości (egzamin)
-UID:a2eec439-6d9c-47c9-ba5b-6ffd51ae4c76@a2ee.org
+UID:e0abbd5d-47e6-4046-b246-517f9463a89d@e0ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Grzybowski
-DTEND:20241117T184500Z
-LOCATION:Paw.C sala C
-DTSTART:20241117T154500Z
+DTEND:20241013T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241013T111500Z
 SUMMARY:Prawo technologii informacyjnych i komunikacyjnych (konwersatorium do wyboru)
-UID:3bb09774-26e5-4cd5-9948-09ec6dedfa64@3bb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20241123T141500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20241123T111500Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:bb87421c-eed9-428e-afa3-43348bdc3bf3@bb87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20250124T170000Z
-DTSTART:20250124T144500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:ee831e64-acdc-40f1-a082-05cf641adb5c@ee83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20241221T104500Z
-LOCATION:Paw.C sala D
-DTSTART:20241221T074500Z
-SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
-UID:984e534b-c759-4c8a-82d7-d8d720b3d547@984e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20241201T151500Z
-LOCATION:Paw.F 416
-DTSTART:20241201T121500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:e24dafc4-abbf-47ed-9bc0-31a00693274f@e24d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogdan Rogoda
-DTEND:20250125T100000Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20250125T074500Z
-SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
-UID:a5615c76-fdb0-4541-a617-b13edf5db4ea@a561.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20250125T124500Z
-LOCATION:Bud.gł. 9
-DTSTART:20250125T103000Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:a3dff255-0f07-4450-912c-0a5de592e7f6@a3df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20241122T170000Z
-LOCATION:Paw.F 416
-DTSTART:20241122T144500Z
-SUMMARY:Prawo cywilne w administracji (konwersatorium)
-UID:751a086c-6a37-41b2-b793-9007842b3a27@751a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241026T131500Z
-DTSTART:20241026T101500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:39560e2c-c954-43f6-b997-44a18d22ea73@3956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
-DTEND:20250111T124500Z
-LOCATION:Bud.gł. 9
-DTSTART:20250111T103000Z
-SUMMARY:Techniki legislacyjne (konwersatorium)
-UID:8bc7f913-98c3-4177-82df-a9bedc17e2a4@8bc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
-DTEND:20241214T104500Z
-LOCATION:Bud.gł. 4
-DTSTART:20241214T074500Z
-SUMMARY:Zamówienia publiczne (konwersatorium)
-UID:b3ce15d4-94ee-43fc-b959-e19496bf6502@b3ce.org
+UID:9daa6ff2-0a3f-492c-bd56-eb2988463cea@9daa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Miś
@@ -381,7 +124,199 @@ DTEND:20250202T110000Z
 LOCATION:Paw.B 151
 DTSTART:20250202T093000Z
 SUMMARY:Prawo cywilne w administracji (egzamin)
-UID:9062f8ff-6d41-4331-8288-08a055ea06f0@9062.org
+UID:d9d3d102-60da-4c8c-9251-fb09f01c6cc2@d9d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241026T131500Z
+DTSTART:20241026T101500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:cc75e86d-00c7-4677-964f-a4446c179895@cc75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20250208T101500Z
+LOCATION:Paw.B 451
+DTSTART:20250208T084500Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (egzamin)
+UID:1ac56996-3a63-488b-b885-4aa9748da8e3@1ac5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241116T141500Z
+DTSTART:20241116T111500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:84a73b52-99e8-446b-98ca-5bef545b5d3c@84a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20241122T170000Z
+LOCATION:Paw.F 416
+DTSTART:20241122T144500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium)
+UID:c17b6451-847c-49f2-a067-ee211f5135be@c17b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20241013T160000Z
+LOCATION:Paw.F 413
+DTSTART:20241013T134500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
+UID:194ec2fb-fa91-4e01-819d-10021e338da8@194e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241130T110000Z
+DTSTART:20241130T084500Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:5587f6f4-07dc-4ea1-8a4c-f72486748d79@5587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241207T104500Z
+LOCATION:Paw.C sala D
+DTSTART:20241207T074500Z
+SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
+UID:ca23d497-3a03-4e0b-b20f-10c4364a8166@ca23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20250222T101500Z
+LOCATION:Paw.B 451
+DTSTART:20250222T093000Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (egzamin)
+UID:d5f3fc75-6cad-491e-9a61-d76c8fa3e8cf@d5f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241206T194500Z
+DTSTART:20241206T173000Z
+SUMMARY:Filozofia z elementami etyki zawodowej (Przeniesienie zajęć)
+UID:b9d6ee6c-556b-4924-96b4-c25b758f1292@b9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20241215T143000Z
+LOCATION:Paw.F 413
+DTSTART:20241215T121500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
+UID:206719e6-7cec-4f0d-9821-c9a700b46cba@2067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20241123T141500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241123T111500Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:9fa1b00f-c3d1-479b-9b38-aa2ec91eb1dd@9fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20250111T124500Z
+LOCATION:Bud.gł. 9
+DTSTART:20250111T103000Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:af57a20b-e418-4d20-bbc8-734326e7a0b0@af57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241220T170000Z
+DTSTART:20241220T144500Z
+SUMMARY:Podstawy przedsiębiorczości (wykład)
+UID:b790fd74-0584-4b52-bb1f-47bb8b38c620@b790.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241206T170000Z
+DTSTART:20241206T144500Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:59783c48-e976-4244-8d5e-bc029b994f36@5978.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241221T104500Z
+LOCATION:Paw.C sala D
+DTSTART:20241221T074500Z
+SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
+UID:5f20f666-7ba2-4665-8a92-bd137364dbed@5f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20241201T151500Z
+LOCATION:Paw.F 416
+DTSTART:20241201T121500Z
+SUMMARY:Prawo cywilne w administracji (konwersatorium)
+UID:d22e4a5e-884e-457c-9c6f-8d974cfe3a40@d22e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20250125T124500Z
+LOCATION:Bud.gł. 9
+DTSTART:20250125T103000Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:4abe480d-d850-4bf3-8750-1ac56d549362@4abe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Podstawy przedsiębiorczości (wykład)
+UID:b43c77d3-909f-4f86-989d-3cace488ff01@b43c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20250112T151500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250112T121500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:b93d8e7f-c182-4711-8837-933b83f65472@b93d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20250124T170000Z
+DTSTART:20250124T144500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:fc962742-6ab1-4425-ad95-9be7040cbd43@fc96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250125T100000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250125T074500Z
+SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
+UID:076adc64-f535-4d0e-83e2-995cd52f7789@076a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20241122T194500Z
+LOCATION:Paw.B 351
+DTSTART:20241122T173000Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:43dc5915-6af5-4dc1-97b0-1e7826153843@43dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20250209T110000Z
+LOCATION:Paw.B 251
+DTSTART:20250209T093000Z
+SUMMARY:Zamówienia publiczne (kolokwium)
+UID:921c5341-2fe9-4301-907f-0f0fe8feb027@921c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20250111T151500Z
+LOCATION:Bud.gł. 7
+DTSTART:20250111T130000Z
+SUMMARY:Podstawy przedsiębiorczości (ćwiczenia)
+UID:a26f4802-6f31-43c0-aeff-0f373368317c@a26f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20241027T151500Z
+LOCATION:Paw.F 413
+DTSTART:20241027T121500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
+UID:f707abee-9fa8-4764-b3a8-fa2d58eb5957@f707.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogdan Rogoda
@@ -389,34 +324,99 @@ DTEND:20250111T100000Z
 LOCATION:Paw.U sala T (Kat. ZKL)
 DTSTART:20250111T074500Z
 SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
-UID:b3d31f89-4ed8-4708-8f11-f3bf5271fffe@b3d3.org
+UID:c20aa952-4c83-44ea-bcbc-584a3c04dcb0@c20a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20241222T143000Z
+LOCATION:Paw.E sala J
+DTSTART:20241222T121500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:39ab5f47-d556-4a93-a05a-621594e93c18@39ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Frańczuk
+DTEND:20241221T141500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241221T111500Z
+SUMMARY:Techniki legislacyjne (konwersatorium)
+UID:63669b90-542f-4f82-be28-874e0f4e785f@6366.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20241117T184500Z
+LOCATION:Paw.C sala C
+DTSTART:20241117T154500Z
+SUMMARY:Prawo technologii informacyjnych i komunikacyjnych (konwersatorium do wyboru)
+UID:a2eab324-6f9b-4a73-b8f6-f34fc0da7b60@a2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241116T104500Z
+DTSTART:20241116T074500Z
+SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
+UID:20a8eba9-5538-45a7-bc34-0af1f1922ba8@20a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Bardel
-DTEND:20241012T123000Z
-DTSTART:20241012T101500Z
-SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
-UID:05e6e305-b7dc-4a42-8a4e-d9d464045aff@05e6.org
+DTEND:20250201T074500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250201T070000Z
+SUMMARY: (egzamin)
+UID:21beae4d-682c-4f07-903e-328179c1104c@21be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20250126T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250126T154500Z
+SUMMARY: (egzamin)
+UID:28533d35-a006-46b4-99eb-6dec3163a36c@2853.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Igor Zachariasz
+DTEND:20241208T151500Z
+LOCATION:Paw.F 413
+DTSTART:20241208T121500Z
+SUMMARY:Postępowanie administracyjne i sądowo-administracyjne (konwersatorium)
+UID:d9ef1448-6d2c-402a-82f5-68c4b69d0e9b@d9ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
 DTEND:20241012T094500Z
 DTSTART:20241012T064500Z
 SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:5270526c-be8a-46dd-a629-a081137d53fd@5270.org
+UID:df540041-55cb-4911-b594-90fa55daf5ee@df54.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Piątkowski
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Podstawy przedsiębiorczości (wykład)
-UID:f3e8418c-224d-4ec2-b5dd-fb9dbeed8208@f3e8.org
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20241214T141500Z
+LOCATION:Bud.gł. 6
+DTSTART:20241214T111500Z
+SUMMARY:Prawo technologii informacyjnych i komunikacyjnych (konwersatorium do wyboru)
+UID:25e3d87a-d3b0-4497-b593-ab6025cffa40@25e3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
-DTEND:20241130T110000Z
-DTSTART:20241130T084500Z
-SUMMARY:Politologia i podstawy wiedzy o państwie (wykład)
-UID:d614f47d-6d1d-47de-afce-f9c91472d3c7@d614.org
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241130T141500Z
+DTSTART:20241130T111500Z
+SUMMARY:Filozofia z elementami etyki zawodowej (wykład)
+UID:4d083f66-2224-47e5-ad33-06cd325a37c2@4d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241123T104500Z
+LOCATION:Paw.E sala J
+DTSTART:20241123T074500Z
+SUMMARY:Polityka spójności UE (konwersatorium do wyboru)
+UID:1c5e40de-638a-445b-b451-c3d6a80f890a@1c5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ambroży Mituś
+DTEND:20241214T104500Z
+LOCATION:Bud.gł. 4
+DTSTART:20241214T074500Z
+SUMMARY:Zamówienia publiczne (konwersatorium)
+UID:94d73562-8b9d-44a0-98b3-a5367545950c@94d7.org
 END:VEVENT
 END:VCALENDAR
