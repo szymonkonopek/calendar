@@ -2,65 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20250201T101500Z
-LOCATION:Paw.F 104
-DTSTART:20250201T084500Z
-SUMMARY: (egzamin)
-UID:bc07f03f-951e-4a1d-9246-f84a79cc0f22@bc07.org
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241005T141500Z
+DTSTART:20241005T120000Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:bd366e82-d0b6-43ce-8971-5a5ca99d6eb7@bd36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241220T170000Z
+DTSTART:20241220T144500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:6c84220b-63a6-4115-ba69-ef570dbd83d2@6c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241117T114500Z
+DTSTART:20241117T093000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:bf015939-8f23-4904-b539-562df61e6f16@bf01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Brzezicka
 DTEND:20241206T184500Z
 DTSTART:20241206T154500Z
 SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
-UID:83bc6834-89dd-40a4-b382-4f4ca43a273c@83bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20241124T124500Z
-LOCATION:Paw.B 451
-DTSTART:20241124T103000Z
-SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
-UID:21f3f18b-1372-4dda-aaf2-4d476de5d33a@21f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241116T104500Z
-DTSTART:20241116T074500Z
-SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
-UID:4e31f6e6-3491-41a1-b836-b66838ace8b1@4e31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20250118T133000Z
-LOCATION:Paw.F 104
-DTSTART:20250118T111500Z
-SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
-UID:2c34b5fa-adc1-4134-9b54-032de6291c5c@2c34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20250126T114500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250126T093000Z
-SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
-UID:74b706f1-73aa-403c-b634-bbc4cdaa67c5@74b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20241123T161500Z
-DTSTART:20241123T140000Z
-SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (wykład do wyboru)
-UID:c090c4ef-fab1-4066-9a72-62079a04b79e@c090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20250118T161500Z
-LOCATION:Paw.B 451
-DTSTART:20250118T140000Z
-SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
-UID:27d27819-d805-47dc-ae74-a3d28084aa44@27d2.org
+UID:f00a85fd-a55f-4f4b-83f6-ec494c8e5838@f00a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Brzezicka
@@ -68,58 +35,7 @@ DTEND:20250208T111500Z
 LOCATION:Paw.C sala A
 DTSTART:20250208T103000Z
 SUMMARY:Eksploatacja nieruchomości budowlanych (egzamin)
-UID:4e88cbd8-53d6-49e7-a27d-c993f6a21d35@4e88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20241122T170000Z
-DTSTART:20241122T144500Z
-SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
-UID:d9281454-b1c5-4689-af65-1a6cba14caae@d928.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20241005T141500Z
-DTSTART:20241005T120000Z
-SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
-UID:d1473d32-a05a-4fb2-bbb8-1fb96cb385f9@d147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Musiał-Malago
-DTEND:20241124T100000Z
-LOCATION:Paw.B 351
-DTSTART:20241124T074500Z
-SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
-UID:62a15be2-aad3-4e49-a6ec-cc172fa07c65@62a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20241027T124500Z
-DTSTART:20241027T103000Z
-SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (wykład do wyboru)
-UID:130238a7-72ff-4674-b719-df09bff40b43@1302.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Kowalik
-DTEND:20241207T161500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20241207T140000Z
-SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
-UID:44abd7e3-09b1-4ddd-b7cf-11cb2c2b5ebd@44ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241123T133000Z
-DTSTART:20241123T111500Z
-SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
-UID:d33ed4de-3dd0-4159-9dd0-80b3b40a0f21@d33e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Kowalik
-DTEND:20241025T160000Z
-DTSTART:20241025T134500Z
-SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
-UID:d124c5c4-aa6f-40de-8bc8-ab2a720513b8@d124.org
+UID:a176c832-406b-48f4-ad39-3cafb6214f7b@a176.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marcin Kowalik
@@ -127,226 +43,21 @@ DTEND:20250118T110000Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20250118T084500Z
 SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
-UID:8ca5a668-353c-48c2-b294-4e96b7d054bd@8ca5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20250208T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20250208T093000Z
-SUMMARY:Projekty inwestycyjne w budownictwie (egzamin)
-UID:834efc6d-4d9b-4e3a-b191-274a42c53242@834e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241116T133000Z
-DTSTART:20241116T111500Z
-SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
-UID:d3b6bf55-9d24-4cdc-a4d1-5a9498b9572b@d3b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20241117T114500Z
-DTSTART:20241117T093000Z
-SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
-UID:f2c775a5-0f72-4aff-97e9-b685cbc6878a@f2c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241222T114500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20241222T084500Z
-SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
-UID:58dc9af6-1d28-47b2-a997-8128b07212a5@58dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Musiał-Malago
-DTEND:20241207T134500Z
-LOCATION:Paw.F 106
-DTSTART:20241207T121500Z
-SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
-UID:7eec7391-ed07-42b4-8532-6b7e98efe041@7eec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Kowalik
-DTEND:20241006T090000Z
-DTSTART:20241006T064500Z
-SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
-UID:cc1cc97a-9660-41a3-ba17-a502f0e61f3e@cc1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Musiał-Malago
-DTEND:20241221T124500Z
-LOCATION:Paw.U sala T (Kat. ZKL)
-DTSTART:20241221T111500Z
-SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
-UID:45c9c86d-3afd-4e16-9726-3d7d230726ab@45c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20241005T114500Z
-DTSTART:20241005T093000Z
-SUMMARY:Podstawy planowania przestrzennego (wykład)
-UID:75c904fc-0d50-4def-b006-49026240c6ea@75c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Musiał-Malago
-DTEND:20241221T134500Z
-LOCATION:Paw.S sala 4
-DTSTART:20241221T130000Z
-SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
-UID:0d77295d-fa70-4a67-807c-dac61be7d347@0d77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Kowalik
-DTEND:20250119T170000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250119T144500Z
-SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
-UID:671b67da-1ea3-45e3-b941-78983f4d5e40@671b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20250126T093000Z
-LOCATION:Paw.B 151
-DTSTART:20250126T084500Z
-SUMMARY:Eksploatacja nieruchomości budowlanych (egzamin)
-UID:90a44ae3-cc61-409b-8490-27d62ffdd5d2@90a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20241207T110000Z
-LOCATION:Paw.S sala 3
-DTSTART:20241207T084500Z
-SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
-UID:823af8cf-cf9b-4885-9f92-21708463b46b@823a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Kowalik
-DTEND:20241221T161500Z
-DTSTART:20241221T140000Z
-SUMMARY:Kosztorysowanie robót budowlanych I (Przeniesienie zajęć)
-UID:4975be86-1826-4c17-8452-9a2149dd209c@4975.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241208T114500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20241208T084500Z
-SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
-UID:1529bdb0-b577-4f3b-bb5b-27f8ff595f41@1529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20241222T143000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20241222T121500Z
-SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
-UID:4773bf20-885a-4871-b7a1-c943d29a39b8@4773.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241220T170000Z
-DTSTART:20241220T144500Z
-SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
-UID:95acf950-1823-413b-8323-bf0f147b9268@95ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20241221T161500Z
-LOCATION:Paw.C sala E
-DTSTART:20241221T144500Z
-SUMMARY:Podstawy planowania przestrzennego (egzamin)
-UID:e6e669b8-10ff-4f8a-b51e-09cf1cc28fb8@e6e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241123T104500Z
-DTSTART:20241123T074500Z
-SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
-UID:70dad590-d233-4135-a358-d675e7ad99df@70da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241026T090000Z
-DTSTART:20241026T064500Z
-SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
-UID:88db91a3-7be8-44bb-9d3e-0093342bcf21@88db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20241124T151500Z
-LOCATION:Paw.B 451
-DTSTART:20241124T130000Z
-SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
-UID:0d322ef8-2525-477a-9d37-bc63e8c9f3bb@0d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
-DTEND:20250119T143000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20250119T121500Z
-SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
-UID:ce2d2fcc-54c3-4483-bcb8-5ef100ca9527@ce2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20241026T114500Z
-DTSTART:20241026T093000Z
-SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
-UID:46f4365d-d396-4914-b4e0-491c28bf3f41@46f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20241026T141500Z
-DTSTART:20241026T120000Z
-SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
-UID:2d3bfb27-f6c5-4dbc-b8e3-17e90405ff2b@2d3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Kowalik
-DTEND:20241117T143000Z
-DTSTART:20241117T121500Z
-SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
-UID:a1e49aa8-16ff-4807-8283-44d5af4b7cfb@a1e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20241208T143000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20241208T121500Z
-SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
-UID:0e22a47e-1193-4823-aa53-f8f8056f18b4@0e22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
-DTEND:20241222T170000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20241222T144500Z
-SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
-UID:300067d4-20d6-48cf-9216-2784d0a5e1a4@3000.org
+UID:5a2df942-90fe-4ee8-a5ff-8adbe398be2b@5a2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
 DTEND:20241116T161500Z
 DTSTART:20241116T140000Z
 SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (wykład do wyboru)
-UID:cfe1b5f3-4427-4974-a759-4d730ec50635@cfe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Kowalik
-DTEND:20241005T090000Z
-DTSTART:20241005T064500Z
-SUMMARY:Kosztorysowanie robót budowlanych I (Przeniesienie zajęć)
-UID:a3eaa1e7-5c0c-42ce-a703-88320af526cc@a3ea.org
+UID:b77f9883-2745-47f0-8920-5603324af16c@b77f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Brzezicka
-DTEND:20250126T083000Z
-LOCATION:Paw.B 151
-DTSTART:20250126T074500Z
-SUMMARY:Projekty inwestycyjne w budownictwie (egzamin)
-UID:096d6f3d-988a-4e73-aeb8-386090b88cdc@096d.org
+DTEND:20241123T133000Z
+DTSTART:20241123T111500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:b37e3d06-9f7a-4e5f-a243-bac058f9c101@b37e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
@@ -354,44 +65,92 @@ DTEND:20241208T170000Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20241208T144500Z
 SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
-UID:7ef8e4d2-e223-452e-a6af-23be355d0ffc@7ef8.org
+UID:522b9ba1-de98-4218-9373-e0fa421d846e@522b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20241117T091500Z
-DTSTART:20241117T070000Z
-SUMMARY:Podstawy planowania przestrzennego (wykład)
-UID:1ba70d01-676a-4beb-b471-315986ad51c9@1ba7.org
+DTEND:20241221T161500Z
+LOCATION:Paw.C sala E
+DTSTART:20241221T144500Z
+SUMMARY:Podstawy planowania przestrzennego (egzamin)
+UID:71754bc7-d742-4f7f-8106-94fec67b337b@7175.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Klaudia Tomasik
-DTEND:20250126T143000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250126T121500Z
-SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
-UID:72e50634-e89e-4057-bc4b-7f6e020f444b@72e5.org
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241026T090000Z
+DTSTART:20241026T064500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:f146a0e0-8fee-49fb-9dbd-1718d6952ac4@f146.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20241122T194500Z
-DTSTART:20241122T173000Z
-SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
-UID:7cedc495-4ead-4c3e-86b9-1b673f44b307@7ced.org
+DTEND:20241124T124500Z
+LOCATION:Paw.B 451
+DTSTART:20241124T103000Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:5bf01a3e-3120-44a6-9a3d-95d60792968b@5bf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241026T114500Z
+DTSTART:20241026T093000Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:42c43a65-6c0c-4607-830e-c1bc1d276fcf@42c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20250119T170000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250119T144500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:a9e72c20-f55f-4ddb-8936-377ebc70febd@a9e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20241222T143000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241222T121500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:741aab9f-1ba1-4096-9083-5e7536ec5579@741a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250201T101500Z
+LOCATION:Paw.F 104
+DTSTART:20250201T084500Z
+SUMMARY: (egzamin)
+UID:d7e55bd6-89c8-46a3-a14f-219f46321e03@d7e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241117T143000Z
+DTSTART:20241117T121500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:3814473f-7030-441c-b74e-2a38c2669026@3814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20241208T143000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241208T121500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:a4300398-97fb-4dbe-afd6-4ef485a6aebf@a430.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20241027T100000Z
-DTSTART:20241027T074500Z
-SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
-UID:45c4a373-50f0-47fb-884d-262a7c168d34@45c4.org
+DTEND:20241124T151500Z
+LOCATION:Paw.B 451
+DTSTART:20241124T130000Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:2734a02f-0c2b-494e-ae90-429442b40bb1@2734.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Monika Musiał-Malago
-DTEND:20241207T120000Z
-LOCATION:Bud.gł. 9
-DTSTART:20241207T111500Z
+DTEND:20241221T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241221T130000Z
 SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
-UID:3a33d9ee-c3d2-4271-9552-5301678de7b5@3a33.org
+UID:f1fa21e1-41cf-4c98-aab7-c03ae72121f4@f1fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Brzezicka
@@ -399,14 +158,66 @@ DTEND:20250119T114500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20250119T084500Z
 SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
-UID:03fcd7ba-95d7-436f-a4d4-74d8125aff34@03fc.org
+UID:8d30eab0-657e-4e8f-9d0a-01915d598b30@8d30.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Hołuj
-DTEND:20241027T151500Z
-DTSTART:20241027T130000Z
-SUMMARY:Podstawy planowania przestrzennego (wykład)
-UID:7a164487-7809-496f-bac1-90fef3157f48@7a16.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241027T100000Z
+DTSTART:20241027T074500Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:accee99e-18b6-4fc0-928d-8a9794e0639f@acce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241025T160000Z
+DTSTART:20241025T134500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:ec0f9f82-2684-451d-923f-c7ecb2323189@ec0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241027T124500Z
+DTSTART:20241027T103000Z
+SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (wykład do wyboru)
+UID:7576f42e-56eb-46ff-96de-d0d54324dfa2@7576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241123T104500Z
+DTSTART:20241123T074500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:2663eaca-f2f9-4e56-ad7e-5c990c9a71e5@2663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241207T120000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241207T111500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:bab93109-c294-429c-aadf-d63c332c49cf@bab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241207T134500Z
+LOCATION:Paw.F 106
+DTSTART:20241207T121500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:f3a0066b-1791-42a0-b24d-3293c73f074a@f3a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241207T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241207T140000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:b89c07bd-5343-476a-954f-4d7da592d75e@b89c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241006T090000Z
+DTSTART:20241006T064500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:201fb3ff-3d42-465b-91e1-6e01fa2e8bae@201f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
@@ -414,7 +225,143 @@ DTEND:20241221T110000Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20241221T084500Z
 SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
-UID:10b38844-fb47-4aee-9624-0c3d42d14087@10b3.org
+UID:a5ed84fd-6a13-41c3-9c3f-15389fb6518a@a5ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250118T133000Z
+LOCATION:Paw.F 104
+DTSTART:20250118T111500Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:367d4b54-efbc-4f96-830c-688b9c206282@367d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241124T100000Z
+LOCATION:Paw.B 351
+DTSTART:20241124T074500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:674e84a0-be82-4795-82da-f842629d8df6@674e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241122T170000Z
+DTSTART:20241122T144500Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:906450e6-c459-454b-8796-74c249d4386b@9064.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20250208T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250208T093000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (egzamin)
+UID:6beffcf9-e264-45f7-a008-117f1c37c597@6bef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241221T161500Z
+DTSTART:20241221T140000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (Przeniesienie zajęć)
+UID:419c61d7-7639-4bab-868f-4b79efcfa177@419c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20250126T114500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250126T093000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:c2ea4b7c-f8ce-495e-9ca8-2c3a1f94611e@c2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241222T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241222T144500Z
+SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
+UID:166cfcf7-01a6-4bf1-a5c9-8e78f8d692b2@166c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250126T143000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250126T121500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:39b16a89-fa43-466b-bf22-87b490419baf@39b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241208T114500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241208T084500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:78d47587-3e36-4d75-8c68-dac618d899e7@78d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241222T114500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241222T084500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:8ab73f91-6def-417b-b36e-ff32424dac20@8ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241005T114500Z
+DTSTART:20241005T093000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:be02b24d-94e4-468a-8cb7-b81f27662302@be02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241116T133000Z
+DTSTART:20241116T111500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:7b64fbb4-af11-44e2-9e38-f63ee4cd3fa4@7b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241221T124500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241221T111500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:3b0e9a69-149a-457f-b6f9-8fec38be47be@3b0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241026T141500Z
+DTSTART:20241026T120000Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:7f1da248-4f94-4c69-8e92-6c86aab602dc@7f1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241123T161500Z
+DTSTART:20241123T140000Z
+SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (wykład do wyboru)
+UID:43c9ca37-78c8-4c5d-a153-694ad099adbf@43c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20250126T093000Z
+LOCATION:Paw.B 151
+DTSTART:20250126T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (egzamin)
+UID:52f85f7c-8e01-4391-9eb9-4cf0beccdf7a@52f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241005T090000Z
+DTSTART:20241005T064500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (Przeniesienie zajęć)
+UID:b6df1d85-cab1-4783-8f99-f411d69901a9@b6df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241027T151500Z
+DTSTART:20241027T130000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:7d1ed88c-016b-4c86-8059-d3ee23127637@7d1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Brzezicka
@@ -422,6 +369,59 @@ DTEND:20241115T170000Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20241115T144500Z
 SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
-UID:235a795c-a639-4d46-b3ed-22ffc34f5b36@235a.org
+UID:eea411ce-b84a-4028-a709-0c91ba4af64f@eea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20250126T083000Z
+LOCATION:Paw.B 151
+DTSTART:20250126T074500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (egzamin)
+UID:64738bb1-ddae-4554-9fe8-a9aa31ce94eb@6473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241122T194500Z
+DTSTART:20241122T173000Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:a03b66ad-898a-4d27-acd4-b9d43446b2b0@a03b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241116T104500Z
+DTSTART:20241116T074500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:6d8fd11a-2680-4a68-8137-6a7560c49c1c@6d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241207T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241207T084500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:20d02286-e3a4-46e8-b4eb-605cd42ad945@20d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250119T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250119T121500Z
+SUMMARY:Gamifikacja w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
+UID:ece63976-3c70-40f8-92a1-bd3137d3d151@ece6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241117T091500Z
+DTSTART:20241117T070000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:12ca70f3-9b68-41c0-b6af-7f7d3c17ae5e@12ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250118T161500Z
+LOCATION:Paw.B 451
+DTSTART:20250118T140000Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:c4814eec-5d21-4f17-8b64-53d2480f07c6@c481.org
 END:VEVENT
 END:VCALENDAR
