@@ -2,28 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250305T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250305T070000Z
-SUMMARY:Zarządzanie produktem (ćwiczenia)
-UID:b738ba88-3de0-4367-932d-a4f81ba6c1fc@b738.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250410T161500Z
-LOCATION:Paw.C sala A
-DTSTART:20250410T144500Z
-SUMMARY:Zarządzanie środowiskowe (wykład)
-UID:35cd199e-b2d9-4912-b361-b60ed2ad554a@35cd.org
+DTEND:20250605T170000Z
+DTSTART:20250605T144500Z
+SUMMARY:Zarządzanie środowiskowe (Przeniesienie zajęć)
+UID:76a30a0e-3006-4c7d-8d94-9eedaf059bd5@76a3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250416T124500Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20250416T111500Z
-SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
-UID:17694183-6e06-4616-b25a-6fcc3e760b4b@1769.org
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250515T143000Z
+DTSTART:20250515T130000Z
+SUMMARY:Innowacje technologiczne (laboratorium)
+UID:3bc927d2-1065-45ee-b93c-84150be6d1d2@3bc9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
@@ -31,330 +21,7 @@ DTEND:20250310T134500Z
 LOCATION:Platforma Moodle
 DTSTART:20250310T121500Z
 SUMMARY:Zarządzanie produktem (wykład e-learningowy)
-UID:07ce2737-0c1a-40ba-bb5d-2c8d09938cd3@07ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250602T110000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250602T093000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:1a184b13-9335-4ff5-96d0-4a6a0d824bc5@1a18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250605T170000Z
-DTSTART:20250605T144500Z
-SUMMARY:Zarządzanie środowiskowe (Przeniesienie zajęć)
-UID:f984f5b4-8414-49a3-b645-2daec0f3c0b3@f984.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250326T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250326T140000Z
-SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:4c4c43da-5917-4fea-9f1d-99284ad31c4e@4c4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250521T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250521T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:9fcba5fa-b399-425b-8304-2475933160f0@9fcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250611T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250611T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:62e140df-f671-4a42-9240-a7d596623907@62e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250423T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250423T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:a2610d46-f7f4-47d0-a525-10636ae2a9bd@a261.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250410T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20250410T111500Z
-SUMMARY:Marketing produktu (wykład)
-UID:89ed16d5-017e-4117-9942-41da55a0c38c@89ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250609T073000Z
-LOCATION:Paw.U sala K
-DTSTART:20250609T060000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:a46057e2-a047-4d2e-875c-92e2fa9cdd08@a460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250516T141500Z
-DTSTART:20250516T120000Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
-UID:25cf3ae1-56c0-4e8e-a85f-74d822c5ee33@25cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250226T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250226T140000Z
-SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:6c987f5c-764e-469b-83f3-62ebe11b2890@6c98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20250411T123000Z
-LOCATION:Platforma Moodle
-DTSTART:20250411T101500Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (Konwersatorium e-learning)
-UID:1aeda191-e6f9-424b-9e70-91cdf86765d9@1aed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20250321T133000Z
-LOCATION:Platforma Moodle
-DTSTART:20250321T111500Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (Konwersatorium e-learning)
-UID:67c694eb-e411-4693-ad7f-74a4a617079d@67c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250409T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250409T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:96367d5d-349e-45e1-a012-6461b1a691bf@9636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250226T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250226T103000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:47162568-2f2b-4160-9ea5-390f8c2147c5@4716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250305T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250305T103000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:c9088804-85ee-4f7a-93d4-0021f5354963@c908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250319T083000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250319T070000Z
-SUMMARY:Zarządzanie produktem (ćwiczenia)
-UID:6ae6526d-f183-43f5-8a1a-be41386fc251@6ae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250324T130000Z
-LOCATION:Paw.S sala 1
-DTSTART:20250324T121500Z
-SUMMARY:Zarządzanie produktem (wykład)
-UID:df77fc3b-8f41-4092-b326-b03c84f49655@df77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20250328T133000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250328T111500Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
-UID:8d7dba90-7541-4981-a01f-425f406c1ac2@8d7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250611T143000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250611T130000Z
-SUMMARY:Zarządzanie środowiskowe (wykład)
-UID:8826523d-ad05-47f6-9696-1927e9271898@8826.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250313T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20250313T154500Z
-SUMMARY:Zarządzanie środowiskowe (wykład)
-UID:6f3f6a0f-c4c4-4378-a956-54ce160e2a3d@6f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marta Sokołowska - Słuszniak
-DTEND:20250425T124500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250425T120000Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
-UID:f8455c70-03f4-4092-960e-7dc82fd53bba@f845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250606T091500Z
-LOCATION:Platforma Moodle
-DTSTART:20250606T074500Z
-SUMMARY:Zarządzanie środowiskowe (Ćwiczenia e-learningowe)
-UID:c2cbdeec-3c25-44da-9ddb-daabcfa58bfb@c2cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250423T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250423T060000Z
-SUMMARY:Zarządzanie produktem (ćwiczenia)
-UID:706bf658-5fbf-404f-b605-d49afba0d4bf@706b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250521T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250521T111500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:1fd4c4f6-9679-448b-8dba-232c47d30be4@1fd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
-DTEND:20250311T170000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250311T140000Z
-SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:33e23737-d509-40ef-b5a5-b311c272f891@33e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250625T081500Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20250625T064500Z
-SUMMARY: (zaliczenie)
-UID:2e3ab2b4-67b2-48fb-a5be-c3a510395e70@2e3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250605T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20250605T111500Z
-SUMMARY:Marketing produktu (wykład)
-UID:dfb63b82-8346-4694-884d-2589593c2f8e@dfb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250609T110000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250609T101500Z
-SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:6bb2004a-b697-4aee-a8ac-7e6a30eb9212@6bb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20250415T160000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250415T130000Z
-SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:ee9cb0c6-8837-4077-b1c3-329e3fa85dcf@ee9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250312T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250312T103000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:67ee3ae5-6a40-46dd-b17e-f31a73333e71@67ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250519T124500Z
-LOCATION:Platforma Moodle
-DTSTART:20250519T111500Z
-SUMMARY:Zarządzanie produktem (wykład e-learningowy)
-UID:7f5c3a53-2eec-4439-b279-aa5209fd6392@7f5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250416T073000Z
-DTSTART:20250416T060000Z
-SUMMARY:Zarządzanie produktem (Przeniesienie zajęć)
-UID:0b847e44-e322-4e43-85e1-712ce6c7fb57@0b84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250409T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250409T130000Z
-SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:ae1a5e74-3c10-42f2-a413-0fa7dcee9bda@ae1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250513T110000Z
-LOCATION:Paw.U sala K
-DTSTART:20250513T093000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:8230de4e-e19b-4160-a3a9-1c1bc9c101b4@8230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250326T134500Z
-LOCATION:Paw.F 102
-DTSTART:20250326T121500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:dcf0a3bc-79ae-43a8-a62d-2ad091c85b7f@dcf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250609T124500Z
-LOCATION:Platforma Moodle
-DTSTART:20250609T120000Z
-SUMMARY:Zarządzanie produktem (wykład e-learningowy)
-UID:d22a1e66-6dd9-404c-b212-7a28fd4bd4e7@d22a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20250307T133000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250307T111500Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
-UID:f1eb44c5-98c3-4c99-8983-fad6d9337909@f1eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250402T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250402T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:578865fd-358f-4127-a6e9-f46743cd1d70@5788.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250429T110000Z
-DTSTART:20250429T093000Z
-SUMMARY:Logistyczna sprawność produktów (Przeniesienie zajęć)
-UID:840da955-44c9-40d8-86be-73a3f9d006d0@840d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250516T091500Z
-DTSTART:20250516T074500Z
-SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
-UID:361bc3a2-5d52-425d-95f7-827b7eddd60f@361b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250612T124500Z
-LOCATION:Paw.F 104
-DTSTART:20250612T120000Z
-SUMMARY:Marketing produktu (wykład)
-UID:690f1de1-2091-4b8b-9ffe-d756a1518e1b@690f.org
+UID:170a946c-10c1-465b-a71c-e23bea1040c3@170a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
@@ -362,154 +29,7 @@ DTEND:20250324T120000Z
 LOCATION:Paw.E sala G (KSB)
 DTSTART:20250324T103000Z
 SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:7a08174e-ad9e-40c5-b0d1-8559fbb24db1@7a08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250326T114500Z
-DTSTART:20250326T084500Z
-SUMMARY: (rezerwacja)
-UID:a8a2b968-eb00-4f25-b7e4-53455a187bd9@a8a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250402T124500Z
-DTSTART:20250402T111500Z
-SUMMARY:Zarządzanie kosztami w innowacjach (Przeniesienie zajęć)
-UID:bb141771-1d53-45d1-9524-53c853489aae@bb14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250313T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20250313T121500Z
-SUMMARY:Marketing produktu (wykład)
-UID:c54c166b-bc17-4dc6-ab1d-d017e0e30b54@c54c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250424T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20250424T130000Z
-SUMMARY:Innowacje technologiczne (laboratorium)
-UID:0e2468b3-8a42-4a81-8d20-8ea8582f06ed@0e24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250325T120000Z
-DTSTART:20250325T103000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (Przeniesienie zajęć)
-UID:c8b76981-3715-4149-b752-d8b81556b775@c8b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250225T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250225T103000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
-UID:23bbe791-6baf-4d89-9978-8c46ba1bde5e@23bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250410T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20250410T130000Z
-SUMMARY:Innowacje technologiczne (laboratorium)
-UID:0e977df2-da94-4001-93ec-21d52e1b4e0f@0e97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250515T143000Z
-DTSTART:20250515T130000Z
-SUMMARY:Innowacje technologiczne (laboratorium)
-UID:b104e4e3-e47c-4c3b-8848-805497c0d965@b104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250507T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250507T060000Z
-SUMMARY:Zarządzanie produktem (ćwiczenia)
-UID:5b47683c-942f-451a-8c7c-92efb232364e@5b47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250618T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250618T074500Z
-SUMMARY: (egzamin)
-UID:0c9af3c7-de9e-47b7-82bd-b2e9a2f2849b@0c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250605T073000Z
-LOCATION:Paw.U sala K
-DTSTART:20250605T060000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:3d32607d-6a39-4223-b7e0-fd644bb1190d@3d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250415T110000Z
-LOCATION:Paw.U sala K
-DTSTART:20250415T093000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:a16e8ff6-23cd-4962-bba4-8f7a306a5008@a16e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250508T110000Z
-LOCATION:Paw.U sala K
-DTSTART:20250508T093000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:c294badf-392c-477d-8b7a-5e83a1794c48@c294.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Językowe Centrum
-DTEND:20250616T141500Z
-LOCATION:Paw.B 151\, Paw.B 351\, Paw.B 451\, Paw.C  Nowa Aula\, Paw.C sala A\, Paw.C sala B\, Paw.C sala C\, Paw.C sala D\, Paw.C sala E\, Paw.C sala F\, Paw.E sala J\, Paw.F 102\, Paw.F 104\, Paw.F 107\, Paw.F 109\, Paw.F 111\, Paw.G 12\, Paw.S sala 1\, Paw.S sala 2\, Paw.S sala 3\, Paw.S sala 4\, Paw.S sala 5\, Paw.S sala 6\, Paw.S sala 7\, Paw.S sala 8\, Paw.S sala 9
-DTSTART:20250616T060000Z
-SUMMARY: (rezerwacja)
-UID:5e77654d-9b67-4c20-ab83-ab7ca0ba4185@5e77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250312T134500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250312T121500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:fd9f6b26-ccb9-44fa-a0db-dc1a1b692ea7@fd9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250430T073000Z
-DTSTART:20250430T060000Z
-SUMMARY:Zarządzanie produktem (Przeniesienie zajęć)
-UID:a96eb344-4150-49bb-a917-473b51f449e0@a96e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250226T134500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250226T121500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:19863cb6-e01a-47d4-badf-d7e2fe84d6f8@1986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250409T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250409T111500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:dfb5ea24-2c0d-48fb-bed7-891f2abf0ed1@dfb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250407T124500Z
-LOCATION:Platforma Moodle
-DTSTART:20250407T120000Z
-SUMMARY:Zarządzanie produktem (wykład e-learningowy)
-UID:597c5a43-2214-41ea-a32a-c49d158a748f@597c.org
+UID:d626c5f5-1b38-432f-b0cd-83d8d6e44c85@d626.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
@@ -517,528 +37,30 @@ DTEND:20250320T153000Z
 LOCATION:Paw.S sala 11
 DTSTART:20250320T140000Z
 SUMMARY:Innowacje technologiczne (laboratorium)
-UID:3f289eb6-22bd-4572-b1a7-1fb16bacb790@3f28.org
+UID:829ed9f7-08d1-4e52-ac70-58485ee00eeb@829e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250505T110000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250505T093000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:651a4587-6033-441b-b22a-0b9fc13ae04a@651a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250509T141500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250509T120000Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
-UID:d903b10a-d58b-4c71-8621-b23e6bd4f287@d903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250508T180000Z
-LOCATION:Platforma Moodle
-DTSTART:20250508T163000Z
-SUMMARY:Zarządzanie środowiskowe (wykład e-learningowy)
-UID:5633dda0-3ffb-48a3-94f7-87e90c4d5b5b@5633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250522T161500Z
-LOCATION:Platforma Moodle
-DTSTART:20250522T144500Z
-SUMMARY:Zarządzanie środowiskowe (wykład e-learningowy)
-UID:dbfa1176-f587-4380-994e-093fb3ea766d@dbfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250611T153000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250611T144500Z
-SUMMARY:Zarządzanie środowiskowe (wykład)
-UID:d100ce83-bdaf-42b2-8f82-dbac2058998d@d100.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Językowe Centrum
-DTEND:20250617T141500Z
-LOCATION:Paw.F 102
-DTSTART:20250617T120000Z
-SUMMARY: (rezerwacja)
-UID:9ed9f27c-4564-4dbb-8fa7-6743d267e31c@9ed9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250609T180000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250609T171500Z
-SUMMARY:Zarządzanie produktem (ćwiczenia)
-UID:e42edafa-1a2f-4173-8bbb-f4d38c8cc412@e42e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20250314T133000Z
-LOCATION:Platforma Moodle
-DTSTART:20250314T111500Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (Konwersatorium e-learning)
-UID:b4b6c017-2d91-4e5c-8d52-5245a6ebb32f@b4b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250407T120000Z
-LOCATION:Paw.S sala 1
-DTSTART:20250407T111500Z
-SUMMARY:Zarządzanie produktem (wykład)
-UID:17cd0db9-f3d3-41e7-aba2-020d1cb47bb9@17cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250507T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250507T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:7ea3bfa3-435b-4d6c-93bc-c8bb4e2ba247@7ea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250508T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20250508T111500Z
-SUMMARY:Marketing produktu (wykład)
-UID:ebcd8237-19dd-4d8f-a4b0-9e9cfd3f66db@ebcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250227T153000Z
-LOCATION:Paw.S sala 11
-DTSTART:20250227T140000Z
-SUMMARY:Innowacje technologiczne (laboratorium)
-UID:735b8bda-1f51-44a8-9d06-48617bf35ee7@735b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250423T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250423T111500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:a0aae02d-40ed-49d3-9816-01103679f91f@a0aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250327T150000Z
-DTSTART:20250327T103000Z
-SUMMARY: (rezerwacja)
-UID:33c30342-d7a1-4fe0-abb0-fd469d822758@33c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Językowe Centrum
-DTEND:20250617T103000Z
-LOCATION:Paw.B 151\, Paw.B 351\, Paw.B 451\, Paw.C sala A\, Paw.C sala B\, Paw.C sala C\, Paw.C sala D\, Paw.C sala E\, Paw.C sala F\, Paw.E sala J\, Paw.F 102\, Paw.F 104\, Paw.F 107\, Paw.F 109\, Paw.F 111\, Paw.G 12\, Paw.S sala 1\, Paw.S sala 2\, Paw.S sala 3\, Paw.S sala 4\, Paw.S sala 5\, Paw.S sala 6\, Paw.S sala 7\, Paw.S sala 8\, Paw.S sala 9
-DTSTART:20250617T060000Z
-SUMMARY: (rezerwacja)
-UID:a551289c-af57-4036-bf33-732fcca4b231@a551.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250424T161500Z
-LOCATION:Platforma Moodle
-DTSTART:20250424T144500Z
-SUMMARY:Zarządzanie środowiskowe (wykład e-learningowy)
-UID:4311527d-ba4b-4e2c-a502-ec72da62265c@4311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250507T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250507T111500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:4d1e01e0-6db5-46e2-804a-8f7c0b31103b@4d1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250402T073000Z
-DTSTART:20250402T060000Z
-SUMMARY:Zarządzanie produktem (Przeniesienie zajęć)
-UID:1095626f-4971-4519-8ea0-ca6455ea9058@1095.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250424T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20250424T111500Z
-SUMMARY:Marketing produktu (wykład)
-UID:f1a31a30-9b96-42ea-a612-d611190863f5@f1a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250307T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250307T093000Z
-SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
-UID:aec2d994-ffd6-4ab7-bb8e-c5c40fa94e07@aec2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
-DTEND:20250425T114500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250425T101500Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
-UID:62db3ba9-d1a3-4bbc-ba40-7188c3637ce3@62db.org
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250508T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20250508T093000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:0856c5a8-40ae-45c7-8ae8-e6ff9eff9fc6@0856.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250521T143000Z
+DTEND:20250226T153000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250521T130000Z
+DTSTART:20250226T140000Z
 SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:bb1c3ad6-09bf-4ef5-af67-92a361217725@bb1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250514T124500Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20250514T111500Z
-SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
-UID:91214560-bdee-40ae-b8a5-c230a75d5e5a@9121.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250310T120000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250310T103000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:6331e3d8-8098-42c5-975c-22ad06d74965@6331.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250612T143000Z
-DTSTART:20250612T134500Z
-SUMMARY:Zarządzanie środowiskowe (Przeniesienie zajęć)
-UID:cd00f01c-9847-47b0-ba95-502819bf8621@cd00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250224T134500Z
-LOCATION:Paw.S sala 1
-DTSTART:20250224T121500Z
-SUMMARY:Zarządzanie produktem (wykład)
-UID:aadd5b38-6980-4b34-9012-eb857802ad61@aadd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20250408T160000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250408T130000Z
-SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:265aa3df-c603-42f1-9c32-22f66abf77b5@265a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250612T073000Z
-LOCATION:Paw.U sala K
-DTSTART:20250612T060000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:122f9da6-0fec-45ec-bc9b-92c6eca58236@122f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20250429T160000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250429T130000Z
-SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:22c29109-103b-4bab-83d0-9d545bc457d3@22c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250416T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250416T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:cbc18b6d-0015-42f8-9677-0b7acfbf22ad@cbc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250227T134500Z
-LOCATION:Paw.C sala A
-DTSTART:20250227T121500Z
-SUMMARY:Marketing produktu (wykład)
-UID:3b91ca25-9166-4cc2-a6e2-6e976e684860@3b91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20250523T123000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250523T101500Z
-SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
-UID:e65db734-cea7-43e4-a7d2-668af2e3b294@e65d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250401T110000Z
-LOCATION:Paw.U sala K
-DTSTART:20250401T093000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:e1bedbdc-8547-49ea-bcb9-a1fe93625376@e1be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250430T143000Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20250430T130000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
-UID:1f9aa5fa-176b-49e4-82a2-6640afe3b595@1f9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250613T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250613T074500Z
-SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
-UID:ac2f9676-18de-4a94-951d-ba4a50a541bb@ac2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250514T110000Z
-DTSTART:20250514T093000Z
-SUMMARY:Marketing produktu (ćwiczenia zdalne)
-UID:cad33dc6-4711-4519-9c77-f547767d9407@cad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20250325T170000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250325T140000Z
-SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:c1371188-d937-4d05-aaa1-b0848602d081@c137.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250610T073000Z
-DTSTART:20250610T060000Z
-SUMMARY:Marketing produktu (Przeniesienie zajęć)
-UID:f2e2c77b-8160-4461-99f1-2057a513e90d@f2e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250610T110000Z
-LOCATION:Paw.U sala K
-DTSTART:20250610T093000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:3c8691a7-7eae-4585-a3e7-29eec82c817a@3c86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250604T134500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250604T130000Z
-SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:b71e0052-14f9-48ea-80b8-7bf380979cc1@b71e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250403T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20250403T130000Z
-SUMMARY:Innowacje technologiczne (laboratorium)
-UID:e8cad06d-2699-4fba-8410-fa7ec15bfc5f@e8ca.org
+UID:5cab55b4-2259-44d5-8f83-c99a9c50ada6@5cab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Urszula Balon
 DTEND:20250407T110000Z
 DTSTART:20250407T093000Z
 SUMMARY:Zarządzanie kosztami w innowacjach (Przeniesienie zajęć)
-UID:50038543-02e7-4957-aa20-10594d47e4e6@5003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250530T091500Z
-LOCATION:Platforma Moodle
-DTSTART:20250530T074500Z
-SUMMARY:Zarządzanie środowiskowe (Ćwiczenia e-learningowe)
-UID:a2342a55-19a8-4572-8692-c57e52519899@a234.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250626T091500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250626T083000Z
-SUMMARY:Zarządanie produktem (egzamin)
-UID:0221c1cf-e897-4fce-bd6f-ef12bd88c0d5@0221.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250507T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250507T130000Z
-SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:f9d3f07d-f880-4bd5-917f-37fe4ad39e32@f9d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250514T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250514T060000Z
-SUMMARY:Zarządzanie produktem (ćwiczenia)
-UID:2ec3f22e-0a06-4b42-a5d9-b16b209bc863@2ec3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250529T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20250529T130000Z
-SUMMARY:Innowacje technologiczne (laboratorium)
-UID:761fe085-5800-4a62-8213-9ba5bb1c1d99@761f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
-DTEND:20250304T170000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250304T140000Z
-SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:59843629-c28e-41eb-adeb-1194e6c980c1@5984.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250909T083000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250909T074500Z
-SUMMARY:Zarządanie produktem (egzamin)
-UID:4c66a8c4-07bf-431e-8f06-2e40ce087fe5@4c66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20250318T111500Z
-LOCATION:Paw.U sala K
-DTSTART:20250318T103000Z
-SUMMARY:Logistyczna sprawność produktów (konwersatorium)
-UID:0d71e2a8-4337-442b-91bc-d70eb3845af3@0d71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250324T134500Z
-LOCATION:Platforma Moodle
-DTSTART:20250324T130000Z
-SUMMARY:Zarządzanie produktem (wykład e-learningowy)
-UID:3fb520f2-3810-4407-bb92-16461a8434d0@3fb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250505T124500Z
-LOCATION:Paw.S sala 1
-DTSTART:20250505T111500Z
-SUMMARY:Zarządzanie produktem (wykład)
-UID:0556564e-993d-4690-83fc-b50036632a2f@0556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250520T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250520T093000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
-UID:b8a7cf7d-f8b6-4f9a-9d17-d66260adf7b7@b8a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250404T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250404T074500Z
-SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
-UID:e17fcb56-0d9e-40ae-8d53-49a811bea2af@e17f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20250602T124500Z
-LOCATION:Platforma Moodle
-DTSTART:20250602T111500Z
-SUMMARY:Zarządzanie produktem (wykład e-learningowy)
-UID:7c2e4414-cbcf-48f7-bf97-bd2395f42f0b@7c2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250311T120000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250311T103000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
-UID:a1e477de-44de-4775-b7ed-b6048213624e@a1e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20250304T133000Z
-DTSTART:20250304T103000Z
-SUMMARY: (rezerwacja)
-UID:feb56fcc-3fb6-4116-8037-d6a4ac89d4ae@feb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250430T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250430T093000Z
-SUMMARY:Marketing produktu (ćwiczenia)
-UID:b9ed30ee-2d71-45d8-bd63-284b4eaa3daf@b9ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
-DTEND:20250318T153000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20250318T140000Z
-SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:3e885f60-c386-4941-b5c1-f695a8eb0b44@3e88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250414T110000Z
-LOCATION:Paw.U sala O
-DTSTART:20250414T093000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:ca3eb564-a403-4274-9db2-a4b08747337d@ca3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250303T120000Z
-LOCATION:Paw.B 151
-DTSTART:20250303T103000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:b354594a-91b8-4f1b-833b-8f30a0dd0131@b354.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20250522T124500Z
-LOCATION:Paw.C sala A
-DTSTART:20250522T111500Z
-SUMMARY:Marketing produktu (wykład)
-UID:08fe3adb-5735-43d6-88f5-61f928002d5e@08fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250604T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20250604T111500Z
-SUMMARY:Innowacje technologiczne (wykład)
-UID:3b7d230d-5928-44e3-aa49-c1136c4d5f8d@3b7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20250612T134500Z
-LOCATION:Paw.S sala 11
-DTSTART:20250612T130000Z
-SUMMARY:Innowacje technologiczne (laboratorium)
-UID:3919cb1b-afc4-4894-8618-0a4287e95496@3919.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250411T091500Z
-LOCATION:Platforma Moodle
-DTSTART:20250411T074500Z
-SUMMARY:Zarządzanie środowiskowe (Ćwiczenia e-learningowe)
-UID:177378e4-f390-48b9-873e-b31ecd64b689@1773.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20250423T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250423T130000Z
-SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:1038963d-0faa-4485-ad74-ae2d970a0ef5@1038.org
+UID:517515bf-1afe-47a7-af4d-24d90c089380@5175.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariola Wiater
@@ -1046,46 +68,55 @@ DTEND:20250319T120000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20250319T103000Z
 SUMMARY:Marketing produktu (ćwiczenia)
-UID:796d4499-daba-47cd-8ad1-c8a8c8ccf3c9@796d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
-DTEND:20250521T073000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250521T060000Z
-SUMMARY:Zarządzanie produktem (ćwiczenia)
-UID:1a00cd4e-35aa-4461-bace-e26d0e73b5b0@1a00.org
+UID:6cdb0a57-7f23-46e9-8f5d-f7beec705977@6cdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20250327T171500Z
+DTEND:20250508T180000Z
 LOCATION:Platforma Moodle
-DTSTART:20250327T154500Z
+DTSTART:20250508T163000Z
 SUMMARY:Zarządzanie środowiskowe (wykład e-learningowy)
-UID:dbb96fbd-18ad-44fc-ba19-e8e39a21e7c8@dbb9.org
+UID:57c566e3-9470-4145-8982-fff7d73bc97d@57c5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20250321T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20250321T084500Z
-SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
-UID:cd6131d6-0c83-4916-896a-e7d0238201bc@cd61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Urszula Balon
-DTEND:20250519T110000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20250519T093000Z
-SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
-UID:e75d5cf5-0ba6-40d1-969b-2ade6619e345@e75d.org
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250523T123000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250523T101500Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
+UID:ba954a6e-ce6c-47a1-9447-f0e1e67f4ea4@ba95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20250604T110000Z
-DTSTART:20250604T093000Z
-SUMMARY:Marketing produktu (ćwiczenia zdalne)
-UID:cd202c8b-4cb6-476d-9198-babc34cd605d@cd20.org
+DTEND:20250416T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250416T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:98e9354c-4de3-46f1-90f2-d902bb84246b@98e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250226T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250226T121500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:7d5569aa-f05c-4ce3-bb22-9f80ec44bbef@7d55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250430T143000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250430T130000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
+UID:696b2da8-152d-4cc8-9da4-a270dcfe6372@696b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250424T161500Z
+LOCATION:Platforma Moodle
+DTSTART:20250424T144500Z
+SUMMARY:Zarządzanie środowiskowe (wykład e-learningowy)
+UID:6cca701f-64b1-49f4-80fb-2ae03d241ff8@6cca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
@@ -1093,7 +124,189 @@ DTEND:20250401T160000Z
 LOCATION:Sienk. 4 sala audio
 DTSTART:20250401T130000Z
 SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
-UID:438b7779-3ac6-44f6-a01a-19a6ed65fc2e@438b.org
+UID:2b10c160-b292-4417-bec2-57f8d8c3fa85@2b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250505T124500Z
+LOCATION:Paw.S sala 1
+DTSTART:20250505T111500Z
+SUMMARY:Zarządzanie produktem (wykład)
+UID:8e5f94d0-bac3-4f4e-b02d-2ed556ee303a@8e5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250611T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250611T130000Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:e60ba8b4-0998-4c90-9f25-9b07bbd90a58@e60b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250321T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250321T084500Z
+SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
+UID:0d3cedd6-f207-43de-af54-b879a769e77a@0d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250318T111500Z
+LOCATION:Paw.U sala K
+DTSTART:20250318T103000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:af1cf6cd-3bd6-416f-bbd0-ced5b1f019bc@af1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250604T110000Z
+DTSTART:20250604T093000Z
+SUMMARY:Marketing produktu (ćwiczenia zdalne)
+UID:5206cc38-c44d-4fc3-a6c4-c390c82eb8f7@5206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250410T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20250410T111500Z
+SUMMARY:Marketing produktu (wykład)
+UID:387640d2-ef0c-4862-82a4-a3394d932eb4@3876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250423T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250423T111500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:59f7d562-4514-4076-a6e1-395af1d7605f@59f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250520T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250520T093000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
+UID:2d70c769-819a-4629-a4a8-2aed3d3418ba@2d70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250307T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250307T093000Z
+SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
+UID:9f997c14-acbb-4613-acd8-59f0bb86dfed@9f99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250423T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250423T130000Z
+SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
+UID:0ca2bc51-69ce-4e86-9002-68c44c3bf8e4@0ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250507T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250507T130000Z
+SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
+UID:2ce0904c-cb61-4d40-8a67-70450c3821ac@2ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250324T134500Z
+LOCATION:Platforma Moodle
+DTSTART:20250324T130000Z
+SUMMARY:Zarządzanie produktem (wykład e-learningowy)
+UID:b44f8a71-a54d-43f3-91cd-9fe99c498759@b44f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250507T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250507T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:8966848e-0085-4d19-9002-3e7ab0e97193@8966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250514T110000Z
+DTSTART:20250514T093000Z
+SUMMARY:Marketing produktu (ćwiczenia zdalne)
+UID:8685481a-4172-4d28-8429-af61930d3b0f@8685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250327T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20250327T154500Z
+SUMMARY:Zarządzanie środowiskowe (wykład e-learningowy)
+UID:42b4d245-7366-4d3a-9abb-29d5045ddc0e@42b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250606T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20250606T074500Z
+SUMMARY:Zarządzanie środowiskowe (Ćwiczenia e-learningowe)
+UID:71d58e8b-57d4-49da-ac48-7ffcefd9bde0@71d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250402T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250402T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:c54badc4-7de5-483b-a785-a2c075023989@c54b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250310T120000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250310T103000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
+UID:c234b232-b4b9-4470-9be1-854e451539f4@c234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250424T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20250424T111500Z
+SUMMARY:Marketing produktu (wykład)
+UID:257455a5-8c41-40fa-99e4-cef0a9246439@2574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250612T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250612T130000Z
+SUMMARY:Innowacje technologiczne (laboratorium)
+UID:858afb57-1109-407a-955b-784892e3cde9@858a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250409T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250409T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:a5c52e64-3872-4e24-935f-cc80ec31866a@a5c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250224T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20250224T121500Z
+SUMMARY:Zarządzanie produktem (wykład)
+UID:d6b2e58d-89ca-4d7b-a0a8-e65fe1359ead@d6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250508T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20250508T111500Z
+SUMMARY:Marketing produktu (wykład)
+UID:802c5107-bf0a-4fda-b036-c05ccf7193b2@802c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
@@ -1101,7 +314,755 @@ DTEND:20250312T153000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20250312T140000Z
 SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
-UID:340bcd5d-934a-4a0d-91e5-6f1a4d6a42a1@340b.org
+UID:41e0ceb4-5a61-46ac-8d4e-827bc4b7feea@41e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250414T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20250414T093000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
+UID:28ef0f34-ac36-4f43-a446-e48c8a8ee3ef@28ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250509T141500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250509T120000Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
+UID:e47833de-b365-4d22-87b2-6dc996f32337@e478.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250325T120000Z
+DTSTART:20250325T103000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (Przeniesienie zajęć)
+UID:2e66b03e-cc59-4584-9977-f2545b828a86@2e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20250307T133000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250307T111500Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
+UID:d4d5d457-1954-4431-a07c-fe71a68ce813@d4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250313T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20250313T121500Z
+SUMMARY:Marketing produktu (wykład)
+UID:266381a4-bcbb-4149-adc0-56b33ff99475@2663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Językowe Centrum
+DTEND:20250616T141500Z
+LOCATION:Paw.B 151\, Paw.B 351\, Paw.B 451\, Paw.C  Nowa Aula\, Paw.C sala A\, Paw.C sala B\, Paw.C sala C\, Paw.C sala D\, Paw.C sala E\, Paw.C sala F\, Paw.E sala J\, Paw.F 102\, Paw.F 104\, Paw.F 107\, Paw.F 109\, Paw.F 111\, Paw.G 12\, Paw.S sala 1\, Paw.S sala 2\, Paw.S sala 3\, Paw.S sala 4\, Paw.S sala 5\, Paw.S sala 6\, Paw.S sala 7\, Paw.S sala 8\, Paw.S sala 9
+DTSTART:20250616T060000Z
+SUMMARY: (rezerwacja)
+UID:af1584a3-4120-48cf-800d-e4bd26541287@af15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250626T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250626T083000Z
+SUMMARY:Zarządanie produktem (egzamin)
+UID:e0e2d4a4-5928-450b-97c6-9e07e3c17ebf@e0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20250408T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250408T130000Z
+SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
+UID:25103fb2-fceb-4071-8f03-28026fdc891d@2510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250519T110000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250519T093000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
+UID:47604190-e7a3-4286-b245-07894d675911@4760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250602T124500Z
+LOCATION:Platforma Moodle
+DTSTART:20250602T111500Z
+SUMMARY:Zarządzanie produktem (wykład e-learningowy)
+UID:3ed35ac3-ed14-43fb-8a01-cdff466247ea@3ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250507T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250507T060000Z
+SUMMARY:Zarządzanie produktem (ćwiczenia)
+UID:2467aaf0-a8c2-4912-a5cf-23e628cc5de3@2467.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250326T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250326T140000Z
+SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
+UID:df4d6cca-d29e-4224-bed2-803eab118878@df4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250521T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250521T130000Z
+SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
+UID:a23015ac-8ff8-46cb-aa24-c652ee90a930@a230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250505T110000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250505T093000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
+UID:bd05b750-8bff-4a7b-8713-0cbfbf761ac2@bd05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20250314T133000Z
+LOCATION:Platforma Moodle
+DTSTART:20250314T111500Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (Konwersatorium e-learning)
+UID:a3c80d75-9b58-45ca-884d-2b1e59594fe2@a3c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20250304T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250304T140000Z
+SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
+UID:6c92699a-6e8f-4b11-897f-32c7046355e1@6c92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250411T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20250411T074500Z
+SUMMARY:Zarządzanie środowiskowe (Ćwiczenia e-learningowe)
+UID:4e620fc7-81d6-4506-8a0c-498e966f39b1@4e62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20250516T141500Z
+DTSTART:20250516T120000Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
+UID:c8b26b1c-24b7-41ca-8889-81016825947e@c8b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250429T110000Z
+DTSTART:20250429T093000Z
+SUMMARY:Logistyczna sprawność produktów (Przeniesienie zajęć)
+UID:39f6c707-f578-4899-95bf-be72248bd444@39f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250407T120000Z
+LOCATION:Paw.S sala 1
+DTSTART:20250407T111500Z
+SUMMARY:Zarządzanie produktem (wykład)
+UID:10f591e2-2260-4a8f-811e-e74d469c9619@10f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250430T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250430T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:1fd7aa8a-f338-49fc-a47c-d048b9152fcc@1fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250604T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250604T111500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:dc314e61-dcbb-4303-bd18-fbdae0c3068e@dc31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250402T124500Z
+DTSTART:20250402T111500Z
+SUMMARY:Zarządzanie kosztami w innowacjach (Przeniesienie zajęć)
+UID:85b04b50-9d9d-4d1a-b4be-c01f8303a4cb@85b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250403T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250403T130000Z
+SUMMARY:Innowacje technologiczne (laboratorium)
+UID:7b1e23ee-6a5b-402e-941b-d4776f79663b@7b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250610T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20250610T093000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:17b1f156-8920-43ba-86ca-aef78630fa85@17b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250312T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250312T103000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:7e2da8b7-eb17-4777-8356-563914ffab3e@7e2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250618T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250618T074500Z
+SUMMARY: (egzamin)
+UID:d2dab4a6-7d05-4fa3-9209-2babf410434c@d2da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250514T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250514T060000Z
+SUMMARY:Zarządzanie produktem (ćwiczenia)
+UID:317931e7-5e27-415a-8399-dde53fb6010f@3179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250609T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20250609T060000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:5a592235-606f-463f-850e-488a6937b5ad@5a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250430T073000Z
+DTSTART:20250430T060000Z
+SUMMARY:Zarządzanie produktem (Przeniesienie zajęć)
+UID:fb28f4d8-e8c5-493c-acc5-6312a2e40ce8@fb28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250312T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250312T121500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:afdd9409-baaa-4a2f-a199-9f10526a0a52@afdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250423T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250423T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:7d8ce3e1-1be9-4145-8ed7-1bcb20badce4@7d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250423T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250423T060000Z
+SUMMARY:Zarządzanie produktem (ćwiczenia)
+UID:dc528018-cac7-4439-adab-ca352c533964@dc52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250516T091500Z
+DTSTART:20250516T074500Z
+SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
+UID:3eeae365-7bb9-4dca-93af-8c1d290a895e@3eea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250326T134500Z
+LOCATION:Paw.F 102
+DTSTART:20250326T121500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:aca8d33d-7e6b-4560-b977-34e1dce2ba84@aca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20250318T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250318T140000Z
+SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
+UID:6bc1ed4c-9776-4e18-a7c4-3f53739a361f@6bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250305T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250305T103000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:0b1b03b9-9a75-45ff-a7c5-f0e947c43e0f@0b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250521T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250521T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:4bc1f0e1-d800-44d6-be15-bfe3142a6f93@4bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250609T110000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250609T101500Z
+SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
+UID:83b9238d-ed28-4927-86ea-7ca756678ad1@83b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250410T161500Z
+LOCATION:Paw.C sala A
+DTSTART:20250410T144500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:2495e194-cc84-4089-8b4c-59ef6eb2529e@2495.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20250321T133000Z
+LOCATION:Platforma Moodle
+DTSTART:20250321T111500Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (Konwersatorium e-learning)
+UID:29abc50f-cc74-457a-859b-6ea7701797da@29ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250401T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20250401T093000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:1747c03f-bdc3-4cdb-b030-0ec2863c74ae@1747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250612T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20250612T060000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:bf556ff8-245a-4436-b0f0-afdeab574a83@bf55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250402T073000Z
+DTSTART:20250402T060000Z
+SUMMARY:Zarządzanie produktem (Przeniesienie zajęć)
+UID:716bb3ef-2686-47d3-9f71-34299b7dde2f@716b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20250429T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250429T130000Z
+SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
+UID:906ebaf9-7b81-44a1-aa79-5cc3e0c45e06@906e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250227T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20250227T121500Z
+SUMMARY:Marketing produktu (wykład)
+UID:98cfe5d6-5fd2-4617-a07e-b158153d0c8f@98cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20250328T133000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250328T111500Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
+UID:3a38d27e-282b-4679-bd99-960a0e5bad0e@3a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250407T124500Z
+LOCATION:Platforma Moodle
+DTSTART:20250407T120000Z
+SUMMARY:Zarządzanie produktem (wykład e-learningowy)
+UID:4a67d812-9380-4897-b81e-e064379aff81@4a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250226T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250226T103000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:a1c131ba-7e4e-410f-a191-fc69a88fa04c@a1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250521T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250521T111500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:29b9b407-d7a1-4010-bbe8-854cb008b0ec@29b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20250311T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250311T140000Z
+SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
+UID:32df585c-8f10-452f-a49f-045cafc1f496@32df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250522T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20250522T111500Z
+SUMMARY:Marketing produktu (wykład)
+UID:5da079b3-8214-4596-bf4a-feb4ac3e2688@5da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250609T124500Z
+LOCATION:Platforma Moodle
+DTSTART:20250609T120000Z
+SUMMARY:Zarządzanie produktem (wykład e-learningowy)
+UID:9afbb667-7d15-49e5-9726-9e8809c1673d@9afb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250303T120000Z
+LOCATION:Paw.B 151
+DTSTART:20250303T103000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
+UID:64446e8f-8e68-44e3-b645-2ae01a31fbad@6444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250409T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250409T111500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:7d92c85b-8644-4da0-a4bd-73c7d8f382e0@7d92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250612T143000Z
+DTSTART:20250612T134500Z
+SUMMARY:Zarządzanie środowiskowe (Przeniesienie zajęć)
+UID:07308d7d-3aaa-42a3-bde5-cea19a9ad8cb@0730.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250410T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250410T130000Z
+SUMMARY:Innowacje technologiczne (laboratorium)
+UID:89c11918-c6e5-4d55-9413-929fcd3351e0@89c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250319T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250319T070000Z
+SUMMARY:Zarządzanie produktem (ćwiczenia)
+UID:5c8d4df6-ec1f-4e39-b99f-198b8370d08e@5c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20250415T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250415T130000Z
+SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
+UID:8ce420e9-cf07-471f-b6ae-ddb8940b905d@8ce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250611T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250611T144500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:fae79fa0-86b5-4922-a410-44be5297bd01@fae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250609T180000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250609T171500Z
+SUMMARY:Zarządzanie produktem (ćwiczenia)
+UID:131fb54d-c5f0-4ed8-99dd-964d9f8c2006@131f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250514T124500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250514T111500Z
+SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
+UID:35d448df-0be0-482c-b063-02561cecc755@35d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20250425T114500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250425T101500Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
+UID:18aebec9-0027-4851-9e5f-db22efb4b936@18ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250610T073000Z
+DTSTART:20250610T060000Z
+SUMMARY:Marketing produktu (Przeniesienie zajęć)
+UID:ea30fe6b-526a-4454-9976-2f4a9699b31e@ea30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250530T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20250530T074500Z
+SUMMARY:Zarządzanie środowiskowe (Ćwiczenia e-learningowe)
+UID:2a890528-bd1f-424e-9beb-5eac1bf520d6@2a89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250327T150000Z
+DTSTART:20250327T103000Z
+SUMMARY: (rezerwacja)
+UID:73bdf167-8b0f-4fa7-b82e-069fcec01dfe@73bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250513T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20250513T093000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:aeaeda74-f73a-4d50-8df8-810b700b50b1@aeae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250521T073000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250521T060000Z
+SUMMARY:Zarządzanie produktem (ćwiczenia)
+UID:6a306334-3376-4256-ae01-80b2f7ed8bdc@6a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250424T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250424T130000Z
+SUMMARY:Innowacje technologiczne (laboratorium)
+UID:0c1c2874-c001-470a-9d40-0b4aa1f27aa3@0c1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250522T161500Z
+LOCATION:Platforma Moodle
+DTSTART:20250522T144500Z
+SUMMARY:Zarządzanie środowiskowe (wykład e-learningowy)
+UID:c897cad3-f47d-4c66-a8b7-d75021e7c1c1@c897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250519T124500Z
+LOCATION:Platforma Moodle
+DTSTART:20250519T111500Z
+SUMMARY:Zarządzanie produktem (wykład e-learningowy)
+UID:8cbe3e52-8afd-446b-96f3-ada7b811dfd3@8cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250415T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20250415T093000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:b801e40c-5923-4695-bffe-7bafe2898fb7@b801.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250604T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250604T130000Z
+SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
+UID:d19a7596-99b6-4a95-88f0-25e233af7fbf@d19a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250605T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20250605T060000Z
+SUMMARY:Logistyczna sprawność produktów (konwersatorium)
+UID:8efafdc6-be03-454f-b923-153f707d120b@8efa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20250411T123000Z
+LOCATION:Platforma Moodle
+DTSTART:20250411T101500Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (Konwersatorium e-learning)
+UID:d93c76a9-2264-4737-a2a1-0eef399c7b70@d93c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250409T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250409T130000Z
+SUMMARY:Decyzje menadżerskie w przedsiębiorstwie (konwersatorium)
+UID:f34236c1-9b8a-4bde-9cd2-a61b972422f9@f342.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250324T130000Z
+LOCATION:Paw.S sala 1
+DTSTART:20250324T121500Z
+SUMMARY:Zarządzanie produktem (wykład)
+UID:15ce665e-1acb-4d6c-8580-d57f2d51c569@15ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250612T124500Z
+LOCATION:Paw.F 104
+DTSTART:20250612T120000Z
+SUMMARY:Marketing produktu (wykład)
+UID:cb768a7b-7b91-4d0c-9338-a1bd29b67289@cb76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250602T110000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250602T093000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (wykład)
+UID:fc277bb6-b975-4e30-bf10-28d6952ec327@fc27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250416T124500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250416T111500Z
+SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
+UID:5fcf6def-3ee4-487a-ae83-792f568c72c3@5fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250305T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250305T070000Z
+SUMMARY:Zarządzanie produktem (ćwiczenia)
+UID:f09adff4-073c-47fc-a587-1cdce2d15df7@f09a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Językowe Centrum
+DTEND:20250617T141500Z
+LOCATION:Paw.F 102
+DTSTART:20250617T120000Z
+SUMMARY: (rezerwacja)
+UID:7f4d8736-02d7-48bd-a29a-27a081e4b24c@7f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marta Sokołowska - Słuszniak
+DTEND:20250425T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250425T120000Z
+SUMMARY:Bezpieczeństwo produktów przemysłowych (konwersatorium)
+UID:fb0b5896-5be4-4870-ad04-f194e3979c6d@fb0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250613T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250613T074500Z
+SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
+UID:354d48a4-59bc-48c8-a843-d36700cd44c6@354d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20250325T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250325T140000Z
+SUMMARY:Bezpieczeństwo produktów żywnościowych (konwersatorium)
+UID:f5a73384-c29d-4bbe-b4d1-2f041cdcbb13@f5a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250304T133000Z
+DTSTART:20250304T103000Z
+SUMMARY: (rezerwacja)
+UID:359f19b2-1c42-4f71-88d3-13fe12b7769a@359f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250225T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250225T103000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
+UID:37498823-6581-4ef8-b53b-11f3b8df5f31@3749.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250404T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250404T074500Z
+SUMMARY:Zarządzanie środowiskowe (ćwiczenia)
+UID:4d04b8dc-09d3-4ff3-bdda-a1ec992f9d1b@4d04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250611T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250611T093000Z
+SUMMARY:Marketing produktu (ćwiczenia)
+UID:bd832049-fc57-4944-892a-5b57480cbdc5@bd83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250326T114500Z
+DTSTART:20250326T084500Z
+SUMMARY: (rezerwacja)
+UID:ddfd49cc-47dd-4006-bd09-4615dee40475@ddfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250227T153000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250227T140000Z
+SUMMARY:Innowacje technologiczne (laboratorium)
+UID:b38b914b-07ae-440f-a364-6dc085f70899@b38b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250605T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20250605T111500Z
+SUMMARY:Marketing produktu (wykład)
+UID:88fc23b0-949d-4780-8e06-83818b7c0165@88fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250909T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250909T074500Z
+SUMMARY:Zarządanie produktem (egzamin)
+UID:bf0615f3-480d-45cd-adee-7ab14a5775e5@bf06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250507T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250507T111500Z
+SUMMARY:Innowacje technologiczne (wykład)
+UID:f807f1ba-4c13-469e-be1d-8be3768e791e@f807.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20250625T081500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250625T064500Z
+SUMMARY: (zaliczenie)
+UID:fd145f23-2e15-4e72-bbdb-3c91ab659368@fd14.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
@@ -1109,6 +1070,45 @@ DTEND:20250404T123000Z
 LOCATION:Platforma Moodle
 DTSTART:20250404T101500Z
 SUMMARY:Bezpieczeństwo produktów przemysłowych (Konwersatorium e-learning)
-UID:b3651ab0-d049-4e12-92e8-99a9fa31cb26@b365.org
+UID:f34f8e80-55fc-4bf0-bd69-976e7ee6207f@f34f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250311T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250311T103000Z
+SUMMARY:Zarządzanie kosztami w innowacjach (ćwiczenia)
+UID:d852b39d-6097-4a1b-a349-0b136fc58617@d852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250529T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250529T130000Z
+SUMMARY:Innowacje technologiczne (laboratorium)
+UID:4eb5b609-57aa-4fdd-908e-cec0e680c5ef@4eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Językowe Centrum
+DTEND:20250617T103000Z
+LOCATION:Paw.B 151\, Paw.B 351\, Paw.B 451\, Paw.C sala A\, Paw.C sala B\, Paw.C sala C\, Paw.C sala D\, Paw.C sala E\, Paw.C sala F\, Paw.E sala J\, Paw.F 102\, Paw.F 104\, Paw.F 107\, Paw.F 109\, Paw.F 111\, Paw.G 12\, Paw.S sala 1\, Paw.S sala 2\, Paw.S sala 3\, Paw.S sala 4\, Paw.S sala 5\, Paw.S sala 6\, Paw.S sala 7\, Paw.S sala 8\, Paw.S sala 9
+DTSTART:20250617T060000Z
+SUMMARY: (rezerwacja)
+UID:58737797-8e4a-42cf-9729-b7e8492432d0@5873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250416T073000Z
+DTSTART:20250416T060000Z
+SUMMARY:Zarządzanie produktem (Przeniesienie zajęć)
+UID:43784b2c-e1cd-4c98-88da-a7f19ecc56b0@4378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250313T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20250313T154500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:effd6507-a9a9-45fa-ac0a-859620633440@effd.org
 END:VEVENT
 END:VCALENDAR
