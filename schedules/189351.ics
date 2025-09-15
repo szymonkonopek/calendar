@@ -2,12 +2,41 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20250628T130000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21\, Paw.A 07 lab. Win7\, Office21\, Paw.A 013 lab. Win10\, Office21\, Paw.A 201 lab. Win10\, Office21
-DTSTART:20250628T083000Z
-SUMMARY: (egzamin)
-UID:43c19b06-288f-4cb4-b536-2af35628330c@43c1.org
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250412T104500Z
+LOCATION:Paw.F 104
+DTSTART:20250412T083000Z
+SUMMARY:Podstawy prawa (ćwiczenia)
+UID:6038f8b1-bde3-42eb-b79c-f74c4d66b774@6038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250613T160000Z
+DTSTART:20250613T134500Z
+SUMMARY:Makroekonomia (wykład)
+UID:6cc57f7e-b131-4e67-a4db-70836f855253@6cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
+DTEND:20250314T194500Z
+LOCATION:Paw.F 106
+DTSTART:20250314T173000Z
+SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
+UID:3c2ba36e-ee4e-4d28-bcb0-0e470fcf5202@3c2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250323T091500Z
+DTSTART:20250323T070000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:16f7f8f2-a958-4096-9372-e1c194bb6d09@16f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
+DTEND:20250302T114500Z
+DTSTART:20250302T093000Z
+SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
+UID:3f9298bd-229a-4702-9ac5-7b81415a405e@3f92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Moras
@@ -15,126 +44,23 @@ DTEND:20250510T160000Z
 LOCATION:Paw.F 515
 DTSTART:20250510T134500Z
 SUMMARY:Podstawy prawa (ćwiczenia)
-UID:d5816899-889d-4c66-aa65-bcf3c2fd2f6e@d581.org
+UID:f580af20-5e2e-4286-b072-e45a4e85f5a3@f580.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250406T133000Z
-DTSTART:20250406T111500Z
-SUMMARY:Podstawy prawa (wykład)
-UID:42149e63-fbe9-47b1-b9d1-08c79bf6155b@4214.org
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20250413T104500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250413T083000Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:fe1af6d7-6c4b-4259-9a90-ea91d9753b79@fe1a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20250911T151500Z
-LOCATION:Paw.F 008
-DTSTART:20250911T134500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (egzamin)
-UID:68e4ba8c-e83d-4c53-bf3b-4dacfa55744e@68e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250511T133000Z
-DTSTART:20250511T111500Z
-SUMMARY:Makroekonomia (wykład)
-UID:624a5e43-5d19-488a-b9fd-a8d61719f3ed@624a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250307T170000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20250307T144500Z
-SUMMARY:Geografia ekonomiczna (ćwiczenia do wyboru)
-UID:f82632f5-7497-498a-be86-b89b11c71fc7@f826.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ivan Telega
-DTEND:20250413T081500Z
-LOCATION:Paw.F 106
-DTSTART:20250413T060000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:0d047ffd-c42c-4d5e-a53a-2a886a0778bf@0d04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20250406T104500Z
-DTSTART:20250406T083000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:4ede0f3a-05a9-4f5d-8778-1f3ffc74bdd7@4ede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250509T184500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20250509T163000Z
-SUMMARY:Geografia ekonomiczna (ćwiczenia do wyboru)
-UID:b3b28747-899a-4942-ad56-b3d7e23462b2@b3b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20250607T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250607T134500Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:40fc1e23-58ea-47bb-9bdd-4641306a0b37@40fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250309T114500Z
-DTSTART:20250309T093000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:0cf24011-f2fa-4f7e-b0fa-e9537fa2f94c@0cf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ivan Telega
-DTEND:20250405T160000Z
-LOCATION:Paw.F 107
-DTSTART:20250405T134500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:4d92a3c2-fa14-4e95-835b-6f9de5c48a33@4d92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
-DTEND:20250321T194500Z
-DTSTART:20250321T173000Z
-SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
-UID:e2424aef-acb7-467c-ae3f-4bd3d344ea34@e242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250530T160000Z
-DTSTART:20250530T134500Z
-SUMMARY:Makroekonomia (Przeniesienie zajęć)
-UID:19befbd6-2fa1-4726-a89f-21a585255934@19be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20250302T114500Z
-DTSTART:20250302T093000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
-UID:a5426e8c-5e12-4eae-8ebe-025d4f54f1f9@a542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250302T143000Z
-DTSTART:20250302T121500Z
-SUMMARY:Podstawy prawa (wykład)
-UID:5caf5ae2-8806-4770-a9da-f1aa69057afb@5caf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20250406T081500Z
-DTSTART:20250406T060000Z
-SUMMARY:Statystyka (wykład)
-UID:e6d4481e-64b6-4183-8e87-ab757a3ae409@e6d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250525T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20250525T144500Z
-SUMMARY:Państwo a gospodarka (egzamin)
-UID:e095d628-2c0b-46de-a9c4-3c1fdca4a660@e095.org
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20250314T194500Z
+LOCATION:Paw.F 104
+DTSTART:20250314T173000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
+UID:0bc01afa-adfb-44e4-abd4-ff41d4f49cfd@0bc0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Cholewa
@@ -142,189 +68,7 @@ DTEND:20250404T184500Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20250404T163000Z
 SUMMARY:Statystyka (ćwiczenia)
-UID:b6748dda-3d3a-4562-81a6-c9d1b3b00a19@b674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250622T133000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20250622T120000Z
-SUMMARY:Finanse branżowe\, Korporacje międzynarodowe\, Państwo a gospodarka\, Zielona Gospodarka (egzamin)
-UID:137a9994-bce6-41aa-9dfd-3c1e41aadf1e@137a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250425T184500Z
-DTSTART:20250425T163000Z
-SUMMARY:Makroekonomia (wykład)
-UID:b2e476ec-985e-476d-a991-fae06d0dcc46@b2e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20250510T104500Z
-DTSTART:20250510T083000Z
-SUMMARY:Podstawy organizacji i zarządzania (Przeniesienie zajęć)
-UID:8b3fa3d9-a372-4fbd-af3e-58b9587e03be@8b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
-DTEND:20250405T104500Z
-LOCATION:Paw.F 415
-DTSTART:20250405T083000Z
-SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
-UID:78715032-39e1-42ef-8653-a2c4718a550a@7871.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20250411T160000Z
-DTSTART:20250411T134500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
-UID:2cc4e3d6-bfe0-454b-bc6d-8fe2e2669bae@2cc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20250411T184500Z
-DTSTART:20250411T163000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:d355e227-789d-415e-8c3c-b83868e1f529@d355.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:fa99d428-8466-40c7-a6ba-45f71879f814@fa99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
-DTEND:20250302T114500Z
-DTSTART:20250302T093000Z
-SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
-UID:4cce54ec-f8cd-4a41-ab14-571cc5d621e4@4cce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20250509T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250509T134500Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:2d3d6fcf-fd28-4dcd-b0e7-77aa2eca9a7f@2d3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ivan Telega
-DTEND:20250614T104500Z
-LOCATION:Paw.F 614
-DTSTART:20250614T083000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:6671f8a0-6a7d-4f9c-bda0-2089d3e636fd@6671.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250323T114500Z
-DTSTART:20250323T093000Z
-SUMMARY:Podstawy prawa (wykład)
-UID:cf6643f0-5bec-4831-ab9a-ded09434e9eb@cf66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250404T160000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20250404T134500Z
-SUMMARY:Geografia ekonomiczna (ćwiczenia do wyboru)
-UID:22f37d0b-3613-46c7-8bf6-e8192fb366c5@22f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250413T133000Z
-LOCATION:Paw.F 416
-DTSTART:20250413T111500Z
-SUMMARY:Makroekonomia (ćwiczenia)
-UID:9cbcb9bd-5d51-4274-9f06-c3b149aa1f73@9cbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20250314T194500Z
-LOCATION:Paw.F 104
-DTSTART:20250314T173000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
-UID:530d46aa-8ef9-413e-b6ad-b1c70bef2547@530d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Geografia ekonomiczna (wykład do wyboru)
-UID:28eb522a-38e6-492a-bad0-46d512f16c36@28eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250913T081500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250913T064500Z
-SUMMARY:Makroekonomia (egzamin)
-UID:580a91f2-f714-4b8b-8de0-fb2435dd750e@580a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20250316T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20250316T070000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:8ffda1f9-c0a5-4a1b-b115-e417a87e6a73@8ffd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20250301T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250301T093000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:27daac92-dfbe-465a-9e17-7076f330618f@27da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250621T091500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250621T074500Z
-SUMMARY:Makroekonomia (egzamin)
-UID:39e37c26-a101-45f6-b183-3656a8f8cf23@39e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jan Machejek
-DTEND:20250315T114500Z
-LOCATION:Paw.F 516
-DTSTART:20250315T093000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:29153db0-2e1d-4045-b673-530c182c6917@2915.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250511T104500Z
-DTSTART:20250511T083000Z
-SUMMARY:Podstawy prawa (wykład)
-UID:ea392e06-35a7-4233-b72c-61b1c3ad346d@ea39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20250524T104500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20250524T083000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:e22505b2-1440-435c-8e17-83ab6f91de2d@e225.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Micał-Cujova
-DTEND:20250525T133000Z
-LOCATION:Bud.gł. 5
-DTSTART:20250525T111500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:863ff573-0694-46e5-b660-c33d72338cb2@863f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250323T091500Z
-DTSTART:20250323T070000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:7b39a373-61da-40ff-a7e4-efe495972f87@7b39.org
+UID:31b5450f-1efa-4315-9a37-6bc77ad071bd@31b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Kurzemska
@@ -332,285 +76,29 @@ DTEND:20250525T104500Z
 LOCATION:Paw.F 107
 DTSTART:20250525T083000Z
 SUMMARY:Makroekonomia (ćwiczenia)
-UID:150e9ff5-ffa5-4685-aa96-2ec0fb73a621@150e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250309T114500Z
-DTSTART:20250309T093000Z
-SUMMARY:Geografia ekonomiczna (wykład do wyboru)
-UID:1a09b08e-d165-4f2a-916d-2e4007bdf196@1a09.org
+UID:b25ccb4b-bf67-4ea3-adf6-3a4058ac95fa@b25c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250613T160000Z
-DTSTART:20250613T134500Z
-SUMMARY:Makroekonomia (wykład)
-UID:1b0d9fd8-e618-4da4-8c25-1643e77f872d@1b0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Micał-Cujova
-DTEND:20250413T104500Z
-LOCATION:Paw.F 107
-DTSTART:20250413T083000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:8fa0090e-8a0f-4f98-9de7-e8aec2c56e9e@8fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250323T091500Z
-DTSTART:20250323T070000Z
-SUMMARY:Geografia ekonomiczna (wykład do wyboru)
-UID:c6f3d89f-5df8-4be2-9d14-3f303c10ccc0@c6f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250622T114500Z
-LOCATION:Paw.C sala D
-DTSTART:20250622T101500Z
-SUMMARY:Podstawy prawa (egzamin)
-UID:2686d118-b00c-452b-b9af-cb048ce87262@2686.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250309T170000Z
-DTSTART:20250309T144500Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:82daf023-4d5b-4aaf-b149-40871b872cc2@82da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20250307T194500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250307T173000Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:70504753-d523-400c-9590-25061a5e657e@7050.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250628T081500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250628T064500Z
-SUMMARY:Makroekonomia (egzamin)
-UID:02ff2d38-7cd9-4644-887e-b8c5368a5ab1@02ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250427T081500Z
-DTSTART:20250427T060000Z
-SUMMARY:Makroekonomia (wykład)
-UID:c14ff26e-771d-4338-8105-9e8986a92e7e@c14f.org
+DTEND:20250413T133000Z
+LOCATION:Paw.F 416
+DTSTART:20250413T111500Z
+SUMMARY:Makroekonomia (ćwiczenia)
+UID:9c72d908-13e6-463c-8b0b-1130a81a45be@9c72.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20250321T170000Z
-DTSTART:20250321T144500Z
+DTEND:20250406T081500Z
+DTSTART:20250406T060000Z
 SUMMARY:Statystyka (wykład)
-UID:a616b0d5-9734-45fb-b5ce-604691cd07b7@a616.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
-DTEND:20250510T104500Z
-LOCATION:Bud.gł. 7
-DTSTART:20250510T083000Z
-SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
-UID:b41a9dc4-86cc-4543-9cf5-530a467e61e2@b41a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20250323T091500Z
-DTSTART:20250323T070000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:076b1202-7a6f-461a-9cf9-3c0d4cadc6e0@076b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250511T160000Z
-DTSTART:20250511T134500Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:d82cb06d-81c1-4a61-bdbf-33131e2789c4@d82c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250309T091500Z
-DTSTART:20250309T070000Z
-SUMMARY:Podstawy prawa (wykład)
-UID:609839e0-ccb8-417c-b8c8-0c1db4333ce5@6098.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ivan Telega
-DTEND:20250607T104500Z
-LOCATION:Bud.gł. 3
-DTSTART:20250607T083000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:763e859e-8dd4-41f8-8dd5-768f78ebac21@763e.org
+UID:d4a11e9f-08ae-48e9-a774-9d6a48fd7bd4@d4a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250309T143000Z
-DTSTART:20250309T121500Z
+DTEND:20250425T184500Z
+DTSTART:20250425T163000Z
 SUMMARY:Makroekonomia (wykład)
-UID:92a9e34f-9fd4-467e-beed-379249f6fc1f@92a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jan Machejek
-DTEND:20250322T170000Z
-LOCATION:Paw.F 111
-DTSTART:20250322T144500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:45334c0f-e99c-41fb-9563-69d041cdbe1e@4533.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Micał-Cujova
-DTEND:20250509T160000Z
-LOCATION:Paw.F 104
-DTSTART:20250509T134500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:7b35db2b-b605-4d3a-b515-32c048ce5af0@7b35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250511T081500Z
-DTSTART:20250511T060000Z
-SUMMARY:Geografia ekonomiczna (wykład do wyboru)
-UID:787b35ec-7542-4e56-a62a-959f7b36974f@787b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250406T104500Z
-DTSTART:20250406T083000Z
-SUMMARY:Geografia ekonomiczna (wykład do wyboru)
-UID:4811aba6-891e-453c-851d-0fb9dec5bf55@4811.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20250523T184500Z
-LOCATION:Paw.B 151
-DTSTART:20250523T163000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
-UID:10b30f0f-0a98-46a5-86f8-0c77e12dca68@10b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20250907T114500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21\, Paw.A 09 lab. Win8.1\, Office21\, Paw.A 013 lab. Win10\, Office21\, Paw.A 014 lab. Win8.1 Office21
-DTSTART:20250907T093000Z
-SUMMARY:Statystyka (egzamin)
-UID:edf5e278-c2c1-4bda-9cf2-1a8d5f1e1980@edf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250323T143000Z
-DTSTART:20250323T121500Z
-SUMMARY:Makroekonomia (wykład)
-UID:bad03beb-844a-4be8-9dcd-509538a6e83c@bad0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20250228T194500Z
-DTSTART:20250228T173000Z
-SUMMARY:Podstawy prawa (wykład)
-UID:ca26afaf-7ad9-496f-972e-7be01d541ab4@ca26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ivan Telega
-DTEND:20250531T104500Z
-LOCATION:Paw.F 413
-DTSTART:20250531T083000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:60e13f5f-d017-493f-99b1-fd6a0637d440@60e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20250328T170000Z
-DTSTART:20250328T144500Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:5b3f4955-c8a2-4f91-8004-c884bd6cce11@5b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250511T081500Z
-DTSTART:20250511T060000Z
-SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
-UID:221379f2-fc83-48b8-be78-397018ca2a07@2213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20250406T104500Z
-DTSTART:20250406T083000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:8649e9c8-6aff-4382-a1d3-ef4876da8d8e@8649.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250629T100000Z
-LOCATION:Paw.F 102
-DTSTART:20250629T083000Z
-SUMMARY:Geografia ekonomiczna (egzamin)
-UID:1b751d5f-4d16-45fd-be7a-38c5565c2b67@1b75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20250627T161500Z
-LOCATION:Paw.C sala E
-DTSTART:20250627T153000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (egzamin)
-UID:07f4e652-6143-45c0-bf98-277e87d4a83f@07f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20250308T091500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250308T070000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:67253a02-49f1-48fc-852c-74c52ea366c4@6725.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250412T104500Z
-LOCATION:Paw.F 104
-DTSTART:20250412T083000Z
-SUMMARY:Podstawy prawa (ćwiczenia)
-UID:b4bdccd3-fb72-456d-ad6e-2d81fcc8cac2@b4bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Micał-Cujova
-DTEND:20250524T160000Z
-DTSTART:20250524T134500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
-UID:d8759d31-9112-4851-841a-8dd017b8190d@d875.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jan Machejek
-DTEND:20250307T194500Z
-LOCATION:Paw.F 102
-DTSTART:20250307T173000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:5cb95b83-6c05-4982-8c67-f387ae525f74@5cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
-DTEND:20250314T194500Z
-LOCATION:Paw.F 106
-DTSTART:20250314T173000Z
-SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
-UID:ab46efd6-4e9d-4aae-b7e3-524f0b734845@ab46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Gurbisz
-DTEND:20250405T104500Z
-LOCATION:Bud.gł. 4
-DTSTART:20250405T083000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
-UID:e4cb4167-28a6-46e2-8334-f64e24eb5d1d@e4cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20250524T083000Z
-LOCATION:Paw.F 616
-DTSTART:20250524T074500Z
-SUMMARY:Podstawy prawa (kolokwium)
-UID:afd41b4c-db35-41bc-8c0f-97c8006f12e3@afd4.org
+UID:1e8f5ea7-83c8-47a6-bf84-9c4bb9d7df14@1e8f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Radosław Ślusarczyk
@@ -618,88 +106,22 @@ DTEND:20250524T160000Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20250524T134500Z
 SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:5e043a1f-bbd1-44cd-a903-af95cb621e23@5e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20250322T170000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250322T144500Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:c766e2c3-12bd-4fc8-a778-004c0dabccb6@c766.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20250511T081500Z
-DTSTART:20250511T060000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:85f29793-61b8-4cb0-babc-2cdc69c258ba@85f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
-DTEND:20250411T160000Z
-DTSTART:20250411T134500Z
-SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
-UID:8b7e905e-b140-4c93-b0bb-1614168285a1@8b7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20250314T170000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20250314T144500Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:df391339-26be-416c-9c79-cc7a683f933b@df39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20250413T104500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250413T083000Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:a62684e3-6ae9-4949-a2c5-49693cd48744@a626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Kurzemska
-DTEND:20250530T160000Z
-DTSTART:20250530T134500Z
-SUMMARY:Makroekonomia (wykład)
-UID:ca64f43e-23f7-47e8-8594-6409cbe6014c@ca64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ivan Telega
-DTEND:20250322T091500Z
-LOCATION:Paw.F 715
-DTSTART:20250322T070000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:eeb8cec1-a164-405f-b06e-8abed2475bfd@eeb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20250321T194500Z
-DTSTART:20250321T173000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
-UID:7b4b8387-fb63-4a90-85bd-aaa952bdc3c3@7b4b.org
+UID:ff5744b7-42a8-4b58-9c2e-d8a238650f3d@ff57.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Serafin
-DTEND:20250411T184500Z
-DTSTART:20250411T163000Z
+DTEND:20250323T091500Z
+DTSTART:20250323T070000Z
 SUMMARY:Geografia ekonomiczna (wykład do wyboru)
-UID:377a3043-73a2-4614-97b0-a8d8876c60e5@377a.org
+UID:0f4a2877-c74f-4a7c-9af1-48886199eef2@0f4a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20250302T091500Z
-DTSTART:20250302T070000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:5a7fcce7-6f74-41cf-98ab-91450d7fd0da@5a7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20250228T170000Z
-DTSTART:20250228T144500Z
-SUMMARY:Statystyka (wykład)
-UID:27c5a5b0-5df2-41bf-aa37-60749cc989f3@27c5.org
+DESCRIPTION:Instructor: mgr Jan Machejek
+DTEND:20250315T114500Z
+LOCATION:Paw.F 516
+DTSTART:20250315T093000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:3fc91b62-1d24-4b49-b8b6-725cdefa585c@3fc9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Moras
@@ -707,14 +129,495 @@ DTEND:20250308T114500Z
 LOCATION:Paw.E sala G (KSB)
 DTSTART:20250308T093000Z
 SUMMARY:Podstawy prawa (ćwiczenia)
-UID:dccf2905-c305-4dcf-8448-3a6297e16f8f@dccf.org
+UID:fa6f82d7-b0af-4a9e-bee2-21fe7954b372@fa6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jan Machejek
+DTEND:20250322T170000Z
+LOCATION:Paw.F 111
+DTSTART:20250322T144500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:35784826-f2f2-4ca5-bb26-d5151d9ab734@3578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Micał-Cujova
+DTEND:20250413T104500Z
+LOCATION:Paw.F 107
+DTSTART:20250413T083000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:702f2d40-7c25-4b03-a129-20dfdd2476e9@702f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250622T114500Z
+LOCATION:Paw.C sala D
+DTSTART:20250622T101500Z
+SUMMARY:Podstawy prawa (egzamin)
+UID:d6b49aed-f9b9-438e-a03a-40677809b90b@d6b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Kurzemska
 DTEND:20250614T160000Z
 DTSTART:20250614T134500Z
 SUMMARY:Makroekonomia (Przeniesienie zajęć)
-UID:80f7b2c5-212d-4322-a630-0e90256fe3c1@80f7.org
+UID:b3ff34c5-d557-4270-851b-05357725c6a0@b3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250323T143000Z
+DTSTART:20250323T121500Z
+SUMMARY:Makroekonomia (wykład)
+UID:ebcb8a12-9d73-4ab3-a695-5fea5bf53af8@ebcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250411T184500Z
+DTSTART:20250411T163000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:e8b7e499-7d27-4123-9cb1-9e573ac1d5bb@e8b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Micał-Cujova
+DTEND:20250525T133000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250525T111500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:6ce03f85-728b-497e-94d2-2d94b658c121@6ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250309T143000Z
+DTSTART:20250309T121500Z
+SUMMARY:Makroekonomia (wykład)
+UID:33d0c99c-aad0-4ba6-b414-79f98b6b8edf@33d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ivan Telega
+DTEND:20250405T160000Z
+LOCATION:Paw.F 107
+DTSTART:20250405T134500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:8d7227f7-efae-4a18-9a4e-f5d6698a4e66@8d72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250411T184500Z
+DTSTART:20250411T163000Z
+SUMMARY:Geografia ekonomiczna (wykład do wyboru)
+UID:a918b65a-2e7f-4b48-aa9c-63c822592f58@a918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250228T194500Z
+DTSTART:20250228T173000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:11c23c9d-5cbe-42d4-956a-fd13c1b1cc1a@11c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20250316T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250316T070000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:ddf38395-e08a-4756-bb73-ed2ce5d60c40@ddf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250511T081500Z
+DTSTART:20250511T060000Z
+SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
+UID:686437fc-7807-4ad1-86fa-c1aa543fdeb2@6864.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250406T104500Z
+DTSTART:20250406T083000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:5c9aee46-7842-45fd-ab77-f3f993e7bd32@5c9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250530T160000Z
+DTSTART:20250530T134500Z
+SUMMARY:Makroekonomia (Przeniesienie zajęć)
+UID:150fac9c-5a6f-445c-849a-06f9100bc370@150f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20250307T194500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250307T173000Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:227739d1-3e27-458c-b24d-b8f20b552e35@2277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20250607T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250607T134500Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:fa2dea55-b36b-4b92-80e0-3f61b04cad1d@fa2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20250322T170000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250322T144500Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:782ba6b9-e7d6-43ca-8ec4-69de19067b89@782b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250628T081500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250628T064500Z
+SUMMARY:Makroekonomia (egzamin)
+UID:52eb6535-47dc-404d-8feb-f8297a86664e@52eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250323T091500Z
+DTSTART:20250323T070000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:208ff529-7204-4c03-955a-a068a5da78b2@208f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250321T194500Z
+DTSTART:20250321T173000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
+UID:982b7c27-1039-41d9-8c64-7c044880a1ff@982b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250913T081500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250913T064500Z
+SUMMARY:Makroekonomia (egzamin)
+UID:1695226d-bdbb-4994-9f9d-f3075b7b77c3@1695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250530T160000Z
+DTSTART:20250530T134500Z
+SUMMARY:Makroekonomia (wykład)
+UID:3f0a6c79-66d5-42fd-9bb3-637cd155a3db@3f0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20250523T184500Z
+LOCATION:Paw.B 151
+DTSTART:20250523T163000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
+UID:bd3e11ee-a6c6-4b7d-b4e4-6688c893f1e9@bd3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250629T100000Z
+LOCATION:Paw.F 102
+DTSTART:20250629T083000Z
+SUMMARY:Geografia ekonomiczna (egzamin)
+UID:a8a766d0-26c2-4b01-893d-822bdfb3a7a9@a8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250404T160000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250404T134500Z
+SUMMARY:Geografia ekonomiczna (ćwiczenia do wyboru)
+UID:b524bfbb-3385-45f1-97ae-2ca670be8540@b524.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20250321T170000Z
+DTSTART:20250321T144500Z
+SUMMARY:Statystyka (wykład)
+UID:396ff6af-2d8a-43e5-97c1-3716e9e722c0@396f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:5a70b4e1-d50c-4757-86cb-4a1073091f81@5a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
+DTEND:20250510T104500Z
+LOCATION:Bud.gł. 7
+DTSTART:20250510T083000Z
+SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
+UID:7c0326e2-93a8-471a-9f52-8c77c3ad2c74@7c03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
+DTEND:20250321T194500Z
+DTSTART:20250321T173000Z
+SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
+UID:4729bbe9-4024-4026-a204-63c1d19908cb@4729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250307T170000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250307T144500Z
+SUMMARY:Geografia ekonomiczna (ćwiczenia do wyboru)
+UID:9de24031-0080-4e6a-95f0-bb6fc5091b33@9de2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250509T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250509T163000Z
+SUMMARY:Geografia ekonomiczna (ćwiczenia do wyboru)
+UID:cb527eeb-fb5f-410a-aba2-21754f85b8da@cb52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20250301T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250301T093000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:55b5a6bc-571d-46ae-b0f0-4fb1efe262ac@55b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250406T104500Z
+DTSTART:20250406T083000Z
+SUMMARY:Geografia ekonomiczna (wykład do wyboru)
+UID:3285456d-6af7-47e1-a16e-19c30c5d9a54@3285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250427T081500Z
+DTSTART:20250427T060000Z
+SUMMARY:Makroekonomia (wykład)
+UID:2e5431e3-793e-4f66-b5c8-18109d5aab08@2e54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250302T114500Z
+DTSTART:20250302T093000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
+UID:c0537f0c-9e36-4ed8-9755-52a89684986e@c053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250911T151500Z
+LOCATION:Paw.F 008
+DTSTART:20250911T134500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (egzamin)
+UID:f59dffc8-0a9a-4ea6-93e3-0d9f405b5a26@f59d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:40193abd-7e47-4b41-8126-fbf90ed06a72@4019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20250524T083000Z
+LOCATION:Paw.F 616
+DTSTART:20250524T074500Z
+SUMMARY:Podstawy prawa (kolokwium)
+UID:7d2d1a93-dd4f-4530-9df9-1df785685504@7d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20250314T170000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250314T144500Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:bc57a7be-8984-4bcf-b9fe-0c593e1efad3@bc57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
+DTEND:20250405T104500Z
+LOCATION:Paw.F 415
+DTSTART:20250405T083000Z
+SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
+UID:e972c7b1-e637-44ed-98c8-9f81421e5a0a@e972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250511T160000Z
+DTSTART:20250511T134500Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:22b26864-a7ef-4422-979f-5815587e7385@22b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250309T114500Z
+DTSTART:20250309T093000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:1cccc3bc-b194-4909-8586-f765988f4972@1ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jan Machejek
+DTEND:20250307T194500Z
+LOCATION:Paw.F 102
+DTSTART:20250307T173000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:9ac63b6b-f1f8-4446-a2db-b059034f02ff@9ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20250308T091500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250308T070000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:64508cce-859f-4c80-82e5-f3d5d1202558@6450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20250628T130000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21\, Paw.A 07 lab. Win7\, Office21\, Paw.A 013 lab. Win10\, Office21\, Paw.A 201 lab. Win10\, Office21
+DTSTART:20250628T083000Z
+SUMMARY: (egzamin)
+UID:5eeeae02-4c3b-42d9-a896-14591b5b6df9@5eee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250309T091500Z
+DTSTART:20250309T070000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:636aa51d-3b2e-4010-84c6-512cd9a51fd5@636a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250511T104500Z
+DTSTART:20250511T083000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:12572f23-b691-48cc-ae73-f66db8d3eea5@1257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250411T160000Z
+DTSTART:20250411T134500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
+UID:8984d277-1f4b-44ce-9f4f-d5a670a11c14@8984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250309T114500Z
+DTSTART:20250309T093000Z
+SUMMARY:Geografia ekonomiczna (wykład do wyboru)
+UID:6f1e6b87-942b-4a75-a99b-56561997422c@6f1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ivan Telega
+DTEND:20250614T104500Z
+LOCATION:Paw.F 614
+DTSTART:20250614T083000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:227373b0-0e73-4762-abfb-1cb9200a2e69@2273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250511T081500Z
+DTSTART:20250511T060000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:bde85927-71de-48ee-9dae-d1222a586c48@bde8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250525T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250525T144500Z
+SUMMARY:Państwo a gospodarka (egzamin)
+UID:0f175f01-22e4-4a39-9da2-9265d23fbcb0@0f17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ivan Telega
+DTEND:20250322T091500Z
+LOCATION:Paw.F 715
+DTSTART:20250322T070000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:6a18d771-7ae0-47c0-b843-5cc393a3f5c3@6a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250309T170000Z
+DTSTART:20250309T144500Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:0d8afaf2-5b94-403f-8ab2-1fa5a96cbdab@0d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20250907T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21\, Paw.A 09 lab. Win8.1\, Office21\, Paw.A 013 lab. Win10\, Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250907T093000Z
+SUMMARY:Statystyka (egzamin)
+UID:1b188c57-3b34-4870-8258-4d4d8b2046a0@1b18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250621T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250621T074500Z
+SUMMARY:Makroekonomia (egzamin)
+UID:c20cbc17-7db8-4104-a855-7810ed7a8b72@c20c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250406T133000Z
+DTSTART:20250406T111500Z
+SUMMARY:Podstawy prawa (wykład)
+UID:0e40054f-1270-4bb1-94d9-3607f4567522@0e40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20250524T104500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250524T083000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:3d0dae80-9035-4266-9fe1-497414e3bf93@3d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250328T170000Z
+DTSTART:20250328T144500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:10d28b7a-0822-445e-8bf6-70f16e9ddc23@10d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
+DTEND:20250411T160000Z
+DTSTART:20250411T134500Z
+SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
+UID:23ec35c3-a4b7-4cc0-9ae9-cb811a4fd652@23ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20250228T170000Z
+DTSTART:20250228T144500Z
+SUMMARY:Statystyka (wykład)
+UID:4a23b1eb-d3d8-4df0-a5e9-4b508e977ec7@4a23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ivan Telega
+DTEND:20250607T104500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250607T083000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:2c59f4ed-26fc-4294-9947-f109d2065b03@2c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ivan Telega
+DTEND:20250413T081500Z
+LOCATION:Paw.F 106
+DTSTART:20250413T060000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:36fef288-399e-4bfe-aa20-73a732ed0f30@36fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250406T104500Z
+DTSTART:20250406T083000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:94cbe58e-1f27-4924-9474-5a8feabf2a17@94cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Kurzemska
@@ -722,6 +625,103 @@ DTEND:20250614T081500Z
 LOCATION:Paw.F 717
 DTSTART:20250614T060000Z
 SUMMARY:Makroekonomia (ćwiczenia)
-UID:836ba8fb-6909-4ccd-94fa-4bbd9752f4bb@836b.org
+UID:ef600965-7f18-4b38-929b-5cf47a7febb6@ef60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20250510T104500Z
+DTSTART:20250510T083000Z
+SUMMARY:Podstawy organizacji i zarządzania (Przeniesienie zajęć)
+UID:fc0bec3c-cd99-491a-bf37-0f045b175da2@fc0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20250622T133000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250622T120000Z
+SUMMARY:Finanse branżowe\, Korporacje międzynarodowe\, Państwo a gospodarka\, Zielona Gospodarka (egzamin)
+UID:eddd9ad0-4db9-4a72-ab85-806fe5810d96@eddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Micał-Cujova
+DTEND:20250524T160000Z
+DTSTART:20250524T134500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
+UID:12a19fa6-dcd5-4f48-88f5-e1a94d84d3b4@12a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20250509T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250509T134500Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:1e621355-1b0b-45e0-bbab-ae5990efe768@1e62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Kurzemska
+DTEND:20250511T133000Z
+DTSTART:20250511T111500Z
+SUMMARY:Makroekonomia (wykład)
+UID:b7c89e01-7069-42ce-a8d4-00a4fc36f02c@b7c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250323T114500Z
+DTSTART:20250323T093000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:a7c8ccf7-95f0-4224-9449-0f5c13a82f1d@a7c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20250405T104500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250405T083000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
+UID:eaac024a-f0bd-41b9-aeb4-1241af2f92b7@eaac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250627T161500Z
+LOCATION:Paw.C sala E
+DTSTART:20250627T153000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (egzamin)
+UID:d9eb0b81-52e3-40c2-8f4e-ef678f74d29b@d9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Micał-Cujova
+DTEND:20250509T160000Z
+LOCATION:Paw.F 104
+DTSTART:20250509T134500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:f9759d50-0137-4e48-be8a-5212cdc87761@f975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250511T081500Z
+DTSTART:20250511T060000Z
+SUMMARY:Geografia ekonomiczna (wykład do wyboru)
+UID:02ff023d-f821-40de-8f40-9f5c7c6bfb1d@02ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250302T143000Z
+DTSTART:20250302T121500Z
+SUMMARY:Podstawy prawa (wykład)
+UID:ed1e9017-b07e-4a6d-9862-a4244bf7f8af@ed1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250302T091500Z
+DTSTART:20250302T070000Z
+SUMMARY:Geografia ekonomiczna (wykład do wyboru)
+UID:3b0adb60-05a1-4428-9245-7ff374a13636@3b0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ivan Telega
+DTEND:20250531T104500Z
+LOCATION:Paw.F 413
+DTSTART:20250531T083000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:93a65cf6-1396-4a00-8af4-dfd56e1ceed2@93a6.org
 END:VEVENT
 END:VCALENDAR
