@@ -2,12 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241117T114500Z
+LOCATION:Paw.C sala B
+DTSTART:20241117T093000Z
+SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
+UID:3210ee74-559f-4d3c-a42f-ab6a0b0a14c5@3210.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20241130T114500Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20241130T093000Z
-SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
-UID:b671abb2-1517-4e4b-96d1-a6c1959119d1@b671.org
+DTEND:20241214T184500Z
+DTSTART:20241214T163000Z
+SUMMARY:Narzędzia sterowania projektem (Przeniesienie zajęć)
+UID:344ccd96-f6ba-4b8e-af00-6cb394058664@344c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241026T151500Z
+DTSTART:20241026T130000Z
+SUMMARY:Prawne aspekty w projektach (wykład)
+UID:37aaa23f-eba0-4114-930f-819852cdad99@37aa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
@@ -15,29 +29,7 @@ DTEND:20241214T124500Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20241214T103000Z
 SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
-UID:e09087b8-2a1e-4ae4-bc0d-b2a9b753502a@e090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20241026T114500Z
-DTSTART:20241026T093000Z
-SUMMARY:Podstawy zarządzania projektami (wykład)
-UID:699f1c9b-422d-4020-a26a-9fab47d7282d@699f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20241006T114500Z
-DTSTART:20241006T093000Z
-SUMMARY:Prawne aspekty w projektach (wykład)
-UID:1c5cd774-2843-4b7e-be62-ae61da19bca3@1c5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20241116T100000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20241116T074500Z
-SUMMARY:�ródła finansowania projektów (konwersatorium)
-UID:f50a24b9-4853-4c59-a1b9-faac09eb6f12@f50a.org
+UID:13295379-2e38-470d-8bab-90a08ac749f8@1329.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
@@ -45,182 +37,14 @@ DTEND:20241116T124500Z
 LOCATION:Paw.U sala S(Kat.Opak.)
 DTSTART:20241116T103000Z
 SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
-UID:77b1f944-42f4-4929-8b77-cc323fb00d1d@77b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20241129T170000Z
-DTSTART:20241129T144500Z
-SUMMARY:Prawne aspekty w projektach (wykład)
-UID:bc78e734-1b5e-4ae8-8df3-bf6f8ef8289c@bc78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20241117T091500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20241117T070000Z
-SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
-UID:8545d436-3d37-464a-8763-8bf07dbb64ae@8545.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20241013T081500Z
-LOCATION:Paw.C sala B
-DTSTART:20241013T060000Z
-SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
-UID:bf79b347-031c-4df9-b10a-ab125bcb5b6c@bf79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20241115T170000Z
-DTSTART:20241115T144500Z
-SUMMARY:Systemowe zarządzanie w projektach (wykład)
-UID:ab02caf0-af01-4fcf-9143-657735028b0f@ab02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20241006T090000Z
-DTSTART:20241006T064500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:194c4a00-536b-456d-bfc6-a374181fa041@194c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20241027T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20241027T070000Z
-SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
-UID:8c8bf442-c640-40f9-88c4-728e59c8c6c9@8c8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20241027T114500Z
-LOCATION:Paw.C sala B
-DTSTART:20241027T093000Z
-SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
-UID:6aa3c3eb-a5bd-4ef9-adca-1e2981d24adf@6aa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20241012T104500Z
-DTSTART:20241012T083000Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:0204a49b-ac85-4e75-bdf4-a5c0923ee2d0@0204.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20241124T151500Z
-DTSTART:20241124T130000Z
-SUMMARY:Podstawy zarządzania projektami (wykład)
-UID:4289f248-88ce-4e8d-88c8-a0a3f58ec821@4289.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20241213T194500Z
-DTSTART:20241213T173000Z
-SUMMARY:Systemowe zarządzanie w projektach (wykład)
-UID:ebe748b1-c057-4da3-8ec8-f26c6f3e00e5@ebe7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20241124T100000Z
-DTSTART:20241124T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:dd3a97e9-8f8e-4c4d-8da3-a3ba9a7a4793@dd3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20241201T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20241201T070000Z
-SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
-UID:3ebe3ac3-2c2f-4989-9c74-75bcafc9baf4@3ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
-DTEND:20241005T151500Z
-DTSTART:20241005T130000Z
-SUMMARY:Projektowanie motywacyjnych siatek i tabel płac zasadniczych (wykład do wyboru)
-UID:e8f4c99e-ab39-42de-a1e5-4d8d668677f2@e8f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20241117T114500Z
-LOCATION:Paw.C sala B
-DTSTART:20241117T093000Z
-SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
-UID:09725c55-293e-4a85-a432-c42a6ed3e749@0972.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20241004T160000Z
-DTSTART:20241004T134500Z
-SUMMARY:Systemowe zarządzanie w projektach (wykład)
-UID:fb0ccc2e-a60e-42f1-ab28-dc173f7ecb75@fb0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
-DTEND:20241013T104500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20241013T083000Z
-SUMMARY:�ródła finansowania projektów (konwersatorium)
-UID:96ac2750-59c4-4903-ae32-5dbf75091d8e@96ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20241026T090000Z
-DTSTART:20241026T064500Z
-SUMMARY:Narzędzia sterowania projektem (wykład)
-UID:9d538e3a-fa31-4a74-92ff-00dd72a8aa97@9d53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20241115T194500Z
-DTSTART:20241115T173000Z
-SUMMARY:Narzędzia sterowania projektem (wykład)
-UID:db89bebf-cac1-458c-8291-e094d06b4f5c@db89.org
+UID:4b21960b-0a94-449b-95c3-55ffe8f579c0@4b21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
 DTEND:20241005T090000Z
 DTSTART:20241005T064500Z
 SUMMARY:Narzędzia sterowania projektem (wykład)
-UID:16ff1c48-b31b-4c79-83d9-c16e6f7a5d70@16ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20241005T114500Z
-DTSTART:20241005T093000Z
-SUMMARY:Podstawy zarządzania projektami (wykład)
-UID:ea0f0154-bccd-4ccd-a7c5-f19c08232b52@ea0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
-DTEND:20241129T194500Z
-DTSTART:20241129T173000Z
-SUMMARY:Podstawy zarządzania projektami (Przeniesienie zajęć)
-UID:1c84a21d-695f-4c10-b8c7-e01e9c9a9f29@1c84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
-DTEND:20241124T124500Z
-DTSTART:20241124T103000Z
-SUMMARY:Projektowanie motywacyjnych siatek i tabel płac zasadniczych (wykład do wyboru)
-UID:0198c53e-226c-4ff7-9c6c-af3d98a69e92@0198.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20241026T151500Z
-DTSTART:20241026T130000Z
-SUMMARY:Prawne aspekty w projektach (wykład)
-UID:6882875e-a207-4da8-ba4d-8242ce86a226@6882.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20241214T184500Z
-DTSTART:20241214T163000Z
-SUMMARY:Narzędzia sterowania projektem (Przeniesienie zajęć)
-UID:5736925e-0702-42ba-a739-46c025af80bf@5736.org
+UID:2e7a5fa5-5f0c-4aee-bde5-5a31287a8ce1@2e7a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
@@ -228,13 +52,189 @@ DTEND:20241201T114500Z
 LOCATION:Paw.U sala P (KatRozOrg)
 DTSTART:20241201T093000Z
 SUMMARY:�ródła finansowania projektów (konwersatorium)
-UID:e13d5402-325c-4da8-be63-581b73b40e94@e13d.org
+UID:263b4b8a-6e9e-4008-8722-acef164a2245@263b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241006T090000Z
+DTSTART:20241006T064500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:b87dcf78-63b6-4833-85ac-d22b2e7a5f53@b87d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241124T124500Z
+DTSTART:20241124T103000Z
+SUMMARY:Projektowanie motywacyjnych siatek i tabel płac zasadniczych (wykład do wyboru)
+UID:2d57f203-ef6d-47e0-aae0-0337ad6d9237@2d57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241117T091500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241117T070000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:8a0877b9-edd6-46f0-9040-d5369d669bc3@8a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241026T090000Z
+DTSTART:20241026T064500Z
+SUMMARY:Narzędzia sterowania projektem (wykład)
+UID:1e9324fe-8e51-4d4e-bf51-a6e9a7ccb305@1e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241116T100000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241116T074500Z
+SUMMARY:�ródła finansowania projektów (konwersatorium)
+UID:f1ee3662-cbd0-4271-8871-75a7f885e7bb@f1ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241026T114500Z
+DTSTART:20241026T093000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:6b4788dd-5122-4802-8184-6e531b71a75f@6b47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241213T194500Z
+DTSTART:20241213T173000Z
+SUMMARY:Systemowe zarządzanie w projektach (wykład)
+UID:4359b8dd-7d46-4e22-b892-ce02a29bd062@4359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241004T160000Z
+DTSTART:20241004T134500Z
+SUMMARY:Systemowe zarządzanie w projektach (wykład)
+UID:761368f9-bce1-4cd5-93b3-846cad4c9dd1@7613.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241115T170000Z
+DTSTART:20241115T144500Z
+SUMMARY:Systemowe zarządzanie w projektach (wykład)
+UID:67d48509-6b2f-4347-a301-7ec9f5acc0e3@67d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241124T151500Z
+DTSTART:20241124T130000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:ab0c4247-335b-4017-8c29-68c8f7fc5f0d@ab0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241129T170000Z
+DTSTART:20241129T144500Z
+SUMMARY:Prawne aspekty w projektach (wykład)
+UID:8a867c11-f5b9-484e-83d3-7cd418edba3a@8a86.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
 DTEND:20241025T184500Z
 DTSTART:20241025T163000Z
 SUMMARY:Projektowanie motywacyjnych siatek i tabel płac zasadniczych (wykład do wyboru)
-UID:9745072d-23e9-4ab1-b2b2-44b3debb2916@9745.org
+UID:fbf033a8-b9bc-4d62-8daf-bd7aa64fc264@fbf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241124T100000Z
+DTSTART:20241124T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:d4badc48-f01f-45ac-9ee8-5ce0c1a5c1b1@d4ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241006T114500Z
+DTSTART:20241006T093000Z
+SUMMARY:Prawne aspekty w projektach (wykład)
+UID:4eb07fb4-16d4-44d9-b90d-fde7d28761e1@4eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241130T114500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241130T093000Z
+SUMMARY:Narzędzia sterowania projektem (ćwiczenia)
+UID:d0502293-9a88-418b-aaac-e3c57f942f57@d050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241013T104500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241013T083000Z
+SUMMARY:�ródła finansowania projektów (konwersatorium)
+UID:e726d4e1-e995-4cf2-9aac-c7076045e6d9@e726.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241005T151500Z
+DTSTART:20241005T130000Z
+SUMMARY:Projektowanie motywacyjnych siatek i tabel płac zasadniczych (wykład do wyboru)
+UID:533c5318-893e-4fff-99eb-6e4e1fe5b78b@533c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241005T114500Z
+DTSTART:20241005T093000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:ac29066d-02ac-4806-b578-8bfa455a1753@ac29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241027T114500Z
+LOCATION:Paw.C sala B
+DTSTART:20241027T093000Z
+SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
+UID:aba75031-18cf-4b8d-acf1-28aa98be6c65@aba7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241115T194500Z
+DTSTART:20241115T173000Z
+SUMMARY:Narzędzia sterowania projektem (wykład)
+UID:38d2b35d-a057-4fa7-a7a9-cf560ef1d68b@38d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241012T104500Z
+DTSTART:20241012T083000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:a32e7753-62d1-4690-b5e7-2a41ee2e052c@a32e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241201T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20241201T070000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:e2d14a31-1655-4a04-b428-8717af298afd@e2d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241013T081500Z
+LOCATION:Paw.C sala B
+DTSTART:20241013T060000Z
+SUMMARY:Zarządzanie zespołem projektowym (konwersatorium)
+UID:0e8aa6bd-21a7-4019-b72d-3f638cab72c9@0e8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241129T194500Z
+DTSTART:20241129T173000Z
+SUMMARY:Podstawy zarządzania projektami (Przeniesienie zajęć)
+UID:e6b3a2f3-1740-4538-a89a-4249c3446b11@e6b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241027T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20241027T070000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:083e1d38-a9e0-4b47-b5f1-d72893932d30@083e.org
 END:VEVENT
 END:VCALENDAR
