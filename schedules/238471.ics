@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250322T193000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250322T154500Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
-UID:b3db931c-d914-42f8-a071-52b214b014cf@b3db.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jurij Renkas
-DTEND:20250606T184500Z
+DTEND:20250404T160000Z
 LOCATION:Paw.U sala K
-DTSTART:20250606T163000Z
+DTSTART:20250404T134500Z
 SUMMARY:Rachunkowość menedżerska (ćwiczenia)
-UID:68116505-a7ba-42c0-8ae8-bdac5ded8600@6811.org
+UID:a5f6c424-bb70-4bd5-a7b2-178d67285435@a5f6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
@@ -23,30 +15,35 @@ DTEND:20250606T160000Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20250606T134500Z
 SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
-UID:7c6a61f7-be46-407f-8250-bf8f5123c50f@7c6a.org
+UID:e3bac9c6-4b9f-44df-a1ae-8cf5dcb67c1d@e3ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20250425T160000Z
+DTSTART:20250425T134500Z
+SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
+UID:b6539904-6651-4320-9614-2e1fa58f92f8@b653.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250509T184500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250509T163000Z
-SUMMARY:Systemy informacyjne w zarządzaniu (ćwiczenia)
-UID:fef6b9c4-0e41-4dfb-a543-bac30b2bc2aa@fef6.org
+DTEND:20250523T160000Z
+DTSTART:20250523T134500Z
+SUMMARY:Systemy informacyjne w zarządzaniu (Przeniesienie zajęć)
+UID:7b7459d7-7121-4a89-9796-68988d73bde6@7b74.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
 DTEND:20250425T184500Z
 DTSTART:20250425T163000Z
 SUMMARY:Rachunkowość menedżerska (wykład)
-UID:c139cdfa-5c20-4bb4-b778-77d45cc0eb6b@c139.org
+UID:090f17cc-ca36-498b-8c07-614f32b6f174@090f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250525T114500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250525T093000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
-UID:3b8a32f6-9a0e-40df-b303-1fd2a5446bc4@3b8a.org
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20250405T124500Z
+DTSTART:20250405T111500Z
+SUMMARY:Rachunkowość menedżerska (Przeniesienie zajęć)
+UID:2c03d456-6883-427a-b3b1-8bf82400ad60@2c03.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
@@ -54,112 +51,7 @@ DTEND:20250525T090000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20250525T064500Z
 SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
-UID:8cb3619d-01bb-4290-9ef5-a24b67dc1410@8cb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20250323T151500Z
-DTSTART:20250323T130000Z
-SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
-UID:2972d263-4da1-49d8-89fb-e7d9f768810f@2972.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20250524T114500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20250524T101500Z
-SUMMARY:Teoria grafów (ćwiczenia do wyboru)
-UID:db5640ed-cb25-45dc-b87a-95b45398c945@db56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20250531T114500Z
-DTSTART:20250531T093000Z
-SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
-UID:661bb264-4fef-4d23-b258-ffbff3a5633f@661b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20250510T114500Z
-DTSTART:20250510T101500Z
-SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
-UID:054ee41a-957b-4191-bac9-cfb9e3b84d67@054e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250607T133000Z
-LOCATION:Paw.C sala B
-DTSTART:20250607T111500Z
-SUMMARY:Systemy informacyjne w zarządzaniu (ćwiczenia)
-UID:ca1c4488-5a73-4bf5-a944-3d3595d8f51b@ca1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250405T151500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20250405T130000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
-UID:b679e3d6-dc28-4703-8ed2-69f0398dcd72@b679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20250301T100000Z
-DTSTART:20250301T074500Z
-SUMMARY:Teoria gier w podejmowaniu decyzji (wykład do wyboru)
-UID:34a33fb4-9b30-4e31-adc4-b9135cd5adbc@34a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20250323T100000Z
-DTSTART:20250323T074500Z
-SUMMARY:Teoria gier w podejmowaniu decyzji (wykład do wyboru)
-UID:9b5ebe0a-16ef-4650-addb-ed101b68ef5b@9b5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250426T160000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250426T130000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
-UID:e166f5a5-aae6-4736-b856-b33df968fbc6@e166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20250511T091500Z
-LOCATION:Paw.S sala 8
-DTSTART:20250511T074500Z
-SUMMARY:Teoria grafów (ćwiczenia do wyboru)
-UID:db260f1e-b47d-44fc-856d-6da83de869ee@db26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Trąbka
-DTEND:20250523T160000Z
-DTSTART:20250523T134500Z
-SUMMARY:Systemy informacyjne w zarządzaniu (Przeniesienie zajęć)
-UID:dbafb776-ea39-4cc4-8134-a0c37df29431@dbaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20250323T124500Z
-DTSTART:20250323T103000Z
-SUMMARY:Teoria grafów (wykład do wyboru)
-UID:90a11508-6a1c-4148-a5e8-08193931e52d@90a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20250427T090000Z
-LOCATION:Paw.S sala 7
-DTSTART:20250427T064500Z
-SUMMARY:Teoria grafów (ćwiczenia do wyboru)
-UID:c12cdf4a-9016-48af-837a-66b4632ac466@c12c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20250322T123000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20250322T093000Z
-SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
-UID:8c4ff3b7-142c-4191-b9a4-3caec3774e82@8c4f.org
+UID:abe96a26-b9a5-4711-a291-c4781e6f0506@abe9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski
@@ -167,149 +59,37 @@ DTEND:20250404T184500Z
 LOCATION:Paw.F 109
 DTSTART:20250404T163000Z
 SUMMARY:Teoria gier w podejmowaniu decyzji (ćwiczenia do wyboru)
-UID:cae514b0-ab28-4ed0-bc60-3452ee474f90@cae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20250426T124500Z
-LOCATION:Paw.F 616
-DTSTART:20250426T111500Z
-SUMMARY:Teoria gier w podejmowaniu decyzji (ćwiczenia do wyboru)
-UID:40b7af5e-00bd-4500-94c0-a56bee7a3fc9@40b7.org
+UID:587ac550-d368-416b-9bca-0dc70b447c91@587a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20250405T100000Z
-LOCATION:Paw.F 614
-DTSTART:20250405T083000Z
-SUMMARY:Teoria grafów (ćwiczenia do wyboru)
-UID:6d08b171-7567-4a35-a24b-cc25e754dc09@6d08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jurij Renkas
-DTEND:20250308T143000Z
-LOCATION:Paw.U sala K
-DTSTART:20250308T121500Z
-SUMMARY:Rachunkowość menedżerska (ćwiczenia)
-UID:ce3959bc-def4-468d-996b-9195263292c4@ce39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20250406T123000Z
-DTSTART:20250406T101500Z
-SUMMARY:Teoria gier w podejmowaniu decyzji (wykład do wyboru)
-UID:7ef9be67-7429-4fe3-9894-26e9fe0909e9@7ef9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250307T194500Z
-DTSTART:20250307T173000Z
-SUMMARY:Rachunkowość menedżerska (wykład)
-UID:2b64944c-b84f-48b8-a1c6-1465d9152925@2b64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250510T094500Z
-DTSTART:20250510T064500Z
-SUMMARY:Rachunkowość menedżerska (wykład)
-UID:a04647ff-34b6-461e-93cf-860809ec8051@a046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20250406T151500Z
-DTSTART:20250406T130000Z
+DTEND:20250302T133000Z
+DTSTART:20250302T111500Z
 SUMMARY:Teoria grafów (wykład do wyboru)
-UID:4a813437-3df1-4352-80ac-df51c5f9e4d7@4a81.org
+UID:f5a0781a-2b8b-42de-96ff-9910a0b195b8@f5a0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250301T133000Z
-DTSTART:20250301T103000Z
-SUMMARY:Rachunkowość menedżerska (wykład)
-UID:f1251e5e-ad0f-41b9-8d2e-605c7d260902@f125.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20250511T123000Z
-LOCATION:Paw.S sala 6
-DTSTART:20250511T093000Z
-SUMMARY:Teoria gier w podejmowaniu decyzji (ćwiczenia do wyboru)
-UID:f504a9f4-4ac2-4df7-ab79-d30cd8e185ef@f504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20250406T094500Z
-DTSTART:20250406T064500Z
-SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
-UID:8783dac8-875d-4c15-895d-bb5030bdef14@8783.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20250309T123000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20250309T093000Z
-SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
-UID:63d7493c-8657-4080-b6ca-ae95b67b970d@63d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250614T151500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20250614T130000Z
-SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
-UID:500fa272-c04c-445e-8a88-c932bc390e3b@500f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jurij Renkas
-DTEND:20250614T183000Z
-LOCATION:Paw.U sala K
-DTSTART:20250614T153000Z
-SUMMARY:Rachunkowość menedżerska (ćwiczenia)
-UID:f7fbd3e3-d9cf-455f-9cb1-012aa0c965be@f7fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jurij Renkas
-DTEND:20250404T160000Z
-LOCATION:Paw.U sala K
-DTSTART:20250404T134500Z
-SUMMARY:Rachunkowość menedżerska (ćwiczenia)
-UID:9cc9aa07-9f6a-4400-94d7-225a1a06af24@9cc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
-DTEND:20250425T160000Z
-DTSTART:20250425T134500Z
-SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
-UID:fd26b7e9-864f-4bcb-bbbc-f2c978905a3b@fd26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jurij Renkas
-DTEND:20250405T124500Z
-DTSTART:20250405T111500Z
-SUMMARY:Rachunkowość menedżerska (Przeniesienie zajęć)
-UID:84a9c051-ec07-413d-aa21-2f70966cbf99@84a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20250427T150000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20250427T120000Z
-SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
-UID:21d289df-b603-4e7c-b1ed-dcc3486218a2@21d2.org
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20250427T090000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250427T064500Z
+SUMMARY:Teoria grafów (ćwiczenia do wyboru)
+UID:90c77079-9ed5-46a3-aba0-2e623c891f68@90c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
 DTEND:20250531T090000Z
 DTSTART:20250531T064500Z
 SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
-UID:94ff6ed7-d5af-4c71-91b7-f98fc24521b0@94ff.org
+UID:b00364ab-a363-4081-ba90-9fb21d13172b@b003.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20250308T170000Z
-DTSTART:20250308T144500Z
-SUMMARY:Przetwarzanie języka naturalnego (Przeniesienie zajęć)
-UID:d2396816-890d-4d32-92a4-19a33360a3f8@d239.org
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20250606T184500Z
+LOCATION:Paw.U sala K
+DTSTART:20250606T163000Z
+SUMMARY:Rachunkowość menedżerska (ćwiczenia)
+UID:733e278a-73d4-4d31-8cd3-987a173478e4@733e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jurij Renkas
@@ -317,14 +97,7 @@ DTEND:20250509T160000Z
 LOCATION:Paw.U sala N
 DTSTART:20250509T134500Z
 SUMMARY:Rachunkowość menedżerska (ćwiczenia)
-UID:8a8182e0-6088-43af-bd11-09d93bd2fbf0@8a81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
-DTEND:20250321T193000Z
-DTSTART:20250321T163000Z
-SUMMARY:Rachunkowość menedżerska (wykład)
-UID:397c8ad2-b584-4dbe-b290-ee7db97d2ee8@397c.org
+UID:1a2f7a0d-cbaf-4873-b848-b745b855867f@1a2f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jan Trąbka
@@ -332,7 +105,241 @@ DTEND:20250615T151500Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20250615T130000Z
 SUMMARY:Systemy informacyjne w zarządzaniu (ćwiczenia)
-UID:8e422dc5-3b11-4069-a6a7-0411785d0243@8e42.org
+UID:173a23fe-b7f6-4fc4-a072-5d4d23dfd778@173a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250308T170000Z
+DTSTART:20250308T144500Z
+SUMMARY:Przetwarzanie języka naturalnego (Przeniesienie zajęć)
+UID:7ca39e8a-b12c-4700-b628-8dd0b4ed43c1@7ca3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250406T123000Z
+DTSTART:20250406T101500Z
+SUMMARY:Teoria gier w podejmowaniu decyzji (wykład do wyboru)
+UID:27d008ef-914a-41f5-8c99-4e992915a416@27d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250323T100000Z
+DTSTART:20250323T074500Z
+SUMMARY:Teoria gier w podejmowaniu decyzji (wykład do wyboru)
+UID:f36a740a-df0f-43d2-b1f7-68976c322e38@f36a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250525T114500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250525T093000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
+UID:5c42d7b6-d26d-438f-a1a7-66725761a8f0@5c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250510T094500Z
+DTSTART:20250510T064500Z
+SUMMARY:Rachunkowość menedżerska (wykład)
+UID:84918aae-7776-4862-bb34-9fae7ce84964@8491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250322T123000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250322T093000Z
+SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
+UID:3c2bfd42-868b-43f6-aacf-3e1bd0342d00@3c2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250426T160000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250426T130000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
+UID:05dae9ae-fbf3-4bf2-9def-49b158fac47c@05da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20250308T143000Z
+LOCATION:Paw.U sala K
+DTSTART:20250308T121500Z
+SUMMARY:Rachunkowość menedżerska (ćwiczenia)
+UID:5545160b-6c58-471d-ad3e-77db06339a40@5545.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250322T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250322T154500Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
+UID:92c70637-f546-4f94-a1ed-559b5382d7b5@92c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250321T193000Z
+DTSTART:20250321T163000Z
+SUMMARY:Rachunkowość menedżerska (wykład)
+UID:acfaebd0-a942-49b6-ae68-b2ef21ded781@acfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20250405T100000Z
+LOCATION:Paw.F 614
+DTSTART:20250405T083000Z
+SUMMARY:Teoria grafów (ćwiczenia do wyboru)
+UID:c4cb07c2-6b6e-465a-8319-dd55370dcb8d@c4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20250406T151500Z
+DTSTART:20250406T130000Z
+SUMMARY:Teoria grafów (wykład do wyboru)
+UID:11f4f65c-2b66-47e6-bd04-b53fad07a2fd@11f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250309T123000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250309T093000Z
+SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
+UID:a3faea45-e9c3-4000-80f7-5c19a89ed6eb@a3fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250426T124500Z
+LOCATION:Paw.F 616
+DTSTART:20250426T111500Z
+SUMMARY:Teoria gier w podejmowaniu decyzji (ćwiczenia do wyboru)
+UID:884e6400-0794-4f61-a835-10b756e223d5@884e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Trąbka
+DTEND:20250607T133000Z
+LOCATION:Paw.C sala B
+DTSTART:20250607T111500Z
+SUMMARY:Systemy informacyjne w zarządzaniu (ćwiczenia)
+UID:c20b5ecd-03a9-4558-ab0b-a3530a4ce391@c20b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20250510T114500Z
+DTSTART:20250510T101500Z
+SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
+UID:4b88d9dc-f752-4996-a764-8f22a7a100cd@4b88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20250511T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250511T074500Z
+SUMMARY:Teoria grafów (ćwiczenia do wyboru)
+UID:20313a78-8b00-4993-a7ee-3effcbc4e407@2031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20250531T114500Z
+DTSTART:20250531T093000Z
+SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
+UID:ec36a22c-b181-455d-86de-c2d7d729ac12@ec36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Trąbka
+DTEND:20250509T184500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250509T163000Z
+SUMMARY:Systemy informacyjne w zarządzaniu (ćwiczenia)
+UID:61834006-9326-4306-9379-99d5cee2011b@6183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250307T194500Z
+DTSTART:20250307T173000Z
+SUMMARY:Rachunkowość menedżerska (wykład)
+UID:f830d1c7-44e3-4362-9dbe-a6ce9aaebaf8@f830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250301T133000Z
+DTSTART:20250301T103000Z
+SUMMARY:Rachunkowość menedżerska (wykład)
+UID:88514aac-be27-4eb9-b303-1cb7190cde60@8851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20250323T124500Z
+DTSTART:20250323T103000Z
+SUMMARY:Teoria grafów (wykład do wyboru)
+UID:5a9bf5b2-d708-46c9-a76f-8613f5b81763@5a9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20250406T094500Z
+DTSTART:20250406T064500Z
+SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
+UID:d1a0c109-5746-4a1b-a9f2-36e50c490df9@d1a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250511T123000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250511T093000Z
+SUMMARY:Teoria gier w podejmowaniu decyzji (ćwiczenia do wyboru)
+UID:0a798266-5264-433a-a0ee-0a8bf15dd82a@0a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20250524T114500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250524T101500Z
+SUMMARY:Teoria grafów (ćwiczenia do wyboru)
+UID:7eefca5a-ac92-4604-a20e-33d932866b8f@7eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250405T151500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250405T130000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
+UID:d7caff94-59aa-458c-9be6-cacdc6f9a893@d7ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250614T151500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250614T130000Z
+SUMMARY:Przetwarzanie języka naturalnego (ćwiczenia do wyboru)
+UID:df7e3ab7-9f02-4d01-b7a2-46a0ecde40b4@df7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250427T150000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250427T120000Z
+SUMMARY:Grafika komputerowa (ćwiczenia do wyboru)
+UID:03ea7370-eba6-49ff-a0a9-0f593d852cf6@03ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20250614T183000Z
+LOCATION:Paw.U sala K
+DTSTART:20250614T153000Z
+SUMMARY:Rachunkowość menedżerska (ćwiczenia)
+UID:b71eb5e5-2f0d-4658-9ab0-8f69f6f60a8e@b71e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250301T100000Z
+DTSTART:20250301T074500Z
+SUMMARY:Teoria gier w podejmowaniu decyzji (wykład do wyboru)
+UID:495b3ed3-4662-45bd-9bdd-81e698bbbec4@495b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20250323T151500Z
+DTSTART:20250323T130000Z
+SUMMARY:Systemy informacyjne w zarządzaniu (wykład)
+UID:626aa535-9cd1-4bc2-9e8c-2462d08cb152@626a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jurij Renkas
@@ -340,13 +347,6 @@ DTEND:20250405T124500Z
 LOCATION:Paw.C sala A
 DTSTART:20250405T111500Z
 SUMMARY:Rachunkowość menedżerska (ćwiczenia)
-UID:9f292b27-d6f2-49b6-b7d2-d6c1db528abc@9f29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20250302T133000Z
-DTSTART:20250302T111500Z
-SUMMARY:Teoria grafów (wykład do wyboru)
-UID:7614c708-0339-4d7d-840e-125f187dc802@7614.org
+UID:3c27e693-2da5-42d5-8ea9-cc7457dbdd3d@3c27.org
 END:VEVENT
 END:VCALENDAR
