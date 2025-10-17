@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20260117T121500Z
+DESCRIPTION:Instructor: dr Andrzej Bigaj
+DTEND:20260130T193000Z
 LOCATION:Paw.G 13 SENACKA
-DTSTART:20260117T074500Z
-SUMMARY:Urlopy pracownicze i inne zwolnienia od pracy (Studia podyplomowe)
-UID:816dd8b0-ccbd-4a2a-963f-8eb111a0e9d4@816d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20260214T134500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20260214T130000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:cc85e27f-90ec-4d6d-826b-3208c87518ad@cc85.org
+DTSTART:20260130T154500Z
+SUMMARY:Regulaminy w prawie pracy (Studia podyplomowe)
+UID:b872458a-9fc8-4dc3-8ef4-11421916ec41@b872.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Andrzej Bigaj
@@ -23,47 +15,7 @@ DTEND:20260131T121500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20260131T074500Z
 SUMMARY:Związki zawodowe i rady pracownicze w zakładzie pracy (Studia podyplomowe)
-UID:3f200a6b-94e7-4920-be33-0749348935a2@3f20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251205T193000Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251205T154500Z
-SUMMARY:Ochrona danych osobowych (Studia podyplomowe)
-UID:3a094f0d-3acd-412f-bf8e-f469d4b72208@3a09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Zbigniew Zych
-DTEND:20251114T193000Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251114T154500Z
-SUMMARY:Odpowiedzialność pracodawcy (Studia podyplomowe)
-UID:c3e1e2d4-5ef7-492a-9cef-3db93d22d0b6@c3e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251206T100000Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251206T074500Z
-SUMMARY:Zatrudnienie osób niepełnosprawnych (Studia podyplomowe)
-UID:fdfd51f1-f79b-40de-babb-b56eb106edb6@fdfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Benio
-DTEND:20251025T111500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251025T064500Z
-SUMMARY:Pozapracownicze i nietypowe formy zatrudnienia (Studia podyplomowe)
-UID:b2c524d8-2d80-4f0c-81e7-ea414438da20@b2c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20251129T121500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251129T074500Z
-SUMMARY:Rozwiązywanie stosunku pracy (Studia podyplomowe)
-UID:d2c54c7f-a6b0-4d01-8975-d286c34232e5@d2c5.org
+UID:c4b8abb8-2413-4128-8aa0-dd4818a39f5a@c4b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Strumiński
@@ -71,7 +23,31 @@ DTEND:20251010T183000Z
 LOCATION:Paw.G 11
 DTSTART:20251010T144500Z
 SUMMARY:Nawiązywanie stosunku pracy (Studia podyplomowe)
-UID:861857c2-1240-4ee9-bcad-c5de668e184c@8618.org
+UID:edfe8dba-afbc-49fb-9e6f-07104d3507ec@edfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20260117T121500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260117T074500Z
+SUMMARY:Urlopy pracownicze i inne zwolnienia od pracy (Studia podyplomowe)
+UID:ea60ebf4-e827-4df7-8d31-787a18fafe70@ea60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20251129T121500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251129T074500Z
+SUMMARY:Rozwiązywanie stosunku pracy (Studia podyplomowe)
+UID:d2d405cc-d00a-40fc-987a-ff1f7498686a@d2d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251206T100000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251206T074500Z
+SUMMARY:Zatrudnienie osób niepełnosprawnych (Studia podyplomowe)
+UID:b38bd946-7788-455d-99ec-5d9b925545ed@b38b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
@@ -79,55 +55,15 @@ DTEND:20251128T193000Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20251128T154500Z
 SUMMARY:Rozwiązywanie stosunku pracy (Studia podyplomowe)
-UID:f8d66606-9972-44dc-a93c-51885976e81e@f8d6.org
+UID:1a625386-c341-4229-8ea1-779936a696fc@1a62.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Benio
-DTEND:20251024T183000Z
+DESCRIPTION:Instructor: mgr Zbigniew Zych
+DTEND:20251114T193000Z
 LOCATION:Paw.G 13 SENACKA
-DTSTART:20251024T144500Z
-SUMMARY:Pozapracownicze i nietypowe formy zatrudnienia (Studia podyplomowe)
-UID:76163536-679a-4ef4-922f-88e61d5d752a@7616.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Strumiński
-DTEND:20251011T111500Z
-LOCATION:Paw.G 11
-DTSTART:20251011T064500Z
-SUMMARY:Nawiązywanie stosunku pracy (Studia podyplomowe)
-UID:8f0beacd-e774-4d6a-87b3-4999b591e4ae@8f0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20251115T121500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251115T074500Z
-SUMMARY:Polityka kadrowa (Studia podyplomowe)
-UID:41e8c548-ce98-4165-a197-55a1ccdcd73c@41e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20260116T193000Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20260116T154500Z
-SUMMARY:Urlopy pracownicze i inne zwolnienia od pracy (Studia podyplomowe)
-UID:613825cb-46f7-413f-b45b-cd736a4b998d@6138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20260214T121500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20260214T074500Z
-SUMMARY:Systemy wynagrodzeń (Studia podyplomowe)
-UID:9a77bdd2-4643-4a8f-a971-120dce2d2f38@9a77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
-DTEND:20251206T124500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20251206T103000Z
-SUMMARY:Zakładowy fundusz świadczeń socjalnych (Studia podyplomowe)
-UID:34566647-ae4d-4be1-9b2e-940faf5a6a07@3456.org
+DTSTART:20251114T154500Z
+SUMMARY:Odpowiedzialność pracodawcy (Studia podyplomowe)
+UID:066b6bd4-d2ef-4f80-97c2-6965fdfed893@066b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
@@ -135,23 +71,23 @@ DTEND:20251010T143000Z
 LOCATION:Paw.G 11
 DTSTART:20251010T134500Z
 SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
-UID:d3feafe2-f966-43a4-bdbd-3ae04b799f42@d3fe.org
+UID:797692c6-8876-40b2-b4a5-07c591dad93d@7976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20260214T121500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260214T074500Z
+SUMMARY:Systemy wynagrodzeń (Studia podyplomowe)
+UID:9e29ba4a-24fe-4f41-8ce5-585d6099a31b@9e29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marek Benio
-DTEND:20251212T193000Z
+DTEND:20251025T111500Z
 LOCATION:Paw.G 13 SENACKA
-DTSTART:20251212T154500Z
-SUMMARY:Urlopy i uprawnienia rodzicielskie (Studia podyplomowe)
-UID:e5b0bbb2-c1b4-4ec5-b689-5e8cb861e8d0@e5b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Bigaj
-DTEND:20260130T193000Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20260130T154500Z
-SUMMARY:Regulaminy w prawie pracy (Studia podyplomowe)
-UID:1e8fcf69-927e-4ba9-bb23-e8c5450d7147@1e8f.org
+DTSTART:20251025T064500Z
+SUMMARY:Pozapracownicze i nietypowe formy zatrudnienia (Studia podyplomowe)
+UID:eec098be-18c9-4587-9405-8f832a9a5471@eec0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marek Benio
@@ -159,6 +95,70 @@ DTEND:20251213T121500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20251213T074500Z
 SUMMARY:Urlopy i uprawnienia rodzicielskie (Studia podyplomowe)
-UID:25486b66-a5d5-40ea-8bff-d65c674dee5a@2548.org
+UID:a019e2b4-f211-4522-a121-7cad01470e67@a019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20260116T193000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260116T154500Z
+SUMMARY:Urlopy pracownicze i inne zwolnienia od pracy (Studia podyplomowe)
+UID:7933ef21-8bea-46cc-abe4-3561bbb36fe6@7933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Benio
+DTEND:20251024T183000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251024T144500Z
+SUMMARY:Pozapracownicze i nietypowe formy zatrudnienia (Studia podyplomowe)
+UID:ea75010b-e659-49d4-8d69-0115cf8972ff@ea75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20260214T134500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260214T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:b969cbda-ee5a-4c31-9fd2-205d4727dccb@b969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251205T193000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251205T154500Z
+SUMMARY:Ochrona danych osobowych (Studia podyplomowe)
+UID:f4424e3b-dfe4-43dc-985b-98eaf4659e7d@f442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20251115T121500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251115T074500Z
+SUMMARY:Polityka kadrowa (Studia podyplomowe)
+UID:c9176ed7-7930-4ac5-aa7b-af0ff6abd9b2@c917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Benio
+DTEND:20251212T193000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251212T154500Z
+SUMMARY:Urlopy i uprawnienia rodzicielskie (Studia podyplomowe)
+UID:19564e0e-e60e-4ed7-8e5b-4fa9cafe4f75@1956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20251206T124500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20251206T103000Z
+SUMMARY:Zakładowy fundusz świadczeń socjalnych (Studia podyplomowe)
+UID:f89bfbbd-6572-42cd-85f2-74f716b583d7@f89b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Strumiński
+DTEND:20251011T111500Z
+LOCATION:Paw.G 11
+DTSTART:20251011T064500Z
+SUMMARY:Nawiązywanie stosunku pracy (Studia podyplomowe)
+UID:75b2401e-7cea-451b-9083-6b40d062d8de@75b2.org
 END:VEVENT
 END:VCALENDAR
