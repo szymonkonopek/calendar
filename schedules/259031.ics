@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251218T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251218T154500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:1f4b6918-518e-4e76-8948-0af2144aa3b3@1f4b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20260114T134500Z
-LOCATION:Paw.B 251
-DTSTART:20260114T121500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:046841a4-94f1-447a-8f56-0b319eabe4ec@0468.org
+DTEND:20260108T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260108T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:600455cb-9569-4672-b2d9-835df3e26d46@6004.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Frodyma
@@ -23,709 +15,7 @@ DTEND:20251106T134500Z
 LOCATION:Platforma Moodle
 DTSTART:20251106T121500Z
 SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
-UID:56ced01a-11c9-4ef9-9a2b-545185a5f54c@56ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251009T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251009T093000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:c6ed9c02-594a-4fa5-a197-3e1170d08bef@c6ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251113T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251113T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:8b627856-d724-46e6-9ad2-11a853e179b5@8b62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20260108T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260108T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:b0ef0d9e-f979-457b-8ed0-3791f164817e@b0ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20260114T083000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260114T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:288ac910-1aea-451e-94f3-6dab6d9d9cab@288a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20260122T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260122T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:fe0b3b1b-6b94-4cc9-9a11-447efa9b14ad@fe0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251030T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251030T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:ce4bb3d5-820f-4c41-adc6-e488f673cf2a@ce4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251203T171500Z
-LOCATION:Paw.F 717
-DTSTART:20251203T154500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:494d63ec-dc71-4ddd-b1d0-490f2b434fd9@494d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251008T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251008T074500Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:ef74d6fd-f175-46dd-b17d-5cd3efdec07b@ef74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251119T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251119T121500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:28d1c299-9cde-4354-86dc-2edb53dfbaa7@28d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251204T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251204T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:fa9e5e65-f177-44fc-b387-4e31e21ea576@fa9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251202T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251202T103000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:8e177599-c011-4453-8a77-6222d7c0700a@8e17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251007T073000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251007T060000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:0137beb6-14f7-49ed-a78c-67c756190292@0137.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251127T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251127T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:70dc9739-130d-4267-80b6-fc5d21f539d8@70dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251014T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251014T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:bb95572c-72ca-4ce3-89dd-d85305a5c4e8@bb95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260120T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260120T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:1324af38-8a75-487e-912e-d264db673b6f@1324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260115T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260115T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:a1fec497-4bec-4c2f-9eca-51e9d7e7c27f@a1fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251015T161500Z
-LOCATION:Paw.E sala J
-DTSTART:20251015T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:133ef773-8749-42b0-b685-906b02e60d17@133e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20260115T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260115T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:82dfe5ef-f505-457b-840f-206c4b4525ba@82df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251008T110000Z
-LOCATION:Paw.F 715
-DTSTART:20251008T101500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:28413e63-dc53-474c-af50-17c5e2b9b865@2841.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251210T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251210T121500Z
-SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:df289da7-4d2f-4dfa-9ea7-9828bfc27180@df28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251120T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251120T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:1f085e40-fe94-40fa-9407-fac4f2ab1d73@1f08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251029T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251029T121500Z
-SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:22462faf-cf6b-4992-8a3a-4d92c8e1d0c5@2246.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260108T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260108T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:bad88f7b-7b8c-4180-97f5-3b187e11bb3e@bad8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251028T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251028T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:36698cb3-0e4b-41d6-873f-17d1d6d5957e@3669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251125T083000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251125T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:7e926ec5-e9cb-4e38-967a-1894bdd64a6d@7e92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:ca14875f-eef4-492d-b491-e9c51491ce2b@ca14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251211T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251211T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:c83d279f-f39b-4a04-badf-97ed1fdf4076@c83d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251126T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251126T070000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:4610b74e-015c-4ff2-ad2e-30f74cb87543@4610.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:7cd98295-36a9-4198-bcb0-ea361cd0dd0b@7cd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251120T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251120T154500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:0991a495-af54-4cb6-b299-0d3383182ab1@0991.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251211T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251211T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:8e80dbcb-98aa-4f3d-8977-833fb6aa7ca8@8e80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20260120T083000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260120T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:c2c7cf3a-b6de-4f82-8071-d46f8bb07f32@c2c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251029T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251029T070000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:ab4bc6c2-be34-4311-b0be-3ef53553dc9e@ab4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251112T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251112T070000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:30afa795-f778-4ea4-bced-04cb9322057c@30af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251127T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251127T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:d03723a8-5243-492d-b6f9-ca1753809ec2@d037.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251203T083000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20251203T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:9dffe2f3-0ea1-44e8-a884-db622a553610@9dff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251104T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251104T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:ad4b0f1e-1efb-4867-8bc4-bf80b18fff27@ad4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20260113T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20260113T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:447737e6-4397-4786-9691-9e4d87df3b33@4477.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251119T171500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251119T154500Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:da1714a5-0149-4a28-b27a-083fd48dc398@da17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251021T110000Z
-LOCATION:Paw.B 251
-DTSTART:20251021T093000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:f0a12158-ddd0-41e1-a1b2-b88f6d8b2ab7@f0a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251021T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251021T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:286fcfd0-23d8-46f5-80f2-36b3a0d18bef@286f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251112T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251112T121500Z
-SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:b60a6381-7bea-42ae-a512-d3f4757663c1@b60a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260113T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260113T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:11595732-233a-4999-b074-ba15067b4f8d@1159.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260122T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260122T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:08ed8315-04d5-4794-86d0-e60c0010951d@08ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251219T083000Z
-LOCATION:Platforma Moodle
-DTSTART:20251219T070000Z
-SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
-UID:0205dca6-3f95-4f6d-a005-9b4bdaa457ec@0205.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260114T101500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260114T084500Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:b2d25c9b-9846-45a4-94a2-9c8de350ad46@b2d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251009T161500Z
-LOCATION:Paw.F 104
-DTSTART:20251009T144500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:b978024d-c3db-4c3c-8d12-0119c06d3d8c@b978.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260108T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260108T173000Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:ff0494dc-b29c-4d87-a471-9a8fbb700b43@ff04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251028T083000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251028T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:412d1750-b3c9-49af-ac7a-89d182e54ca9@412d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251203T101500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251203T084500Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:bc8f0bef-f9f9-4815-82ac-7c5fcd5d26d7@bc8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251104T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251104T103000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:73527c58-dce1-4408-b0b1-5593dbcbf9eb@7352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251104T083000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251104T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:3a5f5051-6c34-4216-8580-e702be94ff9b@3a5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260122T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260122T173000Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:e040df86-9e5a-431b-9368-fdae9b1bba16@e040.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251113T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251113T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:ad55f556-3085-4228-b92d-ba734125aca1@ad55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251009T124500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251009T111500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:df01dd6d-7cf1-458a-9029-27937b10a479@df01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251014T110000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251014T093000Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:1a4fc88c-9d06-47ae-932f-522d29728e51@1a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260107T134500Z
-LOCATION:Paw.B 251
-DTSTART:20260107T121500Z
-SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:54e4e895-ab37-4d42-afbf-1df6468e1b54@54e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251118T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251118T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:752b9177-c635-43c6-88f9-ed3fbd297bbd@752b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251014T143000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251014T130000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:d639d441-8990-4e39-895d-d00a73c47ccb@d639.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251216T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251216T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:02533e2f-9d13-49ce-b4b1-e0a5c0c10d6d@0253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251008T124500Z
-LOCATION:Paw.B 251
-DTSTART:20251008T111500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:6877c66c-27b5-49a9-ab31-56775817dad7@6877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251218T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251218T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:75ac6d11-bc2f-4dd8-a02a-4fd6c93a5a91@75ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251015T073000Z
-LOCATION:Paw.B 251
-DTSTART:20251015T060000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:378aecc9-e2d7-4a71-bd11-98659f7438e8@378a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251120T134500Z
-LOCATION:Platforma Moodle
-DTSTART:20251120T121500Z
-SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
-UID:34f32939-4198-4d93-9d41-c64575208314@34f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251021T143000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251021T130000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:1347948c-a4da-4b0a-b816-11058d669233@1347.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251023T124500Z
-LOCATION:Platforma Moodle
-DTSTART:20251023T111500Z
-SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
-UID:07ebb58d-fa29-42c5-bc87-ac3c24ac8668@07eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251202T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251202T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:0b08a162-e6c9-490e-86b4-039a8df36e19@0b08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251021T073000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251021T060000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:e9b8b152-8613-4f2b-a389-dd7308dea5fc@e9b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251030T134500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20251030T121500Z
-SUMMARY:Prognozowanie i symulacje (ćwiczenia)
-UID:9099eff9-824b-4baf-a98c-a1c57fabde79@9099.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251203T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251203T121500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:8bb5dd89-b802-441a-bbcb-94be4c8a1f6d@8bb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260121T130000Z
-LOCATION:Paw.B 251
-DTSTART:20260121T121500Z
-SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:db49b715-a0ed-4a0b-8206-270e2e0ea9c4@db49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251217T101500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251217T084500Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:c1fcea6a-d32d-4d1f-b925-1eb435ecbe20@c1fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20260113T111500Z
-LOCATION:Paw.B 251
-DTSTART:20260113T103000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:d43ad4fd-e645-413a-9b4c-0a427bc458fe@d43a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251202T083000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251202T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:c0f46c95-3d6e-47ad-865c-84df251cef4e@c0f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251112T101500Z
-LOCATION:Paw.F 715
-DTSTART:20251112T084500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:295e82be-f17a-4353-bacf-c6441d91880b@295e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251002T124500Z
-LOCATION:Paw.F 107
-DTSTART:20251002T111500Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:b0c712cf-b87d-4ab5-8499-1643264cde2a@b0c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251022T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251022T074500Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:80404725-ac16-44d1-bfa6-05e827ae6083@8040.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251022T124500Z
-LOCATION:Paw.B 251
-DTSTART:20251022T111500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:c8d7d96e-3197-4dbe-ae8a-007e944759ab@c8d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251216T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251216T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:0068cce4-0581-4952-8621-6055602092c7@0068.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260107T083000Z
-LOCATION:Paw.B 251
-DTSTART:20260107T070000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:d133cbd7-775c-483a-814d-5609875c9f97@d133.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251202T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251202T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:7914eb24-e149-4e1c-a607-026e6ece9a50@7914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251007T110000Z
-LOCATION:Paw.B 251
-DTSTART:20251007T093000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:bd5cdeed-8699-4e8a-9f80-da75134dedff@bd5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251028T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251028T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:1f2ef529-b0e6-4981-b7cd-9892e0acd418@1f2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251216T083000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251216T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:a0d5d403-4fe2-41df-ae76-21bed193d052@a0d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251209T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251209T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:4c5ddcdd-6397-4d19-a704-f5a8071f1224@4c5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251105T101500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251105T084500Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:9de00dfe-ea72-4172-b062-119a7dd7cbe3@9de0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20260115T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260115T173000Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:8a769bb1-f062-4626-b718-8db29455b29f@8a76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251119T101500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251119T084500Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:535d19b1-d079-42c2-a515-99a83bdf4e65@535d.org
+UID:4be38d86-969b-4ef2-9a1e-a2d8e3e93e4c@4be3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
@@ -733,119 +23,15 @@ DTEND:20260121T083000Z
 LOCATION:Paw.B 251
 DTSTART:20260121T074500Z
 SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:2f258377-9f88-4cec-829b-b2c339713988@2f25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251125T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251125T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:240b5045-5408-4e84-be35-b5c44a1d1064@240b.org
+UID:3885b0e9-e883-4e53-91de-289f98dd16b4@3885.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251105T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251105T121500Z
-SUMMARY:Prognozowanie i symulacje (wykład)
-UID:97070649-77c3-4ea3-b3fb-7aefa024df7c@9707.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251204T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251204T154500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:7eeb82a6-8117-4a0f-bbaf-eb74ed04ead0@7eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251104T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251104T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:85c4d9d0-55e3-423c-bc74-1205445efeb6@85c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260121T101500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260121T093000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
-UID:acdb0d73-5d38-4f9c-a22d-ed9ab5748f67@acdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251007T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251007T144500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:cd1b7137-43ef-402e-8c7e-2a6ee00fa2d2@cd1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251210T083000Z
-LOCATION:Paw.B 251
-DTSTART:20251210T070000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:8b4fec05-20d1-463d-b7d6-44f165748e85@8b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20251001T073000Z
-LOCATION:Paw.B 251
-DTSTART:20251001T060000Z
-SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
-UID:1706b500-9e75-4b70-9444-2a225ac6e9df@1706.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251001T124500Z
-LOCATION:Paw.B 251
-DTSTART:20251001T111500Z
-SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:41ad2838-01d1-461b-a30d-528e8054be37@41ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251125T120000Z
-LOCATION:Paw.C sala E
-DTSTART:20251125T103000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:6673f116-8d4d-4fe8-b451-4b935029806d@6673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20260113T083000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260113T070000Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:d3fdb136-33fc-4919-b650-aec75cc735c9@d3fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251216T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251216T103000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:7877bea6-6e03-482c-9d72-079b480d2f0f@7877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251106T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251106T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:4ca94a43-a096-4604-866a-6e4ad2261023@4ca9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251125T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251125T154500Z
-SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
-UID:314963cb-ea41-42d4-8e50-22a9cb8b69b8@3149.org
+DTEND:20251023T124500Z
+LOCATION:Platforma Moodle
+DTSTART:20251023T111500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:740b1b34-e381-4523-980a-4711182cf456@740b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Tondera
@@ -853,15 +39,31 @@ DTEND:20251007T143000Z
 LOCATION:Bud.gł. Stara Aula
 DTSTART:20251007T130000Z
 SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:1f267afe-64ee-4929-83d7-0f238ac38736@1f26.org
+UID:6f96e0a6-7c21-41af-a633-17408700f746@6f96.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20251106T171500Z
-LOCATION:Paw.F 104
-DTSTART:20251106T154500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:731992c5-27b3-4d92-98d2-07170b78fd70@7319.org
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251028T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251028T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:6d0e2efa-13fb-467f-b042-907df15d6d26@6d0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251021T143000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251021T130000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:81f4c72b-bd5b-4474-984f-904815ae65ea@81f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251014T110000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251014T093000Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:5a1b339c-16c7-490c-af8f-8b013a8436bf@5a1b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Janusz Niezgoda
@@ -869,111 +71,23 @@ DTEND:20251126T134500Z
 LOCATION:Paw.B 251
 DTSTART:20251126T121500Z
 SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:55e52810-ad35-4a39-b9e6-da3b52666c0e@55e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251217T171500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251217T154500Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:f670a6d6-2547-4e1e-9ad7-cfac17a20b5a@f670.org
+UID:af6f2f41-d5b1-41fd-9697-169683389978@af6f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251113T101500Z
-LOCATION:Paw.C sala F
-DTSTART:20251113T084500Z
-SUMMARY:Badania operacyjne (ćwiczenia)
-UID:a1544f01-312e-4e17-b30e-d628e63a6b8a@a154.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260115T171500Z
-LOCATION:Paw.F 104
-DTSTART:20260115T154500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:897b6eb7-d6f5-48a2-86d2-09467fba9d7e@897b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251118T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251118T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:501f8e07-e626-4c09-a707-99bd55f5e8f1@501f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251023T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251023T093000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:5f9f67f2-0c72-4e22-a9ee-1d1de33455ba@5f9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251218T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251218T103000Z
-SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:a0c9f541-acaf-4f5d-82ec-de2fef56e695@a0c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260121T153000Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20260121T144500Z
-SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
-UID:32647c4f-f329-4b9a-9d38-8c04957c521b@3264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20260114T171500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20260114T154500Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:354e023e-2e83-450c-b322-e1f52987a56d@354e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251118T083000Z
+DTEND:20251202T083000Z
 LOCATION:Paw.B 054 (KSB)
-DTSTART:20251118T070000Z
+DTSTART:20251202T070000Z
 SUMMARY:Badania operacyjne (ćwiczenia)
-UID:533913c1-794d-48c0-93c6-09f6bed1871f@5339.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
-DTEND:20251118T120000Z
-LOCATION:Paw.B 251
-DTSTART:20251118T103000Z
-SUMMARY:Badania operacyjne (wykład)
-UID:b9ebdc6d-156d-4a70-aba4-402d8926c0b4@b9eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Tondera
-DTEND:20251209T153000Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20251209T140000Z
-SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:afc03146-1f7c-4295-bfc5-a3a96b30c12c@afc0.org
+UID:1bac4048-7c92-4b9f-910c-0918c69f1ba4@1bac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
-DTEND:20251002T110000Z
+DTEND:20260108T120000Z
 LOCATION:Paw.S sala 8
-DTSTART:20251002T093000Z
+DTSTART:20260108T103000Z
 SUMMARY:Analiza finansowych szeregów czasowych (wykład)
-UID:ca0604d6-1896-4d48-9633-9ddebb84ab7d@ca06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Frodyma
-DTEND:20251204T134500Z
-LOCATION:Platforma Moodle
-DTSTART:20251204T121500Z
-SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
-UID:078ee013-099f-486a-9fbb-85b55eb6d1d1@078e.org
+UID:42b5519a-ded1-44e1-906b-c7a24f294080@42b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Janusz Niezgoda
@@ -981,7 +95,31 @@ DTEND:20251015T124500Z
 LOCATION:Paw.B 251
 DTSTART:20251015T111500Z
 SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
-UID:24abd936-74db-43d6-84dc-19d30d197c6e@24ab.org
+UID:79372b53-8dea-44c2-b67c-6a3a3525ec3e@7937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251029T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251029T070000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
+UID:2dc376fc-fcdb-45d9-8983-eef15de8e35f@2dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251118T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251118T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:646beb49-c7cd-4c94-925b-b6109508a3a9@646b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251014T143000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251014T130000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:cc90de3f-d5bc-4780-a8ec-ec986cf13614@cc90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
@@ -989,7 +127,78 @@ DTEND:20251209T083000Z
 LOCATION:Paw.B 054 (KSB)
 DTSTART:20251209T070000Z
 SUMMARY:Badania operacyjne (ćwiczenia)
-UID:67cdaeac-a737-4023-b6d3-d464212b86c3@67cd.org
+UID:6b50cc9f-2cdd-417f-bc7e-646a499bff4b@6b50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251211T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251211T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:4101011a-903f-4652-b95f-2a2342ca3770@4101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251009T124500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251009T111500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:399e2a17-af0a-4935-9095-1625cea3cbb4@399e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20260115T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260115T173000Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:b2a7f90b-821f-4843-8aba-6ff8effc579e@b2a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:bc4103f4-4bb8-47fc-8c65-5b1e5e148237@bc41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251112T101500Z
+LOCATION:Paw.F 715
+DTSTART:20251112T084500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:65c3bf07-01bd-4a39-a5b7-53a0317db3ac@65c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251125T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251125T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:322622f2-29bd-45fd-a018-c3fd0413e6a3@3226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251210T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251210T070000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
+UID:66d3c69b-a72d-4d1e-aea8-877ef5b8ee72@66d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251021T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251021T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:40e15236-cd38-4374-9d06-18da500b2234@40e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251009T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251009T093000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:cd936332-0015-44d5-bb67-21b8aa291cba@cd93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Tondera
@@ -997,6 +206,797 @@ DTEND:20260120T153000Z
 LOCATION:Bud.gł. Stara Aula
 DTSTART:20260120T140000Z
 SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
-UID:fc335178-851e-411c-8e26-cb5a617f8fe8@fc33.org
+UID:faae5b20-1091-437a-9e31-17949c099f33@faae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251120T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251120T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:bcdbc581-aadc-4398-b333-307fe6853a8c@bcdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251008T124500Z
+LOCATION:Paw.B 251
+DTSTART:20251008T111500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:7ad8120e-9d4d-4467-a608-ef5cd0f5b468@7ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251119T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251119T154500Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:c51dafc5-ae3d-4122-8201-33617854b51a@c51d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251217T101500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251217T084500Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:77df3e30-eb3a-44d1-b569-296492b719c0@77df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260121T130000Z
+LOCATION:Paw.B 251
+DTSTART:20260121T121500Z
+SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
+UID:739f18f1-6e2c-450c-866f-fa46da5b1f72@739f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251209T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251209T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:c151d663-68ab-4532-89e3-5f29ac48b3ec@c151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20260122T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260122T173000Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:f10ce2f2-443a-4633-8716-f5f938e59c6a@f10c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251008T110000Z
+LOCATION:Paw.F 715
+DTSTART:20251008T101500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:5adb7e36-94d6-40e1-af8c-42c12f90442e@5adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251127T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251127T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:1b967f80-7582-406a-845c-e112a56ffd19@1b96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251021T110000Z
+LOCATION:Paw.B 251
+DTSTART:20251021T093000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:76dd8b77-a32a-402c-bc64-1ebdc3ed5f5b@76dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251113T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251113T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:c46efe7f-1ebe-46e7-ba47-4761e4a2e641@c46e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20260115T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260115T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:cc22b461-f7a1-4e8e-aadb-90b7c1717093@cc22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251029T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251029T121500Z
+SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
+UID:d737609e-2b66-49be-b157-661a545d6439@d737.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20260108T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260108T173000Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:3007ffbc-b71c-4f84-9d1a-c6982562e92c@3007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251028T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251028T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:7358c42c-332c-4d36-a655-8768cbc9a18f@7358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251217T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251217T154500Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:3143855a-9809-4b1c-ace5-95cbc37a0771@3143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251203T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251203T121500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:6810d3ec-0fba-44d1-b2c8-9f98d450c902@6810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251120T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251120T154500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:3112609c-c433-4e8d-8523-bf2c74a3395f@3112.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251008T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251008T074500Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:30d8f4ea-253a-40c4-8034-bf762a25aee3@30d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251216T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251216T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:87a2ca0b-d50b-40da-aa17-0b9f35fa31ed@87a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251104T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251104T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:95170573-cd5d-4336-8651-c3e2dabd240d@9517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251218T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251218T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:c9b1c885-4915-4552-9503-6b8cc69b9251@c9b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251209T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251209T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:407b6f85-1db5-41bb-b9ce-4c8fdb76ea4e@407b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251127T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251127T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:1f08e374-fd93-475b-b86a-1699d4cdc59b@1f08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251125T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251125T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:66649ef1-aa5b-4d75-a0f6-35790954fe0c@6664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251202T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251202T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:cee85bc7-50cc-4571-aad3-0a15a10433d0@cee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251028T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251028T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:9368f308-1b68-42c1-b2f1-73a05e937ce0@9368.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260121T153000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20260121T144500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:a46983ab-3875-44a2-8635-1b5ebc137b0c@a469.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251204T134500Z
+LOCATION:Platforma Moodle
+DTSTART:20251204T121500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:82db282e-a501-4a65-8b2d-fca25b887b49@82db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251015T073000Z
+LOCATION:Paw.B 251
+DTSTART:20251015T060000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
+UID:aef31d05-7b08-4da5-af17-8aa3f97ec67a@aef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251030T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20251030T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:0f3a7e2e-656c-4b7d-89d2-1d5e13e80237@0f3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20260113T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20260113T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:4e47c210-4294-484a-b55d-9b352c5abea0@4e47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251125T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20251125T103000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:82c5521a-87e8-4fb1-acaa-d1808aece8aa@82c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251218T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251218T154500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:25d11362-4477-4755-87f1-59d75fe0eb85@25d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20260120T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260120T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:d89b11f8-1c88-4ce2-92cc-b48848d9d315@d89b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251211T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251211T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:197b2179-1bbb-4290-a76b-86a4a530af1b@197b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251009T161500Z
+LOCATION:Paw.F 104
+DTSTART:20251009T144500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:8d4f33f2-80a4-4289-bd84-e1d8fbce0d49@8d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260115T171500Z
+LOCATION:Paw.F 104
+DTSTART:20260115T154500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:fa07bd7c-5563-42c0-a21e-cbb578e9f4e5@fa07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251203T171500Z
+LOCATION:Paw.F 717
+DTSTART:20251203T154500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:ad298a46-002e-4934-9b56-a2f88f649edd@ad29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251203T101500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251203T084500Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:52b21d7d-d360-4d44-b217-5e60a3ad33f4@52b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251001T124500Z
+LOCATION:Paw.B 251
+DTSTART:20251001T111500Z
+SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
+UID:3187c783-e201-4386-b239-d4def49b485d@3187.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260107T134500Z
+LOCATION:Paw.B 251
+DTSTART:20260107T121500Z
+SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
+UID:41cf81b3-0171-45e9-abe2-fe2fa8f0597d@41cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251104T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251104T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:44400cb9-8b5b-4fbc-a3f9-ad3780562633@4440.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251125T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251125T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:963f04db-f601-421e-a4f7-d2182c1b4182@963f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251007T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251007T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:c66eb77a-8858-4184-bebb-5c850906eee3@c66e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251106T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251106T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:270fcceb-5de4-44a2-9c02-a919c3b6ca3e@270f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20260122T134500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260122T121500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:3914cfbb-23c0-4ca4-87e9-fb307f869007@3914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251126T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251126T070000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
+UID:eb2c9a2d-eaf3-42aa-bf7e-a55cc6ad182f@eb2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251218T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251218T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:983acc44-3bc1-4813-a3c0-b5cee382f533@983a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251104T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251104T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:7aac6773-20dc-4507-9a97-ab331c8e666b@7aac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20260114T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20260114T154500Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:dbd096af-e31f-4498-9dcc-8ee5292bb823@dbd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20260114T134500Z
+LOCATION:Paw.B 251
+DTSTART:20260114T121500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:c4a61808-72b2-4b7c-830a-7c439bc1fb28@c4a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251216T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251216T103000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:e47505c1-e2ee-4a71-be83-b9f5cd0989ba@e475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251119T101500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251119T084500Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:c30aa088-a313-4788-8bb0-3877f92e795a@c30a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251105T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251105T121500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:45e4ac55-0a74-4ef9-b755-2c5e684a1581@45e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251112T083000Z
+LOCATION:Paw.B 251
+DTSTART:20251112T070000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
+UID:b34cf167-ff56-4cf1-aecc-35bfe7164b71@b34c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251216T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251216T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:d590bf98-0567-4b99-91a6-1deca64267a6@d590.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251216T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251216T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:e9901d83-585c-470d-b59e-fb4efcb0c966@e990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251118T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251118T103000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:2c3b9bb6-5725-4e4f-8ea7-23c915531992@2c3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251002T124500Z
+LOCATION:Paw.F 107
+DTSTART:20251002T111500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:ee91ab68-d2d0-48be-a86d-f3eb4f8ad6a7@ee91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251112T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251112T121500Z
+SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
+UID:9d63ba2c-0f51-4244-991c-5f6ef05e7b1a@9d63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251030T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251030T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:949710de-d33c-42d8-8072-956dfff0f611@9497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251021T073000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251021T060000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:205e6772-e1f0-4a8b-9827-d01d92cf0337@205e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251001T073000Z
+LOCATION:Paw.B 251
+DTSTART:20251001T060000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
+UID:a7d918d9-3d7d-4ba7-af66-fe8c3e46b417@a7d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251015T161500Z
+LOCATION:Paw.E sala J
+DTSTART:20251015T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:94654c4b-a50e-48b5-af2e-eb27d65da66a@9465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251104T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251104T103000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:5147991f-c770-44dc-b810-fd8a7d5f855a@5147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251007T110000Z
+LOCATION:Paw.B 251
+DTSTART:20251007T093000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:5132b817-9d91-43e0-b655-91a17e3d4811@5132.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251204T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251204T154500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:e7860d08-4d99-4aca-a0a5-cb05304458f8@e786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251219T083000Z
+LOCATION:Platforma Moodle
+DTSTART:20251219T070000Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:e56abb2f-671a-4637-b411-1c2af6841ce3@e56a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260107T083000Z
+LOCATION:Paw.B 251
+DTSTART:20260107T070000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (wykład do wyboru)
+UID:d01ec07e-7b87-47b7-8a03-18a50b979bca@d01e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251002T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251002T093000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:f7b3cfdb-ef43-4ec8-863f-7946e0851ba4@f7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20251202T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20251202T140000Z
+SUMMARY:Ochrona własności  intelektualnej (wykład do wyboru)
+UID:c85662f2-e763-4cc1-9f4c-95d526864e7c@c856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260114T101500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260114T084500Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:e9d1f5d1-33c6-43c2-8409-91e6ca2d76f9@e9d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20260115T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260115T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:dfe70fac-f5db-49d8-8d6d-d059c7841ad9@dfe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251007T073000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251007T060000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:807884ec-8ee4-4f06-8ed0-cc650eb54973@8078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20260122T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260122T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:bccfd643-a5be-495e-a433-d49934795896@bccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20260113T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260113T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:fc584fd4-c16e-451e-95a8-b1b7078ee533@fc58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251113T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251113T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:daa8322c-a492-417d-8e62-68437a196265@daa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251203T083000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20251203T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:e99f1d1c-f65e-4826-8957-1eea410e718e@e99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20260113T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260113T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:cfc808d5-1f6a-416c-910a-3c55935e820c@cfc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251118T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251118T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:612cc760-cab4-467f-a3be-6a77b9751a95@612c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251204T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251204T103000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:497df8ea-7c85-45c9-a34c-558804234b8d@497d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251022T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251022T074500Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:943c4c7f-4651-4044-9748-a98fbe9aff42@943c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251118T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251118T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:2e389edb-6147-4ba0-a526-b6a8457244ef@2e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20260114T083000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260114T070000Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:0d5d49a1-d529-4321-a011-4353f3311130@0d5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20260120T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260120T154500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:db2604bb-26c2-434d-8eec-4b4a0da69312@db26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251023T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251023T093000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:adcca526-d129-4219-aa37-a500d77b7fe4@adcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20260113T111500Z
+LOCATION:Paw.B 251
+DTSTART:20260113T103000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:b4a95231-a97f-48bd-b66b-0a5ab6488225@b4a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251202T120000Z
+LOCATION:Paw.B 251
+DTSTART:20251202T103000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:655868a6-001e-4b51-bb2c-4a8fc85a7c87@6558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260121T101500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260121T093000Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:06869482-7101-404c-8e0d-ac6df9fe19b9@0686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251119T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251119T121500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:b84fae35-e706-41d7-9428-0ac9d51ba7fa@b84f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251120T134500Z
+LOCATION:Platforma Moodle
+DTSTART:20251120T121500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:3f0d3e61-d4f6-4beb-9e35-b9a380dd9223@3f0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251106T171500Z
+LOCATION:Paw.F 104
+DTSTART:20251106T154500Z
+SUMMARY:Wstęp do statystyki małych obszarów (ćwiczenia do wyboru)
+UID:066afe6f-111b-4a85-83b2-da8cdb25d4b1@066a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:40a9b881-218b-4de0-8ff3-d585d42bb626@40a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20251210T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251210T121500Z
+SUMMARY:Wstęp do statystyki małych obszarów (wykład do wyboru)
+UID:73a4c050-d345-48af-a7fa-72174cb40d6c@73a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20251022T124500Z
+LOCATION:Paw.B 251
+DTSTART:20251022T111500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:9a82f1fe-cb46-4a6a-85b2-2cd4b45e6384@9a82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20251105T101500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251105T084500Z
+SUMMARY:Ekonometryczne metody badań preferencji konsumentów z programem Excel (ćwiczenia do wyboru)
+UID:5c4627ba-132b-4860-b3c9-bf2abf824395@5c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20251014T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251014T144500Z
+SUMMARY:Analiza finansowych szeregów czasowych (ćwiczenia)
+UID:71fc4607-df60-4afc-91e3-6db5fd92d4d7@71fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20251113T101500Z
+LOCATION:Paw.C sala F
+DTSTART:20251113T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:376b0092-2e40-4f43-913d-d25ae4b057c9@376b.org
 END:VEVENT
 END:VCALENDAR
