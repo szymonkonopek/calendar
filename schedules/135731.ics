@@ -2,11 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251206T160000Z
+DTSTART:20251206T070000Z
+SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
+UID:aea3cb87-b26a-42b7-802f-0468ae4cfeb3@aea3.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Danuta Krzywda
 DTEND:20251026T114500Z
 DTSTART:20251026T084500Z
 SUMMARY:Międzynarodowe i krajowe standardy rachunkowości (Studia podyplomowe)
-UID:fc03401f-1c2f-4764-a5ef-d14e85f3a038@fc03.org
+UID:ad94fe31-0ccd-4ea4-9bcf-49051fdbfb66@ad94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20260131T143000Z
+DTSTART:20260131T070000Z
+SUMMARY:Rachunkowość podatkowa (Studia podyplomowe)
+UID:ad7073b3-e7ba-441d-8ee3-c62de29c1dfc@ad70.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
@@ -14,14 +28,7 @@ DTEND:20260118T123000Z
 LOCATION:link do zajęć
 DTSTART:20260118T084500Z
 SUMMARY:Rewizja finansowa (egzamin)
-UID:ac9f9794-1d86-49c6-bcd1-01f3d128920b@ac9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Witold Furman
-DTEND:20260131T143000Z
-DTSTART:20260131T070000Z
-SUMMARY:Rachunkowość podatkowa (Studia podyplomowe)
-UID:f1c8c8e2-a1be-47a4-878a-8cc9a46aa2ab@f1c8.org
+UID:f67e47a4-0595-4b0b-95ea-f38cb394cd8a@f67e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
@@ -29,70 +36,7 @@ DTEND:20260215T131500Z
 LOCATION:link do zajęć
 DTSTART:20260215T084500Z
 SUMMARY:Finanse międzynarodowe (egzamin)
-UID:dc7fcc13-4ca6-4bf6-90d0-aadf358e7bd1@dc7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251004T181500Z
-DTSTART:20251004T134500Z
-SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
-UID:d0afa7d5-1904-4320-8899-d5d2f8ec5f8c@d0af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251018T141500Z
-DTSTART:20251018T064500Z
-SUMMARY:Kontrola i audyt wewnętrzny (Studia podyplomowe)
-UID:9d97fd78-3259-4a29-8b02-501e1e814892@9d97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Witold Furman
-DTEND:20260130T193000Z
-DTSTART:20260130T154500Z
-SUMMARY:Rachunkowość podatkowa (Studia podyplomowe)
-UID:2b7d7634-a364-4bf8-9863-58795a08c7b3@2b7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Witold Furman
-DTEND:20251003T183000Z
-DTSTART:20251003T144500Z
-SUMMARY:Rachunkowość podatkowa (Studia podyplomowe)
-UID:dc110597-0f74-4ced-87a5-3b70c60e7ca9@dc11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Turek-Radwan
-DTEND:20251129T160000Z
-DTSTART:20251129T121500Z
-SUMMARY:Kontrola i audyt wewnętrzny (Studia podyplomowe)
-UID:b25dad49-2c23-4734-8823-3d76404b8d9b@b25d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20260221T113000Z
-DTSTART:20260221T074500Z
-SUMMARY:Matematyka finansowa (Studia podyplomowe)
-UID:415cd8f8-1121-4423-906e-1db59727eb9b@415c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
-DTEND:20260220T193000Z
-DTSTART:20260220T154500Z
-SUMMARY:Matematyka finansowa (Studia podyplomowe)
-UID:96dbeacf-2c4f-416c-b574-5a91b4886ea1@96db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251206T160000Z
-DTSTART:20251206T070000Z
-SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
-UID:cf49dcff-9cc7-4f1c-add0-476b5b43d6ae@cf49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
-DTEND:20251114T193000Z
-DTSTART:20251114T154500Z
-SUMMARY:Rewizja finansowa (Studia podyplomowe)
-UID:1a9c514d-c5e9-4625-a169-ed33e4d1e31e@1a9c.org
+UID:7f1e90a9-8370-44bf-abb6-6aa667b506a2@7f1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Monika Turek-Radwan
@@ -100,34 +44,90 @@ DTEND:20251221T100000Z
 LOCATION:link do zajęć
 DTSTART:20251221T070000Z
 SUMMARY:Kontrola i audyt wewnętrzny (egzamin)
-UID:e62c4e87-126b-45ed-91c6-38c5d8d05ea1@e62c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251205T194500Z
-DTSTART:20251205T173000Z
-SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
-UID:2fdd047e-8dee-42b5-8496-05066ccf2e7b@2fdd.org
+UID:4b979065-0a15-4c5c-814c-b970fd883824@4b97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
 DTEND:20251018T183000Z
 DTSTART:20251018T153000Z
 SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
-UID:bb6ba487-971b-46b8-b158-8ec736591558@bb6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
-DTEND:20251219T193000Z
-DTSTART:20251219T154500Z
-SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
-UID:cfa85367-fd47-4b53-aa12-a6a9ae628537@cfa8.org
+UID:cb926465-b5a6-4a8a-a80d-aa1c85d5dd71@cb92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
 DTEND:20251115T151500Z
 DTSTART:20251115T074500Z
 SUMMARY:Rewizja finansowa (Studia podyplomowe)
-UID:f91f78f6-69e7-4796-b566-4f7b35d8b7b0@f91f.org
+UID:37a44e30-8e8e-4093-8849-fb4848b215ff@37a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20251129T160000Z
+DTSTART:20251129T121500Z
+SUMMARY:Kontrola i audyt wewnętrzny (Studia podyplomowe)
+UID:ab86d3f5-44eb-46f5-bc89-f62f1b20ce57@ab86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20260221T113000Z
+DTSTART:20260221T074500Z
+SUMMARY:Matematyka finansowa (Studia podyplomowe)
+UID:0fd991cc-4374-4703-a3ab-ec69486b2c79@0fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251004T181500Z
+DTSTART:20251004T134500Z
+SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
+UID:07798475-602b-40bf-bc13-09b1e160908f@0779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251219T193000Z
+DTSTART:20251219T154500Z
+SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
+UID:2fa66552-2228-4594-b06a-49132416dde9@2fa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20251114T193000Z
+DTSTART:20251114T154500Z
+SUMMARY:Rewizja finansowa (Studia podyplomowe)
+UID:41fe8e94-2944-425d-a145-6cb7541d1d39@41fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20260130T193000Z
+DTSTART:20260130T154500Z
+SUMMARY:Rachunkowość podatkowa (Studia podyplomowe)
+UID:8fc9add1-8088-4e89-84a1-b70032d1fbed@8fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20251205T194500Z
+DTSTART:20251205T173000Z
+SUMMARY:Finanse międzynarodowe (Studia podyplomowe)
+UID:815b8884-2a1c-475b-88f4-ba7ec2a5cea7@815b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20251003T183000Z
+DTSTART:20251003T144500Z
+SUMMARY:Rachunkowość podatkowa (Studia podyplomowe)
+UID:8e7bc535-7d16-4f3a-85da-35877abeda8f@8e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20251018T141500Z
+DTSTART:20251018T064500Z
+SUMMARY:Kontrola i audyt wewnętrzny (Studia podyplomowe)
+UID:1000664b-1686-4acd-81db-34d574440ff9@1000.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20260220T193000Z
+DTSTART:20260220T154500Z
+SUMMARY:Matematyka finansowa (Studia podyplomowe)
+UID:38de64e0-477b-44c5-919c-5998df9fb109@38de.org
 END:VEVENT
 END:VCALENDAR
