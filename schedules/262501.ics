@@ -2,19 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Dziadkowiec
+DTEND:20260118T134500Z
+DTSTART:20260118T074500Z
+SUMMARY: (Studia podyplomowe)
+UID:367a4577-ce73-426d-b588-857a68466951@367a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Stopa
 DTEND:20251026T134500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20251026T074500Z
 SUMMARY: (Studia podyplomowe)
-UID:abc3b3fb-ef02-4165-bbb6-4235d2e1a684@abc3.org
+UID:539d890c-6cea-481f-bfcc-f1638e1e85bd@539d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Maciej Winiarski
 DTEND:20251214T134500Z
 DTSTART:20251214T074500Z
 SUMMARY: (Studia podyplomowe)
-UID:6330fc99-5f1a-487b-9280-eb03b01620e2@6330.org
+UID:8f83d60b-15a9-438b-89b8-ddebd6b7cf1e@8f83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maciej Winiarski
+DTEND:20260117T134500Z
+DTSTART:20260117T074500Z
+SUMMARY: (Studia podyplomowe)
+UID:9ac94cbf-1e58-4e75-ba16-447fb2c1a157@9ac9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Maćkowiak
@@ -22,51 +36,7 @@ DTEND:20251025T124500Z
 LOCATION:Paw.B 059 (KSB)
 DTSTART:20251025T064500Z
 SUMMARY: (Studia podyplomowe)
-UID:70aad1a0-8999-4245-8ea6-42efe93a2fc5@70aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Maciej Winiarski
-DTEND:20260117T134500Z
-DTSTART:20260117T074500Z
-SUMMARY: (Studia podyplomowe)
-UID:b7addfbc-d97c-4167-ac02-0920053a63cd@b7ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
-DTEND:20251130T134500Z
-LOCATION:Paw.G  8
-DTSTART:20251130T074500Z
-SUMMARY:Infrastruktura przedsiębiorstw logistycznych (Studia podyplomowe)
-UID:fc558fb8-aca5-4216-86c1-7ace5a43cc5f@fc55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20251129T134500Z
-LOCATION:Paw.G  8
-DTSTART:20251129T074500Z
-SUMMARY:Negocjacje w logistyce (Studia podyplomowe)
-UID:7d5bfdce-18fb-4786-a775-f40fb60e7030@7d5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Dziadkowiec
-DTEND:20260118T134500Z
-DTSTART:20260118T074500Z
-SUMMARY: (Studia podyplomowe)
-UID:718a8a38-525a-4938-9a4a-75ae474d8ae4@718a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Hubert Walczak
-DTEND:20260117T174500Z
-DTSTART:20260117T144500Z
-SUMMARY:Aktualne trendy i kierunki zmian w logistyce przedsiębiorstw (Studia podyplomowe)
-UID:b937fa24-a2cc-4517-8499-99e0da4971b9@b937.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Maćkowiak
-DTEND:20251213T134500Z
-DTSTART:20251213T074500Z
-SUMMARY: (Studia podyplomowe)
-UID:b7cb5871-002f-4f19-9cf5-542707aceddc@b7cb.org
+UID:506df8e0-6382-461c-b701-7167446dff4b@506d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Tomasz Bober
@@ -74,7 +44,37 @@ DTEND:20251115T160000Z
 LOCATION:Paw.G  9
 DTSTART:20251115T130000Z
 SUMMARY: (Studia podyplomowe)
-UID:c4210f0d-828e-405c-af94-1d7f71be1459@c421.org
+UID:f8fc6fe5-18d9-4370-8f05-3190b0275ae7@f8fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Hubert Walczak
+DTEND:20260117T174500Z
+DTSTART:20260117T144500Z
+SUMMARY:Aktualne trendy i kierunki zmian w logistyce przedsiębiorstw (Studia podyplomowe)
+UID:23d91001-7f38-4db2-9d48-c5c79c30b740@23d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20251130T134500Z
+LOCATION:Paw.G  8
+DTSTART:20251130T074500Z
+SUMMARY:Infrastruktura przedsiębiorstw logistycznych (Studia podyplomowe)
+UID:62a373d4-ce63-4e42-a862-406cee9e3cc0@62a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20251129T134500Z
+LOCATION:Paw.G  8
+DTSTART:20251129T074500Z
+SUMMARY:Negocjacje w logistyce (Studia podyplomowe)
+UID:30b2bb2f-98cc-41a1-bda0-166ba01b24da@30b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Hubert Walczak
+DTEND:20260118T174500Z
+DTSTART:20260118T144500Z
+SUMMARY:Aktualne trendy i kierunki zmian w logistyce przedsiębiorstw (Studia podyplomowe)
+UID:dff49955-1b40-4123-b790-3e3ae88c0c55@dff4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Tomasz Bober
@@ -82,13 +82,13 @@ DTEND:20251116T104500Z
 LOCATION:Paw.G  9
 DTSTART:20251116T074500Z
 SUMMARY: (Studia podyplomowe)
-UID:b817f5e4-e55f-450a-ade5-77d692d7dc9c@b817.org
+UID:57812623-e807-4b92-8181-d035a086e0cf@5781.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Hubert Walczak
-DTEND:20260118T174500Z
-DTSTART:20260118T144500Z
-SUMMARY:Aktualne trendy i kierunki zmian w logistyce przedsiębiorstw (Studia podyplomowe)
-UID:696a6c4e-67e3-4dcb-801c-b5f915af2160@696a.org
+DESCRIPTION:Instructor: mgr Wojciech Maćkowiak
+DTEND:20251213T134500Z
+DTSTART:20251213T074500Z
+SUMMARY: (Studia podyplomowe)
+UID:bec2c969-4bac-46fe-875e-e11cb61661c6@bec2.org
 END:VEVENT
 END:VCALENDAR
