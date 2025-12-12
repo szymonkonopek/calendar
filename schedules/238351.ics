@@ -2,11 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
-DTEND:20251012T114500Z
-DTSTART:20251012T093000Z
-SUMMARY:Teoretyczne podstawy informatyki (Przeniesienie zajęć)
-UID:bf7938f7-a744-4c91-9829-0144aaebd9fa@bf79.org
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251214T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251214T093000Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:fac4939b-7e2c-4b19-9c74-9499411c39cd@fac4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
@@ -14,62 +15,7 @@ DTEND:20251116T143000Z
 LOCATION:Paw.F 713  Kat.Bank./sala dyd.
 DTSTART:20251116T121500Z
 SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
-UID:21329a65-e5ea-48d8-850c-6551dad7b3cb@2132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
-DTEND:20260130T190000Z
-LOCATION:Paw.C sala B
-DTSTART:20260130T173000Z
-SUMMARY: (egzamin)
-UID:fa475017-eb5a-472a-9d9b-a474ba60f101@fa47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251018T141500Z
-LOCATION:Bibl.425
-DTSTART:20251018T120000Z
-SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
-UID:03e0b7ae-f9d9-4612-a54d-cbe91f869087@03e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251206T170000Z
-LOCATION:Paw.F 104
-DTSTART:20251206T144500Z
-SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
-UID:9abbfd49-9f8d-4536-a1b7-f2727749051e@9abb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260111T100000Z
-LOCATION:link do zajęć
-DTSTART:20260111T074500Z
-SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
-UID:550e5831-6770-45ab-981f-7ef1a93adddf@550e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Bartusik
-DTEND:20251219T194500Z
-LOCATION:Paw.B 351
-DTSTART:20251219T173000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:4af72328-920b-4ca0-9f4a-84c1609d1db9@4af7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251123T114500Z
-LOCATION:link do zajęć
-DTSTART:20251123T093000Z
-SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
-UID:6b7030a4-237d-40df-9d43-24171a44a4b1@6b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:541c58ff-77c9-4328-a692-88b6d2e48ba3@541c.org
+UID:faed205f-795d-417b-bea5-fa4dc61922f3@faed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jan Madej
@@ -77,372 +23,7 @@ DTEND:20251115T170000Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
 DTSTART:20251115T144500Z
 SUMMARY:Architektura systemów komputerowych (ćwiczenia)
-UID:67b79a67-6cc4-4567-b15c-a9d539214e56@67b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Madej
-DTEND:20251026T124500Z
-DTSTART:20251026T103000Z
-SUMMARY:Architektura systemów komputerowych (wykład)
-UID:af137745-320d-4b90-94c7-44d69ebccfee@af13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251212T194500Z
-LOCATION:Bibl.425
-DTSTART:20251212T173000Z
-SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
-UID:b6fe6ea9-abd1-4bfc-91aa-69f9e3c213e3@b6fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Bartusik
-DTEND:20251122T091500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20251122T070000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:86b56f99-6122-415d-9e49-acbad2f301e1@86b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251206T170000Z
-DTSTART:20251206T144500Z
-SUMMARY:Analiza matematyczna i algebra liniowa (Przeniesienie zajęć)
-UID:44b3880e-1239-4a06-8902-52f6cf95b888@44b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
-DTEND:20251207T143000Z
-LOCATION:link do zajęć
-DTSTART:20251207T121500Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład)
-UID:cf80a9a5-9b61-42cb-b79f-81f5e35fe3bc@cf80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20260118T091500Z
-LOCATION:Paw.F 107
-DTSTART:20260118T070000Z
-SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
-UID:ee091d8d-ac83-4c5a-aec3-2569b07b7923@ee09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260118T143000Z
-LOCATION:Bibl.425
-DTSTART:20260118T121500Z
-SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
-UID:b114ae71-b2aa-4372-80d8-8e099520e984@b114.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20260117T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260117T093000Z
-SUMMARY:Cyfrowe formaty danych (ćwiczenia)
-UID:8e18761d-67d0-49f8-b040-a52dc928ae88@8e18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Bartusik
-DTEND:20251214T143000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20251214T121500Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:2bee7613-11a6-4e1d-af8e-f0da9a491d92@2bee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260109T194500Z
-LOCATION:Bibl.425
-DTSTART:20260109T173000Z
-SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
-UID:37144a78-7c42-400f-8946-cecd117d5f85@3714.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Bartusik
-DTEND:20251025T133000Z
-LOCATION:Paw.S sala 7
-DTSTART:20251025T111500Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:d138801d-536e-4b87-bcce-26cfd7d44d41@d138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251214T091500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20251214T070000Z
-SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
-UID:a03d783f-3176-4cd0-a6f7-e2471ef51918@a03d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251025T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251025T060000Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:d21ee49d-100d-4ec3-a909-6db2c3ac7361@d21e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251011T081500Z
-DTSTART:20251011T060000Z
-SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
-UID:9826512e-ba52-4801-8b2a-c7cc969f2bc2@9826.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251122T143000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251122T121500Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:faf88b30-ca50-445d-bee6-dd12f496eae9@faf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20260110T194500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260110T173000Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:bfd5ce6f-dc9a-42e6-b060-8ddc75938e8e@bfd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251206T143000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251206T121500Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:c16238dd-3443-4f80-a80d-3e98a5249a3d@c162.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251024T184500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251024T163000Z
-SUMMARY:Business Data Processing (ćwiczenia)
-UID:e7a08ec5-c221-4e71-a906-88bdc08485dd@e7a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
-DTEND:20251123T151500Z
-LOCATION:link do zajęć
-DTSTART:20251123T130000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład)
-UID:d0b4e4e1-4ce2-4e9c-a03b-53cf9c27aceb@d0b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251214T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251214T093000Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:56c75a02-2fc1-43be-b0d4-fe380ff30ed5@56c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251206T114500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251206T093000Z
-SUMMARY:Business Data Processing (ćwiczenia)
-UID:e026acc7-264d-46e4-85d3-11b2b10bc2e5@e026.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Madej
-DTEND:20251213T170000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251213T144500Z
-SUMMARY:Architektura systemów komputerowych (ćwiczenia)
-UID:0c973e63-aeb2-4326-8450-3967cb5a55fe@0c97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Parlament Studencki Uek
-DTEND:20251011T143000Z
-DTSTART:20251011T130000Z
-SUMMARY: (wykład)
-UID:4b1af206-31a4-46e9-9536-8a5d7e9df7e2@4b1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251128T194500Z
-DTSTART:20251128T173000Z
-SUMMARY:Analiza matematyczna i algebra liniowa (Przeniesienie zajęć)
-UID:c1ce17cc-5b8a-427d-839f-3fe765e38f16@c1ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
-DTEND:20251019T100000Z
-DTSTART:20251019T074500Z
-SUMMARY:Teoretyczne podstawy informatyki (wykład)
-UID:bebccbee-9f6d-4a47-ac60-2fd63e9149f4@bebc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251122T114500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251122T093000Z
-SUMMARY:Business Data Processing (ćwiczenia)
-UID:5714baa7-ccec-4bf5-82ff-e0b25529420a@5714.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251129T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251129T070000Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:99c9b4ba-e012-4ca8-b455-701ca1973e6a@99c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251221T100000Z
-DTSTART:20251221T074500Z
-SUMMARY:Analiza matematyczna i algebra liniowa (Przeniesienie zajęć)
-UID:6d4a043f-8f07-40fa-aaa3-e22a24c20312@6d4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251220T143000Z
-LOCATION:Bibl.425
-DTSTART:20251220T121500Z
-SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
-UID:e42759b9-0505-4c1b-be15-837f438018a2@e427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251018T081500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251018T060000Z
-SUMMARY:Cyfrowe formaty danych (ćwiczenia)
-UID:41444899-de7f-4280-9dd8-cf06de3b949a@4144.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Madej
-DTEND:20251123T091500Z
-LOCATION:link do zajęć
-DTSTART:20251123T070000Z
-SUMMARY:Architektura systemów komputerowych (wykład)
-UID:dec860bd-48b8-48a5-9490-cbc863485975@dec8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Madej
-DTEND:20251011T104500Z
-DTSTART:20251011T083000Z
-SUMMARY:Architektura systemów komputerowych (wykład)
-UID:7ab963bb-0168-4063-a436-f49551849e5f@7ab9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20260118T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260118T093000Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:88ccbe53-c17b-4d11-b360-0507fbb42faf@88cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
-DTEND:20251012T090000Z
-DTSTART:20251012T064500Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład)
-UID:0faabc70-8b5d-49e4-9eee-4408ab8f2cde@0faa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik  dr Paweł Prysak
-DTEND:20260201T180000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260201T154500Z
-SUMMARY:Analiza matematyczna i algebra liniowa\, Matematyka (egzamin)
-UID:b776edae-af3b-4dbb-b827-f9b61baffc07@b776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251026T100000Z
-DTSTART:20251026T074500Z
-SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
-UID:9139a280-757c-463f-9f0d-a70819343aff@9139.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251213T114500Z
-LOCATION:Paw.C sala A
-DTSTART:20251213T093000Z
-SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
-UID:2a88f7ad-ec0f-4169-b03f-3fcfeacfc8d3@2a88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251130T114500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251130T093000Z
-SUMMARY:Cyfrowe formaty danych (ćwiczenia)
-UID:403b1c73-52cd-4285-b2a3-2370ef777c15@403b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251115T194500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251115T173000Z
-SUMMARY:Podstawy programowania (ćwiczenia)
-UID:cedc5258-2cbd-491c-bee5-17a98165f087@cedc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260117T143000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260117T121500Z
-SUMMARY:Business Data Processing (ćwiczenia)
-UID:710d5f97-07f1-4539-b641-785414831e8a@710d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Bartusik
-DTEND:20251115T143000Z
-LOCATION:Bud.gł. 2
-DTSTART:20251115T121500Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:32cf6f8f-3107-493c-b1bd-5c9413e25e8c@32cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20251116T091500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251116T070000Z
-SUMMARY:Business Data Processing (ćwiczenia)
-UID:f282fec6-584f-4d95-b225-80bdfd7da174@f282.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251121T194500Z
-LOCATION:Bibl.425
-DTSTART:20251121T173000Z
-SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
-UID:1d4adcc9-2c9a-480a-97cf-28e7d7c84cb7@1d4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Bartusik
-DTEND:20260110T170000Z
-LOCATION:Paw.C sala A
-DTSTART:20260110T144500Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
-UID:334aa836-b6af-4c83-8a8c-1e36a3cfdd40@334a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251220T114500Z
-LOCATION:Paw.F 109
-DTSTART:20251220T093000Z
-SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
-UID:2acabdd9-4598-4d60-a42a-4d09924733ce@2aca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
-DTEND:20260131T120000Z
-LOCATION:Paw.E sala J
-DTSTART:20260131T103000Z
-SUMMARY:Podstawy organizacji i zarządzania (egzamin)
-UID:9c550e25-fd28-43f6-80d3-27c57f072496@9c55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
-DTEND:20251026T151500Z
-DTSTART:20251026T130000Z
-SUMMARY:Teoretyczne podstawy informatyki (wykład)
-UID:c73d548a-828c-4441-ac2a-a5ce84c44dd4@c73d.org
+UID:2743a840-ed17-4b70-b3d5-b1f232307cd8@2743.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Wójcik
@@ -450,15 +31,153 @@ DTEND:20251018T104500Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20251018T083000Z
 SUMMARY:Business Data Processing (ćwiczenia)
-UID:29b843a8-2073-42ce-bc23-cf84dd2e74ab@29b8.org
+UID:ccf0add4-48e9-47bf-8521-f7b605c84ed8@ccf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20251026T124500Z
+DTSTART:20251026T103000Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:a78ac23f-3133-417e-88b3-a9a00bfda7d5@a78a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
-DTEND:20251207T114500Z
+DTEND:20251012T114500Z
+DTSTART:20251012T093000Z
+SUMMARY:Teoretyczne podstawy informatyki (Przeniesienie zajęć)
+UID:3775fe07-ac68-4c1b-9b31-59e9c7ed19b5@3775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251122T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251122T093000Z
+SUMMARY:Business Data Processing (ćwiczenia)
+UID:7740e6b9-8a4b-45be-9549-03562f2646b0@7740.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260118T143000Z
+LOCATION:Bibl.425
+DTSTART:20260118T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:0de8af85-47de-4ddc-a1f9-cf5ff32556d5@0de8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20260130T190000Z
+LOCATION:Paw.C sala B
+DTSTART:20260130T173000Z
+SUMMARY: (egzamin)
+UID:aae7b80c-e814-466a-b787-f9d64727c198@aae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20260131T120000Z
+LOCATION:Paw.E sala J
+DTSTART:20260131T103000Z
+SUMMARY:Podstawy organizacji i zarządzania (egzamin)
+UID:cc1a3c5d-8c70-4b70-b381-af44d5286bdb@cc1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik  dr Paweł Prysak
+DTEND:20260201T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260201T154500Z
+SUMMARY:Analiza matematyczna i algebra liniowa\, Matematyka (egzamin)
+UID:4c035911-07e0-48c3-bd51-641a9c990bfd@4c03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251128T194500Z
+DTSTART:20251128T173000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (Przeniesienie zajęć)
+UID:851dac3b-272a-48d8-8270-6091d9b087a9@851d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20251207T143000Z
 LOCATION:link do zajęć
-DTSTART:20251207T093000Z
-SUMMARY:Teoretyczne podstawy informatyki (wykład)
-UID:2632ffa3-e918-4efb-8c84-b7d9b6b9fd46@2632.org
+DTSTART:20251207T121500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:3bdcd37c-a503-4ea4-be81-d96bd4a483bc@3bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20251123T091500Z
+LOCATION:link do zajęć
+DTSTART:20251123T070000Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:eefba8e4-6a38-444e-8618-44dc60a03d0c@eefb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251221T100000Z
+DTSTART:20251221T074500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (Przeniesienie zajęć)
+UID:bec9d214-5b35-4adb-860d-e85e38c52680@bec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:ab0706c0-a679-4248-9cfa-94f9253caa9e@ab07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251213T114500Z
+LOCATION:Paw.C sala A
+DTSTART:20251213T093000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:f49a0571-0dbe-4393-9bc9-8de068069c05@f49a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20260117T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260117T093000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:2760c30c-6451-4bd5-8bd5-05921b753563@2760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251018T141500Z
+LOCATION:Bibl.425
+DTSTART:20251018T120000Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:ebbb68ff-8b4f-4a9d-946f-dfba66d505ca@ebbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251115T194500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251115T173000Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:e5a50b33-3c5a-48de-ba3f-ea7cfe746a31@e5a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251214T091500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20251214T070000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:f1c5a1eb-ecc9-4c32-8252-aedca9f998cc@f1c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251011T081500Z
+DTSTART:20251011T060000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:df3356e3-e53a-4c2e-80bb-34e1ce083223@df33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20251214T143000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20251214T121500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:2ea13c3f-dd1f-403a-a785-b75696009d81@2ea1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
@@ -466,29 +185,148 @@ DTEND:20251207T091500Z
 LOCATION:link do zajęć
 DTSTART:20251207T070000Z
 SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
-UID:76de9384-0868-452a-ac1b-cbb70ffb432e@76de.org
+UID:5ae532ab-b073-421c-b9d1-09e7707a9336@5ae5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Svitlana Didkivska
-DTEND:20251213T194500Z
-DTSTART:20251213T173000Z
-SUMMARY:Cyfrowe formaty danych (Przeniesienie zajęć)
-UID:4126b469-8ac8-4c5c-b8f1-7cdc694dc2b7@4126.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:f81b4f91-4c1c-4edd-af68-8940838c082a@f81b.org
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20251207T114500Z
+LOCATION:link do zajęć
+DTSTART:20251207T093000Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:3735a1fe-087e-4c24-abe0-1681907faf38@3735.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
-DTEND:20251025T104500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20251025T083000Z
+DTEND:20251026T100000Z
+DTSTART:20251026T074500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:bf63e7ec-fd89-4574-974b-c5ef6e3650bd@bf63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251129T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251129T070000Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:2fa25a6b-52ff-4317-92b9-9a76b325628b@2fa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260109T194500Z
+LOCATION:Bibl.425
+DTSTART:20260109T173000Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:cb0d20b0-c7d9-4942-abaf-970f68ea35b9@cb0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251116T091500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251116T070000Z
+SUMMARY:Business Data Processing (ćwiczenia)
+UID:b7878a05-cebe-44f0-8237-0ce5869ac01f@b787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20251115T143000Z
+LOCATION:Bud.gł. 2
+DTSTART:20251115T121500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:b98c4529-348c-4473-86c7-cd497ef17f02@b98c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20260110T170000Z
+LOCATION:Paw.C sala A
+DTSTART:20260110T144500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:e602c428-43eb-4adc-a975-53f8b4c4c635@e602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20251012T090000Z
+DTSTART:20251012T064500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:17a018b3-8746-46cd-b7ca-c86f65948caf@17a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20251011T104500Z
+DTSTART:20251011T083000Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:352e99b1-2411-422f-b732-7a986f0e9ca1@352e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251206T170000Z
+LOCATION:Paw.F 104
+DTSTART:20251206T144500Z
 SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
-UID:f7e19917-d158-4ac2-b998-fcbc09a282dc@f7e1.org
+UID:20d2a665-08b2-41b1-8d34-0e2939623f67@20d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260111T100000Z
+LOCATION:link do zajęć
+DTSTART:20260111T074500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:659849ba-8c16-44a5-a2f7-7cc7ff930bd3@6598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251123T114500Z
+LOCATION:link do zajęć
+DTSTART:20251123T093000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:6ee84bcb-7669-44b0-b800-e06d1c8809bf@6ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251018T081500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251018T060000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:ca2a977c-7011-46c9-9573-c069d5b0596d@ca2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20251213T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251213T144500Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:67a63231-10e7-4e97-86f7-63be8fa72ec8@67a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260117T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260117T121500Z
+SUMMARY:Business Data Processing (ćwiczenia)
+UID:4dfc68b6-ac95-42f5-8693-566308bc659d@4dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251220T143000Z
+LOCATION:Bibl.425
+DTSTART:20251220T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:15819069-4a06-406f-8844-dc3415df1519@1581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251121T194500Z
+LOCATION:Bibl.425
+DTSTART:20251121T173000Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:d79f22d9-a342-4d59-8725-7f34eba19662@d79f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20251025T133000Z
+LOCATION:Paw.S sala 7
+DTSTART:20251025T111500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:b79b0634-9eb5-43ae-a307-d02a22ea6ce4@b79b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jan Madej
@@ -496,7 +334,75 @@ DTEND:20251130T091500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20251130T070000Z
 SUMMARY:Architektura systemów komputerowych (ćwiczenia)
-UID:cf38f817-3d50-4859-9893-b0f67f82f8a8@cf38.org
+UID:c3a7265f-c2e6-4c5e-80da-47a3fc5dae8d@c3a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251025T104500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20251025T083000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:ba604275-5546-441d-87f9-4798971dfd3f@ba60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251130T114500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251130T093000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:f6dc61e2-2c78-4b00-9bb1-1fe7d2b8c29c@f6dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251212T194500Z
+LOCATION:Bibl.425
+DTSTART:20251212T173000Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:9c7ba33d-f640-4655-8fe6-df63fb01a3b2@9c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20251026T151500Z
+DTSTART:20251026T130000Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:91ee5cdb-4bba-46f9-8462-da90d5e4c52f@91ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251206T170000Z
+DTSTART:20251206T144500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (Przeniesienie zajęć)
+UID:609472a2-d6c3-4545-8456-9593697bfa70@6094.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251213T194500Z
+DTSTART:20251213T173000Z
+SUMMARY:Cyfrowe formaty danych (Przeniesienie zajęć)
+UID:b3267cb2-8ecb-4ebb-b8d0-01cfdee07694@b326.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:69565901-c6ab-4016-9bd4-6e1a259c22a5@6956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20251220T114500Z
+LOCATION:Paw.F 109
+DTSTART:20251220T093000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:035e3972-93eb-43ad-89fd-d3ec29a7afd0@035e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251024T184500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251024T163000Z
+SUMMARY:Business Data Processing (ćwiczenia)
+UID:99be3593-e088-41ae-8ce8-1742be1f17fc@99be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Svitlana Didkivska
@@ -504,6 +410,100 @@ DTEND:20251116T114500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20251116T093000Z
 SUMMARY:Podstawy programowania (ćwiczenia)
-UID:07e85f88-95f3-429e-ab5f-3b382bee8b3c@07e8.org
+UID:76de5f17-850f-41b3-9006-6e0b2ce66909@76de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20251122T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20251122T070000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:44f4661a-603e-442f-9390-3d2952a8002b@44f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik
+DTEND:20260118T091500Z
+LOCATION:Paw.F 107
+DTSTART:20260118T070000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:a18fa57c-99c4-4e09-9567-cb71daf46a87@a18f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20251206T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251206T093000Z
+SUMMARY:Business Data Processing (ćwiczenia)
+UID:692ed3bd-4a34-40db-83b0-83d3c57bab6a@692e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Parlament Studencki Uek
+DTEND:20251011T143000Z
+DTSTART:20251011T130000Z
+SUMMARY: (wykład)
+UID:705f73b1-823f-4b6e-bf85-e84f0b487155@705f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251122T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251122T121500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:75033fbb-39ce-4e73-8ef7-ac35bbd508cd@7503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20260110T194500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260110T173000Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:8ca43200-0721-4aae-a7ce-82d0d02cbc84@8ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251025T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251025T060000Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:c83dba02-749b-4533-83dd-acaf7b6e1afa@c83d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20260118T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260118T093000Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:ea9ae175-5690-4901-86c2-2cc7257261f1@ea9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20251123T151500Z
+LOCATION:link do zajęć
+DTSTART:20251123T130000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:610872da-f7d5-4412-bf98-4a5771397685@6108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20251219T194500Z
+LOCATION:Paw.B 351
+DTSTART:20251219T173000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:e04bc2fb-1951-4506-bb19-93d3ae7468dc@e04b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20251019T100000Z
+DTSTART:20251019T074500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:1852b186-7be2-4b45-9d43-7144c165b77c@1852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Svitlana Didkivska
+DTEND:20251206T143000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251206T121500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:c19ec9fd-0e61-4cda-838f-120760635f11@c19e.org
 END:VEVENT
 END:VCALENDAR
