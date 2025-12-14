@@ -2,12 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Dariusz Skórniewski
+DTEND:20251025T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251025T060000Z
+SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
+UID:7455c71f-4124-4e6b-a447-3b3c9968fabc@7455.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos  dr Adam Michalik  prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20260131T143000Z
+DTSTART:20260131T074500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:14407f18-a236-4360-8902-9d770df64122@1440.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Emil Kos
 DTEND:20251128T184500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20251128T154500Z
 SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
-UID:792b75b9-5076-4783-a364-2352c2d29fb3@792b.org
+UID:15bbda82-f61b-470e-be33-f319a124627f@15bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Janus
@@ -15,70 +30,7 @@ DTEND:20251012T120000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20251012T060000Z
 SUMMARY:Analiza danych w Python (Studia podyplomowe)
-UID:e15f100a-f2fc-46a7-98c8-dde140e396da@e15f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
-DTEND:20251003T174500Z
-LOCATION:Zajęcia Online
-DTSTART:20251003T144500Z
-SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
-UID:83bd39be-ef4d-4754-ae95-dc2c69438853@83bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
-DTEND:20251130T130000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251130T070000Z
-SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
-UID:362045dd-ec9d-47c6-a15b-a95943d71083@3620.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Janus
-DTEND:20260117T130000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260117T070000Z
-SUMMARY:Analiza danych w Python (Studia podyplomowe)
-UID:0300d4a2-1153-458b-9d5a-3c271928c9cc@0300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20260131T074500Z
-DTSTART:20260131T070000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:682b8dff-9922-40a0-9fe0-990282e3d21f@682b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Rostyslav Apostol
-DTEND:20251213T130000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251213T070000Z
-SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
-UID:5918dd68-322f-4feb-a552-f119c66c19de@5918.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
-DTEND:20251115T130000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251115T070000Z
-SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
-UID:1d9b3058-1a0f-403e-ab7a-56c72d77e02c@1d9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Emil Kos
-DTEND:20251011T120000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251011T060000Z
-SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
-UID:855bd60d-8346-44b1-a40e-2f69f9898f1d@855b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos
-DTEND:20251010T180000Z
-LOCATION:Zajęcia Online
-DTSTART:20251010T171500Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:66611e96-b109-43ca-b4b3-d03e80547408@6661.org
+UID:c7b42a07-687a-449e-a94c-82dc17dc2548@c7b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Emil Kos
@@ -86,14 +38,31 @@ DTEND:20251114T184500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20251114T154500Z
 SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
-UID:3c788c77-74a3-418e-bfe1-5671289df1fd@3c78.org
+UID:5105b2c0-c7b2-482b-8a0d-9bfcc7299319@5105.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos  dr Adam Michalik  prof. UEK dr hab. Grzegorz Wałęga
-DTEND:20260131T143000Z
-DTSTART:20260131T074500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:d5a925aa-52e1-46a6-a79e-1cd0161de551@d5a9.org
+DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
+DTEND:20251130T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251130T070000Z
+SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
+UID:9bc3c8f4-ba2f-4d14-ad49-631d812425d8@9bc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20260117T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260117T070000Z
+SUMMARY:Analiza danych w Python (Studia podyplomowe)
+UID:afdb5ae5-cb93-4783-a2dd-d37dcf61220d@afdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
+DTEND:20251115T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251115T070000Z
+SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
+UID:0c0b7fd0-41f6-47da-a503-ad5ab6d660d3@0c0b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
@@ -101,7 +70,7 @@ DTEND:20251129T130000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20251129T070000Z
 SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
-UID:0ef31da5-be7d-44c0-a0d3-06acb2b5391b@0ef3.org
+UID:3ae02046-14bb-4b8d-9373-658f5b635a9a@3ae0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rostyslav Apostol
@@ -109,15 +78,30 @@ DTEND:20251214T130000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20251214T070000Z
 SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
-UID:c16cc1c2-d18c-42f3-89a7-deb594c99956@c16c.org
+UID:2440563a-b017-4374-b724-bb01b7765ea0@2440.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: inż. Dariusz Skórniewski
-DTEND:20251025T120000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251025T060000Z
-SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
-UID:62918d86-336b-4c8e-bd90-2bde4394b579@6291.org
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20260131T074500Z
+DTSTART:20260131T070000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:47a2704a-cc37-47e6-a89a-c3edbe00d55a@47a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20251003T174500Z
+LOCATION:Zajęcia Online
+DTSTART:20251003T144500Z
+SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
+UID:44ee1a7f-7a24-44c2-b3be-db4afdc9355e@44ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Emil Kos
+DTEND:20251011T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251011T060000Z
+SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
+UID:5df4ffbd-4386-4732-8072-ef2bba6f9625@5df4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: inż. Dariusz Skórniewski
@@ -125,6 +109,22 @@ DTEND:20251026T130000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20251026T070000Z
 SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
-UID:1aa52e8f-a4e2-4a15-90c4-fc7f49712b87@1aa5.org
+UID:94b0d320-99be-40b6-8917-5e8a3f16dd4f@94b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20251213T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251213T070000Z
+SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
+UID:22cfa195-f777-493e-aa0e-f6e501aed324@22cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20251010T180000Z
+LOCATION:Zajęcia Online
+DTSTART:20251010T171500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:70948f5a-cd5d-4f62-8307-fcf96ff857d6@7094.org
 END:VEVENT
 END:VCALENDAR
