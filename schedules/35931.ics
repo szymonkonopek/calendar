@@ -2,60 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20251115T121500Z
-LOCATION:Paw.G - 1
-DTSTART:20251115T074500Z
-SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:b6196fb2-507d-450d-9767-84343f5a3bae@b619.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
 DTEND:20260213T191500Z
 LOCATION:Paw.G 10
 DTSTART:20260213T144500Z
 SUMMARY:Techniki twórczego myślenia w zarządzaniu projektami (Studia podyplomowe)
-UID:bfe38c16-fd13-43dc-bf9b-353fdc328142@bfe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20260130T191500Z
-LOCATION:Paw.G - 2
-DTSTART:20260130T144500Z
-SUMMARY:Controlling realizacji projektów (Studia podyplomowe)
-UID:a8e4ade8-4d5d-4ef4-9bc4-874b5168d298@a8e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Zatorski
-DTEND:20251213T121500Z
-LOCATION:Paw.G 11
-DTSTART:20251213T074500Z
-SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
-UID:13d76fb0-c708-4bbc-ab53-a9ad7a0812ce@13d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Michał Teczke
-DTEND:20260214T134500Z
-LOCATION:Paw.G 10
-DTSTART:20260214T130000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:8ff3042d-3c5a-4dae-b145-725e179d32a1@8ff3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20251024T181500Z
-LOCATION:Paw.G - 1
-DTSTART:20251024T134500Z
-SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
-UID:5606bc26-9873-4a28-9354-a5a1d16a3e97@5606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Schmidt
-DTEND:20251025T111500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20251025T064500Z
-SUMMARY:Metodyki zarządzania projektami (Studia podyplomowe)
-UID:97f18844-7abd-4c38-8874-63b0b8db80fa@97f1.org
+UID:a2e06bb0-ce6c-46b4-8705-0183e298cea1@a2e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Zatorski
@@ -63,7 +15,15 @@ DTEND:20251212T191500Z
 LOCATION:Paw.G 11
 DTSTART:20251212T144500Z
 SUMMARY:Rozwiązywanie konfliktów w grupie (Studia podyplomowe)
-UID:4d5b92b7-b699-49eb-a63d-99e55add028c@4d5b.org
+UID:41c2942e-b395-451a-bc07-0bde85f9b7c9@41c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20260130T191500Z
+LOCATION:Paw.G - 2
+DTSTART:20260130T144500Z
+SUMMARY:Controlling realizacji projektów (Studia podyplomowe)
+UID:ff15d5a6-dbf5-4ed9-876f-21ff53b8dfb6@ff15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Hubert Obora
@@ -71,7 +31,7 @@ DTEND:20260214T121500Z
 LOCATION:Paw.G 10
 DTSTART:20260214T074500Z
 SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
-UID:0c69ca46-1e7d-44ec-94ee-c7d5a6ce6c85@0c69.org
+UID:c7375160-9d42-4b6e-9037-ecd209dca0da@c737.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Teczke
@@ -79,23 +39,7 @@ DTEND:20251011T111500Z
 LOCATION:Paw.G - 2
 DTSTART:20251011T064500Z
 SUMMARY:Podstawy zarządzania (Studia podyplomowe)
-UID:42046aa1-03d9-4094-8561-8043c7c404dc@4204.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20260131T121500Z
-LOCATION:Paw.G - 2
-DTSTART:20260131T074500Z
-SUMMARY:Opłacalność inwestycji w zarządzaniu projektami (Studia podyplomowe)
-UID:7e3cb65c-f8a2-4df8-ab08-b06b7d751bec@7e3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Peszko
-DTEND:20251010T181500Z
-LOCATION:Paw.G - 2
-DTSTART:20251010T134500Z
-SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
-UID:fe569eca-0ce2-4fbf-9617-82480eb9d39e@fe56.org
+UID:75886d1d-6c0c-48c7-954f-6bc55ae491b2@7588.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
@@ -103,6 +47,62 @@ DTEND:20251128T191500Z
 LOCATION:Paw.G  7
 DTSTART:20251128T144500Z
 SUMMARY:Budżetowanie i rachunkowość projektów (Studia podyplomowe)
-UID:07850ca0-6ade-4c36-b44f-242f8428749b@0785.org
+UID:9cca28f4-302e-43e6-a79d-4ef24d43fcd5@9cca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Zatorski
+DTEND:20251213T121500Z
+LOCATION:Paw.G 11
+DTSTART:20251213T074500Z
+SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
+UID:4eb9c403-93dd-45a7-89ab-c4c130439875@4eb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Peszko
+DTEND:20251010T181500Z
+LOCATION:Paw.G - 2
+DTSTART:20251010T134500Z
+SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
+UID:235bfbcc-6f89-4846-a7d0-12a1e48c6647@235b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20260214T134500Z
+LOCATION:Paw.G 10
+DTSTART:20260214T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:409caa4e-2ba5-4767-98a7-728f9f5440f3@409c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20251024T181500Z
+LOCATION:Paw.G - 1
+DTSTART:20251024T134500Z
+SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
+UID:177c5021-d84a-415c-a8cc-a1600c7af085@177c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20260131T121500Z
+LOCATION:Paw.G - 2
+DTSTART:20260131T074500Z
+SUMMARY:Opłacalność inwestycji w zarządzaniu projektami (Studia podyplomowe)
+UID:33cc270b-8d26-4635-a293-d82ef985f7f8@33cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20251115T121500Z
+LOCATION:Paw.G - 1
+DTSTART:20251115T074500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:ee0fdfdf-b3a3-4971-bbe4-7f0db1a7178a@ee0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Schmidt
+DTEND:20251025T111500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20251025T064500Z
+SUMMARY:Metodyki zarządzania projektami (Studia podyplomowe)
+UID:ab459a95-08fe-4f23-857d-4bda3196e3c1@ab45.org
 END:VEVENT
 END:VCALENDAR
