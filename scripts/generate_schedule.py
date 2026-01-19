@@ -50,7 +50,13 @@ def create_isc(id, isLecturer, session):
             subject = columns[2].text.strip() if columns[2] else "Unknown"
             class_type = columns[3].text.strip() if columns[3] else "Unknown"
             teacher = columns[4].text.strip() if columns[4] else "Unknown"
-            location = columns[5].text.strip() if columns[5] else "Unknown"
+            location_td = columns[5]
+
+            link = location_td.find("a")
+            if link and link.get("href"):
+                location = link["href"]
+            else:
+                location = location_td.text.strip() if location_td else "Unknown"
             
             if class_type == "lektorat" and isLecturer == False:
                 continue
