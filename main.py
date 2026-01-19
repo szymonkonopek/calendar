@@ -2,6 +2,9 @@ import json
 import argparse
 from scripts.generate_schedule import generate_isc_files
 
+from dotenv import load_dotenv
+load_dotenv()
+
 # Set up argument parsing
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Generate schedule ICS files.")

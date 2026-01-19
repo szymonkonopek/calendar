@@ -16,11 +16,16 @@ def is_dst(date):
     return last_sunday_march <= date < last_sunday_october
 
 
-def create_isc(id, isLecturer):
+
+
+def create_isc(id, isLecturer, session):
     # Step 1: Fetch the HTML content from the URL
     url = f"https://planzajec.uek.krakow.pl/index.php?typ=G&id={id}&okres=2"
-    response = requests.get(url)
-    response.encoding = 'utf-8'  # Set encoding to UTF-8 to handle Polish characters
+
+    response = session.get(url)
+    response.raise_for_status()
+    response.encoding = "utf-8"
+
     html_content = response.text
 
     # Step 2: Parse the HTML content using BeautifulSoup
@@ -49,8 +54,6 @@ def create_isc(id, isLecturer):
             
             if class_type == "lektorat" and isLecturer == False:
                 continue
-
-            
             
             # Split day_time_str to get start time and duration
             if "(" in day_time_str:
@@ -89,12 +92,13 @@ def create_isc(id, isLecturer):
     with open(ics_filename, 'w', encoding='utf-8') as f:
         f.writelines(calendar)
 
-    
-    
-
     print(f"Calendar saved to {ics_filename}")
 
 
+def create_session(username, password):
+    session = requests.Session()
+    session.auth = (username, password)
+    return session
 
 
 def generate_isc_files(group_data, schedules_dir="schedules", resume=False):
@@ -105,8 +109,16 @@ def generate_isc_files(group_data, schedules_dir="schedules", resume=False):
     :param schedules_dir: Directory where .ics files are saved.
     :param resume: If True, only create new .ics files. If False, start from the beginning.
     """
+
+    username = os.getenv("UEK_LOGIN")
+    password = os.getenv("UEK_PASSWORD")
+
+    if not username or not password:
+        raise RuntimeError("UEK_LOGIN or UEK_PASSWORD not set")
+
     # Ensure the schedules directory exists
     processed_groups = 0
+    session = create_session(username, password)
 
     if not os.path.exists(schedules_dir):
         os.makedirs(schedules_dir)
@@ -129,7 +141,7 @@ def generate_isc_files(group_data, schedules_dir="schedules", resume=False):
             
             # Call create_isc if the file doesn't exist or resume is False
             print(f"Creating ICS for {sub_group_name} with ID: {sub_group_id}")
-            create_isc(sub_group_id, isLektorat)
+            create_isc(sub_group_id, isLektorat, session)
             
             # Log the creation
             print(f"{sub_group_name} with ID: {sub_group_id} has been processed.")
