@@ -7,6 +7,10 @@ on:
 
   workflow_dispatch:
 
+env:
+  UEK_LOGIN: ${{ secrets.UEK_LOGIN }}
+  UEK_PASSWORD: ${{ secrets.UEK_PASSWORD }}
+
 jobs:
   update-ics:
     runs-on: ubuntu-latest
