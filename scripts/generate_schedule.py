@@ -191,8 +191,8 @@ def create_isc_lecturer(id, session):
             day_time_str = columns[1].text.strip() if columns[1] else "Unknown"
             subject = columns[2].text.strip() if columns[2] else "Unknown"
             class_type = columns[3].text.strip() if columns[3] else "Unknown"
-            teacher = columns[4].text.strip() if columns[4] else "Unknown"
-            location_td = columns[5]
+            location_td = columns[4]
+            classes = columns[5].text.strip() if columns[5] else "Unknown"
 
             link = location_td.find("a")
             if link and link.get("href"):
@@ -227,7 +227,7 @@ def create_isc_lecturer(id, session):
             event.begin = start_time
             event.end = end_time
             event.location = location
-            event.description = f"Instructor: {teacher}"
+            event.description = classes
             
             # Add event to calendar
             calendar.events.add(event)
