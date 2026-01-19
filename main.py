@@ -1,6 +1,6 @@
 import json
 import argparse
-from scripts.generate_schedule import generate_isc_files
+from scripts.generate_schedule import generate_isc_files, generate_isc_files_lecturer
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -27,6 +27,12 @@ def main():
 
     # Generate ICS files, passing the resume argument from the command line
     generate_isc_files(group_data, schedules_dir="schedules", resume=args.resume)
+
+    with open('lecturer_folder.json', 'r', encoding='utf-8') as json_file:
+        lecturer_data = json.load(json_file)   
+
+    # Generate ICS files for lecturers, passing the resume argument from the command line
+    generate_isc_files_lecturer(lecturer_data, schedules_dir="schedules_lecturers", resume=args.resume)
 
 # Run the script
 if __name__ == "__main__":
