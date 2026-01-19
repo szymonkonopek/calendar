@@ -1,15 +1,11 @@
-name: Complete update schedule
+name: Create schedule
 
 # Run the action every 12h
 on:
-  # schedule:
-  #   - cron: '0 */12 * * *'
+  schedule:
+    - cron: '0 6 * * *'
 
   workflow_dispatch:
-
-env:
-  UEK_LOGIN: ${{ secrets.UEK_LOGIN }}
-  UEK_PASSWORD: ${{ secrets.UEK_PASSWORD }}
 
 jobs:
   update-ics:
@@ -27,11 +23,9 @@ jobs:
       - name: Install required Python packages
         run: |
           pip install -r requirements.txt
-
       - name: Run the script to generate schedule.ics
         run: |
           python main.py
-
       - name: Commit and push the updated .ics file
         run: |
           git config --local user.email "actions@github.com"
@@ -39,7 +33,7 @@ jobs:
           git pull
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "Update schedule.ics"
+            git commit -m "Update JSON and schedule.ics"
             git push
           else
             echo "No changes to commit"
