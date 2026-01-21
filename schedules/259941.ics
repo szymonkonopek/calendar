@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:3000cb8f-ede3-4fb4-988d-0a0dbf1c1763@3000.org
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20260201T074500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260201T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (egzamin)
+UID:01b19d44-9f91-4ea7-9a14-bf8d3e3ca6da@01b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20251213T091500Z
+DTSTART:20251213T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (Przeniesienie zajęć)
+UID:24e1e523-1842-4edc-98ba-7f10033eb2eb@24e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Joanna Sikorska
@@ -14,31 +22,7 @@ DTEND:20251129T170000Z
 LOCATION:Bud.gł. 1 (sala obron)
 DTSTART:20251129T144500Z
 SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:295c9be6-930e-48c2-925b-75113bf74fe9@295c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20251129T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251129T093000Z
-SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
-UID:b0a4f413-c66d-4048-b60b-51d2cdecf73d@b0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260118T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260118T093000Z
-SUMMARY:Big Data (konwersatorium do wyboru)
-UID:298f793f-dfda-46ff-bbf1-e013f164948c@298f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251024T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251024T134500Z
-SUMMARY:Big Data (konwersatorium do wyboru)
-UID:10bf5b30-455b-4a78-a2b9-8213f4ea413a@10bf.org
+UID:bdd908ee-a644-4a80-9980-655c9465c9de@bdd9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marzena Piszczek
@@ -46,189 +30,7 @@ DTEND:20251129T091500Z
 LOCATION:Paw.F 715
 DTSTART:20251129T070000Z
 SUMMARY:Corporate governance (konwersatorium)
-UID:77a0051e-68ff-4691-a32c-b308a56eb317@77a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20260109T170000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260109T144500Z
-SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
-UID:4834a10f-7ba0-40ea-961d-6cecff11151a@4834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260117T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260117T093000Z
-SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
-UID:0831d6f7-e108-48d5-825f-7b51713b0943@0831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251122T170000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251122T144500Z
-SUMMARY:Big Data (konwersatorium do wyboru)
-UID:fc38a162-3a30-48e7-a4ce-97b71fd9f48a@fc38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20251026T091500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20251026T070000Z
-SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
-UID:c59cd628-7297-490d-8be3-2a1c027cf822@c59c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20251121T194500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20251121T173000Z
-SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
-UID:3492152b-81e4-4749-9fa6-df819727e5e8@3492.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260110T091500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260110T070000Z
-SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
-UID:8d2cbd9f-2085-46b4-b666-5ed309f74faf@8d2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251122T114500Z
-LOCATION:Paw.F 616
-DTSTART:20251122T093000Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:277929c9-5a94-4d3e-b13d-0b189232520b@2779.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20251213T114500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251213T093000Z
-SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
-UID:a770e281-2ce0-4237-b260-5d9c2aa23408@a770.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20251025T081500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251025T060000Z
-SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
-UID:d1ca8a61-f876-441d-9ed6-9f92df30e5e5@d1ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251024T184500Z
-LOCATION:Paw.F 413
-DTSTART:20251024T163000Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:b33f06d9-54c9-4180-b18b-3c7b653bde6e@b33f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20260110T170000Z
-LOCATION:Paw.F 515
-DTSTART:20260110T144500Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:58aaa909-460e-4f79-bd82-a9167c00d4d9@58aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20260118T143000Z
-LOCATION:Paw.F 415
-DTSTART:20260118T121500Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:9a16714c-8588-47b2-85ea-79abbd1cb656@9a16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20260131T110000Z
-LOCATION:Paw.F 109
-DTSTART:20260131T093000Z
-SUMMARY:Contemporary Cultural Challenges (egzamin)
-UID:05f04387-b4ad-48b1-96d8-1f89b7390149@05f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20260117T170000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260117T144500Z
-SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
-UID:0eae3378-8ffc-4fd2-82a6-08c5e8f3ff60@0eae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marzena Piszczek
-DTEND:20251025T104500Z
-LOCATION:Paw.F 715
-DTSTART:20251025T083000Z
-SUMMARY:Corporate governance (konwersatorium)
-UID:e2e00e4a-4630-4c02-bf9c-af6882162d6e@e2e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:c02148fa-ca85-45a2-8197-8e3f4ad7c638@c021.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251130T114500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20251130T093000Z
-SUMMARY:Big Data (konwersatorium do wyboru)
-UID:1c1000c4-d144-4d8b-816e-07560598b738@1c10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Sikorska
-DTEND:20251214T091500Z
-LOCATION:Paw.F 413
-DTSTART:20251214T070000Z
-SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
-UID:8eba7bbf-e2a2-411a-83dc-be0b9fa018fd@8eba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marzena Piszczek
-DTEND:20260110T114500Z
-LOCATION:Paw.F 715
-DTSTART:20260110T093000Z
-SUMMARY:Corporate governance (konwersatorium)
-UID:f4b913a8-7554-40e5-97f4-0c82940aee24@f4b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20251122T091500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20251122T070000Z
-SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
-UID:d4a4540a-5b75-42f3-97c9-af7e84593b5c@d4a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20251213T091500Z
-DTSTART:20251213T070000Z
-SUMMARY:Economic Aspects of Financial and Alternative Markets (Przeniesienie zajęć)
-UID:0bc9728f-459a-47fe-bc00-5c96e3fb3f79@0bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20251130T091500Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20251130T070000Z
-SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
-UID:f3c6d379-4890-48b6-96e6-ddf77d1cdaf2@f3c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251214T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20251214T093000Z
-SUMMARY:Big Data (konwersatorium do wyboru)
-UID:649769b6-44a5-4ce3-9d2c-ce5073e26215@6497.org
+UID:15e6e388-8f28-4431-ae02-590ad6219bae@15e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Oleksy
@@ -236,7 +38,127 @@ DTEND:20251128T194500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20251128T173000Z
 SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
-UID:e6fb7822-8960-4069-87e4-7bf4bfb89c47@e6fb.org
+UID:ff6af62a-3b11-4553-ac92-777e13767ec1@ff6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251130T114500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20251130T093000Z
+SUMMARY:Big Data (konwersatorium do wyboru)
+UID:3cbd2e35-53b4-4351-a846-58ca8bb1c42e@3cbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20251213T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251213T093000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:f198b925-a7a2-4919-a62e-0efa48b85681@f198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260118T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260118T093000Z
+SUMMARY:Big Data (konwersatorium do wyboru)
+UID:34b02dce-e6a6-4ff5-b808-f840d2138722@34b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251122T170000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251122T144500Z
+SUMMARY:Big Data (konwersatorium do wyboru)
+UID:6fb52377-61c8-4bbd-92b2-65081276994f@6fb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20251122T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251122T070000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:bb2dfdd6-9eba-4187-b7c3-12460c5a1e0f@bb2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20251129T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251129T093000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:5b36a497-34c4-4a87-bcac-b074c2f7aafa@5b36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marzena Piszczek
+DTEND:20251025T104500Z
+LOCATION:Paw.F 715
+DTSTART:20251025T083000Z
+SUMMARY:Corporate governance (konwersatorium)
+UID:eb84399b-57c5-4312-8536-90943ead3e0a@eb84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20260118T143000Z
+LOCATION:Paw.F 415
+DTSTART:20260118T121500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:95ef9b87-75a0-413f-a311-924256e09b69@95ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260117T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260117T093000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:1e97839c-32a4-4a91-ad81-97938ac30a59@1e97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260110T091500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260110T070000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:15814df2-e2e0-4246-9dc3-7265dc6079d5@1581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251024T184500Z
+LOCATION:Paw.F 413
+DTSTART:20251024T163000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:6fc65f6d-1ecb-4e5e-b433-1bb8109522d7@6fc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251122T114500Z
+LOCATION:Paw.F 616
+DTSTART:20251122T093000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:5563646c-7021-4043-bb25-db86cd044392@5563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20260117T170000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260117T144500Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:71359d20-7e5a-4b5b-9aa0-c943137cc898@7135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20251026T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251026T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:1b595ba3-6431-433e-9199-b8ebedc903b0@1b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20260131T110000Z
+LOCATION:Paw.F 109
+DTSTART:20260131T093000Z
+SUMMARY:Contemporary Cultural Challenges (egzamin)
+UID:d044ff68-a965-4f55-9b8e-f7bb51584335@d044.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Rola
@@ -244,6 +166,92 @@ DTEND:20260109T194500Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20260109T173000Z
 SUMMARY:Big Data (konwersatorium do wyboru)
-UID:3a87ff04-a8a1-4d54-b982-16687d5e9f25@3a87.org
+UID:772a2d46-1e5d-48f0-8c77-fb6116ef29f5@772a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20251130T091500Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20251130T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:71b02153-5e7e-46aa-84b2-f50eee65cc08@71b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20251214T091500Z
+LOCATION:Paw.F 413
+DTSTART:20251214T070000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:a2c0035b-a694-4904-9b1a-6207950490f9@a2c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:1a2b5a8e-70a4-4aa0-87cd-1f93cf77a50b@1a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20251121T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20251121T173000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:8b6044cc-e655-4340-a924-1c1d2b339b46@8b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marzena Piszczek
+DTEND:20260110T114500Z
+LOCATION:Paw.F 715
+DTSTART:20260110T093000Z
+SUMMARY:Corporate governance (konwersatorium)
+UID:5ed1cf47-7d38-4c1a-be19-fa64609827e2@5ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251214T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20251214T093000Z
+SUMMARY:Big Data (konwersatorium do wyboru)
+UID:b7d25fe3-d893-4a54-8d00-4f1550b49f57@b7d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20260109T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260109T144500Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:b592b6b4-1d3f-4031-b379-67573db96bc6@b592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251024T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20251024T134500Z
+SUMMARY:Big Data (konwersatorium do wyboru)
+UID:903252ff-3d2c-4b87-bec6-994a86b80c75@9032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20251025T081500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20251025T060000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:6eaf1727-a2e4-41b0-9ec9-8717b0a8d0c8@6eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:7abab9fd-cebf-4b1d-8998-567ae5a54c35@7aba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20260110T170000Z
+LOCATION:Paw.F 515
+DTSTART:20260110T144500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:e3bb38b8-ac2f-46ed-b0a8-73c625dfeafd@e3bb.org
 END:VEVENT
 END:VCALENDAR
