@@ -2,44 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20260110T160000Z
+LOCATION:Paw.G  7
+DTSTART:20260110T130000Z
+SUMMARY:Rachunkowość zarządcza (Studia podyplomowe)
+UID:4df293b6-633a-4568-ba27-42ba5e8345f5@4df2.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
 DTEND:20260221T143000Z
 LOCATION:Paw.G 11
 DTSTART:20260221T074500Z
 SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:ae9e09ee-5531-4072-b7d8-5fe80430bab2@ae9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Jończyk
-DTEND:20260201T134500Z
-LOCATION:Paw.G 12
-DTSTART:20260201T074500Z
-SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
-UID:00f46805-a1b7-4732-9d38-6f88346b815c@00f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Pająk
-DTEND:20260131T121500Z
-LOCATION:Paw.G 12
-DTSTART:20260131T074500Z
-SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:d7908504-70f4-4dce-8d4e-48034cedb61c@d790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Jończyk
-DTEND:20260131T160000Z
-LOCATION:Paw.G 12
-DTSTART:20260131T130000Z
-SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
-UID:f047b8c0-68ff-48ea-aa48-2fa93b2d1659@f047.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
-DTEND:20260111T134500Z
-LOCATION:Paw.G  7
-DTSTART:20260111T074500Z
-SUMMARY:Rachunkowość zarządcza (Studia podyplomowe)
-UID:1a76b59e-d190-488b-b13f-9035d8d1a8cd@1a76.org
+UID:3ff889ac-3d20-4edd-b361-a4f75ab23ccd@3ff8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Karniej
@@ -47,15 +23,31 @@ DTEND:20260222T143000Z
 LOCATION:Paw.G 11
 DTSTART:20260222T074500Z
 SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:df65fd50-ae6c-4ade-87eb-7192dd671ac0@df65.org
+UID:541560ec-c5f6-44bb-9917-26c182c7b7b3@5415.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Sedlak
-DTEND:20260109T191500Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20260111T134500Z
 LOCATION:Paw.G  7
-DTSTART:20260109T144500Z
-SUMMARY:Zarządzanie projektami (Studia podyplomowe)
-UID:db0c2c9f-b61c-4a1a-ac7c-e349fa51c118@db0c.org
+DTSTART:20260111T074500Z
+SUMMARY:Rachunkowość zarządcza (Studia podyplomowe)
+UID:4b94a974-3e0e-40f4-98b8-3433a14ee17e@4b94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Jończyk
+DTEND:20260201T134500Z
+LOCATION:Paw.G 12
+DTSTART:20260201T074500Z
+SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
+UID:1fbb82e6-346a-4c35-97d2-2694f3138423@1fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20260131T121500Z
+LOCATION:Paw.G 12
+DTSTART:20260131T074500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:8adb4e80-4756-4470-9816-287f938fb325@8adb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Pająk
@@ -63,7 +55,15 @@ DTEND:20260130T191500Z
 LOCATION:Paw.G 12
 DTSTART:20260130T144500Z
 SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
-UID:201dc0fd-dec8-42c4-9456-8284859c0965@201d.org
+UID:58a757a0-7d24-4d95-b13c-c831214f65e4@58a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20260109T191500Z
+LOCATION:Paw.G  7
+DTSTART:20260109T144500Z
+SUMMARY:Zarządzanie projektami (Studia podyplomowe)
+UID:5a9cb5b7-6a40-4c94-bfb2-ee8d85d1fd6d@5a9c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Sedlak
@@ -71,15 +71,7 @@ DTEND:20260110T121500Z
 LOCATION:Paw.G  7
 DTSTART:20260110T074500Z
 SUMMARY:Zarządzanie projektami (Studia podyplomowe)
-UID:12716a30-24b4-4109-b81e-a90160e5a6eb@1271.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
-DTEND:20260110T160000Z
-LOCATION:Paw.G  7
-DTSTART:20260110T130000Z
-SUMMARY:Rachunkowość zarządcza (Studia podyplomowe)
-UID:403a72e4-d673-4451-a660-19f9cfb68f27@403a.org
+UID:d5c08206-71e3-4029-8e07-3c2402f84502@d5c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Tomasz Filarski
@@ -87,6 +79,14 @@ DTEND:20260220T191500Z
 LOCATION:Paw.G 11
 DTSTART:20260220T144500Z
 SUMMARY:Prawne aspekty funkcjonowania podmiotów medycznych (Studia podyplomowe)
-UID:ab8a1e6e-5721-4372-9869-73e458a636a8@ab8a.org
+UID:b62fd1ab-8cc1-44c7-ac22-061c542215df@b62f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Jończyk
+DTEND:20260131T160000Z
+LOCATION:Paw.G 12
+DTSTART:20260131T130000Z
+SUMMARY:Komunikacja interpersonalna (Studia podyplomowe)
+UID:5b63b138-61a7-463d-9f3e-5c5df42f4aa1@5b63.org
 END:VEVENT
 END:VCALENDAR
