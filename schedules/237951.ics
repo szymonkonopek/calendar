@@ -2,27 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251009T180000Z
-DTSTART:20251009T163000Z
-SUMMARY:Programowanie współbieżne i rozproszone (Przeniesienie zajęć)
-UID:3e0a8ced-c9e1-4503-aaee-e2baca11792b@3e0a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251030T153000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251030T140000Z
-SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:e082464f-705f-4cbd-b2fa-9d32e978e94b@e082.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251208T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251208T070000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:7bdbab89-5ff9-410e-a888-8431ebf99052@7bdb.org
+DTEND:20251203T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251203T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:cc8c79ae-b13b-4ca5-bfd3-c32b52bc4811@cc8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
@@ -30,581 +15,21 @@ DTEND:20251216T134500Z
 LOCATION:Paw.B 251
 DTSTART:20251216T121500Z
 SUMMARY:Analiza i projektowanie obiektowe (wykład)
-UID:96e131a2-2fac-4b9d-89ef-7968f1ba2b15@96e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251203T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251203T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:b80783c3-7f52-40ec-9fbc-901dc8aba15f@b807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251208T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251208T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:55da0715-78b9-49b4-abbe-c003522715b2@55da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251216T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251216T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:ce20b8ef-f6dd-4e09-8090-cb0832bfe5fc@ce20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251204T171500Z
-LOCATION:Paw.G 10
-DTSTART:20251204T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:5f647c0b-f470-4626-9e9c-a87255998607@5f64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251117T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251117T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:a48fba8d-c5c1-4b52-81c4-5ea242c91633@a48f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20251126T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251126T121500Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:74cf76e7-c77f-44fe-90b3-501ac1e66a13@74cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251007T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251007T163000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:c458f055-3990-4bad-8435-552f663df010@c458.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251015T161500Z
-LOCATION:Paw.F 415
-DTSTART:20251015T144500Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:c5660c98-7876-4a28-8861-a4d6c7156e5f@c566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20260107T134500Z
-LOCATION:Paw.G 10
-DTSTART:20260107T121500Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:f2a9597c-2402-4689-bbbd-03c02c25e07d@f2a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251202T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251202T173000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:d8451f05-ba9f-4070-a712-111b29f090ba@d845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260112T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260112T173000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
-UID:88ccd3f0-cd95-4921-89de-b8d70ec7d1d6@88cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251023T180000Z
-LOCATION:Paw.F 516
-DTSTART:20251023T163000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:ed8c1d48-c97c-4bae-bacd-175ac1b5332d@ed8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251117T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251117T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:bdc8a330-c076-4ff8-98fb-d9ef1ca7e79b@bdc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251124T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251124T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:ade41325-ab32-4777-bc3b-15472b7fd7a0@ade4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251215T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251215T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:48143915-c74a-4f91-a365-499522f5e353@4814.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260113T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260113T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:ac932703-ac73-4b3b-ba32-9f48fd40fbd2@ac93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251219T163000Z
-LOCATION:Paw.B 251
-DTSTART:20251219T154500Z
-SUMMARY:Analiza i projektowanie obiektowe (wykład)
-UID:ff8cf181-437c-40be-be4b-5f3ced88e4ce@ff8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251103T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251103T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:b013baca-9cb1-4fc6-b027-03541720091c@b013.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20260114T120000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260114T111500Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:b57c5600-a8e4-4bf4-84a3-ee7ded55a7d3@b57c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260123T093000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260123T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:56396782-3ef1-487a-8604-b77d77c6b0b6@5639.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251125T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251125T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:54fd24aa-ebb3-4e2a-b93f-41b060addd72@54fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20251112T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251112T121500Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:a4910680-642f-4943-bb9d-70419a4792fc@a491.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251126T083000Z
-LOCATION:Paw.F 614
-DTSTART:20251126T070000Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:41943be1-8ce6-4510-a108-4cd19d519ce6@4194.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251127T153000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251127T140000Z
-SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:2bf2dab7-242f-4500-bce7-b46e00d42ead@2bf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251002T161500Z
-LOCATION:Paw.G 10
-DTSTART:20251002T144500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:66d6ba2b-e56b-42e6-9f7d-8dd6bd88804b@66d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251027T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251027T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:2f1557fc-1660-4c5e-9bf4-f60355b5af54@2f15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251216T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251216T173000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:64797964-430b-4a96-9c7b-8553d6104782@6479.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251028T153000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251028T140000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
-UID:3e633f16-a8b2-4a7c-ba05-108c26b96918@3e63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251201T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251201T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:84bf6b50-c864-430c-8e34-669a20140e07@84bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251202T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251202T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:0aa4b8a4-2e42-4a1f-bcf7-6c24ebfbb157@0aa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251015T110000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251015T093000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:0eac6dc9-6ce1-4ab4-b19e-21fc9c958d3a@0eac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20260107T083000Z
-LOCATION:Paw.F 614
-DTSTART:20260107T070000Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:176a90ae-cf59-4724-b213-81966cccabd2@176a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251126T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251126T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:db21eaee-2aae-4106-9d69-8bfcd6f88bdc@db21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251002T143000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251002T130000Z
-SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:47493a48-f077-474a-a703-105301a828dd@4749.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251014T143000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251014T130000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
-UID:ecc67fe2-7c03-4572-9764-896af1bf16c6@ecc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260122T134500Z
-LOCATION:Paw.F 109
-DTSTART:20260122T130000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:f9305e69-bfe7-4d9f-b0ab-edaf416fe26e@f930.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251202T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251202T121500Z
-SUMMARY:Analiza i projektowanie obiektowe (wykład)
-UID:a77d488b-76f4-411a-9048-e30d79d27aea@a77d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251007T124500Z
-LOCATION:Paw.B 251
-DTSTART:20251007T111500Z
-SUMMARY:Analiza i projektowanie obiektowe (wykład)
-UID:e3be28b8-820b-46cd-a94a-0d69d50c22dc@e3be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251118T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251118T121500Z
-SUMMARY:Analiza i projektowanie obiektowe (wykład)
-UID:68cec9f8-5d9f-4ca1-aada-fd9b1e2e8ee3@68ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20260130T110000Z
-LOCATION:Paw.S sala 6
-DTSTART:20260130T093000Z
-SUMMARY:Administrowanie systemami komputerowymi (egzamin)
-UID:3d0e5de9-e118-4e82-8f28-36602d1c315b@3d0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20260113T171500Z
-LOCATION:Bud.gł. 5
-DTSTART:20260113T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:18074b77-60ee-4c8a-9d4c-692f7c6ed948@1807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20260120T171500Z
-LOCATION:Bud.gł. 5
-DTSTART:20260120T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:0ef6bc52-c8d9-451a-aa02-235d95a27331@0ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251020T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251020T144500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:a70fb71d-b6f6-47f4-956f-56583c129f43@a70f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20260126T134500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260126T121500Z
-SUMMARY: (egzamin)
-UID:a8333e2a-5389-4b69-8f91-9516c5983dad@a833.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251118T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251118T173000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:757a5e51-e024-4368-b6a3-d6596bcaca8e@757a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251016T161500Z
-LOCATION:Paw.G 10
-DTSTART:20251016T144500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:bbef7a31-2d36-4fed-ae5c-8b6eca16f817@bbef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251112T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251112T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:f9605395-dda3-4622-b5a1-4a012d816000@f960.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260122T144500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260122T140000Z
-SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:90ec5e3c-ee18-4c88-bed7-09d2170b46cf@90ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251105T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251105T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:db651fae-65d7-4ae4-b89d-bafda1da4d71@db65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251001T180000Z
-LOCATION:Paw.C sala A
-DTSTART:20251001T163000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:720cde2f-0c1d-44aa-b72c-0a230ca2362d@720c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20260119T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260119T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:f26a504a-17d7-4147-91f0-69ed3ddf51a7@f26a.org
+UID:61f1062b-5c72-408e-8523-2c14b260ecae@61f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
 DTEND:20251008T110000Z
 DTSTART:20251008T093000Z
 SUMMARY:Administrowanie systemami komputerowymi (Przeniesienie zajęć)
-UID:4f8304fd-1df8-4211-b703-2e93750a1787@4f83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251028T194500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251028T173000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:d200086c-4207-4960-8add-6c73e3875130@d200.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251021T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251021T163000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:f507fd4c-967a-4232-8d41-040bdc455153@f507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251029T083000Z
-LOCATION:Paw.F 614
-DTSTART:20251029T070000Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:59f57667-f0b7-45eb-a417-18627b662756@59f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20260107T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260107T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:c37c986d-3633-412b-9311-0e433672d43e@c37c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251104T134500Z
-LOCATION:Paw.B 251
-DTSTART:20251104T121500Z
-SUMMARY:Analiza i projektowanie obiektowe (wykład)
-UID:f105eb03-5b8c-404d-b382-a3ae5848ba05@f105.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251016T180000Z
-LOCATION:Paw.F 516
-DTSTART:20251016T163000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:e3c674f9-40ed-47db-8890-298088dc4773@e3c6.org
+UID:565a533f-e58b-445e-9387-492116912e7c@565a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251113T171500Z
-LOCATION:Paw.G 10
-DTSTART:20251113T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:a97c7106-6631-4f24-9384-90ee0b2a43bd@a97c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251209T171500Z
-LOCATION:Bud.gł. 5
-DTSTART:20251209T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:c6fa7953-417c-4d6c-80ba-8d1f4372007d@c6fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251002T180000Z
-LOCATION:Paw.F 516
-DTSTART:20251002T163000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:c84afd77-d273-43e9-aaac-33e29e0073a4@c84a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251210T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251210T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:4cca8625-ab87-49f9-8862-2f9e937212dd@4cca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251210T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251210T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:c886d0cb-ab4c-451d-b1ed-7a5e43f9bf1d@c886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251030T190000Z
-LOCATION:Paw.F 516
-DTSTART:20251030T173000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:4ba23838-d065-4ace-80b7-893197411039@4ba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251124T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251124T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:3744256b-406a-4db1-9408-1f596bcc8bc1@3744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251127T190000Z
-LOCATION:Paw.F 516
-DTSTART:20251127T173000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:be50368e-365c-4a33-8b18-e2dbfdaa54b9@be50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251112T083000Z
-LOCATION:Paw.F 614
-DTSTART:20251112T070000Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:fb5759b2-7bfd-4700-8ef5-3ab5c0f4145b@fb57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260107T181500Z
-DTSTART:20260107T173000Z
-SUMMARY:Trening programistyczny (Przeniesienie zajęć)
-UID:aa072159-25cb-4d7b-a34c-d618da19e33c@aa07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251118T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251118T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:a64a83c7-fbae-4ec7-9716-fd025256aa48@a64a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251014T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251014T074500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:76fff9dc-f3df-49db-afda-42a7a0f08ec6@76ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251211T153000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251211T140000Z
-SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:a411140a-12f3-4fb8-98de-34ed75c9937a@a411.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251105T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251105T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:262e3bd9-ff1b-4c13-8a56-8fa67c92b64b@262e.org
+DTEND:20251222T171500Z
+DTSTART:20251222T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyb. zdalne)
+UID:ea71500e-cfbe-471b-9c81-d68eae171528@ea71.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
@@ -612,354 +37,7 @@ DTEND:20251016T143000Z
 LOCATION:Paw.S sala 8
 DTSTART:20251016T130000Z
 SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:0ae79c42-1794-43f8-acca-71140290e2aa@0ae7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251001T073000Z
-DTSTART:20251001T060000Z
-SUMMARY:Administrowanie systemami komputerowymi (Przeniesienie zajęć)
-UID:0795babd-6ad8-4a6a-bfa5-3cd0d7c09d1b@0795.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251217T134500Z
-DTSTART:20251217T121500Z
-SUMMARY: (rezerwacja)
-UID:4be15761-a5d5-4808-a087-b6ae4e343a57@4be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251217T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251217T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:5f172c3e-2f8a-45a6-9a14-1be71264003b@5f17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251028T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251028T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:46e9da69-3184-458f-b5fe-d3a5440ef9d7@46e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251106T190000Z
-LOCATION:Paw.F 516
-DTSTART:20251106T173000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:278b807b-ff09-4f15-9f79-b4dd3edd005c@278b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251222T171500Z
-DTSTART:20251222T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyb. zdalne)
-UID:ee629ae4-d611-42a7-969c-7d34089cf519@ee62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20260119T200000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260119T191500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:69086dca-6020-47e4-932a-fcd4922e7462@6908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251209T153000Z
-DTSTART:20251209T140000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia zdalne)
-UID:c6c5ca61-4b57-42c1-bbd5-edb47c5666c3@c6c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251008T180000Z
-LOCATION:Paw.C sala A
-DTSTART:20251008T163000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:4a55d9b9-8717-4b3b-9827-3a28f27ca0bb@4a55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251013T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251013T163000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:20de2cd9-e377-4cb5-9182-4246d7f64cf8@20de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20260108T171500Z
-LOCATION:Paw.G 10
-DTSTART:20260108T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:ed90ad8f-b8e2-487e-bb0e-9fe632ac6cb2@ed90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251103T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251103T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:27c5a972-53b5-4c64-913f-2158e7b7078e@27c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260120T101500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260120T084500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:92e532d3-d61c-4843-b173-a5021b52aab7@92e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20260108T153000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260108T140000Z
-SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:b42a5d53-4d61-4737-970d-7ab04d799409@b42a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20260121T130000Z
-LOCATION:Paw.G 10
-DTSTART:20260121T121500Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:1469e636-522e-4367-a8e5-f3077e852fad@1469.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20251015T124500Z
-LOCATION:Paw.G 10
-DTSTART:20251015T111500Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:cab5a237-7791-4c49-8579-0ade5371ad66@cab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251022T180000Z
-LOCATION:Paw.C sala A
-DTSTART:20251022T163000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:72a35212-6f49-491b-9d7f-293c39743f39@72a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251126T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251126T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:f203dd2e-a6cd-46e7-a343-0bfbf8f1fb34@f203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251030T171500Z
-LOCATION:Paw.G 10
-DTSTART:20251030T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:f92ce685-97e1-4588-9f0c-30bd349842f3@f92c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251215T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251215T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:39755522-b03b-4082-82e4-35b784b8c8a2@3975.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251113T153000Z
-LOCATION:Paw.S sala 8
-DTSTART:20251113T140000Z
-SUMMARY:Programowanie współbieżne i rozproszone (wykład)
-UID:aa6c0637-1871-4fc1-9f4c-5843ce64e871@aa6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251222T190000Z
-DTSTART:20251222T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (Przeniesienie zajęć)
-UID:dbbf8ac3-6cb3-41dd-af44-b3efbc9f8138@dbbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251218T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251218T173000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
-UID:732cd538-c890-4e9e-8b58-07e264d4419e@732c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251201T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251201T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:549200aa-6ff1-4566-a8e6-7a21fe8bde2a@5492.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251216T171500Z
-LOCATION:Bud.gł. 5
-DTSTART:20251216T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:3da60797-f055-49b1-bb00-71abe39bd66b@3da6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251015T180000Z
-LOCATION:Paw.C sala A
-DTSTART:20251015T163000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:99bee4bc-82c3-4275-8fc3-6cc36fa2c85d@99be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251013T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251013T144500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:3b62eadd-6dab-4292-83a2-269de92e66a7@3b62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20260114T190000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260114T173000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:807bb646-e348-44fa-aa99-358953f84f40@807b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251125T153000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251125T140000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
-UID:1832be20-32c0-4073-a000-844f86ee77ac@1832.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251022T073000Z
-LOCATION:Paw.F 614
-DTSTART:20251022T060000Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:40a3bbdb-c378-468c-a1ec-9785d7537794@40a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20251008T073000Z
-LOCATION:Paw.B 151
-DTSTART:20251008T060000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:b58b8c56-18e8-4adb-8e18-6e8f2137f852@b58b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251022T110000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251022T093000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:3f754ba5-c809-4b77-85f0-0530cc976dba@3f75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251208T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251208T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:5b8d2b87-b6d1-40b1-affa-7e3ad9e60dd3@5b8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251021T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251021T074500Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:69eb34c5-ae95-470f-a8fd-8c81cc91f57f@69eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251120T171500Z
-LOCATION:Paw.G 10
-DTSTART:20251120T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:b61066eb-a326-4732-a97f-cf02f6533c4d@b610.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20251029T134500Z
-LOCATION:Paw.G 10
-DTSTART:20251029T121500Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:da9a58de-2c3a-4163-9871-8422f629834a@da9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20260121T083000Z
-LOCATION:Paw.F 614
-DTSTART:20260121T074500Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:9bd32289-0e40-4969-83d8-1a87c374ef9f@9bd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251209T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251209T173000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:89e4cab7-5f9b-43f3-82f6-7e3ee0409ef6@89e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251215T083000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251215T070000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:6c934dcc-c553-4a2a-aa67-c649127c308d@6c93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251203T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251203T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:8e9bec3c-fb3b-476a-a95b-ef6a0acaa933@8e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251014T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251014T163000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:2e4d7ec4-b80f-452d-afc4-485e5ba75d87@2e4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20260112T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260112T154500Z
-SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
-UID:fc7e6429-e202-45d6-a628-e0d1b2ede199@fc7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20251021T124500Z
-LOCATION:Paw.B 251
-DTSTART:20251021T111500Z
-SUMMARY:Analiza i projektowanie obiektowe (wykład)
-UID:5ee44fdb-d21d-407d-8c7d-7074e61143b4@5ee4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251119T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251119T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:7709a5bc-157a-4c8c-82b0-b7d7d376ca80@7709.org
+UID:4dfe6ca4-06b6-45b7-8532-0a3ddf6b9995@4dfe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Przemysław Płyś
@@ -967,205 +45,39 @@ DTEND:20251204T190000Z
 LOCATION:Paw.F 516
 DTSTART:20251204T173000Z
 SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:aeb829a2-be7c-4c82-9dd2-156cb1336de7@aeb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251104T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251104T173000Z
-SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:3cf7fd33-c9ed-42c5-ae89-c5609a27e866@3cf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251120T190000Z
-LOCATION:Paw.F 516
-DTSTART:20251120T173000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:f8f48830-6169-4e98-bdfa-b9a4245e5160@f8f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251023T161500Z
-LOCATION:Paw.G 10
-DTSTART:20251023T144500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:e8948806-b4bf-41f3-93df-3239ee013b55@e894.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260120T144500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6321287
-DTSTART:20260120T140000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia zdalne)
-UID:32afdff2-47a3-43a4-841e-5decd08662d6@32af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251029T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251029T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:5dc395c2-8baa-47e1-87e8-a42045be2206@5dc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251029T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251029T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:41c17cfc-b6ca-4f43-b48e-6bdce2bea8c3@41c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260119T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260119T173000Z
-SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
-UID:5d984d6f-8f95-463d-851a-d19307d23777@5d98.org
+UID:5efd99ec-a669-4794-9339-9c98e3734c46@5efd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251027T190000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251027T173000Z
+DTEND:20260114T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260114T173000Z
 SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:7a309ff4-720f-42a6-b3a0-52e0478b7d82@7a30.org
+UID:732359a8-0f37-4fb2-9807-06b5a2d5d9d9@7323.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20251016T123000Z
-DTSTART:20251016T093000Z
-SUMMARY: (rezerwacja)
-UID:acc4f159-7788-4cd5-8f90-ea9ab5f51c2d@acc4.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20251008T073000Z
+LOCATION:Paw.B 151
+DTSTART:20251008T060000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:9bc16c78-8781-4495-9587-ffbd99150cc9@9bc1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20251209T101500Z
+DTEND:20260113T101500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20251209T084500Z
+DTSTART:20260113T084500Z
 SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:6d97debc-575c-4a29-9b6b-30ac52e3c4b4@6d97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251119T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251119T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:8617e94b-797d-4efd-bb0f-878a380909d7@8617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251106T171500Z
-LOCATION:Paw.G 10
-DTSTART:20251106T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:8ebe420c-9d29-462b-adbe-2f420c174069@8ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260113T134500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6304570
-DTSTART:20260113T121500Z
-SUMMARY:Analiza i projektowanie obiektowe (wykład zdalny)
-UID:94bc6d6b-62c3-4548-8b17-32655299db2b@94bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251127T171500Z
-LOCATION:Paw.G 10
-DTSTART:20251127T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:43767316-8488-456e-a140-f4dbd7a1b67b@4376.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Konkol
-DTEND:20251020T180000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251020T163000Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
-UID:d5c8b7a8-9c76-46d6-ac73-7ff96a6435d6@d5c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
-DTEND:20251112T190000Z
-LOCATION:Paw.C sala A
-DTSTART:20251112T173000Z
-SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
-UID:68a77b86-7895-4683-bd8a-0ce366f55162@68a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Barłomiej Balsamski
-DTEND:20251202T171500Z
-LOCATION:Bud.gł. 5
-DTSTART:20251202T154500Z
-SUMMARY:Współczesne trendy informatyki (ćwiczenia)
-UID:41db8e94-6665-4e69-b064-617bd20e9170@41db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251001T110000Z
-DTSTART:20251001T093000Z
-SUMMARY:Administrowanie systemami komputerowymi (Przeniesienie zajęć)
-UID:bf07b19d-12ff-4e8b-bb8f-24ea022795d5@bf07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Przemysław Płyś
-DTEND:20251113T190000Z
-LOCATION:Paw.F 516
-DTSTART:20251113T173000Z
-SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
-UID:13ed1d8f-bc0d-4e95-9ae0-ff26ed72c109@13ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260115T083000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260115T070000Z
-SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:993bef4d-e5f2-4bfb-b5fa-db3e68500bd8@993b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251015T073000Z
-LOCATION:Paw.F 614
-DTSTART:20251015T060000Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:60f3b3a1-f057-4187-8592-4e2d2487395d@60f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251210T083000Z
-LOCATION:Paw.F 614
-DTSTART:20251210T070000Z
-SUMMARY:Administrowanie systemami komputerowymi (wykład)
-UID:e5e3d4c4-3093-47d2-803a-faa10bfe971c@e5e3.org
+UID:20353655-348b-4179-a167-486190bceadb@2035.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20251125T190000Z
+DTEND:20251208T083000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20251125T173000Z
+DTSTART:20251208T070000Z
 SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:558e400a-2ceb-4260-8987-5d43230194b2@558e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20251217T120000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20251217T103000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:78e9aef4-9ff8-4d3d-8978-9e456f422e1b@78e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
-DTEND:20260113T083000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260113T070000Z
-SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
-UID:860acc7a-28a2-45ba-88a5-40c957d0d4fd@860a.org
+UID:82fba3cb-e371-4057-958e-62aa8fc3dac5@82fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Rola
@@ -1173,15 +85,198 @@ DTEND:20251104T101500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
 DTSTART:20251104T084500Z
 SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
-UID:ae47de0b-a6b3-43e5-b1b4-b28fb55faf0b@ae47.org
+UID:b278819d-a13d-4060-a606-190369d2b332@b278.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20251210T134500Z
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251217T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251217T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:fb30e1a2-987e-4b9c-b6b7-0ac067b5ae67@fb30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251202T171500Z
+LOCATION:Bud.gł. 5
+DTSTART:20251202T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:21d87543-5ec7-435a-92e5-ddd25d4386a9@21d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251202T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251202T121500Z
+SUMMARY:Analiza i projektowanie obiektowe (wykład)
+UID:f92e9568-9425-4f49-8654-ff8b9747c656@f92e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260113T134500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6304570
+DTSTART:20260113T121500Z
+SUMMARY:Analiza i projektowanie obiektowe (wykład zdalny)
+UID:f4604e49-b898-4ebf-9567-a06ea457b8bd@f460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251117T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251117T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:f1c61df7-9474-4acf-bce3-bf0fd011d294@f1c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251022T073000Z
+LOCATION:Paw.F 614
+DTSTART:20251022T060000Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:7faad40e-eb61-4732-9039-eed54245e8a6@7faa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251112T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251112T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:31acbd82-2e87-4760-a9cd-1d3124e98411@31ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251002T180000Z
+LOCATION:Paw.F 516
+DTSTART:20251002T163000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:fad3cddf-b8fe-40db-b47f-3b287a7aa454@fad3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251029T083000Z
+LOCATION:Paw.F 614
+DTSTART:20251029T070000Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:2de7ae1c-0c38-46d1-84d3-45b4579ae641@2de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260120T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260120T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:c9192afd-a05c-453a-bf2d-18aa169a2d4b@c919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251208T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251208T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:bdfb6730-e04d-4947-a499-116cf2a79f68@bdfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251027T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251027T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:9620162a-c731-40fb-82f9-6baa5af2a613@9620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251118T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251118T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:4cee7460-1d2b-46e9-a5fb-b68f73c7bd5c@4cee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251218T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251218T173000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
+UID:591f7b2b-6861-4026-9357-8a7e4b682cd7@591f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251126T083000Z
+LOCATION:Paw.F 614
+DTSTART:20251126T070000Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:7d8e5fb0-cd91-4475-ba7a-403b33f87510@7d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251209T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251209T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:6b0bb16c-a9fb-4eec-8b65-78ccd2d9cfd7@6b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20260119T200000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260119T191500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:79b795b6-92fa-41f1-b1e2-33dfed42ed64@79b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260122T134500Z
+LOCATION:Paw.F 109
+DTSTART:20260122T130000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:84131115-5795-446b-83bc-00fd6a98a67c@8413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251210T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251210T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:2f7fdd70-13b0-4332-b5b5-3168048f0120@2f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251204T171500Z
 LOCATION:Paw.G 10
-DTSTART:20251210T121500Z
-SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
-UID:daf4f43f-12c9-43f1-939c-4bfde644fbf3@daf4.org
+DTSTART:20251204T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:c53e581c-9d7c-4204-a32d-9e4d05afaa35@c53e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251215T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251215T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:99fb61a3-a5f0-4b85-b53a-8f43a03c70c9@99fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251001T073000Z
+DTSTART:20251001T060000Z
+SUMMARY:Administrowanie systemami komputerowymi (Przeniesienie zajęć)
+UID:f94a7051-19d4-433e-8bff-42a26b696f5f@f94a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251002T161500Z
+LOCATION:Paw.G 10
+DTSTART:20251002T144500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:1b1f0005-8503-47ad-a197-947211787ad5@1b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251217T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251217T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:e8986104-87bd-4d07-9e9c-ff508a1c3c3e@e898.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Żuwała
@@ -1189,7 +284,221 @@ DTEND:20260120T190000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260120T173000Z
 SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:13a110aa-8a08-498b-9492-9997a6a0038d@13a1.org
+UID:daf9a826-9676-4a3e-b457-940e6cf1eec9@daf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20251015T124500Z
+LOCATION:Paw.G 10
+DTSTART:20251015T111500Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:486c24c0-f3c5-480c-ae5b-016178be4991@486c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251216T171500Z
+LOCATION:Bud.gł. 5
+DTSTART:20251216T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:15ff5a21-57cb-423d-93b0-7bfee3eb81d1@15ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260119T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260119T173000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
+UID:9150b225-9be1-47ac-a18c-de8fa5e03e0a@9150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251009T180000Z
+DTSTART:20251009T163000Z
+SUMMARY:Programowanie współbieżne i rozproszone (Przeniesienie zajęć)
+UID:00eca776-07d8-4221-8ff8-a31c46bc505c@00ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251023T180000Z
+LOCATION:Paw.F 516
+DTSTART:20251023T163000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:cb1ce8e5-72c8-4ce3-b358-b5895a716389@cb1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251124T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251124T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:e978b5b3-2d11-4a34-80af-b5fef7c74ced@e978.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251007T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251007T163000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:c4d291d3-c8e0-49a7-aeca-24990aa94054@c4d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251209T171500Z
+LOCATION:Bud.gł. 5
+DTSTART:20251209T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:36e7891f-14c3-4a5f-aceb-45629d7ed2ab@36e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251113T171500Z
+LOCATION:Paw.G 10
+DTSTART:20251113T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:000c1da9-ec04-4341-bb20-91a27406d55f@000c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251201T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251201T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:827bc23c-d496-40d3-9bac-b2eb30b45115@827b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20260107T134500Z
+LOCATION:Paw.G 10
+DTSTART:20260107T121500Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:564aa9d2-7666-4284-a15c-8fbcc9379172@564a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20260119T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260119T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:8dbb673e-6797-4058-a8bc-9633bf48ba8a@8dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20260121T083000Z
+LOCATION:Paw.F 614
+DTSTART:20260121T074500Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:2e6ec8f2-b32b-46e3-b9c4-05c799d8de09@2e6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251217T134500Z
+DTSTART:20251217T121500Z
+SUMMARY: (rezerwacja)
+UID:98c4875a-a83d-4521-8d37-f4ee28030aab@98c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251002T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251002T130000Z
+SUMMARY:Programowanie współbieżne i rozproszone (wykład)
+UID:83affc5a-265d-4999-9588-37bcd2928186@83af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251016T180000Z
+LOCATION:Paw.F 516
+DTSTART:20251016T163000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:13f46c43-9918-478f-987c-5b3ce2acf934@13f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20260113T171500Z
+LOCATION:Bud.gł. 5
+DTSTART:20260113T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:8432edef-2a0c-43ae-902d-36f831da3658@8432.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251020T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251020T163000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:cd9b8af8-c498-44ed-8569-4b24e8856433@cd9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20251029T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251029T121500Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:bde97261-359b-4eab-aad3-fcc9041b98a8@bde9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251126T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251126T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:73523489-ad4e-41f5-b59b-4ff464d17780@7352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251027T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251027T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:80058a5f-ab88-4b49-af8a-c26111f370a5@8005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260122T144500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260122T140000Z
+SUMMARY:Programowanie współbieżne i rozproszone (wykład)
+UID:d8b6904a-cbd3-4d24-aea1-89ee252e58e4@d8b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20260121T130000Z
+LOCATION:Paw.G 10
+DTSTART:20260121T121500Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:80b15384-9836-4df2-8504-ab66bcc574dd@80b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251021T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251021T163000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:1439d1c9-cf16-402f-9a2a-402178134912@1439.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251127T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251127T140000Z
+SUMMARY:Programowanie współbieżne i rozproszone (wykład)
+UID:6fa05ee1-3ca2-4ee7-b982-2f67f305e6af@6fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251105T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251105T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:1eba8723-aefd-4164-9829-72091c07e877@1eba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251105T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251105T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:e6b5e4f3-63af-4a54-a139-28e66f870d74@e6b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Żuwała
@@ -1197,6 +506,697 @@ DTEND:20260113T194500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260113T173000Z
 SUMMARY:Pracownia programowania V (ćwiczenia)
-UID:5386a844-abb4-4d14-b77d-2b801f5c8baa@5386.org
+UID:4c167630-7bc2-4ed1-8ac9-cb89a8e30340@4c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20260108T171500Z
+LOCATION:Paw.G 10
+DTSTART:20260108T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:c25ab374-a06b-4aeb-8c06-4755967be4f5@c25a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251112T083000Z
+LOCATION:Paw.F 614
+DTSTART:20251112T070000Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:4477d66d-9523-4256-82c7-f763aaafa4fb@4477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251112T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251112T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:699c58d6-bcfd-4d23-a7a5-f1ab19dbec62@699c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251103T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251103T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:760b3c7e-82a8-43e6-bb8b-e30ac703c0d4@760b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20260107T083000Z
+LOCATION:Paw.F 614
+DTSTART:20260107T070000Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:2bc07d25-01d6-4844-b000-ea1aeffd8566@2bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251106T171500Z
+LOCATION:Paw.G 10
+DTSTART:20251106T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:8b20ac73-c135-4f36-87d3-8778d2facfe5@8b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251203T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251203T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:1e66a003-20cc-41ff-bc19-5e5823a5ee59@1e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20251016T123000Z
+DTSTART:20251016T093000Z
+SUMMARY: (rezerwacja)
+UID:f2bc4037-66fa-45d7-81df-a45e5a5ced6c@f2bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251014T143000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251014T130000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
+UID:f5f48cba-210f-47e2-89ee-6c46363f9bf0@f5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251015T180000Z
+LOCATION:Paw.C sala A
+DTSTART:20251015T163000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:4a439ca3-530b-4b2d-9fbd-9f6c6c0688ca@4a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260112T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260112T173000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
+UID:fac97ca2-5818-40fe-b446-33a09e6d6dfc@fac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20251210T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251210T121500Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:fd0a87b5-be72-49dd-b6ae-31edf5847eb4@fd0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251013T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251013T144500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:0d4f89fb-cfc9-400f-960d-65c617a001f4@0d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251008T180000Z
+LOCATION:Paw.C sala A
+DTSTART:20251008T163000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:262b65ab-d0c3-4fb2-b662-6046c41ff06f@262b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251117T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251117T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:bed528fc-4f7f-457c-968b-3002500d1f1d@bed5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260123T093000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260123T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:20e0102c-face-409d-9f9c-4ceb5a953efb@20e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251030T171500Z
+LOCATION:Paw.G 10
+DTSTART:20251030T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:5a12cbf5-644e-4ee2-960a-3ee19ef075e4@5a12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251015T073000Z
+LOCATION:Paw.F 614
+DTSTART:20251015T060000Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:38dadf1e-f39d-4fd0-81d6-e9b7268b1b63@38da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20251112T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251112T121500Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:4d95cfcf-a62b-42d0-bff3-958bccd9c006@4d95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251127T171500Z
+LOCATION:Paw.G 10
+DTSTART:20251127T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:883e6f0e-3585-4278-8b55-a171c1a42bc4@883e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251118T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251118T173000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:52899894-116d-41f7-837c-5630b27ea7e3@5289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20260114T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260114T111500Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:d3d82c92-a7a4-4819-84d1-83a91dc46b59@d3d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251124T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251124T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:579ac67f-ea8b-4a8f-be1c-f6939db7473a@579a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251125T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251125T140000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
+UID:4fad1ba4-b96d-4019-82c7-f67e5c55315f@4fad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251202T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251202T173000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:8f8001d1-6f1f-4d0d-a157-c29e3767ec91@8f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251001T110000Z
+DTSTART:20251001T093000Z
+SUMMARY:Administrowanie systemami komputerowymi (Przeniesienie zajęć)
+UID:dee6a8bf-397e-45ad-96a2-369baa930ef5@dee6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251028T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251028T140000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia)
+UID:d538a65f-c7d4-42aa-8c2d-ac54541ed8dc@d538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260107T181500Z
+DTSTART:20260107T173000Z
+SUMMARY:Trening programistyczny (Przeniesienie zajęć)
+UID:b395cbe0-b49c-43ef-8771-2752873152c6@b395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260115T083000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260115T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:15f5604a-0534-44cc-b7e2-3e5908b55e8a@15f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251119T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251119T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:c8dc1666-de7e-4ac7-815d-da1678592745@c8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251202T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251202T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:25a577e7-6ac2-44e5-958e-b623b6990da5@25a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251215T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251215T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:15877a05-ab23-48ca-b8e9-c144c49b800b@1587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251014T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251014T163000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:77915a83-3ddb-490e-a3bb-5eec9d8a281b@7791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251023T161500Z
+LOCATION:Paw.G 10
+DTSTART:20251023T144500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:db272463-350d-4c43-bd0d-2e6baf0fddc2@db27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251215T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251215T070000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:21b19114-bbf9-4a88-97a4-774058a20f37@21b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251030T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251030T140000Z
+SUMMARY:Programowanie współbieżne i rozproszone (wykład)
+UID:b3e2a979-2380-4e40-ae68-4e1759ddcea0@b3e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251216T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251216T173000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:3c842924-e495-4592-bd0a-1b9f2b229eb4@3c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260120T144500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6321287
+DTSTART:20260120T140000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia zdalne)
+UID:238e15e9-af5e-4899-bc8e-fa6c5d88a1a4@238e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251222T190000Z
+DTSTART:20251222T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (Przeniesienie zajęć)
+UID:4343fb79-54b1-4120-868d-0a5cbdb47b8e@4343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251029T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251029T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:cf1d0d6f-f339-4fdf-b4f7-3358d993142d@cf1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251210T083000Z
+LOCATION:Paw.F 614
+DTSTART:20251210T070000Z
+SUMMARY:Administrowanie systemami komputerowymi (wykład)
+UID:60cb79f7-77e5-4c78-8df0-c6240940625d@60cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20260107T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260107T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:c3293467-6320-46a0-82ff-95a9308f4268@c329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251021T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251021T074500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:f1e22cef-d25e-462f-ac0a-640e40112ec7@f1e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251021T124500Z
+LOCATION:Paw.B 251
+DTSTART:20251021T111500Z
+SUMMARY:Analiza i projektowanie obiektowe (wykład)
+UID:315a5c12-37e9-41d5-af24-f51e18e7b24e@315a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20251126T134500Z
+LOCATION:Paw.G 10
+DTSTART:20251126T121500Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (wykład)
+UID:9a11946d-d479-4eca-916c-060dadbef64b@9a11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251015T110000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251015T093000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:f5339870-79bc-45ec-9e16-fda4b6fda639@f533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251106T190000Z
+LOCATION:Paw.F 516
+DTSTART:20251106T173000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:e5dd1b30-964a-4cc9-8c72-a1e5cbe13aa9@e5dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20260120T171500Z
+LOCATION:Bud.gł. 5
+DTSTART:20260120T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:6e4cacd2-eebb-4428-bc23-b712d49f72f5@6e4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251001T180000Z
+LOCATION:Paw.C sala A
+DTSTART:20251001T163000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:e8ba0b3f-8210-4297-8d8c-be6074b32a20@e8ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251030T190000Z
+LOCATION:Paw.F 516
+DTSTART:20251030T173000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:f35d4ad8-ae03-4ebf-8eda-82b26178b154@f35d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20260130T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20260130T093000Z
+SUMMARY:Administrowanie systemami komputerowymi (egzamin)
+UID:8f4d8833-99dd-43e2-95f4-605f851db34c@8f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251119T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251119T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:43e8cfde-f5d0-4001-8323-659e164cc780@43e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251120T171500Z
+LOCATION:Paw.G 10
+DTSTART:20251120T154500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:0f73458a-2a89-4e60-b3dd-fa446cc0a24a@0f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251209T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251209T173000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:cd8e8566-c172-44e5-b149-271668b546da@cd8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251125T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251125T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:fe5d733c-f62b-4cad-8beb-ed91bd3ced07@fe5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251125T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251125T173000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:49d40863-4ef8-4361-a621-c73cf80c8c71@49d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251007T124500Z
+LOCATION:Paw.B 251
+DTSTART:20251007T111500Z
+SUMMARY:Analiza i projektowanie obiektowe (wykład)
+UID:81b6eb7e-b46d-4bd3-b687-bdb9ea997662@81b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251015T161500Z
+LOCATION:Paw.F 415
+DTSTART:20251015T144500Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:fb88ee7c-a2e4-488c-a6a8-5c8bcab1262a@fb88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251104T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251104T121500Z
+SUMMARY:Analiza i projektowanie obiektowe (wykład)
+UID:aa4d7d4c-aee5-4d01-a473-57f2443e359f@aa4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251013T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251013T163000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:b789f3b9-6c2a-4ac7-8e2b-4afef0628754@b789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251208T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251208T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:e9316dfd-67d4-4fb9-bce9-4d29fea7205e@e931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20260113T083000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260113T070000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:d31ae0a3-bb3a-43b2-a4e5-d5530fdeea9b@d31a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251020T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251020T144500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:cf432ef8-e43d-41b8-8f2e-055932367317@cf43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20260112T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260112T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:811cd102-e2df-4afa-93b5-7c003914f767@811c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251016T161500Z
+LOCATION:Paw.G 10
+DTSTART:20251016T144500Z
+SUMMARY:Współczesne trendy informatyki (ćwiczenia)
+UID:5b11eb55-51a5-4527-b4f9-eae4012c5fe9@5b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251022T180000Z
+LOCATION:Paw.C sala A
+DTSTART:20251022T163000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:f9738ed9-3ff9-4462-bbdb-5dc843164a32@f973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251216T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251216T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:42181649-596d-4e75-8bd6-94d16f4c1498@4218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251210T120000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251210T103000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:2e938c1a-9879-4844-ae31-4bdbfd1e5e9d@2e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251118T134500Z
+LOCATION:Paw.B 251
+DTSTART:20251118T121500Z
+SUMMARY:Analiza i projektowanie obiektowe (wykład)
+UID:995882af-ab18-48a6-a8c3-57c412a4e915@9958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251028T194500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251028T173000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:f1e98b00-73b9-42f8-a4f5-e9cf32508d0c@f1e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251113T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251113T140000Z
+SUMMARY:Programowanie współbieżne i rozproszone (wykład)
+UID:0785925c-6701-4b7a-b587-8e59d23c78e7@0785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20251104T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251104T173000Z
+SUMMARY:Pracownia programowania V (ćwiczenia)
+UID:c00c1322-f7c4-46bd-87ea-93dd88acbbae@c00c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251014T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251014T074500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:b1c300e5-d712-4b4e-ba45-c9a72bbe727d@b1c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20251103T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20251103T173000Z
+SUMMARY:Zarządzanie przedsięwzięciami informatycznymi (ćwiczenia)
+UID:6b995c89-ac14-4bcd-9756-27d366dd47d3@6b99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251126T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251126T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:fa8df5a8-b922-4488-8119-73ad496d545c@fa8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barłomiej Balsamski
+DTEND:20251201T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251201T154500Z
+SUMMARY:Zaawansowane bazy danych (ćwiczenia do wyboru)
+UID:ae2b5cc8-5c7e-4776-bc1b-d67434229863@ae2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251127T190000Z
+LOCATION:Paw.F 516
+DTSTART:20251127T173000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:74849182-20e5-4d83-a0a1-dd69600a53a6@7484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20260108T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260108T140000Z
+SUMMARY:Programowanie współbieżne i rozproszone (wykład)
+UID:a1eacfdb-cec0-484b-9a64-1bb587a5bdc5@a1ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251211T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20251211T140000Z
+SUMMARY:Programowanie współbieżne i rozproszone (wykład)
+UID:6ddca76e-3f30-4a26-bbdd-4b055a5b1b60@6ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251209T153000Z
+DTSTART:20251209T140000Z
+SUMMARY:Analiza i projektowanie obiektowe (ćwiczenia zdalne)
+UID:3f86d1e8-a2f8-4ac1-8b75-29bed0a4576e@3f86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251120T190000Z
+LOCATION:Paw.F 516
+DTSTART:20251120T173000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:a3bac8a6-36f0-456a-b89a-07ec685ab36b@a3ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20251022T110000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20251022T093000Z
+SUMMARY:Administrowanie systemami komputerowymi (ćwiczenia)
+UID:53ab40bd-3526-469e-87da-2221f7244555@53ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20251219T163000Z
+LOCATION:Paw.B 251
+DTSTART:20251219T154500Z
+SUMMARY:Analiza i projektowanie obiektowe (wykład)
+UID:1974ac7b-81c6-4180-be19-e6279e1f345f@1974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20260126T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260126T121500Z
+SUMMARY: (egzamin)
+UID:e172985c-05e3-4d63-8025-76917d08d205@e172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Płyś
+DTEND:20251113T190000Z
+LOCATION:Paw.F 516
+DTSTART:20251113T173000Z
+SUMMARY:Programowanie współbieżne i rozproszone (ćwiczenia)
+UID:7d95305b-bbd6-47ed-9591-d3e4509eafe4@7d95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20251028T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20251028T084500Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (ćwiczenia do wyboru)
+UID:0782f8cd-cdae-4ec0-919e-d4c7f9cdc6cd@0782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Wołoszyn
+DTEND:20251029T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20251029T173000Z
+SUMMARY:Trening programistyczny (ćwiczenia do wyboru)
+UID:ead21cf1-e2b2-4781-9121-10def1fa6a9d@ead2.org
 END:VEVENT
 END:VCALENDAR
