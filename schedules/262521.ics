@@ -2,25 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
-DTEND:20260612T183000Z
-DTSTART:20260612T144500Z
-SUMMARY:Elementy prawa gospodarczego (Studia podyplomowe)
-UID:f39eaf6a-2e94-43e9-adea-6e9c72cb7b74@f39e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20260418T120000Z
-DTSTART:20260418T064500Z
-SUMMARY:Analiza finansowa i zarządzanie kapitałem obrotowym (Studia podyplomowe)
-UID:d49e76ec-407b-408f-a23e-89c01c75fe52@d49e.org
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20260523T120000Z
+DTSTART:20260523T064500Z
+SUMMARY:Rachunek kosztów (Studia podyplomowe)
+UID:f81a4e94-b687-44e4-8d62-81ee42d81fc7@f81a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
 DTEND:20260417T183000Z
 DTSTART:20260417T144500Z
 SUMMARY:Podatek od towarów i usług (Studia podyplomowe)
-UID:5b507929-5660-4273-bc0e-62bd530a456d@5b50.org
+UID:0ad87c45-5098-4e7e-a8e0-6116cec18e43@0ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Danuta Krzywda
+DTEND:20260509T124500Z
+DTSTART:20260509T064500Z
+SUMMARY:Auditing (Studia podyplomowe)
+UID:1ce94528-2fca-411d-9fa7-96fae8b545cf@1ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20260612T183000Z
+DTSTART:20260612T144500Z
+SUMMARY:Elementy prawa gospodarczego (Studia podyplomowe)
+UID:48ec25a9-4266-4691-a517-1e3d76fa1112@48ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20260522T183000Z
+DTSTART:20260522T144500Z
+SUMMARY:Elementy prawa pracy (Studia podyplomowe)
+UID:0ee93cc9-02a4-42a0-b461-22841addba59@0ee9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Danuta Krzywda
@@ -28,43 +42,28 @@ DTEND:20260313T193000Z
 LOCATION:Paw.B 059 (KSB)
 DTSTART:20260313T154500Z
 SUMMARY:Sprawozdawczość finansowa jednostki (Studia podyplomowe)
-UID:5e234410-0a02-4863-b4ce-4a95fd39efb9@5e23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20260522T183000Z
-DTSTART:20260522T144500Z
-SUMMARY:Elementy prawa pracy (Studia podyplomowe)
-UID:eb01c4db-4a86-4c53-9e6b-c169b972a405@eb01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Danuta Krzywda
-DTEND:20260508T181500Z
-DTSTART:20260508T134500Z
-SUMMARY:Sprawozdawczość finansowa grup kapitałowych (Studia podyplomowe)
-UID:4589a52d-2162-4c17-8452-29d2a0d43a27@4589.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Danuta Krzywda
-DTEND:20260314T130000Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20260314T074500Z
-SUMMARY:Sprawozdawczość finansowa jednostki (Studia podyplomowe)
-UID:923df5a0-5a86-4b19-b8c4-63b86b016ea6@923d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Danuta Krzywda
-DTEND:20260509T124500Z
-DTSTART:20260509T064500Z
-SUMMARY:Auditing (Studia podyplomowe)
-UID:c6d06078-6416-421e-ad45-016b48e69cb8@c6d0.org
+UID:97ea9b22-ffd6-4735-a3b1-b3c82926d359@97ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
 DTEND:20260320T193000Z
 DTSTART:20260320T154500Z
 SUMMARY:Podatek od towarów i usług (Studia podyplomowe)
-UID:ea943fc2-ff0e-49e2-addc-e8d624306c16@ea94.org
+UID:17ced20c-1f56-4187-b7de-eb32dd788f0c@17ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260321T121500Z
+DTSTART:20260321T074500Z
+SUMMARY:Zarządzanie firmą (Studia podyplomowe)
+UID:91b0ff9a-02e3-4852-8c3a-e52d1645c5bd@91b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Danuta Krzywda
+DTEND:20260508T181500Z
+DTSTART:20260508T134500Z
+SUMMARY:Sprawozdawczość finansowa grup kapitałowych (Studia podyplomowe)
+UID:a5c5c6b4-e612-4908-98d5-7290af6d7f7e@a5c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Surówka
@@ -72,27 +71,28 @@ DTEND:20260314T074500Z
 LOCATION:Paw.B 059 (KSB)
 DTSTART:20260314T070000Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:84aea714-5dee-45be-a251-2ff27d0afb90@84ae.org
+UID:5a1f9e64-db8e-49ee-85e0-4d9bf3ba7eab@5a1f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260321T121500Z
-DTSTART:20260321T074500Z
-SUMMARY:Zarządzanie firmą (Studia podyplomowe)
-UID:acf2ed36-1347-4d78-a636-968d406805ff@acf2.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20260418T120000Z
+DTSTART:20260418T064500Z
+SUMMARY:Analiza finansowa i zarządzanie kapitałem obrotowym (Studia podyplomowe)
+UID:d75dc82f-31da-4d7f-ab7b-901f28c23227@d75d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Danuta Krzywda
+DTEND:20260314T130000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20260314T074500Z
+SUMMARY:Sprawozdawczość finansowa jednostki (Studia podyplomowe)
+UID:18de6f92-9a1b-4036-9dc2-bf901dd1c6f4@18de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
 DTEND:20260613T103000Z
 DTSTART:20260613T064500Z
 SUMMARY:Elementy prawa gospodarczego (Studia podyplomowe)
-UID:b7e13b11-7347-4feb-9086-e5b34ea4b00e@b7e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20260523T120000Z
-DTSTART:20260523T064500Z
-SUMMARY:Rachunek kosztów (Studia podyplomowe)
-UID:c24cfdb9-7f21-4171-bbcc-f133d9d73453@c24c.org
+UID:21bab09c-ff24-435e-b017-0a22c561affc@21ba.org
 END:VEVENT
 END:VCALENDAR

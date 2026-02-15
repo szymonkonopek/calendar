@@ -2,27 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260612T183000Z
-DTSTART:20260612T144500Z
-SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
-UID:706f4fbd-0f41-4e75-b997-949db567e4fb@706f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20260523T090000Z
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20260509T133000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260523T064500Z
-SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
-UID:866b3857-c0ae-4d51-82f2-f607ebc81a6d@866b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20260314T104500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260314T074500Z
-SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
-UID:c43e778f-4826-49a0-a64c-ed1067845bb9@c43e.org
+DTSTART:20260509T111500Z
+SUMMARY:Podstawy uczenia maszynowego i eksploracyjnej analizy danych (Studia podyplomowe)
+UID:78f1b9a4-ae03-40df-a868-219a1eee7547@78f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
@@ -30,7 +15,22 @@ DTEND:20260523T114500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260523T093000Z
 SUMMARY:Eksploracyjna analiza dokumentów tekstowych (Studia podyplomowe)
-UID:7b2925c2-cb7e-4c18-aecf-65f4db7d5423@7b29.org
+UID:24f280c1-3058-45b9-97bd-c15ccf3851b8@24f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20260523T090000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260523T064500Z
+SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
+UID:798417a8-7a2c-40f6-865b-9b383113ca0d@7984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260613T103000Z
+DTSTART:20260613T064500Z
+SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
+UID:cf83a589-fc78-4c5a-9421-0ab49fd4c804@cf83.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
@@ -38,60 +38,7 @@ DTEND:20260522T183000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260522T144500Z
 SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
-UID:f40185cc-d6aa-4243-8e4a-947b8961312e@f401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260320T193000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260320T154500Z
-SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
-UID:cd89b5ab-2752-4971-bfde-29c03efbf588@cd89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260613T103000Z
-DTSTART:20260613T064500Z
-SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
-UID:19f681f4-6742-4403-ab72-770b07b9d23e@19f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20260321T143000Z
-DTSTART:20260321T121500Z
-SUMMARY:Eksploracyjna analiza sieci (Studia podyplomowe)
-UID:e16d7f7f-b809-4d7b-a263-4e3cc0fc22c5@e16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20260418T123000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260418T101500Z
-SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
-UID:db132a5a-975c-4a0a-9825-8ae68d187e0c@db13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20260313T193000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260313T154500Z
-SUMMARY:Podstawy uczenia maszynowego i eksploracyjnej analizy danych (Studia podyplomowe)
-UID:7dcd5569-b2ba-4d4c-9236-ab38a3c0e99c@7dcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Jaśko
-DTEND:20260509T133000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260509T111500Z
-SUMMARY:Podstawy uczenia maszynowego i eksploracyjnej analizy danych (Studia podyplomowe)
-UID:e6d35ad3-21e4-482f-a856-ef2a39c71fff@e6d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
-DTEND:20260613T133000Z
-DTSTART:20260613T111500Z
-SUMMARY:Eksploracyjna analiza dokumentów tekstowych (Studia podyplomowe)
-UID:b5dd4d46-36f3-4924-8dda-a441e6f3b7f5@b5dd.org
+UID:d3435a91-7b9b-43fb-83ad-25355e86e58f@d343.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Jaśko
@@ -99,38 +46,7 @@ DTEND:20260418T094500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260418T064500Z
 SUMMARY:Podstawy uczenia maszynowego i eksploracyjnej analizy danych (Studia podyplomowe)
-UID:5b794b48-999c-4886-9274-885411d1a26e@5b79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260620T073000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260620T064500Z
-SUMMARY:Egzamin (Studia podyplomowe)
-UID:88c4cab3-ffd4-46d8-a63a-38ecab06fa2d@88c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260314T133000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260314T111500Z
-SUMMARY:Eksploracyjna analiza dokumentów tekstowych (Studia podyplomowe)
-UID:0941a3e2-7358-4aee-880f-fc911cacdcc7@0941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260321T113000Z
-DTSTART:20260321T074500Z
-SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
-UID:3caaf943-5c28-4167-8253-15d5129ae620@3caa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
-DTEND:20260508T183000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260508T144500Z
-SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
-UID:1845cc33-8481-4b10-8a60-a59832468720@1845.org
+UID:9f5670ca-65f3-4867-b2b4-8cad640a977c@9f56.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
@@ -138,6 +54,90 @@ DTEND:20260509T103000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260509T064500Z
 SUMMARY:Eksploracyjna analiza sieci (Studia podyplomowe)
-UID:9aca40e5-fa2e-47d0-b69e-1d73b7d920fd@9aca.org
+UID:1bd8ddd6-6508-4eb4-a8f7-a631bc22b2d4@1bd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260620T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260620T064500Z
+SUMMARY:Egzamin (Studia podyplomowe)
+UID:1617b123-2d68-4027-a0f7-e2a301bca9c7@1617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20260314T104500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260314T074500Z
+SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
+UID:5db989f7-6a10-49c6-9991-bee8be004ed9@5db9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20260508T183000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260508T144500Z
+SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
+UID:5e7c0ff3-d37b-4cb3-938f-7204fefcd3d1@5e7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20260613T133000Z
+DTSTART:20260613T111500Z
+SUMMARY:Eksploracyjna analiza dokumentów tekstowych (Studia podyplomowe)
+UID:ad9faacf-9556-4d97-938e-623e08f3fdef@ad9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260320T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260320T154500Z
+SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
+UID:3cf135c4-6dda-42c9-bd7c-4a564a0822b9@3cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260314T133000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260314T111500Z
+SUMMARY:Eksploracyjna analiza dokumentów tekstowych (Studia podyplomowe)
+UID:b6b1025a-2f96-436d-9f6f-86c015814460@b6b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260321T113000Z
+DTSTART:20260321T074500Z
+SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
+UID:7a46c492-5d8b-4bdb-ae3d-ef659a5da3c6@7a46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20260321T143000Z
+DTSTART:20260321T121500Z
+SUMMARY:Eksploracyjna analiza sieci (Studia podyplomowe)
+UID:147bfe4e-e770-457a-b08b-d21e231d2d9e@147b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20260418T123000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260418T101500Z
+SUMMARY:Statystyczne metody wielowymiarowej analizy danych (Studia podyplomowe)
+UID:df904294-ffd2-4862-b198-d466a4cec116@df90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Jaśko
+DTEND:20260313T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260313T154500Z
+SUMMARY:Podstawy uczenia maszynowego i eksploracyjnej analizy danych (Studia podyplomowe)
+UID:e0fdf215-baac-4749-a637-807a4b7823ec@e0fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260612T183000Z
+DTSTART:20260612T144500Z
+SUMMARY:Modele uczenia maszynowego (Studia podyplomowe)
+UID:726f3368-3a25-47bc-b8e6-644567ad43b3@726f.org
 END:VEVENT
 END:VCALENDAR
