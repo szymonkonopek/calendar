@@ -3,48 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:20c687e3-39b2-48e2-8615-fba7c8473622@20c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260331T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6392750
-DTSTART:20260331T074500Z
-SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:2d96112b-3bc1-476e-820f-3b599def5fa7@2d96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
 DTEND:20260305T133000Z
 DTSTART:20260305T103000Z
 SUMMARY: (rezerwacja)
-UID:055f4e19-c5c6-4bcd-a29d-4594c4b9f402@055f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260428T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6392753
-DTSTART:20260428T074500Z
-SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:3cd1220c-dd6a-4dd7-a664-21410f4ee72b@3cd1.org
+UID:69d00bb5-8d3a-406c-aa14-dea81ab5632d@69d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
 SUMMARY: (rezerwacja)
-UID:0c34d7ff-ee94-45f0-bec5-a017b6fc12d5@0c34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260224T101500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6392745
-DTSTART:20260224T084500Z
-SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:bcc65cc5-eee7-4084-9f09-8fe59145e099@bcc6.org
+UID:a79b91a7-fe25-4db9-8960-91d55167242a@a79b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
@@ -52,15 +21,23 @@ DTEND:20260602T091500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6392756
 DTSTART:20260602T083000Z
 SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:4f6310c3-1f1e-4c64-8372-0dc68d63c1d8@4f63.org
+UID:d180b4f3-e1de-444e-a38f-a3c4f45b3e73@d180.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260414T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6392751
-DTSTART:20260414T074500Z
+DTEND:20260428T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6392753
+DTSTART:20260428T074500Z
 SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:04ec6b28-509f-4e35-b894-0d8e076cebcc@04ec.org
+UID:7331bd46-c6bf-499c-90bd-61f56582309d@7331.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260331T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6392750
+DTSTART:20260331T074500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:556cffc3-7325-4f9a-a49d-b52b626ba2c9@556c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
@@ -68,7 +45,30 @@ DTEND:20260519T091500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6392755
 DTSTART:20260519T083000Z
 SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:0186f43d-6682-4e81-8a9a-2bf46affb680@0186.org
+UID:eb238af7-e896-4ec0-8158-baaef391321d@eb23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:4da6a815-72a3-4f44-a731-1a9708b68ebb@4da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260414T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6392751
+DTSTART:20260414T074500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:b6db1d40-66d7-4c6c-863e-339045e98ace@b6db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260224T101500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6392745
+DTSTART:20260224T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:6db5f37c-def2-4eb6-862d-3f4168aba196@6db5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
@@ -76,6 +76,6 @@ DTEND:20260317T101500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6392748
 DTSTART:20260317T084500Z
 SUMMARY:Seminarium indywidualne - 30h (seminarium)
-UID:a6e91523-8082-4efa-88ba-6f591157689d@a6e9.org
+UID:e52d28b4-131e-4a2a-8304-a77924598e85@e52d.org
 END:VEVENT
 END:VCALENDAR
