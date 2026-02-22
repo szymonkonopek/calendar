@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
-DTEND:20260322T104500Z
+DESCRIPTION:Instructor: mgr Witold Anusz
+DTEND:20260417T181500Z
 LOCATION:Paw.G 10
-DTSTART:20260322T074500Z
-SUMMARY:Wprowadzenie do studiów MBA (Studia podyplomowe)
-UID:d15fb30f-7837-495f-939c-911317c81c7c@d15f.org
+DTSTART:20260417T134500Z
+SUMMARY:Negocjacje w biznesie (Studia podyplomowe)
+UID:f81dc626-feaa-4ca3-be8a-9b8b92a87b00@f81d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260530T174500Z
+DTSTART:20260530T050000Z
+SUMMARY:Kongres KSB (Studia podyplomowe)
+UID:902beec8-f34b-45f2-9715-f3c8124a34ab@902b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mec. Agnieszka Pietraszewska-Macheta
@@ -15,44 +22,7 @@ DTEND:20260515T181500Z
 LOCATION:Paw.G 10
 DTSTART:20260515T134500Z
 SUMMARY:Zarządzanie jakością w podmiocie medycznym (Studia podyplomowe)
-UID:29856aa8-5f5a-49bb-9007-a2ed27b7b5b0@2985.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260628T124500Z
-DTSTART:20260628T064500Z
-SUMMARY:Organizacja ucząca się (Studia podyplomowe)
-UID:33d4b0f7-60dd-401f-b63f-32a9dd95d374@33d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Tomasz Filarski
-DTEND:20260418T150000Z
-LOCATION:Paw.G 10
-DTSTART:20260418T120000Z
-SUMMARY:Kontraktowanie świadczeń medycznych (Studia podyplomowe)
-UID:cdf64fac-cb8d-4619-9e00-aef341bd0ed5@cdf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Tomasz Filarski
-DTEND:20260419T124500Z
-LOCATION:Paw.G 10
-DTSTART:20260419T064500Z
-SUMMARY:Kontraktowanie świadczeń medycznych (Studia podyplomowe)
-UID:6717fa17-26da-4d00-a3c5-e9df91a03be0@6717.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260529T174500Z
-DTSTART:20260529T050000Z
-SUMMARY:Kongres KSB (Studia podyplomowe)
-UID:26f2840a-3ebb-4568-8b67-c7d1e73d0ba0@26f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20260627T111500Z
-DTSTART:20260627T064500Z
-SUMMARY:Zarządzanie procesami biznesowymi (Studia podyplomowe)
-UID:310d28b5-1f33-4827-9616-41ecb3da366b@310d.org
+UID:417c0ff9-2574-4b18-8f6a-3d7a4922510b@417c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Witold Anusz
@@ -60,59 +30,44 @@ DTEND:20260418T111500Z
 LOCATION:Paw.G 10
 DTSTART:20260418T064500Z
 SUMMARY:Negocjacje w biznesie (Studia podyplomowe)
-UID:583937f5-9ebf-4006-85d8-0a1cea03e487@5839.org
+UID:fd9d9234-635c-43bd-be95-1487c371f837@fd9d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: inż. Leszek Księżyk dr inż. Bartosz Misiurek
-DTEND:20260627T150000Z
-DTSTART:20260627T120000Z
-SUMMARY:Organizacja ucząca się (Studia podyplomowe)
-UID:8acc9aad-4a1c-4817-b7e8-fe9f622c8ef9@8acc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mec. Agnieszka Pietraszewska-Macheta
-DTEND:20260516T133000Z
+DESCRIPTION:Instructor: mgr Tomasz Filarski
+DTEND:20260419T124500Z
 LOCATION:Paw.G 10
-DTSTART:20260516T064500Z
-SUMMARY:Zarządzanie jakością w podmiocie medycznym (Studia podyplomowe)
-UID:767ffb92-123c-49a2-a1bf-7a3f207aabb1@767f.org
+DTSTART:20260419T064500Z
+SUMMARY:Kontraktowanie świadczeń medycznych (Studia podyplomowe)
+UID:cf8cfa32-afa8-44c9-b72f-7b48053e4ef3@cf8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260529T174500Z
+DTSTART:20260529T050000Z
+SUMMARY:Kongres KSB (Studia podyplomowe)
+UID:06bfd62c-6139-4005-8671-fec7e963d0cf@06bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
 DTEND:20260626T181500Z
 DTSTART:20260626T134500Z
 SUMMARY:Zarządzanie procesami biznesowymi (Studia podyplomowe)
-UID:a037b2bb-3e23-4b47-955e-9a921c96f924@a037.org
+UID:b0ac15cf-b8cf-4678-8073-03538916c022@b0ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
+DTEND:20260322T104500Z
+LOCATION:Paw.G 10
+DTSTART:20260322T074500Z
+SUMMARY:Wprowadzenie do studiów MBA (Studia podyplomowe)
+UID:d4cc2d06-bab2-4bd1-b0c4-49434f3c585e@d4cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260530T174500Z
-DTSTART:20260530T050000Z
-SUMMARY:Kongres KSB (Studia podyplomowe)
-UID:5648e9ef-0456-49cb-bd64-9c31187a27c6@5648.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260531T174500Z
-DTSTART:20260531T050000Z
-SUMMARY:Kongres KSB (Studia podyplomowe)
-UID:67f72463-1d5b-43d6-b3b4-8a069b5bb307@67f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Kędzierska
-DTEND:20260321T130000Z
-LOCATION:Paw.G 10
-DTSTART:20260321T074500Z
-SUMMARY:Zarządzanie czasem (Studia podyplomowe)
-UID:541e758c-017c-4779-97be-43b40b7598dd@541e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Liliana Adamska
-DTEND:20260517T133000Z
-LOCATION:Paw.G 10
-DTSTART:20260517T064500Z
-SUMMARY:Zarządzanie jakością w podmiocie medycznym (Studia podyplomowe)
-UID:5a3febd1-dd2c-46df-9ec3-85cd3adf677a@5a3f.org
+DTEND:20260628T124500Z
+DTSTART:20260628T064500Z
+SUMMARY:Organizacja ucząca się (Studia podyplomowe)
+UID:1ad05dab-ea9b-4ff0-9977-ae9645c12f89@1ad0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Joanna Kędzierska
@@ -120,14 +75,59 @@ DTEND:20260320T183000Z
 LOCATION:Paw.G 10
 DTSTART:20260320T144500Z
 SUMMARY:Zarządzanie czasem (Studia podyplomowe)
-UID:59cac6cd-3186-4d13-b430-081213f7f9d0@59ca.org
+UID:76697306-9b51-4339-a1b2-d905e5aacb3f@7669.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Witold Anusz
-DTEND:20260417T181500Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20260627T111500Z
+DTSTART:20260627T064500Z
+SUMMARY:Zarządzanie procesami biznesowymi (Studia podyplomowe)
+UID:60cee375-4d6c-46d5-b066-f8656a0a7586@60ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260531T174500Z
+DTSTART:20260531T050000Z
+SUMMARY:Kongres KSB (Studia podyplomowe)
+UID:dedc1334-a54a-4584-a01c-5122c3a457e1@dedc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Leszek Księżyk dr inż. Bartosz Misiurek
+DTEND:20260627T150000Z
+DTSTART:20260627T120000Z
+SUMMARY:Organizacja ucząca się (Studia podyplomowe)
+UID:54f03ab4-f370-4f32-b97c-fc7748f6add7@54f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Liliana Adamska
+DTEND:20260517T133000Z
 LOCATION:Paw.G 10
-DTSTART:20260417T134500Z
-SUMMARY:Negocjacje w biznesie (Studia podyplomowe)
-UID:4b6abe97-412b-44c9-9221-4f85a537d25f@4b6a.org
+DTSTART:20260517T064500Z
+SUMMARY:Zarządzanie jakością w podmiocie medycznym (Studia podyplomowe)
+UID:bcd868c5-262b-479f-a880-e1c474984763@bcd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mec. Agnieszka Pietraszewska-Macheta
+DTEND:20260516T133000Z
+LOCATION:Paw.G 10
+DTSTART:20260516T064500Z
+SUMMARY:Zarządzanie jakością w podmiocie medycznym (Studia podyplomowe)
+UID:722c2f8b-0e9d-4a1f-842c-a94fd38719ff@722c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Kędzierska
+DTEND:20260321T130000Z
+LOCATION:Paw.G 10
+DTSTART:20260321T074500Z
+SUMMARY:Zarządzanie czasem (Studia podyplomowe)
+UID:39c8ae35-2c3b-453f-b1eb-c7fda87bbc23@39c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tomasz Filarski
+DTEND:20260418T150000Z
+LOCATION:Paw.G 10
+DTSTART:20260418T120000Z
+SUMMARY:Kontraktowanie świadczeń medycznych (Studia podyplomowe)
+UID:a5b5d0ae-f118-4625-9082-1d1af98080d5@a5b5.org
 END:VEVENT
 END:VCALENDAR
