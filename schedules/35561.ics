@@ -2,12 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Płonka
-DTEND:20260328T130000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260328T074500Z
-SUMMARY:Rynek finansowy (Studia podyplomowe)
-UID:8424a976-ea71-4f0e-bc57-2e29935b2036@8424.org
+DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
+DTEND:20260306T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20260306T154500Z
+SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
+UID:d83e8e83-123f-40ec-8d8b-73a869421a98@d83e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260619T183000Z
+DTSTART:20260619T144500Z
+SUMMARY:Controlling strategiczny (Studia podyplomowe)
+UID:eedfab72-498d-4941-894e-1d596e49b6d5@eedf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20260620T134500Z
+DTSTART:20260620T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:28c33090-e1c0-485b-bb81-b52181a860cd@28c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
@@ -15,99 +29,7 @@ DTEND:20260411T111500Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20260411T064500Z
 SUMMARY:Metody wyceny przedsiębiorstw (Studia podyplomowe)
-UID:148bd48e-c8c1-4ce7-8444-a1b4787b31d7@148b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20260515T183000Z
-LOCATION:Paw.G 12
-DTSTART:20260515T144500Z
-SUMMARY:Metodyka wdrażania controllingu w przedsiębiorstwie (Studia podyplomowe)
-UID:6807c378-f36e-490c-9a2f-5e3dde3438c3@6807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Płonka
-DTEND:20260327T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20260327T154500Z
-SUMMARY:Rynek finansowy (Studia podyplomowe)
-UID:4ea9d1b0-e735-4570-9aa9-39bc24c5f225@4ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Maria Sierpińska
-DTEND:20260306T193000Z
-LOCATION:Paw.G - 1
-DTSTART:20260306T154500Z
-SUMMARY:Krótkoterminowe decyzje finansowe (Studia podyplomowe)
-UID:65d2ee90-98dd-4bae-bbdd-67f4210c2457@65d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260620T120000Z
-DTSTART:20260620T064500Z
-SUMMARY:Controlling strategiczny (Studia podyplomowe)
-UID:3cb224f7-150d-4e73-905c-fed03b57a939@3cb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
-DTEND:20260227T191500Z
-LOCATION:Paw.G  7
-DTSTART:20260227T144500Z
-SUMMARY:Controlling personalny (Studia podyplomowe)
-UID:33f1653e-b670-4865-84b6-8dccef4f5681@33f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260529T183000Z
-DTSTART:20260529T144500Z
-SUMMARY:Wykład do wyboru (Studia podyplomowe)
-UID:145395fb-a940-4574-bda7-a2fbcff3b6a8@1453.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260619T183000Z
-DTSTART:20260619T144500Z
-SUMMARY:Controlling strategiczny (Studia podyplomowe)
-UID:374136de-a545-481a-90a2-07dd9c0aa035@3741.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Płonka
-DTEND:20260228T134500Z
-LOCATION:Paw.G - 1
-DTSTART:20260228T074500Z
-SUMMARY:Bankowa obsługa przedsiębiorstw (Studia podyplomowe)
-UID:837f0151-f907-470e-b329-1f2804693adc@837f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
-DTEND:20260424T183000Z
-LOCATION:Paw.G - 2
-DTSTART:20260424T144500Z
-SUMMARY:Długotermin. decyzje finansowe (Studia podyplomowe)
-UID:62728737-5b39-47ea-a0af-b006f38c3e24@6272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20260307T134500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260307T074500Z
-SUMMARY:Planowanie finansowe (Studia podyplomowe)
-UID:c18df17a-ed79-4be4-b6dc-596dd6144a5b@c18d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusław Niedbała
-DTEND:20260425T111500Z
-LOCATION:Paw.G - 2
-DTSTART:20260425T064500Z
-SUMMARY:Controlling projektów (Studia podyplomowe)
-UID:a3d87fbd-bc46-46f4-9ee6-4ef0cd305aac@a3d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20260704T141500Z
-DTSTART:20260704T064500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:409973a6-0cb5-4bbe-b83b-bf37b55a6603@4099.org
+UID:787b30ed-4b1b-4429-b2de-4ca8891ce112@787b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Szymla
@@ -115,7 +37,7 @@ DTEND:20260228T074500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260228T070000Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:766b7f96-733d-4c6b-b59d-6d4cdbde7ba5@766b.org
+UID:66cd597e-a514-4115-a7df-a9ca1b9d68a5@66cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
@@ -123,21 +45,60 @@ DTEND:20260516T120000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20260516T064500Z
 SUMMARY:Narzędzia informatyczne w controllingu (Studia podyplomowe)
-UID:328de4a0-c8aa-4d7b-a1e5-ae521d4a242f@328d.org
+UID:aa02b584-f231-4ea4-8583-413b9750b8d3@aa02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Łukasiewicz
+DTEND:20260227T191500Z
+LOCATION:Paw.G  7
+DTSTART:20260227T144500Z
+SUMMARY:Controlling personalny (Studia podyplomowe)
+UID:926efd25-a8a6-4e7f-a02e-b3fea981e6c3@926e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusław Niedbała
+DTEND:20260425T111500Z
+LOCATION:Paw.G - 2
+DTSTART:20260425T064500Z
+SUMMARY:Controlling projektów (Studia podyplomowe)
+UID:9e79a9b1-959b-4ec7-ba5e-f2d9ed1bc94f@9e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20260704T141500Z
+DTSTART:20260704T064500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:f9f618eb-9e07-4476-8c0e-59ed0853b2a9@f9f6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20260530T124500Z
 DTSTART:20260530T064500Z
 SUMMARY:Wykład do wyboru (Studia podyplomowe)
-UID:ced68b8d-1cb3-41a3-ae15-be46e3631ba6@ced6.org
+UID:465228d6-8e24-499a-ba56-3aeb7e743a1c@4652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20260307T134500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260307T074500Z
+SUMMARY:Planowanie finansowe (Studia podyplomowe)
+UID:1f159921-9237-4149-9910-772774ae7555@1f15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Płonka
+DTEND:20260328T130000Z
+LOCATION:Paw.G - 1
+DTSTART:20260328T074500Z
+SUMMARY:Rynek finansowy (Studia podyplomowe)
+UID:7c630173-064b-4beb-b1ad-57cccdd5bdc6@7c63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260531T124500Z
-DTSTART:20260531T064500Z
+DTEND:20260529T183000Z
+DTSTART:20260529T144500Z
 SUMMARY:Wykład do wyboru (Studia podyplomowe)
-UID:ff1aa0bb-40f4-4168-aa63-66a3b8a4f6ee@ff1a.org
+UID:ff70843c-4b18-4dc1-a1b4-f1db06be30a3@ff70.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
@@ -145,13 +106,52 @@ DTEND:20260410T183000Z
 LOCATION:Paw.G  7
 DTSTART:20260410T144500Z
 SUMMARY:Długotermin. decyzje finansowe (Studia podyplomowe)
-UID:8ebf7fd4-92b1-47a5-a7b6-546f8917a9b2@8ebf.org
+UID:e7986358-be4f-4edd-b590-11e3efddd519@e798.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Szymla
-DTEND:20260620T134500Z
-DTSTART:20260620T130000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:f9e6c527-e750-46f6-ae9c-67e8dc1f3a90@f9e6.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20260424T183000Z
+LOCATION:Paw.G - 2
+DTSTART:20260424T144500Z
+SUMMARY:Długotermin. decyzje finansowe (Studia podyplomowe)
+UID:d83b4514-a4a1-4dda-ab81-14e33899e755@d83b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Płonka
+DTEND:20260228T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20260228T074500Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (Studia podyplomowe)
+UID:0befedc9-09fb-4e0a-bdcc-f8e20438a4fd@0bef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260620T120000Z
+DTSTART:20260620T064500Z
+SUMMARY:Controlling strategiczny (Studia podyplomowe)
+UID:66e0baba-8267-4524-ad74-75e90365d772@66e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20260515T183000Z
+LOCATION:Paw.G 12
+DTSTART:20260515T144500Z
+SUMMARY:Metodyka wdrażania controllingu w przedsiębiorstwie (Studia podyplomowe)
+UID:6e15899e-619a-4b5e-ba3c-e42529f18580@6e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Płonka
+DTEND:20260327T193000Z
+LOCATION:Paw.G - 1
+DTSTART:20260327T154500Z
+SUMMARY:Rynek finansowy (Studia podyplomowe)
+UID:ad5f4436-b081-4d93-8ac1-7095e9900e8f@ad5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260531T124500Z
+DTSTART:20260531T064500Z
+SUMMARY:Wykład do wyboru (Studia podyplomowe)
+UID:ea2f41bd-4539-4c38-94a3-b441d8e9d686@ea2f.org
 END:VEVENT
 END:VCALENDAR
