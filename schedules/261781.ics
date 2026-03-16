@@ -2,26 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Chochół
+DTEND:20260301T130000Z
+DTSTART:20260301T074500Z
+SUMMARY:Warsztaty prowadzenie wywiadów selekcyjnych (Studia podyplomowe)
+UID:09a5a19b-a0f7-418e-89f5-eae4e1fa3e87@09a5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20260613T120000Z
-DTSTART:20260613T064500Z
-SUMMARY:Warsztaty - przygotowanie projektu (Studia podyplomowe)
-UID:d3273401-0ffc-4572-a33d-e91368aacb63@d327.org
+DTEND:20260613T134500Z
+DTSTART:20260613T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:f28944f4-c966-4e85-ad3c-fb02492b058a@f289.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Pająk
 DTEND:20260425T111500Z
 DTSTART:20260425T064500Z
 SUMMARY:Podejmowanie decyzji (Studia podyplomowe)
-UID:8690922e-8b98-4014-8b55-c6b37398c6fd@8690.org
+UID:ca08442f-5b66-4707-be17-9c6931743af3@ca08.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260412T111500Z
-LOCATION:Paw.G  7
-DTSTART:20260412T064500Z
-SUMMARY:Budowanie zespołów (Studia podyplomowe)
-UID:e1281ddc-0975-4d86-88b9-0925e4455d19@e128.org
+DTEND:20260228T121500Z
+DTSTART:20260228T074500Z
+SUMMARY:Pozyskiwanie pracowników (Studia podyplomowe)
+UID:baf078ca-d85d-4073-9b25-f4a2c3566af4@baf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Kotucz
+DTEND:20260530T111500Z
+DTSTART:20260530T064500Z
+SUMMARY:Zarządzanie stresem i emocjami (Studia podyplomowe)
+UID:12c4ab8c-caa4-4614-a0a4-752ecfb73edd@12c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20260613T120000Z
+DTSTART:20260613T064500Z
+SUMMARY:Warsztaty - przygotowanie projektu (Studia podyplomowe)
+UID:c5297b56-c34e-413d-87fa-055e0d73dc9d@c529.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
@@ -29,15 +49,7 @@ DTEND:20260517T120000Z
 LOCATION:Paw.G - 1
 DTSTART:20260517T064500Z
 SUMMARY:Warsztaty - prowadzenie rozmów oceniajacych (Studia podyplomowe)
-UID:699f760d-5a71-4e08-88fa-4606292ed795@699f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
-DTEND:20260516T111500Z
-LOCATION:Paw.G - 1
-DTSTART:20260516T064500Z
-SUMMARY:Ocenianie pracowników (Studia podyplomowe)
-UID:8e3a30e2-22df-4748-8a17-87edd2c04865@8e3a.org
+UID:c1fe8172-38de-4600-88aa-849a6ada5a02@c1fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Andrzej Domagała
@@ -45,36 +57,7 @@ DTEND:20260328T121500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20260328T074500Z
 SUMMARY:Zarządzanie konfliktem (Studia podyplomowe)
-UID:f34ebd7a-e85b-4485-b61f-84108d9a0644@f34e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Chochół
-DTEND:20260301T130000Z
-DTSTART:20260301T074500Z
-SUMMARY:Warsztaty prowadzenie wywiadów selekcyjnych (Studia podyplomowe)
-UID:b731c156-ecd6-4b25-82d7-9aef97087694@b731.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260228T121500Z
-DTSTART:20260228T074500Z
-SUMMARY:Pozyskiwanie pracowników (Studia podyplomowe)
-UID:2ae1d828-fa0c-4702-a79e-cf18bbb5e00b@2ae1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20260308T130000Z
-LOCATION:Paw.G - 1
-DTSTART:20260308T074500Z
-SUMMARY:Warsztaty - przygotowanie projektu (Studia podyplomowe)
-UID:0cb084d8-2850-42e5-9a57-84fd96b1ffd0@0cb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20260613T134500Z
-DTSTART:20260613T130000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:26f2c518-0933-41f0-b5be-e97ea95dab82@26f2.org
+UID:85586a65-fabc-47d0-837c-2c75f502d524@8558.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marek Benio
@@ -82,37 +65,7 @@ DTEND:20260426T111500Z
 LOCATION:Paw.G  7
 DTSTART:20260426T064500Z
 SUMMARY:Prawo pracy - perspektywa menedżera (Studia podyplomowe)
-UID:9f3ec74e-0f02-4218-ae3d-6ba548933cbe@9f3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Dudek
-DTEND:20260531T111500Z
-DTSTART:20260531T064500Z
-SUMMARY:Kultura organizacyjna (Studia podyplomowe)
-UID:16dc9d04-92d7-457c-b967-cd3712e77c6f@16dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Kotucz
-DTEND:20260530T111500Z
-DTSTART:20260530T064500Z
-SUMMARY:Zarządzanie stresem i emocjami (Studia podyplomowe)
-UID:1287d75d-9eb5-4876-8be3-07e15c26a0fa@1287.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20260307T121500Z
-LOCATION:Paw.G - 1
-DTSTART:20260307T074500Z
-SUMMARY:Planowanie pracy i zarządzanie czasem (Studia podyplomowe)
-UID:23fb9cd4-48fc-4ec6-8789-37251069b474@23fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Domagała
-DTEND:20260329T111500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20260329T064500Z
-SUMMARY:Negocjacje (Studia podyplomowe)
-UID:05a20f2f-aead-4455-b91e-1bb7d39e8d3e@05a2.org
+UID:1c0532cd-d6ed-4034-9567-cd668acffd67@1c05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
@@ -120,6 +73,53 @@ DTEND:20260411T111500Z
 LOCATION:Paw.G  7
 DTSTART:20260411T064500Z
 SUMMARY:Budowanie zespołów (Studia podyplomowe)
-UID:2c776687-2294-4413-8e2c-f96cbfb0efeb@2c77.org
+UID:bf3c32e6-9880-4376-b811-8d6c5c29c49a@bf3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20260307T121500Z
+LOCATION:Paw.G - 1
+DTSTART:20260307T074500Z
+SUMMARY:Planowanie pracy i zarządzanie czasem (Studia podyplomowe)
+UID:65db7dc0-6121-47fb-b3dd-819e0005a538@65db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Domagała
+DTEND:20260329T111500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260329T064500Z
+SUMMARY:Negocjacje (Studia podyplomowe)
+UID:60450978-1403-4c50-90d1-2c6c189d1315@6045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20260308T130000Z
+LOCATION:Paw.G - 1
+DTSTART:20260308T074500Z
+SUMMARY:Warsztaty - przygotowanie projektu (Studia podyplomowe)
+UID:9f3e3b3e-74a8-4ca0-b176-93368bd59014@9f3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
+DTEND:20260516T111500Z
+LOCATION:Paw.G - 1
+DTSTART:20260516T064500Z
+SUMMARY:Ocenianie pracowników (Studia podyplomowe)
+UID:57062cc4-c824-4431-87e1-fc74d9d83070@5706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Dudek
+DTEND:20260531T111500Z
+DTSTART:20260531T064500Z
+SUMMARY:Kultura organizacyjna (Studia podyplomowe)
+UID:1fde7bd6-4e4c-4434-8dcd-e8451f4da3c9@1fde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260412T111500Z
+LOCATION:Paw.G  7
+DTSTART:20260412T064500Z
+SUMMARY:Budowanie zespołów (Studia podyplomowe)
+UID:6e35170e-c894-4d0a-aef4-4953ce36ffd4@6e35.org
 END:VEVENT
 END:VCALENDAR
