@@ -2,19 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:16eced68-9689-45ca-9451-4c369dac5141@16ec.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
 DTEND:20260317T190000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6405359
 DTSTART:20260317T173000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:0e33dfb0-3af4-47e3-8b79-350084921c92@0e33.org
+UID:79b38926-1937-49fd-9c4e-f45ac9de601e@79b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20260305T133000Z
 DTSTART:20260305T103000Z
 SUMMARY: (rezerwacja)
-UID:0b65c7e0-8a36-4f7d-874c-d3d30030862f@0b65.org
+UID:93b0a6d1-e161-4a5d-87fa-3cf42d9992ef@93b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
@@ -22,31 +29,7 @@ DTEND:20260609T180000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6405371
 DTSTART:20260609T163000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:ae6fed71-dfda-4ff8-980a-08898aabf130@ae6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20260505T180000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6405366
-DTSTART:20260505T163000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:f6edb1a8-1a2a-4bf7-bebf-9b2367c73ec7@f6ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20260519T180000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6405368
-DTSTART:20260519T163000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:adf5fcdf-6368-4a37-abdc-48dc0685b4f8@adf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
-DTEND:20260414T180000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6405363
-DTSTART:20260414T163000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:1b503689-facb-41e8-b3ed-36b9d79a79b1@1b50.org
+UID:22524c98-03b7-4f4d-88f5-346be481a6b0@2252.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
@@ -54,21 +37,7 @@ DTEND:20260303T190000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6405356
 DTSTART:20260303T173000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:f3e3754d-9d9e-4be1-9414-51f2c6b13aee@f3e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:82d24da7-ceae-4e18-891e-a68593ef8783@82d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:0d017fad-5607-4182-a4ee-714e717c1f08@0d01.org
+UID:f23dcaf8-a6a2-4f28-856d-c32c5147a6f2@f23d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
@@ -76,6 +45,37 @@ DTEND:20260421T180000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6405364
 DTSTART:20260421T163000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:25ff2fc6-bf95-4d63-ac02-0e3a4709e41c@25ff.org
+UID:784f7fc4-321d-4f05-b8cb-ae29229d1a2e@784f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20260519T180000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6405368
+DTSTART:20260519T163000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:d14a42ed-fdb8-4081-9b86-1dc074de922a@d14a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20260414T180000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6405363
+DTSTART:20260414T163000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:e8b8638f-747d-4300-bf8d-459981b417d1@e8b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20260505T180000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6405366
+DTSTART:20260505T163000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:a62302a0-5f60-4f4e-99b5-4d2aa6f89442@a623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:5440552a-d711-4df3-9c75-59c24e4b82a0@5440.org
 END:VEVENT
 END:VCALENDAR
