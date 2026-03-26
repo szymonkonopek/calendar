@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:8f5acd8d-3ae6-4695-a597-15bd85ebba15@8f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
 DTEND:20260325T114500Z
 DTSTART:20260325T084500Z
 SUMMARY: (rezerwacja)
-UID:f902d747-e43a-4a38-9539-da686a3d1bd6@f902.org
+UID:a59896ae-8b7d-4a8d-82f0-e97566d827d5@a598.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
@@ -14,38 +21,7 @@ DTEND:20260421T134500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6405416
 DTSTART:20260421T130000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:664b13bf-6155-4ad8-8abf-fd47c7d88209@664b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:3be139b9-e1da-47c3-a330-9a27c68ee9f1@3be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
-DTEND:20260305T153000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6399621
-DTSTART:20260305T140000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:e2197c63-2a0e-439a-b909-0692174c047e@e219.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
-DTEND:20260505T134500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6405417
-DTSTART:20260505T130000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:e45d64c6-2430-4df3-8446-cde0f3ee6f70@e45d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
-DTEND:20260519T134500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6405418
-DTSTART:20260519T130000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:3103f16c-4215-4f2a-9926-77ba2feecd3a@3103.org
+UID:ee7bfee7-ffd9-459a-8cb9-6f5ed7d178d2@ee7b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
@@ -53,14 +29,38 @@ DTEND:20260324T144500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6405415
 DTSTART:20260324T140000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:1b82c193-efe8-4763-9872-93fb007dad6e@1b82.org
+UID:dd4ca956-0a28-4c06-b518-478e3ba80b0f@dd4c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
 SUMMARY: (rezerwacja)
-UID:d668caf5-3827-4c7d-93cd-41d6dbd02516@d668.org
+UID:3cac9a10-e3e3-4983-a802-1522456b627f@3cac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20260505T134500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6405417
+DTSTART:20260505T130000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:3a1e7625-8269-43fd-8753-c7c1a4a356ea@3a1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20260519T134500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6405418
+DTSTART:20260519T130000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:c1fb886d-3d4b-47b9-9948-0c7b0ce14738@c1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20260305T153000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6399621
+DTSTART:20260305T140000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:61f41e1c-019f-4e08-9c6f-e95b145d1e1c@61f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
@@ -68,6 +68,6 @@ DTEND:20260310T153000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6405414
 DTSTART:20260310T140000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:90197d4c-cc66-4f6f-830c-4b0b00166825@9019.org
+UID:7ac6614d-e6ef-45e9-b123-160ed7734a9c@7ac6.org
 END:VEVENT
 END:VCALENDAR
