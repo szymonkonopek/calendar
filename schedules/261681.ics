@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: inż. Dariusz Skórniewski
-DTEND:20260308T130000Z
+DESCRIPTION:Instructor: mgr Robert Kozłowski
+DTEND:20260301T130000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260308T070000Z
-SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
-UID:135a6b78-cd5a-4e87-bc62-af626704b98f@135a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Emil Kos
-DTEND:20260530T120000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260530T060000Z
-SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
-UID:96b08a75-532e-4776-b1b9-993579106ab1@96b0.org
+DTSTART:20260301T070000Z
+SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
+UID:fa5f24ef-a897-4a8b-9a41-a65908512d8d@fa5f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Emil Kos
@@ -23,46 +15,7 @@ DTEND:20260619T183000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20260619T153000Z
 SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
-UID:b4d9b501-1f7a-43cc-9540-9e60c3b2fb0b@b4d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: inż. Dariusz Skórniewski
-DTEND:20260307T130000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260307T070000Z
-SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
-UID:6fd27d14-b933-42b7-b85d-9dce954b1f6a@6fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Robert Kozłowski
-DTEND:20260411T120000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260411T060000Z
-SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
-UID:42c5f230-dd1c-4e3d-b02e-6604e1054d94@42c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Robert Kozłowski
-DTEND:20260301T130000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260301T070000Z
-SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
-UID:fa61d7b5-c10b-445d-89ea-2468200ebef8@fa61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krystian Bigos  mgr Jakub Garncarz  prof. UEK dr hab. Grzegorz Wałęga
-DTEND:20260704T141500Z
-DTSTART:20260704T060000Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:650bfdb6-ba67-493b-b3b9-8f7894e0d682@650b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Rostyslav Apostol
-DTEND:20260620T134500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260620T074500Z
-SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
-UID:0b5db2de-f93e-4474-a608-6c9bb3972fac@0b5d.org
+UID:c53b1650-954e-4194-8390-45e7b61b4d0d@c53b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Emil Kos
@@ -70,7 +23,30 @@ DTEND:20260529T183000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20260529T153000Z
 SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
-UID:37cb8652-ba36-4e06-a2d2-deb59a9a717f@37cb.org
+UID:36a42683-d554-4405-b5dd-c59f61681984@36a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Dariusz Skórniewski
+DTEND:20260307T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260307T070000Z
+SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
+UID:a114c5b0-aa9f-46a2-a9a3-89f800541eeb@a114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20260620T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260620T074500Z
+SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
+UID:6e93740e-b542-4631-893f-94eb4f4ed096@6e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos  mgr Jakub Garncarz  prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20260704T141500Z
+DTSTART:20260704T060000Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:a2be5959-a031-43cc-aa8a-d46160afa7a4@a2be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Rostyslav Apostol
@@ -78,7 +54,31 @@ DTEND:20260315T130000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260315T070000Z
 SUMMARY:Praktyczna implementacja projektów Data Science i Machine Learning (Studia podyplomowe)
-UID:eaa6594a-9b61-474c-83b7-c89520cdea34@eaa6.org
+UID:f11122e5-730d-4e08-8741-3dc5694ebf48@f111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Emil Kos
+DTEND:20260530T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260530T060000Z
+SUMMARY:Przetwarzanie danych za pomocą programu Alteryx (Studia podyplomowe)
+UID:f42e1139-d9cb-42ab-9e07-8d9bca31245d@f42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Dariusz Skórniewski
+DTEND:20260308T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260308T070000Z
+SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
+UID:4e617300-2b1f-44ce-8ebf-dff525008745@4e61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Robert Kozłowski
+DTEND:20260411T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260411T060000Z
+SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
+UID:84ee5e91-fe14-49de-97c7-a675a31b7304@84ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Robert Kozłowski
@@ -86,6 +86,6 @@ DTEND:20260228T130000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20260228T070000Z
 SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
-UID:380bf8a6-683a-468e-af43-9bacf5956fc6@380b.org
+UID:903b1b9e-9b6d-437b-a0fb-2e8e04f9f10f@903b.org
 END:VEVENT
 END:VCALENDAR
