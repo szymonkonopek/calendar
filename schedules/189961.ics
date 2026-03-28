@@ -2,28 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:eeec44ca-4412-45dd-8850-0af991edf1fd@eeec.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Jachimowski
 DTEND:20260529T073000Z
 LOCATION:Paw.U sala L(prac.rys. tech.)
 DTSTART:20260529T060000Z
 SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:9a6c6e47-ec2f-49a4-a316-daf02eb94b16@9a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260224T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20260224T084500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:f40c2eae-d72c-43a0-93e2-1f62c4e0f947@f40c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260409T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260409T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:bf305a6d-c23a-4d1b-9a9f-249e77ba0a44@bf30.org
+UID:1f449289-9fb8-427f-a968-b05fd9b958c0@1f44.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Jachimowski
@@ -31,866 +22,7 @@ DTEND:20260504T161500Z
 LOCATION:Paw.S sala 7
 DTSTART:20260504T144500Z
 SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:e4169af2-2dcf-4708-a91a-8bd72c07fcda@e416.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260223T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260223T140000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:d9b1777f-7932-419c-9ace-254b41b8323e@d9b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260518T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260518T130000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:63b95247-14dc-481d-a1c9-4984a38b6aeb@63b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260224T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260224T103000Z
-SUMMARY:Chemia (wykład)
-UID:057166f8-4c8f-490d-babb-a20b0c24514b@0571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260601T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260601T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:77e60297-7f2a-4f1e-863a-85ffb77f5886@77e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260506T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260506T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:2e334a4c-6343-4e1d-b6d6-04c973e24e27@2e33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260310T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260310T103000Z
-SUMMARY:Chemia (wykład)
-UID:daf26575-9471-4a42-a671-a2634a45bd6c@daf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260609T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260609T074500Z
-SUMMARY:Zarządzanie operacyjne (egzamin)
-UID:1177aeb8-6489-4af0-bf39-5965989ffa13@1177.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260430T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260430T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:ccdc29c5-10e5-4e89-91e4-f32df955583e@ccdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260427T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260427T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:00d4470c-6a36-426d-aeed-5ff7908ce5dc@00d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260423T073000Z
-LOCATION:Paw.C sala A
-DTSTART:20260423T060000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:3be8cbb9-49ab-498d-8050-7fdc7221ee19@3be8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260313T101500Z
-LOCATION:Paw.F 614
-DTSTART:20260313T084500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:b62f4b4e-5139-41b9-8a29-363f472bdc89@b62f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260428T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260428T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:0a68f110-17b2-45e2-8756-391f4b2f0fb5@0a68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260514T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260514T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:3b8313ae-ef53-442f-89f4-072397a6ec0f@3b83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260410T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260410T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:c409ebe2-0377-4abc-8ce6-6bf3c464585c@c409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260317T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20260317T084500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:0cc8f319-428a-493e-9067-d8f3d8172012@0cc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260612T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260612T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:accfe984-1c58-4d7f-8a98-1ee5c293033f@accf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260421T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260421T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:8734c08b-d163-4319-866e-fe3cf4d57b5e@8734.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260529T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260529T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:538972ce-f78a-408c-93fc-8703785364ea@5389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260519T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260519T093000Z
-SUMMARY:Chemia (wykład)
-UID:e24348b1-aee3-4448-8d8a-66d1ac2f75ba@e243.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260521T124500Z
-LOCATION:Bud.gł. 4
-DTSTART:20260521T111500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:974b5b3d-3ffd-4b9b-b4c5-97cc8b11c87e@974b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260306T120000Z
-LOCATION:Paw.E sala J
-DTSTART:20260306T103000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:7a40e66f-0a20-4c50-81d0-232229fd6933@7a40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:ef873361-7c71-4ced-8df3-d35235764706@ef87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260611T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260611T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:7f23ca9f-2c81-4861-8988-b96f91cdc85c@7f23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260310T134500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260310T121500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:83d7e876-65ef-48a1-8764-cb71becc7b11@83d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260416T133000Z
-LOCATION:Paw.S sala 11
-DTSTART:20260416T111500Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:85bb2957-454b-464d-b9b4-5c936fc397be@85bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260310T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20260310T084500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:9b410b3e-34ac-44f7-9aa8-4b82a04509cf@9b41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260602T101500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260602T093000Z
-SUMMARY:Chemia (wykład)
-UID:27a29111-0b4b-451f-a940-598033d439ae@27a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260519T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260519T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:1fd000a0-9c9a-46d4-9d47-db48414e87a5@1fd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260529T101500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260529T093000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:b39f6e9b-bcf6-450d-9db9-5315263b10fb@b39f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260331T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260331T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:c0f06126-42ca-431e-8a3a-55e5561cce60@c0f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260414T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260414T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:b83186a9-d98a-4fb9-aad7-d8a462aa3112@b831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260304T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260304T084500Z
-SUMMARY:Chemia (laboratorium)
-UID:fa40d7fb-015b-4f20-b38d-e293dd68f73b@fa40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260320T101500Z
-LOCATION:Paw.F 614
-DTSTART:20260320T084500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:7e6b04de-b8aa-432a-9521-4990afeea72f@7e6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260602T083000Z
-LOCATION:Paw.C sala A
-DTSTART:20260602T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:5c56ddeb-2f51-4c15-bd78-9162d9104a53@5c56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260309T171500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260309T154500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:681a864d-f3d4-4209-a46a-bdc326f9bbdc@681a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260312T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20260312T121500Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:6a7f9235-1542-4b96-88fd-d71cf5905a01@6a7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260504T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260504T130000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:c371fd41-ceb0-4364-bac2-2c2e948018b4@c371.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260415T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260415T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:515aedbf-5c55-4a9e-adca-a3ba4ff3e962@515a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260416T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260416T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:5c1f3ec7-5741-4286-8188-645371207fc3@5c1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260526T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260526T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:40f691ce-3a13-4ff6-be97-9d326e6f85d1@40f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260525T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260525T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:653a7936-5a92-4097-b04f-9bdc7461b01a@653a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260225T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260225T084500Z
-SUMMARY:Chemia (laboratorium)
-UID:b0de664c-f803-43a0-b135-b246e7458335@b0de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260324T101500Z
-LOCATION:Paw.C sala A
-DTSTART:20260324T084500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:a1bf92ad-cd0b-492d-83e4-47cdefeddb5f@a1bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260515T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260515T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:2d66ea6d-358b-41d5-9ce4-645f05cba6f2@2d66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260226T083000Z
-LOCATION:Paw.C sala A
-DTSTART:20260226T070000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:da344715-67c2-4899-aced-231fedeb8243@da34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260408T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260408T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:5e2d06bb-84f0-4c7a-9fcc-5a3c358bd258@5e2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260327T101500Z
-LOCATION:Paw.F 614
-DTSTART:20260327T084500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:cf08f3ea-7c1f-4cc3-a925-4410a0687b3d@cf08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260515T110000Z
-LOCATION:Paw.C sala F
-DTSTART:20260515T093000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:0ae3125a-65f4-4dc5-a150-edad2457bac8@0ae3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260326T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260326T084500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:a94fcea8-afb3-412e-bf70-1798e9ca85a9@a94f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260409T133000Z
-LOCATION:Paw.S sala 11
-DTSTART:20260409T111500Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:e704749c-6cdf-4ae2-8f07-e5bd21fcf258@e704.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260319T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260319T084500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:4c357465-9cc4-4c2d-9371-566e4ff0be59@4c35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260417T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260417T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:1ed297b4-1f75-4594-8d2b-fd562e9b920b@1ed2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260327T151500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260327T130000Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:cb9c8805-97ba-4e52-b0ba-70495cd2f1b7@cb9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260424T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260424T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:f52b7f1e-614b-43ca-b377-c51d590381ab@f52b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260319T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20260319T121500Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:44bb4906-a7a4-4f3c-be0e-7721ba41a78f@44bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260508T114500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260508T093000Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:1df928c6-01ca-4c4c-bcc2-fb7c1fff626f@1df9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260410T110000Z
-LOCATION:Paw.C sala F
-DTSTART:20260410T093000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:73a48689-6a94-4ac2-a641-726f236334ab@73a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260311T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260311T084500Z
-SUMMARY:Chemia (laboratorium)
-UID:fef49ef2-7ef2-4d72-b0c1-41d393e21c8e@fef4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260309T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260309T140000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:77561b9f-9ab0-4c36-a41c-7d70fb73336b@7756.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260330T100000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6405870
-DTSTART:20260330T083000Z
-SUMMARY:Zarządzanie operacyjne (wykład zdalny)
-UID:a65210de-d702-4afe-b4f4-f3182f992b44@a652.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260409T073000Z
-LOCATION:Paw.C sala A
-DTSTART:20260409T060000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:aa67fc12-8959-4e86-b80f-6615178cd9eb@aa67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260305T194500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260305T173000Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:d823f25a-92f0-4028-b6c0-96603d8ae086@d823.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260420T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260420T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:12c36a25-451b-4ccd-894a-458de5d6a11b@12c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260223T171500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260223T154500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:3b25c332-2d2b-4b45-a1d0-090062258e2d@3b25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260518T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260518T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:abd2748a-8491-4153-b55b-69a5c76c0255@abd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260323T171500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260323T154500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:1b5c5a33-1a00-44d7-81fa-f0c0dc381f1d@1b5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260413T081500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6401679
-DTSTART:20260413T060000Z
-SUMMARY:Zarządzanie operacyjne (wykład zdalny)
-UID:563991e7-c957-4b4f-b330-5373b3b7ca78@5639.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260303T101500Z
-DTSTART:20260303T084500Z
-SUMMARY:Zarządzanie operacyjne (Przeniesienie zajęć)
-UID:4d918d1b-dd24-4694-9908-3775699bf0e2@4d91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260303T120000Z
-LOCATION:Paw.S sala 2
-DTSTART:20260303T103000Z
-SUMMARY:Chemia (wykład)
-UID:053c49f0-7589-40d0-b3ff-a12b53546fa9@053c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260226T143000Z
-LOCATION:Paw.S sala 11
-DTSTART:20260226T121500Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:46863f3d-8856-4faa-b7a2-fbc5e46a9ab6@4686.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260316T171500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260316T154500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:5915a2de-6ae5-4050-9eb9-2dd4ed6f9e39@5915.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260306T101500Z
-LOCATION:Paw.F 614
-DTSTART:20260306T084500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:9d2989d8-58da-4820-b82c-cad78b6fc6f8@9d29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260401T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260401T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:1ed769f1-a0d5-4e50-a8f8-db3c5b198735@1ed7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260602T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260602T083000Z
-SUMMARY:Zarządzanie operacyjne (rezerwacja)
-UID:f58726aa-f3a1-407e-a8fe-e4e8747e9c90@f587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260612T124500Z
-LOCATION:Paw.U sala K
-DTSTART:20260612T111500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:0353f537-3145-4209-9588-4273a033b915@0353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260226T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260226T084500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:ba61512f-c986-4a50-9492-416830a3633e@ba61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Szymon Jarosz
-DTEND:20260514T141500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260514T120000Z
-SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:12002e51-0df4-4c8a-8df5-f7b246ff27d4@1200.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260413T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260413T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:1845d72b-bf1d-42fc-b1b4-76e95608a974@1845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260511T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260511T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:be4bbcf3-c398-4d7f-b57d-20c78d7068c7@be4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260608T134500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260608T130000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:79c73add-6608-4754-9c23-abfe8b9c367a@79c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260324T120000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260324T103000Z
-SUMMARY:Chemia (wykład)
-UID:c5faa584-0eb4-47f0-9911-eeca65501eb3@c5fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260520T083000Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260520T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:f77a2392-96cf-430a-a1b0-b573b7aeeb2b@f77a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260505T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260505T093000Z
-SUMMARY:Chemia (wykład)
-UID:ad0d0ac7-7290-4649-8ed6-dc7c1ebfc453@ad0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260508T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260508T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:76cb82cf-5cab-456d-917f-f3884c27e13e@76cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260505T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260505T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:ac4fc0a0-c9a7-40a5-9511-cc3f676ac550@ac4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260227T101500Z
-LOCATION:Paw.F 614
-DTSTART:20260227T084500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:2d7d3b2b-ee9d-411e-baa4-73ad052d51f9@2d7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260420T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260420T130000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:7426bcc5-3200-42f6-93e6-e3ee279b9cd1@7426.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260423T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260423T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:88846c90-4fbe-49a8-8d6c-c3845b411ee8@8884.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260522T091500Z
-LOCATION:Paw.F 614
-DTSTART:20260522T074500Z
-SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
-UID:cab29d8d-8c57-469c-9b2d-e3d3ef76c91b@cab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260513T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260513T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:8e750abc-5904-4724-8ae0-23943beeddfd@8e75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:9e0823a9-a083-42ff-be34-9e22a30def34@9e08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260330T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260330T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:e4223463-3e52-4789-ae51-352abeb9efb1@e422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260521T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260521T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:fe7c94f4-9a45-44d9-a27a-0f3ac76342cb@fe7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260422T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260422T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:f48abfa9-1b49-4c3c-ba62-45f9e0e36df2@f48a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:8ffd97d3-afcc-43b7-b0d0-855768d7284e@8ffd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260601T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260601T130000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:e1e8cc06-b347-4bf6-87ef-45b393071b1e@e1e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260512T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260512T074500Z
-SUMMARY:Zarządzanie operacyjne (wykład)
-UID:3084da73-5d32-4a91-a46b-08a3fb0d77dc@3084.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marzena Wójcik
-DTEND:20260312T083000Z
-LOCATION:Paw.C sala A
-DTSTART:20260312T070000Z
-SUMMARY:Zarządzanie operacyjne (ćwiczenia)
-UID:5b554c74-3ffe-49e4-b04b-b905ff407a80@5b55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260312T101500Z
-DTSTART:20260312T084500Z
-SUMMARY:Procesy i techniki produkcyjne (Przeniesienie zajęć)
-UID:ab395a6f-898a-4016-9d87-03e0288cc227@ab39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260507T091500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260507T074500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:54ec170c-c022-4c57-a8f2-96812a3a5e7a@54ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260421T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260421T093000Z
-SUMMARY:Chemia (wykład)
-UID:42ab64f7-b915-418d-8203-9ea956788597@42ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260302T171500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260302T154500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:0af9973f-e5c9-4e28-ad23-a53719ee2b0b@0af9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Witko
-DTEND:20260323T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260323T140000Z
-SUMMARY:Modelowanie  i technologie druku 3D (wykład)
-UID:036385da-ee8c-481d-8e24-0ea496117608@0363.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260305T101500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260305T084500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:d68c1fec-a24c-46d6-b171-97147a4c1c82@d68c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260601T124500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260601T111500Z
-SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
-UID:d07ac6fa-1ca4-4214-9c2f-b58540ca9734@d07a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260608T161500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260608T144500Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:c4df8429-8498-4371-b5e3-fedd361be8c4@c4df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260429T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260429T074500Z
-SUMMARY:Chemia (laboratorium)
-UID:c60d4408-b26f-4ae3-93d8-a5da4bbec2e6@c60d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Tataruch
-DTEND:20260318T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260318T084500Z
-SUMMARY:Chemia (laboratorium)
-UID:40c7e160-dc65-4d03-81a6-865cdd05aed8@40c7.org
+UID:ac60063c-712d-48e4-b354-0899333341c1@ac60.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
@@ -898,6 +30,874 @@ DTEND:20260424T114500Z
 LOCATION:Paw.S sala 11
 DTSTART:20260424T093000Z
 SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
-UID:236f30a6-123a-4328-88aa-07867e7dae8f@236f.org
+UID:0d1f1f0c-e8ac-49c5-9e77-0848f72b84f9@0d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260409T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260409T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:4cb90c07-393d-4cd2-bb8e-403ff77c950f@4cb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260526T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260526T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:d494bd91-cce8-4eb0-a0c8-c2c34505ed72@d494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260429T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260429T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:aca7c1c6-3428-4f20-a6aa-78bc9c043994@aca7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:64f9b195-b6c3-42f4-b1d6-25ccc9569559@64f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260518T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260518T130000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:7350db1e-e201-459c-9abe-6689c8a8096c@7350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260415T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260415T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:85406b4f-b772-4b74-8def-ffc1fd6e70b5@8540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260515T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260515T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:870072fd-5ba5-4576-b179-2245460dd539@8700.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260420T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260420T130000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:433ddaa3-0920-464a-9048-7ff500a8a085@433d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260508T114500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260508T093000Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:8f9dcc81-8a39-4549-a52a-533157aee4d3@8f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260505T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260505T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:e34b295d-0fe2-4221-825d-d37a8706566a@e34b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260423T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260423T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:d2d20848-0495-43de-803b-14d019520954@d2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260331T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260331T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:6482749b-d325-40fb-8c20-a4565f5aaa40@6482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260505T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260505T093000Z
+SUMMARY:Chemia (wykład)
+UID:04178b28-8b05-47df-89d4-eba57150b52e@0417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260421T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260421T093000Z
+SUMMARY:Chemia (wykład)
+UID:48fe80d0-1d25-42e1-bf65-a10174eb3ba9@48fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260224T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20260224T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:cdda914c-02dd-4d1e-9bab-161d737e2041@cdda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260310T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260310T121500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:4991f400-e742-4d3d-8727-c872dfb80810@4991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260413T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260413T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:81dc8459-1649-4d4b-89b1-8509409117ea@81dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260310T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260310T103000Z
+SUMMARY:Chemia (wykład)
+UID:e43a9a60-305a-40de-bf03-067e9804c83a@e43a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260424T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260424T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:e725ed9a-0302-41dd-a875-dedcca4ddae9@e725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260302T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260302T154500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:4e6c8417-9f9c-4b40-8dee-cc0f904498ee@4e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260330T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260330T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:39cacd2e-cfc7-44a2-ae9b-ab01722d10f7@39ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260525T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260525T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:e7eba2ac-e21d-4d14-847a-a890e991a846@e7eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260306T101500Z
+LOCATION:Paw.F 614
+DTSTART:20260306T084500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:bbd21ded-7cc0-4c8b-964c-c1e5dd69f6bf@bbd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260506T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260506T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:22bb64ff-7100-43b2-81ac-deeed29439a1@22bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260612T124500Z
+LOCATION:Paw.U sala K
+DTSTART:20260612T111500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:a9348333-6c18-4338-bd3f-e73963ab4aab@a934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260601T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260601T130000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:cf552223-1cef-4e89-ad29-2858420c3d13@cf55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260303T101500Z
+DTSTART:20260303T084500Z
+SUMMARY:Zarządzanie operacyjne (Przeniesienie zajęć)
+UID:1fc081ad-3dbc-4012-a150-3ca4a20ec7b1@1fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260608T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260608T130000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:c1530c60-6a04-49ba-be66-40928eec8606@c153.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260320T101500Z
+LOCATION:Paw.F 614
+DTSTART:20260320T084500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:3fdc1ec8-00d8-4d7c-b983-5c7a05cf7446@3fdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260519T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260519T093000Z
+SUMMARY:Chemia (wykład)
+UID:c201b34a-2026-4e07-b586-294c00f15d5c@c201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260305T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260305T084500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:c781b110-dcdf-4892-8126-ff957c292f9c@c781.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260611T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260611T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:bf0e8c38-f45b-46a0-9b91-ab35c0f4fa05@bf0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260416T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260416T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:6db8664a-6b95-4bd7-b6d8-af3f3c2d172c@6db8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260428T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260428T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:0a4029b0-58c0-4435-b897-7c10c4a3e7cd@0a40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260504T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260504T130000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:d4dce182-29b6-4bfe-9ce2-3efba22504cd@d4dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260430T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260430T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:c3f7a96d-c1bb-4501-83f7-a104ac5fd187@c3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260421T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260421T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:9e96e6fe-2c2d-4db5-9a52-8caa2ccbea7f@9e96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260420T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260420T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:d15291b3-4eb4-4be7-b134-234b60d19151@d152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260409T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20260409T111500Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:2d22905a-d4d4-4a40-8eac-675526c0cece@2d22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260323T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260323T154500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:a26460b6-a2f2-4216-9ccb-d9e023d819dc@a264.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260422T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260422T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:f1703ca5-fc82-45c2-99aa-c5e963659354@f170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260427T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260427T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:c66594d5-06f6-4098-b5e6-27b3dce370b2@c665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260417T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260417T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:b8bfd845-4edb-45dc-8616-73da1c7620aa@b8bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260226T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20260226T070000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:54a3ad5b-c388-4cb5-8363-45e78db10204@54a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260601T124500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260601T111500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:bd52fcab-aa4a-4171-9f56-e064a8506c4d@bd52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260520T083000Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260520T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:d3c3de2d-cc5f-4aa6-8128-56fe829f68bf@d3c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260227T101500Z
+LOCATION:Paw.F 614
+DTSTART:20260227T084500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:89901bbc-464f-4072-8c37-56747236df4e@8990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260225T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260225T084500Z
+SUMMARY:Chemia (laboratorium)
+UID:df5ded05-579f-4f83-b7ad-16c40a63dd63@df5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260326T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260326T084500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:aa5d66bb-07a5-4c5c-9f0d-111854c00de1@aa5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260223T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260223T154500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:d3a303af-7cbd-4a3f-ae7b-adbe1e3dc916@d3a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:46149083-d793-4ab6-83c3-276c8e7f2575@4614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260514T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260514T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:49fea58b-c05e-4267-a90a-50dc22929cbb@49fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260323T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260323T140000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:f5b0d1ce-35a0-4443-9766-ed058156b6c3@f5b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260409T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20260409T060000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:923e747f-e0c4-4798-82f8-ab9b34af4a5d@923e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260304T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260304T084500Z
+SUMMARY:Chemia (laboratorium)
+UID:0eb0d341-f170-483a-92a6-5fba6d9fa705@0eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260602T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20260602T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:882871cd-5974-4c3f-a5d6-ef050e0a221f@8828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260416T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20260416T111500Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:528366ee-4bbe-4e06-8dab-b9261c81bd1c@5283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260318T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260318T084500Z
+SUMMARY:Chemia (laboratorium)
+UID:4d51c310-275f-43f1-a8c1-36d12a66699f@4d51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260529T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260529T093000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:83cf5413-0c3e-4911-83b8-865a99247292@83cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260512T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260512T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:c73381e9-ee3f-4a34-9322-f716cccc944f@c733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260310T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20260310T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:4933b1ac-4ff2-4b61-9cff-150d37e35317@4933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260306T120000Z
+LOCATION:Paw.E sala J
+DTSTART:20260306T103000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:a63b33c8-f010-4404-b83c-18c08f184e6f@a63b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260313T101500Z
+LOCATION:Paw.F 614
+DTSTART:20260313T084500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:d3c66571-6698-4ed8-a17c-70f84734234e@d3c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260223T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260223T140000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:84b18a9a-a9a1-42a2-93ef-ad83fce16692@84b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260309T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260309T154500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:27241a85-0672-4dd9-afd1-5138fb38c918@2724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260311T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260311T084500Z
+SUMMARY:Chemia (laboratorium)
+UID:b54addb7-4a25-4d57-81ca-332ba994dff0@b54a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260410T110000Z
+LOCATION:Paw.C sala F
+DTSTART:20260410T093000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:0231f2bc-252a-460f-8beb-3e71333088dc@0231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260309T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260309T140000Z
+SUMMARY:Modelowanie  i technologie druku 3D (wykład)
+UID:52a6e533-ad0a-47de-8890-f941f28b3cd7@52a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260515T110000Z
+LOCATION:Paw.C sala F
+DTSTART:20260515T093000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:4c1591cc-213a-4124-b165-e2965617165b@4c15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260508T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260508T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:db25294b-e302-4c56-8527-d8eacdf60557@db25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260521T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260521T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:7310e2b1-a67e-4634-82b0-8543689ca604@7310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260529T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260529T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:6a1f5f1c-0386-47cb-8885-be1ff3ec09cd@6a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260226T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20260226T121500Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:222593a5-a169-40ac-a334-90d3ff0a86b8@2225.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260317T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20260317T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:9038b2c5-41c7-4b41-92d3-e8885c90fc54@9038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260319T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20260319T121500Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:ba672c58-2bbf-4abc-9094-0e0463a9eba7@ba67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260521T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20260521T111500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:d606f53b-5fa1-44f9-b2e6-d4734b4d5811@d606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260408T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260408T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:5622abd9-1a22-41e9-a54e-f529e69900a0@5622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260312T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20260312T121500Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:91bfe886-85f6-492c-9c85-3c0f236692a1@91bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260312T101500Z
+DTSTART:20260312T084500Z
+SUMMARY:Procesy i techniki produkcyjne (Przeniesienie zajęć)
+UID:c5f95a54-8125-4dd1-b54f-27dd83c8fbc7@c5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260413T073000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6401679
+DTSTART:20260413T060000Z
+SUMMARY:Zarządzanie operacyjne (wykład zdalny)
+UID:726b03a8-1d81-44ce-8e40-40d3dca1978d@726b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260319T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260319T084500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:732eeb7e-ec5d-4e48-92d1-65042a79da79@732e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260414T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260414T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:c3c35152-2d50-4372-9a70-a575f5fc340a@c3c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260602T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260602T083000Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:772b42b4-10a6-4eae-96b4-ec32d886c21e@772b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260608T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260608T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:af411723-ed86-42a5-af89-2dc314936e19@af41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260507T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260507T074500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:a64bbf72-1876-4b46-beee-c758a2c7917d@a64b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260519T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260519T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:e80e8566-886f-46a1-8a7e-eb8706b1370e@e80e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260602T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260602T093000Z
+SUMMARY:Chemia (wykład)
+UID:e698cca9-0a04-4236-995a-419110b22fc8@e698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260410T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260410T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:bd654ddf-eba1-4df1-971a-d328bdee9b4a@bd65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260305T194500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260305T173000Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:8e98abac-5652-44e7-adfb-5235e6d19c89@8e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260316T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260316T154500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:7c0b0c7e-4b51-4e0f-bdcc-875c6d34d9bc@7c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260224T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260224T103000Z
+SUMMARY:Chemia (wykład)
+UID:5967d341-ec43-411e-af90-c03d7c6d9332@5967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260609T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260609T074500Z
+SUMMARY:Zarządzanie operacyjne (egzamin)
+UID:27cf8dfc-771d-438f-ae11-e1ec49b83ec7@27cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260511T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260511T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:35b6b278-0c64-42dc-be17-d5e70ff0417d@35b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20260514T141500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260514T120000Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:0455a332-f1b9-4ad9-b2bd-ba365c856e45@0455.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260612T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260612T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:ffd695d2-9fc6-41b1-b288-da576905e37d@ffd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260522T091500Z
+LOCATION:Paw.F 614
+DTSTART:20260522T074500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:ff06151c-4d9c-4731-abce-f3ee4e9065e4@ff06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260423T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20260423T060000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:221ab1b6-ffdc-469c-ac1a-d996429f27c6@221a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260518T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260518T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:77bdf0d1-9e75-409d-85b8-f0edab27ed8d@77bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20260312T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20260312T070000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:dee84b1f-a48f-46d0-b7f8-7bcddcb831c0@dee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260401T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260401T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:147ed9a3-f606-4cfe-a18c-d2f3c41ccb2a@147e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260513T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260513T074500Z
+SUMMARY:Chemia (laboratorium)
+UID:3cac8825-c724-4f08-8c86-60caa04760cf@3cac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260303T120000Z
+LOCATION:Paw.S sala 2
+DTSTART:20260303T103000Z
+SUMMARY:Chemia (wykład)
+UID:79b97356-1b5e-4677-a909-772a840eefd9@79b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20260327T151500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260327T130000Z
+SUMMARY:Modelowanie  i technologie druku 3D (laboratorium)
+UID:12db0f4d-d3dc-4f38-9811-5b69454e7680@12db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260330T100000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6405870
+DTSTART:20260330T083000Z
+SUMMARY:Zarządzanie operacyjne (wykład zdalny)
+UID:0f13050b-efdd-4c0e-a4f5-07231e168a10@0f13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260601T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260601T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:c0cfcb7f-81ef-4d15-b881-5664bdb12fc9@c0cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260226T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260226T084500Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:1eecf1e8-72ec-488b-bb28-bdc4f28077bd@1eec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20260324T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260324T103000Z
+SUMMARY:Chemia (wykład)
+UID:2364656e-d534-4217-bb10-3d2d297256fd@2364.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260327T101500Z
+LOCATION:Paw.F 614
+DTSTART:20260327T084500Z
+SUMMARY:Metody organizacji i zarządzania produkcją (konwersatorium)
+UID:bb4e2d28-bbae-4443-8d4b-cf073a7758ec@bb4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260324T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20260324T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:5596679e-f5b3-48d0-959c-7d4f8345bac8@5596.org
 END:VEVENT
 END:VCALENDAR
