@@ -2,42 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
-DTEND:20260412T104500Z
-LOCATION:Paw.F 109
-DTSTART:20260412T083000Z
-SUMMARY:Ekonomia matematyczna (ćwiczenia)
-UID:273bf140-dcad-44c7-bb2f-f322d423d6a3@273b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260322T170000Z
-LOCATION:Paw.C sala A
-DTSTART:20260322T144500Z
-SUMMARY:Statystyczne metody kontroli jakości (ćwiczenia)
-UID:3c65ef50-3f93-4f61-b2ae-8787f1a0dae6@3c65.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260228T151500Z
-DTSTART:20260228T130000Z
-SUMMARY:Mikroekonometria (wykład)
-UID:dc35eb56-499d-42fa-b923-02ca736780f0@dc35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:26cd6c9f-4632-45ed-9204-ace7cc2222ef@26cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260626T164500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260626T134500Z
-SUMMARY: (egzamin)
-UID:a5887ada-0c6e-4514-91d1-3b51572fa268@a588.org
+DTEND:20260320T170000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260320T144500Z
+SUMMARY:Mikroekonometria (ćwiczenia)
+UID:547e6088-9534-4718-b07a-08a3a1498ce0@547e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Janusz Niezgoda
@@ -45,7 +15,14 @@ DTEND:20260321T151500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6327365
 DTSTART:20260321T130000Z
 SUMMARY:Statystyczne metody kontroli jakości (wykład)
-UID:147903ac-5786-451d-9122-bbca7cacdfad@1479.org
+UID:2b109cc0-314a-4d42-9ad9-4c3d192f45e7@2b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:33e0c4e7-6d40-4717-93cb-f2553ec7d270@33e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Janusz Niezgoda
@@ -53,204 +30,7 @@ DTEND:20260410T184500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6327364
 DTSTART:20260410T163000Z
 SUMMARY:Statystyczne metody kontroli jakości (wykład)
-UID:d93a4995-e9cb-4d43-8596-80ca009586ee@d93a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260607T081500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260607T060000Z
-SUMMARY:Bazy danych SQL (konwersatorium do wyboru)
-UID:7c177359-d98f-4ec3-b3bb-89e19083e005@7c17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260425T184500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260425T163000Z
-SUMMARY:Bazy danych SQL (konwersatorium do wyboru)
-UID:2d95dcff-50a1-4374-aeed-2443569b14f6@2d95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260614T081500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260614T060000Z
-SUMMARY:Mikroekonometria (ćwiczenia)
-UID:022728ab-3640-4503-8b2d-e0ad6fa9657a@0227.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260619T164500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260619T134500Z
-SUMMARY: (egzamin)
-UID:11dd6704-a140-4583-bdf5-a9fd19272217@11dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20260307T143000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260307T121500Z
-SUMMARY:Data analysis with Python (konwersatorium do wyboru)
-UID:61dd1a32-4cea-452b-9888-20d2e53c0768@61dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260426T164500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260426T134500Z
-SUMMARY:Wielowymiarowe modele ekonometrii finansowej (ćwiczenia)
-UID:817ffb74-4ceb-4697-8e18-f8fa9d696492@817f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260228T091500Z
-DTSTART:20260228T070000Z
-SUMMARY:Statystyczne metody kontroli jakości (wykład)
-UID:5aa46dab-3d24-4959-bd1b-df93afce7716@5aa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
-DTEND:20260321T100000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6327356
-DTSTART:20260321T074500Z
-SUMMARY:Ekonomia matematyczna (wykład)
-UID:0194e4c3-ae7d-4565-a199-e0906d1fb4c8@0194.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260411T094500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6327351
-DTSTART:20260411T064500Z
-SUMMARY:Wielowymiarowe modele ekonometrii finansowej (wykład)
-UID:4f82d58d-772b-47c9-9734-2865e578cb19@4f82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260322T113000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260322T074500Z
-SUMMARY:Wielowymiarowe modele ekonometrii finansowej (ćwiczenia)
-UID:1625a31c-e6e7-4de2-b95c-cf030d90b3c8@1625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260320T170000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260320T144500Z
-SUMMARY:Mikroekonometria (ćwiczenia)
-UID:bd8ed3e6-8052-4474-9b9e-6271743fb005@bd8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
-DTEND:20260425T160000Z
-LOCATION:Paw.F 109
-DTSTART:20260425T134500Z
-SUMMARY:Ekonomia matematyczna (ćwiczenia)
-UID:3bf37182-21b9-42ce-bcc0-0f3b27ffa1e3@3bf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260620T081500Z
-LOCATION:Paw.C sala A
-DTSTART:20260620T064500Z
-SUMMARY: (egzamin)
-UID:2902f957-b38e-40fb-a691-4a8fff978864@2902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260301T113000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6327350
-DTSTART:20260301T074500Z
-SUMMARY:Wielowymiarowe modele ekonometrii finansowej (wykład)
-UID:e4709bdf-523b-491d-bd78-4407bf680ede@e470.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260321T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6327362
-DTSTART:20260321T103000Z
-SUMMARY:Mikroekonometria (wykład)
-UID:f47092ea-193b-4022-a243-21e571e9dd8e@f470.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20260320T194500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260320T173000Z
-SUMMARY:Data analysis with Python (konwersatorium do wyboru)
-UID:ede4cb51-cb3e-4bfc-9a7e-46cbbd5a9f26@ede4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260426T104500Z
-LOCATION:Paw.C sala A
-DTSTART:20260426T083000Z
-SUMMARY:Statystyczne metody kontroli jakości (ćwiczenia)
-UID:0b90b5cc-d423-41f2-afc5-dc3dd2f9bea2@0b90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
-DTEND:20260307T114500Z
-LOCATION:Paw.F 104
-DTSTART:20260307T093000Z
-SUMMARY:Ekonomia matematyczna (ćwiczenia)
-UID:a54a7a23-8f87-4b91-84c6-61b8b5daea63@a54a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:0b1b136a-c337-4ccf-bb8e-865d91ea0570@0b1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
-DTEND:20260228T124500Z
-DTSTART:20260228T103000Z
-SUMMARY:Ekonomia matematyczna (wykład)
-UID:ea785ea3-c4ec-4534-a717-67ae5715bcc6@ea78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
-DTEND:20260418T133000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260418T111500Z
-SUMMARY:Data analysis with Python (konwersatorium do wyboru)
-UID:2fd719fa-ec7d-45ac-b53c-654bec53cb8f@2fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260418T160000Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260418T134500Z
-SUMMARY:Mikroekonometria (ćwiczenia)
-UID:050228cf-b440-4267-b8ea-fe9037e4f33f@0502.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Janusz Niezgoda
-DTEND:20260412T081500Z
-LOCATION:Paw.C sala A
-DTSTART:20260412T060000Z
-SUMMARY:Statystyczne metody kontroli jakości (ćwiczenia)
-UID:ae0b4948-5f08-480c-a8b9-6ac5ce5765e0@ae0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260424T184500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260424T163000Z
-SUMMARY:Mikroekonometria (ćwiczenia)
-UID:f6ed37d4-9825-44b7-9d33-2fee83eb9289@f6ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260410T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6327363
-DTSTART:20260410T134500Z
-SUMMARY:Mikroekonometria (wykład)
-UID:5b032777-b27e-49f8-bccf-e5ae9de8fe97@5b03.org
+UID:90384659-e385-4a4b-8bf9-4026f4539061@9038.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
@@ -258,52 +38,102 @@ DTEND:20260411T123000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6327357
 DTSTART:20260411T101500Z
 SUMMARY:Ekonomia matematyczna (wykład)
-UID:c7bb744c-243b-4a11-b3ca-9aaf45bac4f3@c7bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260419T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6411865
-DTSTART:20260419T074500Z
-SUMMARY:Mikroekonometria (ćwiczenia zdalne)
-UID:e9c348ad-e8bd-4b9b-a768-41e42a54aed0@e9c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:31b81dec-01f9-40f9-ae47-3216566b809e@31b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
-DTEND:20260517T164500Z
-LOCATION:Paw.A 09 lab. Win8.1\, Office21
-DTSTART:20260517T134500Z
-SUMMARY:Mikroekonometria (ćwiczenia)
-UID:bd7dd4b5-280a-453f-a5c7-f1bd8c2f2be4@bd7d.org
+UID:75f154b7-9cb4-449e-984e-319b0b51c3b3@75f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260614T104500Z
-DTSTART:20260614T083000Z
-SUMMARY:Bazy danych SQL (Przeniesienie zajęć)
-UID:4a075a95-5b3f-4b24-92c1-5245734fa11d@4a07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260412T160000Z
-DTSTART:20260412T134500Z
-SUMMARY:Bazy danych SQL (Przeniesienie zajęć)
-UID:8d654294-5090-4b5b-b23e-10c87cdfbe9e@8d65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Przemysław Rola
-DTEND:20260607T104500Z
+DTEND:20260607T081500Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260607T083000Z
+DTSTART:20260607T060000Z
 SUMMARY:Bazy danych SQL (konwersatorium do wyboru)
-UID:80b84011-7a34-4c5d-897c-198b13de2cde@80b8.org
+UID:6ba05121-bf7c-4530-8772-2bdf80536a94@6ba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
+DTEND:20260412T104500Z
+LOCATION:Paw.F 109
+DTSTART:20260412T083000Z
+SUMMARY:Ekonomia matematyczna (ćwiczenia)
+UID:5ca0efd8-d186-4b8b-80ce-1e4c8435be60@5ca0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
+DTEND:20260228T124500Z
+DTSTART:20260228T103000Z
+SUMMARY:Ekonomia matematyczna (wykład)
+UID:440e4041-f96e-4da2-815a-0099d14f7600@440e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260614T081500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260614T060000Z
+SUMMARY:Mikroekonometria (ćwiczenia)
+UID:7a127e55-514f-462c-85f9-13d91483317c@7a12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260626T164500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260626T134500Z
+SUMMARY: (egzamin)
+UID:c4abd286-255a-4550-bdf5-1842bbd929de@c4ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20260418T133000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260418T111500Z
+SUMMARY:Data analysis with Python (konwersatorium do wyboru)
+UID:57cfc9a9-9a8a-4893-bb10-eeee097547c9@57cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260425T184500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260425T163000Z
+SUMMARY:Bazy danych SQL (konwersatorium do wyboru)
+UID:fc9a188a-5df4-4c87-a7e2-a3bd75a55e24@fc9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260424T184500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260424T163000Z
+SUMMARY:Mikroekonometria (ćwiczenia)
+UID:d32216ca-5390-4521-85a7-b18710feb9b8@d322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260411T094500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6327351
+DTSTART:20260411T064500Z
+SUMMARY:Wielowymiarowe modele ekonometrii finansowej (wykład)
+UID:aaadf4b3-ceea-43ec-b0e8-d0dc3b798f07@aaad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260322T170000Z
+LOCATION:Paw.C sala A
+DTSTART:20260322T144500Z
+SUMMARY:Statystyczne metody kontroli jakości (ćwiczenia)
+UID:e25f5b0d-71e8-4f67-8fb3-4d8e86bd7cc6@e25f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
+DTEND:20260321T100000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6327356
+DTSTART:20260321T074500Z
+SUMMARY:Ekonomia matematyczna (wykład)
+UID:0b6c73b5-6b89-4fbe-94f0-10fb5e203360@0b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260322T113000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260322T074500Z
+SUMMARY:Wielowymiarowe modele ekonometrii finansowej (ćwiczenia)
+UID:59579d29-f450-4252-bd42-f74aea8b89eb@5957.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Janusz Niezgoda
@@ -311,6 +141,175 @@ DTEND:20260517T081500Z
 LOCATION:Paw.C sala D
 DTSTART:20260517T060000Z
 SUMMARY: (egzamin)
-UID:284ed418-136c-47cf-ae2d-8be5261d98dd@284e.org
+UID:7d8484e1-63d9-43c1-9a19-baa1381c3af1@7d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260426T104500Z
+LOCATION:Paw.C sala A
+DTSTART:20260426T083000Z
+SUMMARY:Statystyczne metody kontroli jakości (ćwiczenia)
+UID:51f4eddf-b96e-4089-bdff-fcc57f555cd7@51f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260418T160000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260418T134500Z
+SUMMARY:Mikroekonometria (ćwiczenia)
+UID:4ae9226f-deab-44a4-bc5c-af7323c3c5f2@4ae9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260228T151500Z
+DTSTART:20260228T130000Z
+SUMMARY:Mikroekonometria (wykład)
+UID:a69bdd79-d13c-4ffe-b7d4-1e31af1bb61b@a69b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260614T104500Z
+DTSTART:20260614T083000Z
+SUMMARY:Bazy danych SQL (Przeniesienie zajęć)
+UID:5832096a-17f4-429a-8254-78d98e9c919e@5832.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260426T164500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260426T134500Z
+SUMMARY:Wielowymiarowe modele ekonometrii finansowej (ćwiczenia)
+UID:f449af4f-5309-4cf0-9a8f-dd9171925cb6@f449.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260619T164500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260619T134500Z
+SUMMARY: (egzamin)
+UID:9623486d-8b00-441e-9bf7-2e2add902060@9623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260419T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6411865
+DTSTART:20260419T074500Z
+SUMMARY:Mikroekonometria (ćwiczenia zdalne)
+UID:e7a00829-b911-4e14-9ed2-a3ffc0e48d9b@e7a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260321T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6327362
+DTSTART:20260321T103000Z
+SUMMARY:Mikroekonometria (wykład)
+UID:58dafba7-dd4a-47bc-9e3e-273a43c11f87@58da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260412T160000Z
+DTSTART:20260412T134500Z
+SUMMARY:Bazy danych SQL (Przeniesienie zajęć)
+UID:7818eac9-918c-4375-98e6-a8a461afa5e8@7818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20260307T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260307T121500Z
+SUMMARY:Data analysis with Python (konwersatorium do wyboru)
+UID:9efea19b-da26-4a1a-994a-593827e75b70@9efe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260517T164500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20260517T134500Z
+SUMMARY:Mikroekonometria (ćwiczenia)
+UID:14030d55-3723-4502-ae0d-903e97ee3ce7@1403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
+DTEND:20260307T114500Z
+LOCATION:Paw.F 104
+DTSTART:20260307T093000Z
+SUMMARY:Ekonomia matematyczna (ćwiczenia)
+UID:0613b596-5689-4437-a9b0-e2dbe6ab4d9d@0613.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:3ba2ded8-ab3c-4e52-8fcd-9144ecdbd0fd@3ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260412T081500Z
+LOCATION:Paw.C sala A
+DTSTART:20260412T060000Z
+SUMMARY:Statystyczne metody kontroli jakości (ćwiczenia)
+UID:658f60a0-ad9d-48d8-8772-686bfe4fc3f2@658f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260301T113000Z
+DTSTART:20260301T074500Z
+SUMMARY:Wielowymiarowe modele ekonometrii finansowej (wykład)
+UID:e44d8515-d8b4-4c20-9cf2-2e602cb31f3c@e44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20260410T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6327363
+DTSTART:20260410T134500Z
+SUMMARY:Mikroekonometria (wykład)
+UID:e6cb022e-2f45-472a-9ad5-ad60c0930a38@e6cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260620T081500Z
+LOCATION:Paw.C sala A
+DTSTART:20260620T064500Z
+SUMMARY: (egzamin)
+UID:7f168c75-eb47-44dd-a226-8a4972fe45fd@7f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:5b7e2bc8-feae-4f6e-b0ec-8a1d45a88061@5b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Ciałowicz
+DTEND:20260425T160000Z
+LOCATION:Paw.F 109
+DTSTART:20260425T134500Z
+SUMMARY:Ekonomia matematyczna (ćwiczenia)
+UID:c8ed6498-f782-4096-8ddc-541015902bf5@c8ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Przemysław Rola
+DTEND:20260607T104500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260607T083000Z
+SUMMARY:Bazy danych SQL (konwersatorium do wyboru)
+UID:5cce8183-fa9d-4e58-8807-2693e1aae062@5cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20260228T091500Z
+DTSTART:20260228T070000Z
+SUMMARY:Statystyczne metody kontroli jakości (wykład)
+UID:eaab9ccb-8c4a-45a0-8001-1b98575dd568@eaab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20260320T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260320T173000Z
+SUMMARY:Data analysis with Python (konwersatorium do wyboru)
+UID:c8717708-9e26-4031-8d1a-49c70350f4fb@c871.org
 END:VEVENT
 END:VCALENDAR
