@@ -2,41 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
-DTEND:20260612T183000Z
-DTSTART:20260612T144500Z
-SUMMARY:Fuzje i przejęcia (Studia podyplomowe)
-UID:62c7db82-9361-412c-ad3d-ca9f513558a9@62c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20260320T193000Z
-LOCATION:Paw.G  9
-DTSTART:20260320T154500Z
-SUMMARY:Inwestycje alternatywne (Studia podyplomowe)
-UID:d98de07b-8519-4d53-b02c-1c861790af4c@d98d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Remigiusz Lipiec
-DTEND:20260321T121500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260321T074500Z
-SUMMARY:Zarządzanie ryzykiem rynkowym w przedsiębiorstwie (Studia podyplomowe)
-UID:3bec0c36-35c1-4513-af75-2abe86e24694@3bec.org
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20260523T120000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260523T064500Z
+SUMMARY:Analiza techniczna (Studia podyplomowe)
+UID:41ed99c1-b90a-49fc-9863-88040be6f23f@41ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Karolina Manugiewicz
 DTEND:20260626T174500Z
 DTSTART:20260626T144500Z
 SUMMARY:Umiejętności miękkie w sektorze finansowym (Studia podyplomowe)
-UID:1a4f0fb2-1d5a-415f-8058-76517754db3c@1a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260704T103000Z
-DTSTART:20260704T064500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:710b691e-85ea-4bdc-8217-96c522771734@710b.org
+UID:34561d08-df20-4682-b5c1-c2a3eb6de85c@3456.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Karol Magoń
@@ -44,7 +22,15 @@ DTEND:20260418T103000Z
 LOCATION:Paw.B 057 (KSB)
 DTSTART:20260418T064500Z
 SUMMARY:Obrót instrumentami finansowymi (Studia podyplomowe)
-UID:84aa8d1d-025b-4dcb-b2db-29f5d344b118@84aa.org
+UID:97a2ad1c-9138-4a80-8be2-2330a4d8f1ac@97a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20260320T193000Z
+LOCATION:Paw.G  9
+DTSTART:20260320T154500Z
+SUMMARY:Inwestycje alternatywne (Studia podyplomowe)
+UID:ce3052f3-d258-468f-96fe-4dcc30d2d68b@ce30.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Remigiusz Lipiec
@@ -52,38 +38,15 @@ DTEND:20260314T130000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20260314T074500Z
 SUMMARY:Finanse empiryczne (Studia podyplomowe)
-UID:9e52df17-518d-41b3-8010-c1c76ee3e047@9e52.org
+UID:95f687f8-2842-4a15-aa48-ef915c8d0a9d@95f6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260321T143000Z
+DESCRIPTION:Instructor: mgr Remigiusz Lipiec
+DTEND:20260321T121500Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260321T130000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:10c4e108-204c-4319-809a-556250a9cf2e@10c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karol Magoń
-DTEND:20260417T183000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260417T144500Z
-SUMMARY:Kodeks spółek handlowych. Kodeks Dobrych Praktyk. Corpor. Governance (Studia podyplomowe)
-UID:d6ae3dbe-269c-4370-809a-fdcf963a42b7@d6ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260613T120000Z
-DTSTART:20260613T064500Z
-SUMMARY:Analiza fundamentalna (Studia podyplomowe)
-UID:14a89c7c-ff3a-4419-bdec-3dbace021dcf@14a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260627T120000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260627T064500Z
-SUMMARY:Analiza fundamentalna (Studia podyplomowe)
-UID:d0ff4eae-a03b-4b6e-a716-9dad695fc864@d0ff.org
+DTSTART:20260321T074500Z
+SUMMARY:Zarządzanie ryzykiem rynkowym w przedsiębiorstwie (Studia podyplomowe)
+UID:f413969c-41a3-4a7e-b489-59084488c4c7@f413.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
@@ -91,28 +54,65 @@ DTEND:20260313T184500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20260313T154500Z
 SUMMARY: (Studia podyplomowe)
-UID:ce1113d6-390d-422a-9532-5a56e3a0d953@ce11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marcin Rychlak
-DTEND:20260523T120000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260523T064500Z
-SUMMARY:Analiza techniczna (Studia podyplomowe)
-UID:7d952256-0b5e-4514-9be9-0a7d5e4f6c58@7d95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marcin Rychlak
-DTEND:20260509T120000Z
-DTSTART:20260509T064500Z
-SUMMARY:Giełdy papierów wartościowych (Studia podyplomowe)
-UID:6dee685f-4b60-4b0a-94c0-df4f66494511@6dee.org
+UID:6e4d1257-1fda-497e-9f0b-26fab85b7b4a@6e4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Karaś
 DTEND:20260522T183000Z
 DTSTART:20260522T144500Z
 SUMMARY:Rynek walutowy (Studia podyplomowe)
-UID:7067c23e-be72-4abf-9632-a94773e6ce19@7067.org
+UID:bab50a76-38c9-44a6-a203-cc5144aaa073@bab5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20260612T183000Z
+DTSTART:20260612T144500Z
+SUMMARY:Fuzje i przejęcia (Studia podyplomowe)
+UID:cb8236c8-f5b7-4fd0-b045-42b0d67aa7f2@cb82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260627T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260627T064500Z
+SUMMARY:Analiza fundamentalna (Studia podyplomowe)
+UID:dab79a0b-6109-4e81-ba34-9acef61130fc@dab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260321T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260321T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:cc19bf5f-4818-4f53-b6f5-a5524bb2e553@cc19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260704T103000Z
+DTSTART:20260704T064500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:57b98f25-ab6d-48c4-be9d-52b4d0e6867c@57b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Magoń
+DTEND:20260417T183000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260417T144500Z
+SUMMARY:Kodeks spółek handlowych. Kodeks Dobrych Praktyk. Corpor. Governance (Studia podyplomowe)
+UID:de0a187a-db6c-4438-92c3-4f7a573c6991@de0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260613T120000Z
+DTSTART:20260613T064500Z
+SUMMARY:Analiza fundamentalna (Studia podyplomowe)
+UID:8fe79160-a602-48e2-8779-a3eaad3aac94@8fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20260509T120000Z
+DTSTART:20260509T064500Z
+SUMMARY:Giełdy papierów wartościowych (Studia podyplomowe)
+UID:4b2af70f-28ee-4e7f-8c74-f93b9ed428ed@4b2a.org
 END:VEVENT
 END:VCALENDAR
