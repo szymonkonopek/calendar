@@ -2,25 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Peszko
+DTEND:20260328T121500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20260328T074500Z
+SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
+UID:d9601e72-35ff-4972-9140-231027c9acab@d960.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Zatorski
 DTEND:20260425T111500Z
 DTSTART:20260425T064500Z
 SUMMARY:Rozwiązywanie konfliktów w grupie (Studia podyplomowe)
-UID:818d2a3b-50b2-4517-a33c-536eb5b5f739@818d.org
+UID:8a7da35f-b670-4bdf-af4e-b67d61380f60@8a7d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Wojciech Zatorski
-DTEND:20260424T181500Z
-DTSTART:20260424T134500Z
-SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
-UID:390702f1-1bbc-432b-b059-b92b78b53fe6@3907.org
+DESCRIPTION:Instructor: mgr inż. Marta Morek
+DTEND:20260530T111500Z
+DTSTART:20260530T064500Z
+SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
+UID:ccedd926-a62b-4698-ad57-506297cbaa78@cced.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
-DTEND:20260703T181500Z
-DTSTART:20260703T134500Z
-SUMMARY:Techniki twórczego myślenia w zarządzaniu projektami (Studia podyplomowe)
-UID:731a59d9-6d03-476a-83e2-3b4d0181f831@731a.org
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20260620T111500Z
+DTSTART:20260620T064500Z
+SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
+UID:e3b40ac3-919d-47d9-875a-a5d6c4e1fee1@e3b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Michał Teczke
@@ -28,22 +36,21 @@ DTEND:20260327T191500Z
 LOCATION:Paw.B 054 (KSB)
 DTSTART:20260327T144500Z
 SUMMARY:Podstawy ekonomii i zarządzania (Studia podyplomowe)
-UID:48140fcf-c852-47c9-ba9c-fa38251dfbc6@4814.org
+UID:e234b88c-9182-4caa-9b2b-13972fa7c318@e234.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Marta Morek
 DTEND:20260529T181500Z
 DTSTART:20260529T134500Z
 SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
-UID:2e2b412e-c4d9-42a6-8e3d-016f1f5c6ca0@2e2b.org
+UID:660c25bc-abc0-49d9-b060-30fdb289d351@660c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Peszko
-DTEND:20260328T121500Z
-LOCATION:Paw.F 713  Kat.Bank./sala dyd.
-DTSTART:20260328T074500Z
-SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
-UID:cc0baade-9396-464f-b041-4150eba33a00@cc0b.org
+DESCRIPTION:Instructor: mgr Wojciech Zatorski
+DTEND:20260424T181500Z
+DTSTART:20260424T134500Z
+SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
+UID:78e21534-dcf5-4bcd-90f6-4ed79499d798@78e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Schmidt
@@ -51,28 +58,7 @@ DTEND:20260410T181500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20260410T134500Z
 SUMMARY:Metodyki zarządzania projektami (Studia podyplomowe)
-UID:985bcada-0e27-4f66-9a26-f06f43b9ebaa@985b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Marta Morek
-DTEND:20260530T111500Z
-DTSTART:20260530T064500Z
-SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
-UID:973e7569-4570-4644-b86f-8961e6dac6d9@973e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20260619T181500Z
-DTSTART:20260619T134500Z
-SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
-UID:56d8c554-33f5-462c-a73c-1ce4649d391d@56d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Hubert Obora
-DTEND:20260620T111500Z
-DTSTART:20260620T064500Z
-SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
-UID:c70aced5-011b-43a6-a3b0-e16c23a80994@c70a.org
+UID:c4280a96-befc-4cc0-a0ca-9cfb8a56b58c@c428.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Wojciech Lelek
@@ -80,6 +66,20 @@ DTEND:20260411T111500Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20260411T064500Z
 SUMMARY:Zarządzanie relacjami w zespole projektowym (Studia podyplomowe)
-UID:f373fef8-aab0-4ad8-a1f1-e9aeae69d2ca@f373.org
+UID:b1a9d8ca-57ea-492a-b70c-364929c9c4db@b1a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Angelika Wodecka-Hyjek
+DTEND:20260703T181500Z
+DTSTART:20260703T134500Z
+SUMMARY:Techniki twórczego myślenia w zarządzaniu projektami (Studia podyplomowe)
+UID:76cd58a7-842e-4cb6-a88f-85c7b9ee8b4d@76cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Obora
+DTEND:20260619T181500Z
+DTSTART:20260619T134500Z
+SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
+UID:ed733617-6f0b-4d99-af7c-b9fe0bbf39da@ed73.org
 END:VEVENT
 END:VCALENDAR

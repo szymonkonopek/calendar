@@ -2,26 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:2a0b6313-1925-4cf5-9bd5-424268b06b51@2a0b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20260227T194500Z
-DTSTART:20260227T173000Z
-SUMMARY:Rewizja i audyt wewnętrzny (wykład)
-UID:567695bb-66ab-4800-84ae-9457a8d5d272@5676.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20260320T170000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6305528
-DTSTART:20260320T144500Z
-SUMMARY:Rewizja i audyt wewnętrzny (wykład)
-UID:09f3251d-8feb-41d6-9f01-b065955a1c85@09f3.org
+DTEND:20260301T170000Z
+DTSTART:20260301T144500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (wykład)
+UID:cc26e934-9e6d-4a34-953e-708d2e644787@cc26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -29,15 +14,36 @@ DTEND:20260516T133000Z
 LOCATION:Paw.U sala M
 DTSTART:20260516T111500Z
 SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:b8970814-0499-4eec-8818-bad3f48b0554@b897.org
+UID:93036e28-f777-4edd-a3f6-38553883ca40@9303.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20260418T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6305582
-DTSTART:20260418T111500Z
+DTEND:20260228T143000Z
+DTSTART:20260228T121500Z
 SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:7a4c47dc-19cd-4a73-bc0d-0b0274ab4b29@7a4c.org
+UID:e830ff83-01a7-4468-a71d-d21b27329e0c@e830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20260320T170000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6305528
+DTSTART:20260320T144500Z
+SUMMARY:Rewizja i audyt wewnętrzny (wykład)
+UID:5c9c64fb-c73e-4555-a191-f58061adf9fa@5c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:091327cd-74f7-4ad6-a244-827b9b1f144b@0913.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20260227T194500Z
+DTSTART:20260227T173000Z
+SUMMARY:Rewizja i audyt wewnętrzny (wykład)
+UID:d714bfd9-e26b-4f41-b7c7-3914c796875d@d714.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
@@ -45,7 +51,7 @@ DTEND:20260612T160000Z
 LOCATION:Paw.F 111
 DTSTART:20260612T134500Z
 SUMMARY:Rewizja i audyt wewnętrzny (ćwiczenia)
-UID:fd07cddb-3800-400c-a6cb-e5c0acc09358@fd07.org
+UID:598b1cad-c462-4d68-834d-6cb4c017d5af@598b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
@@ -53,54 +59,7 @@ DTEND:20260322T114500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6305527
 DTSTART:20260322T093000Z
 SUMMARY:Rewizja i audyt wewnętrzny (wykład)
-UID:d6962444-1f03-4a79-a9fe-a862a601bad8@d696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20260517T150000Z
-LOCATION:Paw.U sala M
-DTSTART:20260517T120000Z
-SUMMARY:Międzynarodowe standardy rachunkowości (ćwiczenia)
-UID:8df9df25-0827-4c2e-83e0-5b49a1ae93fe@8df9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20260614T174500Z
-LOCATION:Paw.E sala J
-DTSTART:20260614T144500Z
-SUMMARY:Międzynarodowe standardy rachunkowości (ćwiczenia)
-UID:bf41a669-20ae-4a2e-bf3f-9cabe6b68182@bf41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20260419T133000Z
-LOCATION:Paw.C sala C
-DTSTART:20260419T111500Z
-SUMMARY:Rewizja i audyt wewnętrzny (ćwiczenia)
-UID:28fe1193-15f2-4523-8333-b33d7ca2ccaf@28fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20260228T143000Z
-DTSTART:20260228T121500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:38f0be2c-3cdf-4a77-bd89-a61227a9ecc0@38f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20260529T184500Z
-LOCATION:Paw.F 111
-DTSTART:20260529T163000Z
-SUMMARY:Rewizja i audyt wewnętrzny (ćwiczenia)
-UID:ff53b6e2-696e-4268-b7cc-78ac6020a25c@ff53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
-DTEND:20260531T104500Z
-LOCATION:Paw.U sala O
-DTSTART:20260531T083000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:a653d57a-9aee-4555-993b-f8481feb55d2@a653.org
+UID:34a84b67-c4ff-48f1-90f8-aedbb3910172@34a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
@@ -108,7 +67,23 @@ DTEND:20260322T143000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6305546
 DTSTART:20260322T121500Z
 SUMMARY:Międzynarodowe standardy rachunkowości (wykład)
-UID:4816e368-05e6-43a8-9aec-0d9a05017405@4816.org
+UID:35b01f33-f3e2-4d03-afe8-ac6b2e019b84@35b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20260517T150000Z
+LOCATION:Paw.U sala M
+DTSTART:20260517T120000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (ćwiczenia)
+UID:98dc165e-3725-4ea7-9279-15087ec74faa@98dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20260531T104500Z
+LOCATION:Paw.U sala O
+DTSTART:20260531T083000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:81a9111b-912a-4387-ada7-52a1dc0b8348@81a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
@@ -116,29 +91,14 @@ DTEND:20260320T194500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6305545
 DTSTART:20260320T173000Z
 SUMMARY:Międzynarodowe standardy rachunkowości (wykład)
-UID:1a5a6cb6-798c-418b-96bc-dbf4f43b2b5c@1a5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Staszel
-DTEND:20260531T150000Z
-LOCATION:Paw.F 008
-DTSTART:20260531T120000Z
-SUMMARY:Międzynarodowe standardy rachunkowości (ćwiczenia)
-UID:b63ca49c-dc0b-4f26-a97d-8ce8a65c3ba0@b63c.org
+UID:d2845688-8e88-4930-aaff-0e17f31d2e6e@d284.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20260325T114500Z
 DTSTART:20260325T084500Z
 SUMMARY: (rezerwacja)
-UID:0a4e69b3-abd0-4563-96bd-23882fcdc55d@0a4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20260301T170000Z
-DTSTART:20260301T144500Z
-SUMMARY:Międzynarodowe standardy rachunkowości (wykład)
-UID:2a6d8820-76ef-4599-999e-dc2a1b468d7e@2a6d.org
+UID:71bd740c-4b36-45d4-83bb-1097b2cee0da@71bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -146,14 +106,30 @@ DTEND:20260613T160000Z
 LOCATION:Paw.U sala M
 DTSTART:20260613T134500Z
 SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:a97574a4-067a-4efb-9064-c4f2cb3cf59a@a975.org
+UID:67b827dd-6cf5-453c-a8da-15b51ff172e1@67b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
 SUMMARY: (rezerwacja)
-UID:6a3b3cbc-b7a3-4612-ae3b-412e959ef66c@6a3b.org
+UID:66ebdeda-96e5-4075-8fbd-0708a3c0371c@66eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20260531T150000Z
+LOCATION:Paw.F 008
+DTSTART:20260531T120000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (ćwiczenia)
+UID:9090e3ce-49fb-4349-9ff8-13a70a985336@9090.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20260614T174500Z
+LOCATION:Paw.E sala J
+DTSTART:20260614T144500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (ćwiczenia)
+UID:61c06c46-3a8b-486a-b93a-2c48316169f6@61c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
@@ -161,6 +137,30 @@ DTEND:20260321T114500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6305549
 DTSTART:20260321T093000Z
 SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:712821fb-fd57-494d-97a7-7fab67d391a9@7128.org
+UID:daa5bc41-8668-4651-9626-08c9319c438d@daa5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20260419T133000Z
+LOCATION:Paw.C sala C
+DTSTART:20260419T111500Z
+SUMMARY:Rewizja i audyt wewnętrzny (ćwiczenia)
+UID:09e02a7a-d6b1-4189-99bb-1c37e6163cb6@09e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20260529T184500Z
+LOCATION:Paw.F 111
+DTSTART:20260529T163000Z
+SUMMARY:Rewizja i audyt wewnętrzny (ćwiczenia)
+UID:4c3d6136-b848-400a-ad52-e7b0c98af1e1@4c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20260418T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6305582
+DTSTART:20260418T111500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:17b15989-c181-449f-bfd6-343103822464@17b1.org
 END:VEVENT
 END:VCALENDAR
