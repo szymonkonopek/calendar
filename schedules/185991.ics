@@ -3,11 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260529T160000Z
-LOCATION:Bibl. 440
-DTSTART:20260529T134500Z
-SUMMARY:Prawo podatkowe (ćwiczenia)
-UID:74e61cfe-f0d8-4d05-a3ea-a15974e693cd@74e6.org
+DTEND:20260320T194500Z
+DTSTART:20260320T173000Z
+SUMMARY:Prawo podatkowe (Przeniesienie zajęć)
+UID:b583fd99-a8fc-476d-afbf-7ee55f24ddec@b583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260228T143000Z
+DTSTART:20260228T121500Z
+SUMMARY:Prawo podatkowe (wykład)
+UID:9b34cbe1-1276-4777-bdcc-eac5237ef3c4@9b34.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Jonas
@@ -15,69 +21,7 @@ DTEND:20260613T081500Z
 LOCATION:Paw.F 109
 DTSTART:20260613T060000Z
 SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
-UID:d54ffa60-9d51-45f7-81c4-72a1a1227c63@d54f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260301T143000Z
-DTSTART:20260301T121500Z
-SUMMARY:Rachunkowość sektora publicznego (wykład)
-UID:d7503a1f-84e5-4cf9-8c39-5db4e627971d@d750.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kędzior
-DTEND:20260425T133000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260425T111500Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
-UID:2873a55c-c9c2-44d0-9ffa-e38a929eba63@2873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:983d8b37-49f2-481d-b69f-25bb4a3f538a@983d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260419T104500Z
-LOCATION:Paw.F 109
-DTSTART:20260419T083000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
-UID:30286858-9034-4552-98fe-f786fa3ad63b@3028.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260322T091500Z
-LOCATION:Paw.C sala C
-DTSTART:20260322T070000Z
-SUMMARY:Rachunkowość banków (ćwiczenia)
-UID:80dd939d-e6f9-4c91-852b-f03859c750d1@80dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260418T081500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6292730
-DTSTART:20260418T060000Z
-SUMMARY:Rachunkowość sektora publicznego (wykład)
-UID:c972a1c7-7cf0-4da1-9400-8f1b1ddf25dc@c972.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260529T184500Z
-LOCATION:Paw.C sala C
-DTSTART:20260529T163000Z
-SUMMARY:Rachunkowość banków (ćwiczenia)
-UID:2b27e272-64fd-4d58-88d5-16f7609fda83@2b27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260613T104500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260613T083000Z
-SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
-UID:7edc1b7d-eccb-4f90-af15-d7abe3ba3960@7edc.org
+UID:9d1cec8e-1d90-48d9-83f3-5db2d2f80789@9d1c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
@@ -85,257 +29,7 @@ DTEND:20260417T160000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6293147
 DTSTART:20260417T134500Z
 SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
-UID:d64431be-aeb0-4fe8-b52f-a4d6d2efdd63@d644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260417T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293254
-DTSTART:20260417T163000Z
-SUMMARY:Rachunkowość banków (wykład)
-UID:75f0ec78-aaa2-4e33-94fc-7635d8afc551@75f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260425T081500Z
-LOCATION:Paw.F 109
-DTSTART:20260425T060000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
-UID:7d91de05-08cc-4f7b-a167-9803e5b277e1@7d91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260606T133000Z
-LOCATION:Paw.C sala C
-DTSTART:20260606T111500Z
-SUMMARY:Rachunkowość banków (ćwiczenia)
-UID:62a54115-effe-4c5c-be48-3e6b8fa58487@62a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260418T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293348
-DTSTART:20260418T111500Z
-SUMMARY:Prawo podatkowe (wykład)
-UID:cc280d2e-eef2-4f40-a000-19b478bcd22c@cc28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20260301T114500Z
-DTSTART:20260301T093000Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
-UID:baf7d071-9812-43b1-9a5a-4fb7c0aedb58@baf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260606T081500Z
-LOCATION:Paw.F 613
-DTSTART:20260606T060000Z
-SUMMARY:Prawo podatkowe (ćwiczenia)
-UID:af7fe23f-90d4-4dfa-b7cc-1351627f3afa@af7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260531T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6292732
-DTSTART:20260531T111500Z
-SUMMARY:Rachunkowość sektora publicznego (wykład)
-UID:7673bd4a-f501-48fb-ab3f-ac3335288821@7673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260419T133000Z
-LOCATION:Paw.F 111
-DTSTART:20260419T111500Z
-SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
-UID:d65b0e73-62f6-49a7-b1cb-5f6ff6a8b396@d65b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260627T161500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260627T144500Z
-SUMMARY:Prawo podatkowe (egzamin)
-UID:8e33e7b5-d29e-4d2e-ac4e-0051ae763f54@8e33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260516T081500Z
-LOCATION:Paw.F 109
-DTSTART:20260516T060000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
-UID:bfeac456-87ef-4ade-92d7-bfdf7fd2f019@bfea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260424T184500Z
-LOCATION:Bibl. 440
-DTSTART:20260424T163000Z
-SUMMARY:Prawo podatkowe (ćwiczenia)
-UID:dad26038-75ca-472f-bbd1-75759f845a9e@dad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kędzior
-DTEND:20260530T133000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260530T111500Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
-UID:2c5361e3-21c8-48d3-9bad-f6781afb2b31@2c53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260228T114500Z
-DTSTART:20260228T093000Z
-SUMMARY:Rachunkowość banków (wykład)
-UID:3649bf38-6080-4861-bbd1-272a9f055973@3649.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20260328T143000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260328T121500Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
-UID:79cc2e78-15a3-4b75-855b-cf3912dedb96@79cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:8fb13675-4cb7-434e-b51a-cd297568f44a@8fb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
-DTEND:20260314T143000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260314T121500Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
-UID:9dcae888-63b4-4004-9397-f4fe466fc275@9dca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260314T170000Z
-LOCATION:Paw.F 102
-DTSTART:20260314T144500Z
-SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
-UID:802b866d-9f0b-42bf-b2e9-74bccfab4ea1@802b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260321T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6292728
-DTSTART:20260321T070000Z
-SUMMARY:Rachunkowość sektora publicznego (wykład)
-UID:af38c11e-552e-4ad8-90b2-fb9356274a96@af38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260329T081500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293217
-DTSTART:20260329T060000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń (wykład)
-UID:8566a42e-b4f4-44fc-aad9-1c8157db288e@8566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260329T133000Z
-DTSTART:20260329T111500Z
-SUMMARY:Rachunkowość sektora publicznego (Przeniesienie zajęć)
-UID:e71a0f4d-bec1-4db0-8616-0782501a4c53@e71a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:a6bafb3d-2cbc-4f9e-a1ba-43578028f1cb@a6ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260313T170000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293346
-DTSTART:20260313T144500Z
-SUMMARY:Prawo podatkowe (wykład)
-UID:c79856b6-fc72-4f4a-bb90-2c4be07210ca@c798.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260517T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6292731
-DTSTART:20260517T111500Z
-SUMMARY:Rachunkowość sektora publicznego (wykład)
-UID:b060f275-d210-4085-8eb2-1bb5c0faeb49@b060.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20260531T104500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293136
-DTSTART:20260531T083000Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
-UID:4135d5bb-fa92-47be-a995-3d8480d2500f@4135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260425T104500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260425T083000Z
-SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
-UID:f3a0fc05-5af6-493a-9079-9c81796764c7@f3a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260419T081500Z
-LOCATION:Paw.C sala C
-DTSTART:20260419T060000Z
-SUMMARY:Rachunkowość banków (ćwiczenia)
-UID:69e1be46-7522-4b0a-813a-08514bb586ac@69e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260614T081500Z
-LOCATION:Paw.C sala C
-DTSTART:20260614T060000Z
-SUMMARY:Rachunkowość banków (ćwiczenia)
-UID:58aea6d6-4726-46a0-953e-b97aa4bd97c4@58ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20260418T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6408872
-DTSTART:20260418T134500Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
-UID:bf7c360c-da15-475e-8813-c7d485b0c14f@bf7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260301T091500Z
-DTSTART:20260301T070000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń (wykład)
-UID:50c7b4fc-17d8-41a9-83e4-63394d88aa90@50c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260530T104500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260530T083000Z
-SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
-UID:de9f70ea-30c3-4092-b728-04c3ceec26da@de9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260530T081500Z
-LOCATION:Paw.F 109
-DTSTART:20260530T060000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
-UID:ff793c92-f696-408f-a5e3-de1fa4a80afe@ff79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260516T104500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260516T083000Z
-SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
-UID:426fc327-5ea7-4b62-83f7-95332bbe6038@426f.org
+UID:ce7017f0-cb48-4b49-8510-c83f32816748@ce70.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
@@ -343,52 +37,28 @@ DTEND:20260516T133000Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20260516T111500Z
 SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
-UID:a8ed4add-45d0-42c3-adb9-2dbe9c856160@a8ed.org
+UID:662b1f52-1f6d-416f-8f5f-db5647490339@662b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20260329T104500Z
-DTSTART:20260329T083000Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (Przeniesienie zajęć)
-UID:d7d5157c-621d-45ef-b2f6-d7e8ee3d7729@d7d5.org
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:66bf6ad5-e366-420b-8844-067690eb01a1@66bf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Kędzior
-DTEND:20260613T133000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260613T111500Z
-SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
-UID:4780bb2f-0c12-4d2d-8d14-9b41a79a665a@4780.org
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:cac7c774-7ca5-43ff-9ed4-2683b8a6bfe9@cac7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260228T143000Z
-DTSTART:20260228T121500Z
-SUMMARY:Prawo podatkowe (wykład)
-UID:63c3616b-0153-420c-8cf3-17a35790ed63@63c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
-DTEND:20260320T194500Z
-DTSTART:20260320T173000Z
-SUMMARY:Prawo podatkowe (Przeniesienie zajęć)
-UID:23caef01-574d-4c8c-a258-021501b321b7@23ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Jonas
-DTEND:20260322T114500Z
-LOCATION:Paw.F 109
-DTSTART:20260322T093000Z
-SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
-UID:69dcac2b-09c5-46b9-955f-9bdfe899446a@69dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
-DTEND:20260313T194500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293242
-DTSTART:20260313T173000Z
-SUMMARY:Rachunkowość banków (wykład)
-UID:fd0a779f-ab7b-403f-8757-ee5eb1cd5785@fd0a.org
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260328T170000Z
+DTSTART:20260328T144500Z
+SUMMARY:Rachunkowość sektora publicznego (Przeniesienie zajęć)
+UID:32b9f400-329c-48a2-8d9b-4c9f2bb50f70@32b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Jonas
@@ -396,30 +66,86 @@ DTEND:20260517T081500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6293223
 DTSTART:20260517T060000Z
 SUMMARY:Rachunkowość zakładów ubezpieczeń (wykład)
-UID:c46b80cd-f297-4ec8-bfa9-b8f2e3526e03@c46b.org
+UID:62fd7d24-4d30-4a8c-93af-87bc7b323365@62fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260301T143000Z
+DTSTART:20260301T121500Z
+SUMMARY:Rachunkowość sektora publicznego (wykład)
+UID:0db5ead6-89d4-439f-ac58-c0b0623f84e4@0db5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260322T091500Z
+LOCATION:Paw.C sala C
+DTSTART:20260322T070000Z
+SUMMARY:Rachunkowość banków (ćwiczenia)
+UID:7516e559-ec58-4b55-9863-b983b56a7364@7516.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260313T194500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293242
+DTSTART:20260313T173000Z
+SUMMARY:Rachunkowość banków (wykład)
+UID:934f2055-0c0e-4da8-a16d-b2abb0ab2384@934f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260516T081500Z
+LOCATION:Paw.F 109
+DTSTART:20260516T060000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
+UID:20b89cae-e919-43ae-b420-53b001a2ed78@20b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260314T170000Z
+LOCATION:Paw.F 102
+DTSTART:20260314T144500Z
+SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
+UID:6f0cf2ac-698e-4cdc-ae4f-db573953e085@6f0c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
-DTEND:20260321T114500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293126
-DTSTART:20260321T093000Z
+DTEND:20260418T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6408872
+DTSTART:20260418T134500Z
 SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
-UID:bcdc48a2-ab85-42d2-84e6-cb850ef956db@bcdc.org
+UID:3521ef0e-bba3-4c08-95a6-077f04faa68d@3521.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260329T104500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6411154
-DTSTART:20260329T083000Z
-SUMMARY:Rachunkowość sektora publicznego (wykład)
-UID:6199b158-6f0a-4289-85e3-d13891b65889@6199.org
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260417T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293254
+DTSTART:20260417T163000Z
+SUMMARY:Rachunkowość banków (wykład)
+UID:ee6234d3-a28d-40d2-8968-01a6f617d6d9@ee62.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Babuśka
-DTEND:20260328T170000Z
-DTSTART:20260328T144500Z
-SUMMARY:Rachunkowość sektora publicznego (Przeniesienie zajęć)
-UID:cbcf0873-3ed9-4b05-bf79-53c0b5172613@cbcf.org
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260313T170000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293346
+DTSTART:20260313T144500Z
+SUMMARY:Prawo podatkowe (wykład)
+UID:309cea52-a83b-4a87-9186-da563829976c@309c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260627T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260627T144500Z
+SUMMARY:Prawo podatkowe (egzamin)
+UID:613c126b-0378-4491-a3ff-82d5dc413e21@613c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260419T081500Z
+LOCATION:Paw.C sala C
+DTSTART:20260419T060000Z
+SUMMARY:Rachunkowość banków (ćwiczenia)
+UID:19641c3c-85cf-4974-bfe3-2fee9a9518ab@1964.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
@@ -427,7 +153,69 @@ DTEND:20260314T091500Z
 LOCATION:Paw.C sala C
 DTSTART:20260314T070000Z
 SUMMARY:Rachunkowość banków (ćwiczenia)
-UID:f7de1ba8-ffa1-4949-906d-43e036e00156@f7de.org
+UID:b9146d95-15fa-4e2f-b979-50a814dc8e20@b914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:0b24bb4c-7aa3-4f0b-81ac-1d474b68ac14@0b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260516T104500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260516T083000Z
+SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
+UID:eb0c5837-f5b7-4d39-8518-b2690e453c5e@eb0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260517T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6292731
+DTSTART:20260517T111500Z
+SUMMARY:Rachunkowość sektora publicznego (wykład)
+UID:c5931abd-b2bd-42c5-8904-b1bc7b4a78fd@c593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20260329T104500Z
+DTSTART:20260329T083000Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (Przeniesienie zajęć)
+UID:f0150c8a-2cd7-43e0-bb8b-30cdd9add594@f015.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260329T104500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6411154
+DTSTART:20260329T083000Z
+SUMMARY:Rachunkowość sektora publicznego (wykład)
+UID:43d40fce-7983-4aef-9523-0be5652a9da0@43d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20260314T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260314T121500Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
+UID:bc18e41c-7437-49dd-a909-01411a1b2ad8@bc18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20260530T133000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260530T111500Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
+UID:60928120-f380-4961-8401-16eef6c3c7ce@6092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20260613T133000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260613T111500Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
+UID:399488de-40ee-44f1-adca-6ac85ca519cb@3994.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
@@ -435,6 +223,218 @@ DTEND:20260517T104500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6293135
 DTSTART:20260517T083000Z
 SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
-UID:21986a90-b37e-4f3a-9967-933f3b2ecb2c@2198.org
+UID:63e58c87-1e9e-4114-a37a-904961ee67ce@63e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20260321T114500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293126
+DTSTART:20260321T093000Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
+UID:abcf8471-f56c-4608-9c43-f87e92a06828@abcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260531T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6292732
+DTSTART:20260531T111500Z
+SUMMARY:Rachunkowość sektora publicznego (wykład)
+UID:b0107493-75fa-4e2e-a4a8-2e65e944efd6@b010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260529T160000Z
+LOCATION:Bibl. 440
+DTSTART:20260529T134500Z
+SUMMARY:Prawo podatkowe (ćwiczenia)
+UID:da7c7152-abc7-460b-9379-435266646dcf@da7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20260301T114500Z
+DTSTART:20260301T093000Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
+UID:ee096fd0-c0d8-4919-9a91-34cba888a3f1@ee09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260301T091500Z
+DTSTART:20260301T070000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń (wykład)
+UID:4ca1fb63-81c1-479d-9822-a45f475cadd0@4ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260329T081500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293217
+DTSTART:20260329T060000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń (wykład)
+UID:83628505-4099-4e17-9fb4-5ebe6f55a4c9@8362.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260425T081500Z
+LOCATION:Paw.F 109
+DTSTART:20260425T060000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
+UID:ed3600d3-6556-444f-95af-9c669bd5fdc7@ed36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260613T104500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260613T083000Z
+SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
+UID:791674cd-1c6f-4cc1-bf86-dae13ac68aac@7916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260419T104500Z
+LOCATION:Paw.F 109
+DTSTART:20260419T083000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
+UID:33ea2f61-27ec-4ebe-a32d-7be68901d262@33ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260424T184500Z
+LOCATION:Bibl. 440
+DTSTART:20260424T163000Z
+SUMMARY:Prawo podatkowe (ćwiczenia)
+UID:c53a8ff5-6f5b-4121-80e9-5a5f8a062fa2@c53a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260529T184500Z
+LOCATION:Paw.C sala C
+DTSTART:20260529T163000Z
+SUMMARY:Rachunkowość banków (ćwiczenia)
+UID:75e63ada-085e-4d92-b94f-7479a1135432@75e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20260425T133000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260425T111500Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
+UID:6419b921-12e0-4742-8f5e-6f89ab4afd7a@6419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Maślanka
+DTEND:20260531T104500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293136
+DTSTART:20260531T083000Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (wykład)
+UID:a140ec25-dad2-44d0-9db9-ccf6e98d9e15@a140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260530T081500Z
+LOCATION:Paw.F 109
+DTSTART:20260530T060000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
+UID:be39ae93-4ad4-4827-ae34-c7f8d84e379f@be39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260418T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293348
+DTSTART:20260418T111500Z
+SUMMARY:Prawo podatkowe (wykład)
+UID:8c8d23de-282c-437b-8196-9093432c2b9c@8c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jusyna Zając-Wysocka
+DTEND:20260606T081500Z
+LOCATION:Paw.F 613
+DTSTART:20260606T060000Z
+SUMMARY:Prawo podatkowe (ćwiczenia)
+UID:f9506768-00fe-45ca-b17b-de1e0b7018f9@f950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mokrzycka-Kogut
+DTEND:20260328T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260328T121500Z
+SUMMARY:Controlling i komputerowe systemy księgowe w przedsiębiorstwie (ćwiczenia)
+UID:01c1b8d7-192e-426c-b178-c327c0e9983e@01c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260614T081500Z
+LOCATION:Paw.C sala C
+DTSTART:20260614T060000Z
+SUMMARY:Rachunkowość banków (ćwiczenia)
+UID:54e7ee1d-7ee7-4d70-802a-43a2c9d56088@54e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20260322T114500Z
+LOCATION:Paw.F 109
+DTSTART:20260322T093000Z
+SUMMARY:Rachunkowość zakładów ubezpieczeń (ćwiczenia)
+UID:da069b06-45b8-48eb-bf4c-5aa8c89aff4e@da06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260228T114500Z
+DTSTART:20260228T093000Z
+SUMMARY:Rachunkowość banków (wykład)
+UID:cb7bfe0b-20cb-48ed-9a63-7f181ad2e235@cb7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260418T081500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6292730
+DTSTART:20260418T060000Z
+SUMMARY:Rachunkowość sektora publicznego (wykład)
+UID:7a99438c-70ec-4e21-b564-76ff08e3b374@7a99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20260606T133000Z
+LOCATION:Paw.C sala C
+DTSTART:20260606T111500Z
+SUMMARY:Rachunkowość banków (ćwiczenia)
+UID:10d8e4c7-61b0-4a13-ad41-0ccc08c0403a@10d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260329T133000Z
+DTSTART:20260329T111500Z
+SUMMARY:Rachunkowość sektora publicznego (Przeniesienie zajęć)
+UID:bf965f94-6649-4604-80d2-9dcec9ee1caf@bf96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260419T133000Z
+LOCATION:Paw.F 111
+DTSTART:20260419T111500Z
+SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
+UID:2e65d8d6-02fa-48b7-9ccf-96c27267451d@2e65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260425T104500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260425T083000Z
+SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
+UID:9d01983e-0174-4526-80dc-dcfaddbf8dd2@9d01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260321T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6292728
+DTSTART:20260321T070000Z
+SUMMARY:Rachunkowość sektora publicznego (wykład)
+UID:69b74cf6-4921-46b9-9429-188402f66131@69b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Babuśka
+DTEND:20260530T104500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260530T083000Z
+SUMMARY:Rachunkowość sektora publicznego (ćwiczenia)
+UID:35f68fbb-3ddb-4981-86b3-8a030da851a3@35f6.org
 END:VEVENT
 END:VCALENDAR
