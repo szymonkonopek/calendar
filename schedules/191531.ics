@@ -2,26 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260411T160000Z
+LOCATION:Bibl. 440
+DTSTART:20260411T134500Z
+SUMMARY:Komunikacja marketingowa (ćwiczenia)
+UID:d6c5f166-9c77-43ca-86b2-dd4c5f8ff349@d6c5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20260228T114500Z
-DTSTART:20260228T093000Z
+DTEND:20260308T091500Z
+DTSTART:20260308T070000Z
 SUMMARY:Komunikacja marketingowa (wykład)
-UID:0666adec-6b8b-4437-9c4c-156e5830f059@0666.org
+UID:dfa11db5-8f12-4350-a2cc-73d67c6e0824@dfa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20260306T170000Z
+DTSTART:20260306T144500Z
+SUMMARY:Współczesne koncepcje marketingu (wykład)
+UID:28cb782b-d7cf-4dd1-b98d-eb24a920445d@28cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20260410T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6303577
-DTSTART:20260410T163000Z
+DTEND:20260306T194500Z
+DTSTART:20260306T173000Z
 SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
-UID:1df6ddf1-5091-4e56-95cd-1fc1bdcb2077@1df6.org
+UID:16588a73-694f-4a33-a64b-edd80992b152@1658.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
-DTEND:20260227T194500Z
-DTSTART:20260227T173000Z
-SUMMARY:Modelowanie marketingowe (wykład)
-UID:92add694-9455-4601-a44e-f54fcfea5599@92ad.org
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20260530T104500Z
+DTSTART:20260530T083000Z
+SUMMARY:Analiza zachowań konsumenta (Przeniesienie zajęć)
+UID:a2fd50fe-378a-456c-9f78-2473c7cf4205@a2fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
@@ -29,234 +43,22 @@ DTEND:20260627T094500Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20260627T064500Z
 SUMMARY: (egzamin)
-UID:c8c9fe30-1203-41b4-b612-db10b1ef9d29@c8c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20260531T133000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260531T111500Z
-SUMMARY:Modelowanie marketingowe (ćwiczenia)
-UID:313fdbae-bcde-4180-a0f9-3ed21df656b9@313f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
-DTEND:20260322T091500Z
-DTSTART:20260322T070000Z
-SUMMARY:Modelowanie marketingowe (Przeniesienie zajęć)
-UID:a9009c66-ed64-4e53-9f0c-79db58806dc8@a900.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20260320T170000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6303571
-DTSTART:20260320T144500Z
-SUMMARY:Współczesne koncepcje marketingu (wykład)
-UID:654b9fcc-8c19-4fdc-a265-0e8badd1140e@654b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20260308T114500Z
-DTSTART:20260308T093000Z
-SUMMARY:Współczesne koncepcje marketingu (wykład)
-UID:cb5d326c-5b4e-445b-85d5-0cc928a66917@cb5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20260411T133000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260411T111500Z
-SUMMARY:Modelowanie marketingowe (ćwiczenia)
-UID:15d08762-ec34-4a3d-9be9-d71a84f4e557@15d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20260322T114500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6303570
-DTSTART:20260322T093000Z
-SUMMARY:Współczesne koncepcje marketingu (wykład)
-UID:ded6637e-43ee-4ad5-833c-bc54d6147445@ded6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:e28c0c1d-6165-4450-841f-51d4e4c36f21@e28c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260411T104500Z
-DTSTART:20260411T083000Z
-SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
-UID:e543d223-3db1-42bf-b4ea-d1e2efe18b70@e543.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Joanna Jaremus-Stolińska
-DTEND:20260531T104500Z
-LOCATION:Paw.C sala E
-DTSTART:20260531T083000Z
-SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
-UID:2b219b76-403b-4f81-9622-c8472beb2940@2b21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20260425T104500Z
-LOCATION:Rakowicka 16 sala -103
-DTSTART:20260425T083000Z
-SUMMARY:Analiza zachowań konsumenta (konwersatorium)
-UID:801c0730-02ae-4938-9ddb-a5281ffb835c@801c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260529T184500Z
-DTSTART:20260529T163000Z
-SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
-UID:cf5277c2-5d34-49f1-8ef9-1024f40632f1@cf52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260606T104500Z
-DTSTART:20260606T083000Z
-SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
-UID:02c7a4aa-61ab-42c0-8fa2-55a64fb3fe1d@02c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20260530T104500Z
-DTSTART:20260530T083000Z
-SUMMARY:Analiza zachowań konsumenta (Przeniesienie zajęć)
-UID:ae64217d-ac83-413b-a652-a1075debb210@ae64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20260424T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6303579
-DTSTART:20260424T134500Z
-SUMMARY:Współczesne koncepcje marketingu (wykład)
-UID:a19fce2c-03ab-461c-944d-601ca997f3ed@a19f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
-DTEND:20260322T143000Z
-DTSTART:20260322T121500Z
-SUMMARY:Modelowanie marketingowe (Przeniesienie zajęć)
-UID:bb8a37c2-d7b9-4f31-89dd-7ea38bafdb80@bb8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20260306T170000Z
-DTSTART:20260306T144500Z
-SUMMARY:Współczesne koncepcje marketingu (wykład)
-UID:8385cfa5-a78d-44ae-aade-907e357affd4@8385.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260411T160000Z
-LOCATION:Bibl. 440
-DTSTART:20260411T134500Z
-SUMMARY:Komunikacja marketingowa (ćwiczenia)
-UID:48f9214d-5bf0-400d-bc62-215242b708d8@48f9.org
+UID:c194bde6-f4a7-457d-87ad-c47e3b3f526f@c194.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20260227T170000Z
-DTSTART:20260227T144500Z
+DTEND:20260410T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6303577
+DTSTART:20260410T163000Z
 SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
-UID:ce0ee67d-c1c0-4758-99ac-a95a430b60dd@ce0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260607T133000Z
-LOCATION:Paw.B 251
-DTSTART:20260607T111500Z
-SUMMARY:Komunikacja marketingowa (ćwiczenia)
-UID:3f2ce9b8-e429-43a1-8337-d458672e03ef@3f2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20260606T104500Z
-LOCATION:Bibl. 441
-DTSTART:20260606T083000Z
-SUMMARY:Analiza zachowań konsumenta (konwersatorium)
-UID:7d5aaf74-208c-4ec4-ad1b-1777cdf8cb0c@7d5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Surówka
-DTEND:20260426T104500Z
-LOCATION:Paw.F 616
-DTSTART:20260426T083000Z
-SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
-UID:5c825174-5b7e-4de5-861b-c9a4b71e0184@5c82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Irena Śliwińska
-DTEND:20260607T104500Z
-LOCATION:Paw.B 351
-DTSTART:20260607T083000Z
-SUMMARY:Analiza zachowań konsumenta (konwersatorium)
-UID:bc57a715-d708-46c4-8df7-872e6c672870@bc57.org
+UID:fd0685e9-131e-4a94-9b00-0e1cbeb5303f@fd06.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Julia Grabania
 DTEND:20260426T081500Z
 DTSTART:20260426T060000Z
 SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
-UID:cdea58c6-6252-4272-a7d0-e71c5f77f26a@cdea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Surówka
-DTEND:20260321T114500Z
-LOCATION:Paw.C sala A
-DTSTART:20260321T093000Z
-SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
-UID:4d70d96a-27f8-40f5-99ea-9f0cf65531f9@4d70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20260322T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6398504
-DTSTART:20260322T070000Z
-SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
-UID:654241d0-c1a3-437b-9620-f02c411b5c1a@6542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20260308T091500Z
-DTSTART:20260308T070000Z
-SUMMARY:Komunikacja marketingowa (wykład)
-UID:36dd117c-2901-425f-86fc-1c5407d308d6@36dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260529T184500Z
-LOCATION:Paw.C sala F
-DTSTART:20260529T163000Z
-SUMMARY:Komunikacja marketingowa (ćwiczenia)
-UID:bbe0c14f-d8c7-4005-9a00-29c1aa6ce3ff@bbe0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
-DTEND:20260308T143000Z
-DTSTART:20260308T121500Z
-SUMMARY:Modelowanie marketingowe (wykład)
-UID:e9dd42a5-f4fb-4a34-9415-68c38454398e@e9dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20260320T194500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6303573
-DTSTART:20260320T173000Z
-SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
-UID:3e761499-9b74-4a66-8269-450cf3b9ff34@3e76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
-DTEND:20260523T104500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6412442
-DTSTART:20260523T083000Z
-SUMMARY:Modelowanie marketingowe (wykład)
-UID:7d04b48f-ccd1-4e19-90cf-31f62a06eed8@7d04.org
+UID:0c67d681-1d88-4584-a15f-08990d88258b@0c67.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Julia Grabania
@@ -264,111 +66,7 @@ DTEND:20260412T133000Z
 LOCATION:Paw.B 151
 DTSTART:20260412T111500Z
 SUMMARY:Komunikacja marketingowa (ćwiczenia)
-UID:3027304d-4a80-419e-966c-b36354759841@3027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20260228T091500Z
-DTSTART:20260228T070000Z
-SUMMARY:Prawna ochrona rynku i konsumenta (Przeniesienie zajęć)
-UID:5e8b55cf-e502-4cb1-83b1-0af15e97cee6@5e8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Surówka
-DTEND:20260607T081500Z
-DTSTART:20260607T060000Z
-SUMMARY:Współczesne koncepcje marketingu (Przeniesienie zajęć)
-UID:a9f62482-6263-4161-a217-49ec34f9a9d2@a9f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
-DTEND:20260301T091500Z
-DTSTART:20260301T070000Z
-SUMMARY:Współczesne koncepcje marketingu (wykład)
-UID:295dc8a0-2bfa-443d-b980-ac02f5b09081@295d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260425T133000Z
-LOCATION:Paw.C sala C
-DTSTART:20260425T111500Z
-SUMMARY:Komunikacja marketingowa (ćwiczenia)
-UID:1b86c20d-ab5f-432a-9b99-89c0075ec929@1b86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:8ca36f67-31c4-40a1-a35c-69a0371e1ab2@8ca3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:fa0d5df0-c3e3-46e1-9f2f-a98978e1bc90@fa0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Kukuryk
-DTEND:20260306T194500Z
-DTSTART:20260306T173000Z
-SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
-UID:c4c584e0-3b53-47af-a2bc-ffcb782749e6@c4c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260412T081500Z
-DTSTART:20260412T060000Z
-SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
-UID:35106d90-6277-426a-8ce7-dbf9cc47acaf@3510.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260426T160000Z
-LOCATION:Bibl. 440
-DTSTART:20260426T134500Z
-SUMMARY:Komunikacja marketingowa (ćwiczenia)
-UID:230f1a17-3c88-4b5b-b014-7dabab1256f3@230f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Grabania
-DTEND:20260531T081500Z
-DTSTART:20260531T060000Z
-SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
-UID:58a94b64-54fb-4894-ba0c-79ece5e29e28@58a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
-DTEND:20260321T143000Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260321T121500Z
-SUMMARY:Modelowanie marketingowe (ćwiczenia)
-UID:f58d35b1-b259-40d3-b9e8-0c735c81f3a1@f58d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Surówka
-DTEND:20260412T104500Z
-LOCATION:Bibl. 441
-DTSTART:20260412T083000Z
-SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
-UID:86924309-15e7-4493-ba32-bd7f19c040c0@8692.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Surówka
-DTEND:20260529T160000Z
-LOCATION:Paw.F 102
-DTSTART:20260529T134500Z
-SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
-UID:b8884900-322c-4a4d-957e-0b99c260a132@b888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
-DTEND:20260410T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6303576
-DTSTART:20260410T134500Z
-SUMMARY:Komunikacja marketingowa (wykład)
-UID:13104c9f-8f48-4b2c-942a-2c8994681352@1310.org
+UID:1517222e-f075-4ac0-bd56-794c3d4008a2@1517.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Anna Surówka
@@ -376,7 +74,133 @@ DTEND:20260425T160000Z
 LOCATION:Paw.B 451
 DTSTART:20260425T134500Z
 SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
-UID:742a7ddc-1833-4f5a-8311-af22f3cd73e5@742a.org
+UID:bec8a4a9-124a-492a-b166-effd020442cd@bec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Jaremus-Stolińska
+DTEND:20260531T104500Z
+LOCATION:Paw.C sala E
+DTSTART:20260531T083000Z
+SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
+UID:318f16d5-4684-46d0-83df-46e4076a9e0d@318f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20260410T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6303576
+DTSTART:20260410T134500Z
+SUMMARY:Komunikacja marketingowa (wykład)
+UID:47d5ad84-fc01-476c-87c2-fe41228e2f85@47d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260531T081500Z
+DTSTART:20260531T060000Z
+SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
+UID:d708739f-bcac-45d3-b372-565997256781@d708.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260529T184500Z
+LOCATION:Paw.C sala F
+DTSTART:20260529T163000Z
+SUMMARY:Komunikacja marketingowa (ćwiczenia)
+UID:2cfd5164-a7ae-480a-be4d-78afb0729b0a@2cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20260228T091500Z
+DTSTART:20260228T070000Z
+SUMMARY:Prawna ochrona rynku i konsumenta (Przeniesienie zajęć)
+UID:b02b3f73-53f5-48fd-929f-b6abea07cfeb@b02b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:b9eb1dd8-4380-4fea-ad85-28f1fe09202d@b9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20260424T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6303579
+DTSTART:20260424T134500Z
+SUMMARY:Współczesne koncepcje marketingu (wykład)
+UID:436317d4-ad0d-4493-ad91-97a9bcd6886c@4363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:9bbba3da-8a82-435d-b67c-95d991c3cd1e@9bbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20260411T133000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260411T111500Z
+SUMMARY:Modelowanie marketingowe (ćwiczenia)
+UID:363e2d7c-c9df-49f4-9796-d352d76a8863@363e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260529T184500Z
+DTSTART:20260529T163000Z
+SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
+UID:6167a046-5f33-4948-b2ba-5ca2c9c6b78e@6167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
+DTEND:20260322T143000Z
+DTSTART:20260322T121500Z
+SUMMARY:Modelowanie marketingowe (Przeniesienie zajęć)
+UID:80895420-8178-4778-a83b-8914164e55f2@8089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20260322T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6398504
+DTSTART:20260322T070000Z
+SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
+UID:0f10d972-7e8d-4ece-b171-f3affb81256b@0f10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20260531T133000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260531T111500Z
+SUMMARY:Modelowanie marketingowe (ćwiczenia)
+UID:dd4bbc1d-e118-481b-8ae2-c8c42b497fe2@dd4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
+DTEND:20260308T143000Z
+DTSTART:20260308T121500Z
+SUMMARY:Modelowanie marketingowe (wykład)
+UID:69766262-7e2d-4d5f-ba1e-8d697c98d4b5@6976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20260301T091500Z
+DTSTART:20260301T070000Z
+SUMMARY:Współczesne koncepcje marketingu (wykład)
+UID:1be965d8-7409-445f-869e-6e81146fcea0@1be9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20260227T170000Z
+DTSTART:20260227T144500Z
+SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
+UID:b416007c-e48f-4ea0-8dd3-120e34a39f11@b416.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
+DTEND:20260227T194500Z
+DTSTART:20260227T173000Z
+SUMMARY:Modelowanie marketingowe (wykład)
+UID:8a8d208e-dd28-4725-837a-52e7580e9d6b@8a8d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Kukuryk
@@ -384,6 +208,182 @@ DTEND:20260424T184500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6303580
 DTSTART:20260424T163000Z
 SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
-UID:5d5fef22-8bba-4a40-9711-97f5c04e4b41@5d5f.org
+UID:4d1af87f-b04f-4c4a-9999-ad619a467b3a@4d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260425T133000Z
+LOCATION:Paw.C sala C
+DTSTART:20260425T111500Z
+SUMMARY:Komunikacja marketingowa (ćwiczenia)
+UID:36be744a-a496-49bf-953f-f263fec233c7@36be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20260322T114500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6303570
+DTSTART:20260322T093000Z
+SUMMARY:Współczesne koncepcje marketingu (wykład)
+UID:5e0828cc-aefa-4995-bdb7-53c2cb2c145d@5e08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20260321T114500Z
+LOCATION:Paw.C sala A
+DTSTART:20260321T093000Z
+SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
+UID:08182f55-f33f-4a19-8533-7385a9678bad@0818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:fdf4fe1e-079e-48b7-b9ba-95295ec4cd4e@fdf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260412T081500Z
+DTSTART:20260412T060000Z
+SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
+UID:b1419554-992b-4744-86cd-93818962c032@b141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20260607T104500Z
+LOCATION:Paw.B 351
+DTSTART:20260607T083000Z
+SUMMARY:Analiza zachowań konsumenta (konwersatorium)
+UID:c2663d42-0698-47cb-a168-53e215284703@c266.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Łapczyński
+DTEND:20260321T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260321T121500Z
+SUMMARY:Modelowanie marketingowe (ćwiczenia)
+UID:b20b3bde-efb9-4ca1-9c03-cdaaadbf80bd@b20b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
+DTEND:20260322T091500Z
+DTSTART:20260322T070000Z
+SUMMARY:Modelowanie marketingowe (Przeniesienie zajęć)
+UID:eacb1aa7-d127-43c5-af4e-0e3696905024@eacb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260411T104500Z
+DTSTART:20260411T083000Z
+SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
+UID:e3f66e3b-23bf-4719-b569-078d83b71a31@e3f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20260425T104500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20260425T083000Z
+SUMMARY:Analiza zachowań konsumenta (konwersatorium)
+UID:f9d9ad6a-d57d-4b8c-9bc5-600dcf7608c0@f9d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Magdalena Dołhasz
+DTEND:20260228T114500Z
+DTSTART:20260228T093000Z
+SUMMARY:Komunikacja marketingowa (wykład)
+UID:5b3a8de0-9f06-4ac0-8f98-068cd988a90a@5b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20260426T104500Z
+LOCATION:Paw.F 616
+DTSTART:20260426T083000Z
+SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
+UID:5178e6df-5f95-495d-87d0-2f1a22c549f1@5178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260607T133000Z
+LOCATION:Paw.B 251
+DTSTART:20260607T111500Z
+SUMMARY:Komunikacja marketingowa (ćwiczenia)
+UID:a78d604b-c0e0-455b-bef4-ffdb59b0cf91@a78d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20260412T104500Z
+LOCATION:Bibl. 441
+DTSTART:20260412T083000Z
+SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
+UID:c8bb306d-a9c2-4640-bee1-2de827a302be@c8bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Sagan
+DTEND:20260523T104500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6412442
+DTSTART:20260523T083000Z
+SUMMARY:Modelowanie marketingowe (wykład)
+UID:7155423c-9cf7-4950-9173-b497e06b9224@7155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260426T160000Z
+LOCATION:Bibl. 440
+DTSTART:20260426T134500Z
+SUMMARY:Komunikacja marketingowa (ćwiczenia)
+UID:49a67911-6201-42bb-a38b-bca2bde494d2@49a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20260320T170000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6303571
+DTSTART:20260320T144500Z
+SUMMARY:Współczesne koncepcje marketingu (wykład)
+UID:cbca716e-0445-4e23-af31-e8f69fd9a215@cbca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20260320T194500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6303573
+DTSTART:20260320T173000Z
+SUMMARY:Prawna ochrona rynku i konsumenta (wykład)
+UID:7f15bfc8-94f5-498c-bcf6-6094c9e0fd6d@7f15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20260606T104500Z
+LOCATION:Bibl. 441
+DTSTART:20260606T083000Z
+SUMMARY:Analiza zachowań konsumenta (konwersatorium)
+UID:a4c54bb8-e56f-48a7-924f-66187eaed7a9@a4c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20260607T081500Z
+DTSTART:20260607T060000Z
+SUMMARY:Współczesne koncepcje marketingu (Przeniesienie zajęć)
+UID:3ec9a2ca-26c2-44d2-b82c-43bcbe031fc6@3ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20260529T160000Z
+LOCATION:Paw.F 102
+DTSTART:20260529T134500Z
+SUMMARY:Współczesne koncepcje marketingu (ćwiczenia)
+UID:82058bfb-0daa-4cea-b9ff-75882c66035f@8205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Grabania
+DTEND:20260606T104500Z
+DTSTART:20260606T083000Z
+SUMMARY:Komunikacja marketingowa (Przeniesienie zajęć)
+UID:723def25-0b91-497c-a3c2-4a3bd90a73e0@723d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Chlipała
+DTEND:20260308T114500Z
+DTSTART:20260308T093000Z
+SUMMARY:Współczesne koncepcje marketingu (wykład)
+UID:b5df4316-2f80-4489-a176-e5c9cc9915a8@b5df.org
 END:VEVENT
 END:VCALENDAR
