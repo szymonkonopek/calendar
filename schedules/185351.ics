@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
-DTEND:20260614T081500Z
-LOCATION:Paw.U sala K
-DTSTART:20260614T060000Z
-SUMMARY:Giełdy towarowe w gospodarce światowej (ćwiczenia)
-UID:e8920139-10c3-443c-9ebf-266aa04b66d2@e892.org
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20260419T123000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297421
+DTSTART:20260419T093000Z
+SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
+UID:9ca1cd69-01a0-4326-8b54-46707ae8fcf7@9ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20260228T123000Z
+DTSTART:20260228T093000Z
+SUMMARY:Negocjacje w handlu zagranicznym (wykład)
+UID:f8d2591c-8ec6-4473-b055-bb3917491245@f8d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Wojciech Polan
@@ -15,83 +22,7 @@ DTEND:20260531T090000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6297428
 DTSTART:20260531T060000Z
 SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
-UID:59a48a78-6e41-4734-8a13-f8e597465bf9@59a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:fa5aacb2-07e3-4c62-bda8-cb779e13705a@fa5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
-DTEND:20260322T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297413
-DTSTART:20260322T070000Z
-SUMMARY:Ubezpieczenia w obrocie międzynarodowym (wykład)
-UID:fe21ac32-6e9b-497e-bf22-a8f922b9c0ef@fe21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Polan
-DTEND:20260419T123000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297421
-DTSTART:20260419T093000Z
-SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
-UID:50c34a25-4db4-4158-b75f-6a88136aeffb@50c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20260419T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297422
-DTSTART:20260419T060000Z
-SUMMARY:Ekonomia wschodzących rynków (wykład)
-UID:db267d89-ba2b-4985-9be7-2c88befcd941@db26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
-DTEND:20260531T150000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6412289
-DTSTART:20260531T120000Z
-SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
-UID:39fc4034-2d52-428b-8c4d-4bae75d043b1@39fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
-DTEND:20260531T123000Z
-DTSTART:20260531T093000Z
-SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (Przeniesienie zajęć)
-UID:e27bf7cc-71a1-4af1-a85f-cf6efaa21625@e27b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
-DTEND:20260301T143000Z
-DTSTART:20260301T121500Z
-SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
-UID:745ad727-cd65-42d1-a145-2416b31be205@745a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260508T184500Z
-DTSTART:20260508T163000Z
-SUMMARY:International Financial Crises (Przeniesienie zajęć)
-UID:c38c9c0f-b943-47d7-960d-4e33d7e75baa@c38c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
-DTEND:20260418T113000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297415
-DTSTART:20260418T083000Z
-SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
-UID:1a4b508e-1f9b-4034-9605-13427c5480a0@1a4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260418T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6403079
-DTSTART:20260418T163000Z
-SUMMARY:International Financial Crises (wykład do wyboru)
-UID:9eef40a6-b5bd-47d1-bf73-a1b3f6ad212e@9eef.org
+UID:dd1da948-e758-49bd-a4b9-3f29b62acbd9@dd1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
@@ -99,7 +30,7 @@ DTEND:20260418T081500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6297414
 DTSTART:20260418T060000Z
 SUMMARY:Giełdy towarowe w gospodarce światowej (wykład)
-UID:10d67e0a-5ce9-4b94-bb09-4a071347988a@10d6.org
+UID:2cca34c0-f15e-4963-9abd-ed86320bc1ae@2cca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Radosław Ślusarczyk
@@ -107,270 +38,14 @@ DTEND:20260321T143000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6297871
 DTSTART:20260321T121500Z
 SUMMARY:International Financial Crises (wykład do wyboru)
-UID:ad914c31-97db-4f80-a7e3-682697dfc078@ad91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Polan
-DTEND:20260301T091500Z
-DTSTART:20260301T070000Z
-SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
-UID:261bd79d-026a-49d8-8d98-2cc734dec32a@261b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260613T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297436
-DTSTART:20260613T060000Z
-SUMMARY:International Financial Crises (wykład do wyboru)
-UID:2d80d61f-310c-4fc0-9526-c0e0aff9d16a@2d80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
-DTEND:20260320T194500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297412
-DTSTART:20260320T173000Z
-SUMMARY:Negocjacje w handlu zagranicznym (wykład)
-UID:f59c90bb-e882-49d7-9f67-85cd3ada5a39@f59c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
-DTEND:20260417T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297419
-DTSTART:20260417T134500Z
-SUMMARY:Ubezpieczenia w obrocie międzynarodowym (wykład)
-UID:c9343831-40a6-4bd1-9283-fa1cbd4be77a@c934.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260322T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297872
-DTSTART:20260322T121500Z
-SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
-UID:72fd2ae3-d8d2-4476-bc01-1d25eac3fecc@72fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260530T123000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297431
-DTSTART:20260530T093000Z
-SUMMARY:International Financial Crises (wykład do wyboru)
-UID:2e7e4583-c846-48c9-99d1-7c75dcef818e@2e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
-DTEND:20260614T133000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260614T111500Z
-SUMMARY:Ubezpieczenia w obrocie międzynarodowym (ćwiczenia)
-UID:e8f136e4-acb0-4308-a865-901dd4af9886@e8f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
-DTEND:20260228T123000Z
-DTSTART:20260228T093000Z
-SUMMARY:Negocjacje w handlu zagranicznym (wykład)
-UID:68e0476e-932f-42ba-a479-1e97b1b46803@68e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260529T164500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297432
-DTSTART:20260529T134500Z
-SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
-UID:2931294b-d85d-4325-984f-d8c059f2dc31@2931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
-DTEND:20260510T133000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260510T111500Z
-SUMMARY:Ubezpieczenia w obrocie międzynarodowym (ćwiczenia)
-UID:6fd718c3-c484-4bb9-9276-613ab66a0ea9@6fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Milka
-DTEND:20260614T104500Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260614T083000Z
-SUMMARY:Negocjacje w handlu zagranicznym (ćwiczenia)
-UID:fd2e7a4d-cc89-44f4-b112-494e4f80d2f7@fd2e.org
+UID:4a8f8ec3-b8a6-4412-8a3a-ef50b21cde11@4a8f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
 SUMMARY: (rezerwacja)
-UID:5f0b7597-e271-40ba-bbef-f5970ac28bf1@5f0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260516T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6402982
-DTSTART:20260516T134500Z
-SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
-UID:4d49e784-937f-49c9-a02e-8e2417e6a4e8@4d49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20260530T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297430
-DTSTART:20260530T060000Z
-SUMMARY:Ekonomia wschodzących rynków (wykład)
-UID:571c56ee-f74e-4dc3-88cb-144ec4bf1ac3@571c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Polan
-DTEND:20260320T170000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297406
-DTSTART:20260320T144500Z
-SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
-UID:03546ea1-4188-4eff-9156-ef5ac19faad3@0354.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Milka
-DTEND:20260412T104500Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260412T083000Z
-SUMMARY:Negocjacje w handlu zagranicznym (ćwiczenia)
-UID:3d1161ac-aeff-4d93-a04d-3f1972a41704@3d11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
-DTEND:20260410T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6400210
-DTSTART:20260410T171500Z
-SUMMARY:Negocjacje w handlu zagranicznym (wykład)
-UID:ddd577f7-a369-47ca-b4cc-85b9d22c0ac4@ddd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260411T123000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297442
-DTSTART:20260411T093000Z
-SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
-UID:816ea182-b54c-464d-9339-bcb3ca2a3380@816e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
-DTEND:20260227T170000Z
-DTSTART:20260227T144500Z
-SUMMARY:Giełdy towarowe w gospodarce światowej (wykład)
-UID:11329f91-f93e-45e0-b535-96fd3a31963d@1132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Wojciech Polan
-DTEND:20260509T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297423
-DTSTART:20260509T060000Z
-SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
-UID:6b58bb9b-e872-4d7e-a3c2-b5d17be8bdf9@6b58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
-DTEND:20260227T194500Z
-DTSTART:20260227T173000Z
-SUMMARY:Negocjacje w handlu zagranicznym (Przeniesienie zajęć)
-UID:697f0319-ea61-4429-aa45-e813d5c75c0f@697f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260613T123000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297870
-DTSTART:20260613T093000Z
-SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
-UID:d4465183-bf67-4d85-b33c-1105a3e5e67c@d446.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20260321T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297409
-DTSTART:20260321T070000Z
-SUMMARY:Ekonomia wschodzących rynków (wykład)
-UID:f62d4eea-ea24-4e1d-a7db-29b5d857bbdd@f62d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
-DTEND:20260508T160000Z
-DTSTART:20260508T134500Z
-SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (Przeniesienie zajęć)
-UID:13268052-86b0-48d4-95f9-8a25004cb4a0@1326.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
-DTEND:20260301T114500Z
-DTSTART:20260301T093000Z
-SUMMARY:Ubezpieczenia w obrocie międzynarodowym (wykład)
-UID:4278c081-0c37-4bf5-8981-eed62f4f0c26@4278.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Paweł Milka
-DTEND:20260510T104500Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260510T083000Z
-SUMMARY:Negocjacje w handlu zagranicznym (ćwiczenia)
-UID:e77a4467-6a81-4132-a437-86643c822149@e77a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
-DTEND:20260321T114500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297407
-DTSTART:20260321T093000Z
-SUMMARY:Giełdy towarowe w gospodarce światowej (wykład)
-UID:abcd3a73-8596-4bf5-849a-a30a99e5aa78@abcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260411T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297441
-DTSTART:20260411T060000Z
-SUMMARY:International Financial Crises (wykład do wyboru)
-UID:cabd9457-a332-4908-8feb-2f7ee88f87dc@cabd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
-DTEND:20260509T123000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297424
-DTSTART:20260509T093000Z
-SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
-UID:0396db8b-5939-4951-95e9-49519d2d93a1@0396.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
-DTEND:20260322T114500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6297411
-DTSTART:20260322T093000Z
-SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
-UID:550503a9-e406-4cf0-955c-2268ca68da15@5505.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
-DTEND:20260412T133000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260412T111500Z
-SUMMARY:Ubezpieczenia w obrocie międzynarodowym (ćwiczenia)
-UID:863a1ee6-fcca-4554-8839-85a4132d61d8@863a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
-DTEND:20260228T091500Z
-DTSTART:20260228T070000Z
-SUMMARY:Ekonomia wschodzących rynków (wykład)
-UID:3dd3ebdb-2544-4a30-9444-ffe012d3c966@3dd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
-DTEND:20260417T184500Z
-DTSTART:20260417T163000Z
-SUMMARY:Negocjacje w handlu zagranicznym (Przeniesienie zajęć)
-UID:0f432c8d-99a6-4cc4-a6c7-1237c1fb6ec7@0f43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
-DTEND:20260510T081500Z
-LOCATION:Paw.U sala M
-DTSTART:20260510T060000Z
-SUMMARY:Giełdy towarowe w gospodarce światowej (ćwiczenia)
-UID:13c5e422-ee9a-4028-898a-442a97e6f160@13c5.org
+UID:5ffeba11-879a-4de2-b6ab-f67ff518dc8f@5ffe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
@@ -378,7 +53,30 @@ DTEND:20260410T164500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6297867
 DTSTART:20260410T134500Z
 SUMMARY:Ekonomia wschodzących rynków (wykład)
-UID:3659ef86-d9a0-48da-ba35-1e89626b2505@3659.org
+UID:753f8f82-2ebd-40ee-ab3f-efbe8fb11471@753f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
+DTEND:20260417T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297419
+DTSTART:20260417T134500Z
+SUMMARY:Ubezpieczenia w obrocie międzynarodowym (wykład)
+UID:c4172467-9663-4ad7-835e-a5896f9e60c3@c417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260613T123000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297870
+DTSTART:20260613T093000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:c8cdb61f-ba7c-4e78-8279-a9daf0dfc5ce@c8cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:52812b4f-eb4c-4161-b027-2fa93642c965@5281.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
@@ -386,13 +84,315 @@ DTEND:20260412T081500Z
 LOCATION:Paw.U sala M
 DTSTART:20260412T060000Z
 SUMMARY:Giełdy towarowe w gospodarce światowej (ćwiczenia)
-UID:fade8dbc-5106-425a-9b8b-12b2fb0096a4@fade.org
+UID:e1eca146-dcac-4c28-9585-e21eaa5077a9@e1ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
+DTEND:20260412T133000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260412T111500Z
+SUMMARY:Ubezpieczenia w obrocie międzynarodowym (ćwiczenia)
+UID:60d62f7f-0701-46f2-8c1c-8198c6e4b352@60d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20260320T194500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297412
+DTSTART:20260320T173000Z
+SUMMARY:Negocjacje w handlu zagranicznym (wykład)
+UID:1423ad37-89f7-4106-99b1-6587cf33d361@1423.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20260320T170000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297406
+DTSTART:20260320T144500Z
+SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
+UID:e4916ec8-bbf6-469e-b32c-c7883cd58174@e491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
+DTEND:20260614T081500Z
+LOCATION:Paw.U sala K
+DTSTART:20260614T060000Z
+SUMMARY:Giełdy towarowe w gospodarce światowej (ćwiczenia)
+UID:0f9c4cac-32c6-4043-a91b-54735d57dc62@0f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260516T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6402982
+DTSTART:20260516T134500Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:7dc78c6f-3fac-4054-8206-d209fd6f8a29@7dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
+DTEND:20260322T114500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297411
+DTSTART:20260322T093000Z
+SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
+UID:b796e89c-7ec6-414b-b018-3a757e2f82ce@b796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260508T160000Z
+DTSTART:20260508T134500Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (Przeniesienie zajęć)
+UID:7da511ff-3b36-494c-9598-6113e47e56ac@7da5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20260417T184500Z
+DTSTART:20260417T163000Z
+SUMMARY:Negocjacje w handlu zagranicznym (Przeniesienie zajęć)
+UID:f5303407-59f8-49e2-9580-176f569c1243@f530.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
+DTEND:20260418T113000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297415
+DTSTART:20260418T083000Z
+SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
+UID:8670c82c-91a1-48e5-a3f7-bd56d1f90a2e@8670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
+DTEND:20260301T143000Z
+DTSTART:20260301T121500Z
+SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
+UID:4914f094-824f-42b7-b2c5-7c6ccf9bf142@4914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20260410T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6400210
+DTSTART:20260410T171500Z
+SUMMARY:Negocjacje w handlu zagranicznym (wykład)
+UID:31779791-9459-4d97-aeee-eb6786863daa@3177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260529T164500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297432
+DTSTART:20260529T134500Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:8daf687d-198e-409c-b9e5-2eb7cfbff745@8daf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
+DTEND:20260322T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297413
+DTSTART:20260322T070000Z
+SUMMARY:Ubezpieczenia w obrocie międzynarodowym (wykład)
+UID:760bbddc-3ca5-444a-bab8-37a918e6c303@760b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
+DTEND:20260321T114500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297407
+DTSTART:20260321T093000Z
+SUMMARY:Giełdy towarowe w gospodarce światowej (wykład)
+UID:d10f616d-5709-412f-b822-9324f7cd0cd5@d10f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260613T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297436
+DTSTART:20260613T060000Z
+SUMMARY:International Financial Crises (wykład do wyboru)
+UID:bf49c81d-8241-474f-9de4-99c16404542b@bf49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260508T184500Z
+DTSTART:20260508T163000Z
+SUMMARY:International Financial Crises (Przeniesienie zajęć)
+UID:18f70851-80d9-4275-82f2-4f0142d9bf86@18f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20260228T091500Z
+DTSTART:20260228T070000Z
+SUMMARY:Ekonomia wschodzących rynków (wykład)
+UID:7909d034-2cd8-4535-b1d7-9d53a1d1cedb@7909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260322T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297872
+DTSTART:20260322T121500Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:fe32ba53-31b2-4d09-bfcb-244f4babb0db@fe32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260418T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6403079
+DTSTART:20260418T163000Z
+SUMMARY:International Financial Crises (wykład do wyboru)
+UID:601bb8df-0317-48e7-a7e9-40f3672d28ba@601b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
+DTEND:20260510T133000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260510T111500Z
+SUMMARY:Ubezpieczenia w obrocie międzynarodowym (ćwiczenia)
+UID:5527ce8d-8ad2-4858-ba08-0e6b8a1dad48@5527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Milka
+DTEND:20260412T104500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260412T083000Z
+SUMMARY:Negocjacje w handlu zagranicznym (ćwiczenia)
+UID:dddcb60f-0317-45f9-be23-b51942de9d7a@dddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20260419T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297422
+DTSTART:20260419T060000Z
+SUMMARY:Ekonomia wschodzących rynków (wykład)
+UID:081da04d-9ecc-4383-ab89-f0f972063dcc@081d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
+DTEND:20260531T150000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6412289
+DTSTART:20260531T120000Z
+SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
+UID:6cc3bc87-9a0a-4322-b6e5-22919aae92a3@6cc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Milka
+DTEND:20260510T104500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260510T083000Z
+SUMMARY:Negocjacje w handlu zagranicznym (ćwiczenia)
+UID:f1a0ce53-30ae-43c7-8204-7a5ec56a4813@f1a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20260321T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297409
+DTSTART:20260321T070000Z
+SUMMARY:Ekonomia wschodzących rynków (wykład)
+UID:c2b87f48-960e-43e4-8d01-62774049339f@c2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20260411T123000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297442
+DTSTART:20260411T093000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:5d0ad958-56a8-41d3-b565-7bb4492f47ec@5d0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20260509T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297423
+DTSTART:20260509T060000Z
+SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
+UID:accbb9c8-bb7b-4d9f-9011-709909f7dab4@accb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
+DTEND:20260227T170000Z
+DTSTART:20260227T144500Z
+SUMMARY:Giełdy towarowe w gospodarce światowej (wykład)
+UID:dc60050a-403b-42e4-a5e3-7ee2a40b47f7@dc60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260411T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297441
+DTSTART:20260411T060000Z
+SUMMARY:International Financial Crises (wykład do wyboru)
+UID:8b6db039-5a14-499d-8144-70cfef9f958e@8b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260530T123000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297431
+DTSTART:20260530T093000Z
+SUMMARY:International Financial Crises (wykład do wyboru)
+UID:022626ce-9f52-424f-80fe-6cccea0c2ce7@0226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Maciejewski
+DTEND:20260510T081500Z
+LOCATION:Paw.U sala M
+DTSTART:20260510T060000Z
+SUMMARY:Giełdy towarowe w gospodarce światowej (ćwiczenia)
+UID:677d77c8-558a-49ac-bdda-7b901f2932c1@677d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
+DTEND:20260531T123000Z
+DTSTART:20260531T093000Z
+SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (Przeniesienie zajęć)
+UID:b1afdcb8-a3d1-43cb-b386-14141c5d2e30@b1af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20260530T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297430
+DTSTART:20260530T060000Z
+SUMMARY:Ekonomia wschodzących rynków (wykład)
+UID:76ca0f2b-201e-4f99-8e62-2b29bcab832c@76ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Milka
+DTEND:20260614T104500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260614T083000Z
+SUMMARY:Negocjacje w handlu zagranicznym (ćwiczenia)
+UID:6219290b-37c3-41e7-ab54-3d27042eff67@6219.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pach-Gurgul
+DTEND:20260509T123000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6297424
+DTSTART:20260509T093000Z
+SUMMARY:Rynki krajów Europy Środkowo-Wschodniej (wykład)
+UID:b04395a9-202f-4e84-9fcb-15ba45e8daae@b043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
+DTEND:20260301T114500Z
+DTSTART:20260301T093000Z
+SUMMARY:Ubezpieczenia w obrocie międzynarodowym (wykład)
+UID:c7694eae-2509-4030-9b3c-db0614d6eb40@c769.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20260325T114500Z
 DTSTART:20260325T084500Z
 SUMMARY: (rezerwacja)
-UID:69909998-232e-423b-9330-aa73ef376a8a@6990.org
+UID:852fe49f-228e-4e71-8ef3-2debc9f25f8c@852f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Bombińska
+DTEND:20260614T133000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20260614T111500Z
+SUMMARY:Ubezpieczenia w obrocie międzynarodowym (ćwiczenia)
+UID:76374a67-46b0-4edb-aeed-0e03ea6f8b7a@7637.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20260227T194500Z
+DTSTART:20260227T173000Z
+SUMMARY:Negocjacje w handlu zagranicznym (Przeniesienie zajęć)
+UID:69933e19-b1aa-4168-b4d2-6fcaa61ac758@6993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20260301T091500Z
+DTSTART:20260301T070000Z
+SUMMARY:Geopolityka korporacji międzynarodowych (wykład)
+UID:e5d658a3-71f3-475f-ab95-255c6f3db504@e5d6.org
 END:VEVENT
 END:VCALENDAR

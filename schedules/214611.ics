@@ -2,12 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20260516T131500Z
-LOCATION:L 413 p.A
-DTSTART:20260516T101500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:322037d5-63a0-490d-a5ce-ca87325f2adf@3220.org
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:765d69e6-c606-45f5-a3fc-74aed9d9d72c@765d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20260425T104500Z
+DTSTART:20260425T083000Z
+SUMMARY:Prawo zamówień publicznych (Przeniesienie zajęć)
+UID:c5bf2042-24a9-4aa4-9c4c-531b2c19b5f1@c5bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
@@ -15,99 +21,14 @@ DTEND:20260412T114500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6294151
 DTSTART:20260412T093000Z
 SUMMARY:Prawo zamówień publicznych (wykład)
-UID:2c624845-9fdf-4f8c-88d6-583689116e5a@2c62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20260425T141500Z
-LOCATION:Paw.F 616
-DTSTART:20260425T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:b3a20436-d206-4133-99ce-3b893ff6d16a@b3a2.org
+UID:892e0eee-c4cf-4dcc-ae75-e8a05825af44@892e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260531T114500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293531
-DTSTART:20260531T093000Z
+DTEND:20260301T100000Z
+DTSTART:20260301T074500Z
 SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:12819787-67b5-4aec-a505-aae3487425dd@1281.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20260228T143000Z
-DTSTART:20260228T121500Z
-SUMMARY:Prawo nieruchomości (wykład do wyboru)
-UID:32bb1977-4e9c-4e3b-a301-e9b61724519c@32bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20260307T114500Z
-DTSTART:20260307T093000Z
-SUMMARY:Prawo nieruchomości (wykład do wyboru)
-UID:aec0845a-f22a-4f33-a99c-942d852705f1@aec0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260530T083000Z
-LOCATION:Paw.C sala C
-DTSTART:20260530T074500Z
-SUMMARY:Prawo upadłościowe (egzamin)
-UID:5841fe56-515a-4540-ac8c-e0115fc593cf@5841.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260426T114500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293528
-DTSTART:20260426T093000Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:5ab0fe21-ea9b-45a8-a9f7-fd8bded39eae@5ab0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260426T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293512
-DTSTART:20260426T064500Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:89aa6db1-ba43-4133-ab0d-4db58a59d1b7@89aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20260411T133000Z
-LOCATION:Paw.C sala D
-DTSTART:20260411T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:87bc967c-552e-4972-b80c-212c11a97b44@87bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
-DTEND:20260321T143000Z
-DTSTART:20260321T121500Z
-SUMMARY:Status zwierząt w prawie (Przeniesienie zajęć)
-UID:4a4a6fe8-da87-472d-99f8-93ed1ab7693c@4a4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260517T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293513
-DTSTART:20260517T064500Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:8a369ec4-feff-49e8-b878-b2ad2e34b783@8a36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:04c95c4d-147a-44ae-9359-d63afac688d3@04c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20260411T104500Z
-LOCATION:Paw.C sala F
-DTSTART:20260411T083000Z
-SUMMARY:Rachunkowość (ćwiczenia)
-UID:c9268fcf-0bc1-4b73-987b-f65da38b07f4@c926.org
+UID:2ec552f1-fc99-47e0-bd6e-01b6ab2c8259@2ec5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewelina Badura
@@ -115,77 +36,15 @@ DTEND:20260320T194500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6293548
 DTSTART:20260320T173000Z
 SUMMARY:Prawo nieruchomości (wykład do wyboru)
-UID:ab3b9083-b729-4be6-a4c2-324bc928f3da@ab3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:82157caf-1e85-49bc-9f72-87886b35585a@8215.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20260320T170000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293567
-DTSTART:20260320T144500Z
-SUMMARY:Rachunkowość (wykład)
-UID:ff8f6aa5-0a5b-45ff-9415-aa98b07697a6@ff8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260322T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293525
-DTSTART:20260322T103000Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:c6954ba0-b0db-40d1-9f97-94ebd62a3e6c@c695.org
+UID:979c4cf4-f202-4640-9b1a-e5ca89daf4d6@979c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20260613T160000Z
-LOCATION:Paw.F 614
-DTSTART:20260613T134500Z
+DTEND:20260411T104500Z
+LOCATION:Paw.C sala F
+DTSTART:20260411T083000Z
 SUMMARY:Rachunkowość (ćwiczenia)
-UID:b2bb8124-8de9-4acd-b046-05c3d349a016@b2bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260322T100000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293509
-DTSTART:20260322T074500Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:a544d0ba-b5f4-4adf-82ae-4c35ba1805f8@a544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260530T133000Z
-LOCATION:Paw.C sala A
-DTSTART:20260530T111500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:88d8cdf3-6848-400d-b0d3-c46ffbca3c5e@88d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20260426T141500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6294130
-DTSTART:20260426T120000Z
-SUMMARY:Prawo nieruchomości (wykład do wyboru)
-UID:4523b9d0-ddde-4914-a6b3-d751cd35bd0a@4523.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260301T100000Z
-DTSTART:20260301T074500Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:3ab9d2de-b3f7-4b4d-83cf-244101e1dde6@3ab9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20260530T104500Z
-LOCATION:Paw.B 351
-DTSTART:20260530T083000Z
-SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:9e3a82a5-ed3d-4283-aa33-680d979937dd@9e3a.org
+UID:e71ecb29-e631-4d5b-bb23-f4bd4fe18b75@e71e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Małgorzata Moras
@@ -193,105 +52,7 @@ DTEND:20260321T114500Z
 LOCATION:Paw.B 351
 DTSTART:20260321T093000Z
 SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:120fa530-e2ef-4881-ba68-a49806206028@120f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Piotr Schroeder
-DTEND:20260411T160000Z
-DTSTART:20260411T134500Z
-SUMMARY:Rachunkowość (Przeniesienie zajęć)
-UID:e8773e23-ba71-45d0-b39e-744cdcabb8d0@e877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260620T091500Z
-LOCATION:Paw.C sala C
-DTSTART:20260620T083000Z
-SUMMARY:Prawo upadłościowe (egzamin)
-UID:63698622-ac68-48d0-8393-2e0d062ed783@6369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Plebanek
-DTEND:20260613T131500Z
-LOCATION:Paw.C sala F
-DTSTART:20260613T101500Z
-SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
-UID:0bd72c53-f34d-4860-b236-8c0921ae706b@0bd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260308T124500Z
-DTSTART:20260308T103000Z
-SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:234daa2d-ac8a-439f-8e95-448532906421@234d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260228T114500Z
-DTSTART:20260228T093000Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:f4e83208-9c7e-42e5-8797-685f424978e4@f4e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20260531T141500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293559
-DTSTART:20260531T120000Z
-SUMMARY:Prawo nieruchomości (wykład do wyboru)
-UID:5ecd9dc7-025d-43bf-bad4-feb15b987b49@5ecd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260308T100000Z
-DTSTART:20260308T074500Z
-SUMMARY:Prawo zamówień publicznych (wykład)
-UID:5fa5249f-daa8-483b-8ad1-ed07abe0a1ec@5fa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
-DTEND:20260912T091500Z
-LOCATION:Paw.F 109
-DTSTART:20260912T083000Z
-SUMMARY:Prawo upadłościowe (egzamin)
-UID:370617a9-5891-4231-81a6-cd3ff6fb5c37@3706.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20260410T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293563
-DTSTART:20260410T134500Z
-SUMMARY:Rachunkowość (wykład)
-UID:eee91b1a-f834-46bf-9014-7712811caba1@eee9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:bc4e3222-4a40-469d-8d39-c23783f5c797@bc4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20260425T104500Z
-DTSTART:20260425T083000Z
-SUMMARY:Prawo zamówień publicznych (Przeniesienie zajęć)
-UID:3ab7a892-2a4a-491d-bfd8-da159329bbf1@3ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Małgorzata Moras
-DTEND:20260516T081500Z
-LOCATION:Bibl. 443
-DTSTART:20260516T060000Z
-SUMMARY:Prawo zamówień publicznych (ćwiczenia)
-UID:86d4254f-9cec-40c2-8021-12c0cb95082a@86d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewelina Badura
-DTEND:20260517T141500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6293554
-DTSTART:20260517T120000Z
-SUMMARY:Prawo nieruchomości (wykład do wyboru)
-UID:437e5cdd-3df6-4b98-b683-3b036b6f5367@437e.org
+UID:7edfdc63-6331-4444-baf6-e73bbd93e580@7edf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Piotr Schroeder
@@ -299,14 +60,147 @@ DTEND:20260516T160000Z
 LOCATION:Paw.F 614
 DTSTART:20260516T134500Z
 SUMMARY:Rachunkowość (ćwiczenia)
-UID:595af7af-701a-495e-af08-ce93d118da48@595a.org
+UID:9fba2744-2e9f-4e50-b1dd-a611c57a42b7@9fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260530T133000Z
+LOCATION:Paw.C sala A
+DTSTART:20260530T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:104e2b23-56fb-443c-a922-fbded68f4dcf@104e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260228T114500Z
+DTSTART:20260228T093000Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:1d049dda-8204-4036-a20c-143aaa81a1f0@1d04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260531T114500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293531
+DTSTART:20260531T093000Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:3b98b532-19f4-426e-b9a0-85aebb878365@3b98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260426T114500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293528
+DTSTART:20260426T093000Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:8ed31506-a68a-4a8f-a5e6-8ccad2e4b31d@8ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260517T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293513
+DTSTART:20260517T064500Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:b95b51da-3447-4725-8496-b926a78e534a@b95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20260228T143000Z
+DTSTART:20260228T121500Z
+SUMMARY:Prawo nieruchomości (wykład do wyboru)
+UID:91abc1ae-1f8a-4317-9fc6-1f66b60f0af5@91ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:756e92e6-f0a7-47a3-84ca-87002865224c@756e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260322T100000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293509
+DTSTART:20260322T074500Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:43025c57-8a2c-4014-9fab-06e4963eb7b4@4302.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bartłomiej Wrona
-DTEND:20260306T194500Z
-DTSTART:20260306T173000Z
+DTEND:20260320T170000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293567
+DTSTART:20260320T144500Z
 SUMMARY:Rachunkowość (wykład)
-UID:6f0fe4bd-130b-42b8-b614-96012956fd82@6f0f.org
+UID:9127d824-696f-466c-bee4-5751a015e602@9127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20260410T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293563
+DTSTART:20260410T134500Z
+SUMMARY:Rachunkowość (wykład)
+UID:0403d7b0-5ae3-466b-82a6-b4a02ffc2e62@0403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260426T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293512
+DTSTART:20260426T064500Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:56b4d0cb-23c7-42e6-aea0-97fdd643add4@56b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20260425T141500Z
+LOCATION:Paw.F 616
+DTSTART:20260425T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:fda497be-aa2d-4241-94dc-41438f43ba81@fda4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20260516T131500Z
+LOCATION:L 413 p.A
+DTSTART:20260516T101500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:b2e4061c-ad92-4258-b983-732913062448@b2e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20260516T081500Z
+LOCATION:Bibl. 443
+DTSTART:20260516T060000Z
+SUMMARY:Prawo zamówień publicznych (ćwiczenia)
+UID:55100473-0f34-458e-a0a9-e91b8fa96088@5510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20260411T160000Z
+DTSTART:20260411T134500Z
+SUMMARY:Rachunkowość (Przeniesienie zajęć)
+UID:5553751c-a4b5-44c3-b4f2-d7687e27611d@5553.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260912T091500Z
+LOCATION:Paw.F 109
+DTSTART:20260912T083000Z
+SUMMARY:Prawo upadłościowe (egzamin)
+UID:87229114-8571-408f-9980-eed36d7220cb@8722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20260517T141500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293554
+DTSTART:20260517T120000Z
+SUMMARY:Prawo nieruchomości (wykład do wyboru)
+UID:7f573acf-7d82-4340-a19a-e69d4b42b769@7f57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20260613T160000Z
+LOCATION:Paw.F 614
+DTSTART:20260613T134500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:c83d6cb0-deba-423d-9be2-c6d2fcd46a1f@c83d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
@@ -314,6 +208,112 @@ DTEND:20260412T090000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6372971
 DTSTART:20260412T064500Z
 SUMMARY:Prawo upadłościowe (wykład do wyboru)
-UID:3503434e-9417-41ea-ae1c-1fc538498910@3503.org
+UID:e4713d6e-f663-4f24-b22f-cac1db9ef718@e471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20260321T143000Z
+DTSTART:20260321T121500Z
+SUMMARY:Status zwierząt w prawie (Przeniesienie zajęć)
+UID:5f0ede23-423e-486d-b4f2-25f4f673442b@5f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20260306T194500Z
+DTSTART:20260306T173000Z
+SUMMARY:Rachunkowość (wykład)
+UID:1de869cc-8713-4983-9fab-c2332528d821@1de8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Moras
+DTEND:20260530T104500Z
+LOCATION:Paw.B 351
+DTSTART:20260530T083000Z
+SUMMARY:Prawo zamówień publicznych (ćwiczenia)
+UID:b857daf8-b133-44a8-8165-0778e0a85c87@b857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260530T083000Z
+LOCATION:Paw.C sala C
+DTSTART:20260530T074500Z
+SUMMARY:Prawo upadłościowe (egzamin)
+UID:83dc423d-de69-4ac4-8b60-6d50c99a3d85@83dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20260426T141500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6294130
+DTSTART:20260426T120000Z
+SUMMARY:Prawo nieruchomości (wykład do wyboru)
+UID:f728412d-b0d3-4359-ba37-ee76247e63d5@f728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20260411T133000Z
+LOCATION:Paw.C sala D
+DTSTART:20260411T111500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:3c1b2ade-d6c9-4d2f-a8bb-45adc00f4da2@3c1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260322T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293525
+DTSTART:20260322T103000Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:829d167d-aa51-4294-bb50-d80763e508a1@829d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260308T100000Z
+DTSTART:20260308T074500Z
+SUMMARY:Prawo zamówień publicznych (wykład)
+UID:3a2ed394-caa8-40b9-ac0d-884fa46f85de@3a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20260307T114500Z
+DTSTART:20260307T093000Z
+SUMMARY:Prawo nieruchomości (wykład do wyboru)
+UID:896b07b5-1c38-46cb-9b26-281cf71cabda@896b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260308T124500Z
+DTSTART:20260308T103000Z
+SUMMARY:Prawo upadłościowe (wykład do wyboru)
+UID:3115b3d5-680a-4d70-bd19-8599c4c79a0d@3115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:a010776e-2397-4793-86c7-a4fee7ab5bf5@a010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20260620T091500Z
+LOCATION:Paw.C sala C
+DTSTART:20260620T083000Z
+SUMMARY:Prawo upadłościowe (egzamin)
+UID:7d40db0f-b7ee-44c1-9294-ffb40046e176@7d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewelina Badura
+DTEND:20260531T141500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6293559
+DTSTART:20260531T120000Z
+SUMMARY:Prawo nieruchomości (wykład do wyboru)
+UID:f9db2d57-d0b9-4b06-8270-cc34ebc52d92@f9db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20260613T131500Z
+LOCATION:Paw.C sala F
+DTSTART:20260613T101500Z
+SUMMARY:Status zwierząt w prawie (konwersatorium do wyboru)
+UID:b3953417-de16-4a26-9b37-a8101c02f870@b395.org
 END:VEVENT
 END:VCALENDAR
