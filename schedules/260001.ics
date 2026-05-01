@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20260424T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6299789
-DTSTART:20260424T163000Z
-SUMMARY:Ekonometryczna analiza danych (wykład)
-UID:ff74b314-82dd-4ebd-b874-9f29f142f1cb@ff74.org
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260424T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6299761
+DTSTART:20260424T134500Z
+SUMMARY:Nadzorowane uczenie statystyczne (wykład)
+UID:ad586e3b-6148-4693-b556-0fa58ebfbac6@ad58.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Artur Jasielski
@@ -15,487 +15,14 @@ DTEND:20260321T180000Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20260321T154500Z
 SUMMARY:Ekonometryczna analiza danych (laboratorium)
-UID:c03a17f9-1084-48f9-a451-8596188310f1@c03a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260227T170000Z
-DTSTART:20260227T144500Z
-SUMMARY:Nadzorowane uczenie statystyczne (wykład)
-UID:6eb6451b-be24-4c8a-bb13-62249b7c62c9@6eb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20260314T100000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260314T070000Z
-SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
-UID:71ecb490-0414-4b4b-b12b-8ef7d0f367ed@71ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Beliczyński
-DTEND:20260417T160000Z
-LOCATION:Platforma Moodle
-DTSTART:20260417T134500Z
-SUMMARY:Podstawy zarządzania (wykład e-learningowy)
-UID:9c650079-977e-4eaa-b962-145fd823164f@9c65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260419T133000Z
-DTSTART:20260419T111500Z
-SUMMARY:Ekonometryczna analiza danych (Przeniesienie zajęć)
-UID:f5db7618-4be8-489c-9929-6870776f09cd@f5db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260418T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260418T134500Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:ec6e1241-5273-435f-a365-a84d5940fce9@ec6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260426T141500Z
-LOCATION:Platforma Moodle
-DTSTART:20260426T120000Z
-SUMMARY:Podstawy zarządzania (Ćwiczenia e-learningowe)
-UID:7e3c7002-6f1b-4572-b83c-88ac52a1f61a@7e3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260517T160000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260517T134500Z
-SUMMARY:WEB Mining (laboratorium)
-UID:0b3f3094-9a7d-4446-bf64-986d048f125d@0b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260516T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260516T060000Z
-SUMMARY:Ekonometryczna analiza danych (laboratorium)
-UID:7c0372ab-a9cb-4abf-84c6-5dfd5f6fb8a3@7c03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260614T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260614T134500Z
-SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
-UID:6627e1c3-cf7b-4ece-8724-f232ba54202e@6627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260531T081500Z
-LOCATION:Paw.F 104
-DTSTART:20260531T060000Z
-SUMMARY:Metody numeryczne (konwersatorium do wyboru)
-UID:7407d902-0cc2-448e-96b1-6dc4eb6d51de@7407.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20260425T173000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260425T134500Z
-SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
-UID:30c5da10-c479-4323-8965-fe30abd273e9@30c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260314T180000Z
-LOCATION:Paw.B 451
-DTSTART:20260314T154500Z
-SUMMARY:Podstawy zarządzania (ćwiczenia)
-UID:625c161e-9686-4263-b535-5af2646e7473@625c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260607T133000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260607T111500Z
-SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
-UID:618c451f-449c-48b2-ac4b-a6cc267734f0@618c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260322T114500Z
-DTSTART:20260322T093000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:96029bd2-299e-4941-9aec-e179ce4e39f3@9602.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260320T194500Z
-DTSTART:20260320T173000Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (wykład)
-UID:c81fb8d0-f112-4f54-a76b-ae4879f62cae@c81f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260424T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6299761
-DTSTART:20260424T134500Z
-SUMMARY:Nadzorowane uczenie statystyczne (wykład)
-UID:4932b679-6663-4e17-8b83-d9ed387610f6@4932.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20260606T164500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260606T134500Z
-SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
-UID:ed5f8364-1eeb-4588-ae70-2fcfcccfbdf5@ed5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20260516T173000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260516T134500Z
-SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
-UID:6f439902-9909-4691-ba5f-7ac3129185f5@6f43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260613T081500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260613T060000Z
-SUMMARY:Ekonometryczna analiza danych (laboratorium)
-UID:22a0ecbd-7c3b-4b06-94ec-0a5600078e77@22a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260322T143000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260322T121500Z
-SUMMARY:WEB Mining (laboratorium)
-UID:7ab07e3f-e53e-41e5-a895-06b6f573c607@7ab0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260314T124500Z
-LOCATION:Paw.F 104
-DTSTART:20260314T103000Z
-SUMMARY:Metody numeryczne (konwersatorium do wyboru)
-UID:c13ddcee-ff7a-4bef-8bd4-9012599158c3@c13d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260426T104500Z
-DTSTART:20260426T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:7adf0c72-ed70-4ced-87ef-357892b96a09@7adf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:8e98131c-a058-4f2b-a866-d4cd71e93881@8e98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260321T114500Z
-DTSTART:20260321T093000Z
-SUMMARY:Nadzorowane uczenie statystyczne (wykład)
-UID:dc078e65-f474-4334-b419-bf7a3066796c@dc07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260517T133000Z
-LOCATION:Bibl. 440
-DTSTART:20260517T111500Z
-SUMMARY:Podstawy zarządzania (ćwiczenia)
-UID:fc542b18-8c43-4700-9832-274f20e41719@fc54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260418T133000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260418T111500Z
-SUMMARY:WEB Mining (laboratorium)
-UID:c2321d36-7e0e-4e63-9bb3-805ad09c699b@c232.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260516T133000Z
-LOCATION:Paw.F 613
-DTSTART:20260516T111500Z
-SUMMARY:Metody numeryczne (konwersatorium do wyboru)
-UID:77daf8bd-a2ff-447d-9d39-07c9c826634b@77da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20260530T141500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260530T111500Z
-SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
-UID:65d08537-95e3-41cd-9d01-87597ea2a80c@65d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260315T091500Z
-DTSTART:20260315T070000Z
-SUMMARY:Ekonometryczna analiza danych (Przeniesienie zajęć)
-UID:4d6fea9c-8b0d-4ba0-8ecc-9bdfb20b3d90@4d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260418T184500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260418T163000Z
-SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
-UID:8c7d37b7-abd4-4f7b-8215-d19dc1c911fa@8c7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260530T183000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260530T144500Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:f21879aa-a565-4eeb-b9ac-97b1d6d9177e@f218.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Cholewa
-DTEND:20260419T160000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260419T134500Z
-SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
-UID:23068cab-0aa6-4e56-8082-41434c670f74@2306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260419T104500Z
-DTSTART:20260419T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:6f9c3048-e296-480f-973a-b081d7d8d206@6f9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260515T184500Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260515T163000Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:93aaf6ea-c780-40c9-ae00-de0052a9f3ee@93aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260301T114500Z
-DTSTART:20260301T093000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:f869d9eb-0072-46b5-8a73-c928dd66fa8b@f869.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260531T104500Z
-DTSTART:20260531T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:73a4a17e-f1e8-4df4-bbeb-4977efdb96cd@73a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Beliczyński
-DTEND:20260228T114500Z
-DTSTART:20260228T093000Z
-SUMMARY:Podstawy zarządzania (wykład)
-UID:e2374198-aa4d-4033-92a3-2b59a4579e30@e237.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jan Beliczyński
-DTEND:20260320T170000Z
-DTSTART:20260320T144500Z
-SUMMARY:Podstawy zarządzania (wykład)
-UID:1d2e2bf9-790f-480c-831b-3e8e281ef62f@1d2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260612T160000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260612T134500Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:275906a5-ab5c-48b1-ae1a-ecfcf7f3316b@2759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20260228T091500Z
-DTSTART:20260228T070000Z
-SUMMARY:Ekonometryczna analiza danych (wykład)
-UID:b59ad7a1-dee9-4728-9efc-da089da5976b@b59a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:30e85c0e-f6af-40af-89ec-bd30bc966ca6@30e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260329T104500Z
-DTSTART:20260329T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:35969379-fc1f-4b19-b252-e48ca9b2bc7a@3596.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260417T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6299755
-DTSTART:20260417T163000Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (wykład)
-UID:50ec39ec-2c3d-4e10-acd4-e61dff1a567c@50ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260515T160000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260515T134500Z
-SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
-UID:a53f1ed8-d253-4aa7-b91c-c47023fe48e9@a53f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260425T133000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260425T111500Z
-SUMMARY:Ekonometryczna analiza danych (laboratorium)
-UID:6a3b1ce1-c161-49fd-aab6-dda485355c83@6a3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260614T104500Z
-DTSTART:20260614T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:86590972-2dc2-41e9-ae13-4cbfbda8ee1b@8659.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20260321T091500Z
-DTSTART:20260321T070000Z
-SUMMARY:Ekonometryczna analiza danych (wykład)
-UID:f6703794-0098-4920-b9e9-fca3cbefe7ce@f670.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260613T100000Z
-LOCATION:Paw.S sala 6
-DTSTART:20260613T083000Z
-SUMMARY:Metody numeryczne (konwersatorium do wyboru)
-UID:d4fee354-32cb-454f-9f4d-a9ec52851fde@d4fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260607T104500Z
-DTSTART:20260607T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:6bd2b679-b939-48e4-a495-c8a3fc63c599@6bd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
-DTEND:20260621T091500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260621T074500Z
-SUMMARY: (egzamin)
-UID:0de4227c-fa78-48d4-8c09-26bccd98f410@0de4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260418T090000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260418T064500Z
-SUMMARY:Ekonometryczna analiza danych (laboratorium)
-UID:0bb6f69a-83c9-48ae-9a4e-89a0315a1c3b@0bb6.org
+UID:c8bf7460-2584-437a-8f64-e317cb399210@c8bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bernard Bińczycki
 DTEND:20260328T170000Z
 DTSTART:20260328T144500Z
 SUMMARY:Podstawy zarządzania (Przeniesienie zajęć)
-UID:3a5856ba-5157-4d0e-8ee6-7954a60aa480@3a58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260419T081500Z
-LOCATION:Paw.F 104
-DTSTART:20260419T060000Z
-SUMMARY:Metody numeryczne (konwersatorium do wyboru)
-UID:9c860f16-ff29-4e9f-b822-75feb87ef9b9@9c86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260607T081500Z
-DTSTART:20260607T060000Z
-SUMMARY:Ekonometryczna analiza danych (Przeniesienie zajęć)
-UID:fdac8145-aa87-49c2-b320-8b60e9fe8dab@fdac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260228T143000Z
-DTSTART:20260228T121500Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (wykład)
-UID:ceee6b9c-8aad-40a2-90ff-a892828e6983@ceee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260425T064500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6793658
-DTSTART:20260425T060000Z
-SUMMARY:Metody numeryczne (konwersatorium zdalne)
-UID:49c425b0-af1a-487f-b186-859064f870db@49c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260321T151500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260321T130000Z
-SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
-UID:8aa44a8e-c025-478e-9722-ebff3f1f88e2@8aa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Artur Jasielski
-DTEND:20260531T133000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260531T111500Z
-SUMMARY:Ekonometryczna analiza danych (laboratorium)
-UID:d72bc750-d65b-4ad4-b51d-9a78724a99bd@d72b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260517T104500Z
-DTSTART:20260517T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:2a901dbc-9bba-4036-a208-759a366e754c@2a90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260322T091500Z
-LOCATION:Paw.F 104
-DTSTART:20260322T070000Z
-SUMMARY:Metody numeryczne (konwersatorium do wyboru)
-UID:d19cf070-e2c9-418c-8e7f-24692c03840f@d19c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260614T133000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260614T111500Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:8e9f28a7-3363-4e5a-abfa-1430917010e1@8e9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260626T170000Z
-LOCATION:Paw.C sala B
-DTSTART:20260626T144500Z
-SUMMARY:Nadzorowane uczenie statystyczne (egzamin)
-UID:ab7b4c64-3aa0-47d2-a061-096d3ec76db7@ab7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:9644d218-c454-457c-bc3e-9610c2b6a3e4@9644.org
+UID:f8f718b1-c6c4-490d-a342-73da2d2af805@f8f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
@@ -503,22 +30,108 @@ DTEND:20260606T133000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20260606T111500Z
 SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:d8617a72-f5df-449f-b3ae-bb9d224a9747@d861.org
+UID:37a2a362-3d2f-4837-b4d4-738e271bd776@37a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260301T091500Z
+DTEND:20260418T184500Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260301T070000Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:554cce63-11c9-425b-9c6b-83ff585a4015@554c.org
+DTSTART:20260418T163000Z
+SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
+UID:e60a6605-d695-49b4-9f13-fddb6075eefa@e60a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260315T114500Z
-DTSTART:20260315T093000Z
+DTEND:20260614T104500Z
+DTSTART:20260614T083000Z
 SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:0199302b-7fc5-44b0-950c-f07700854c1e@0199.org
+UID:dcfdc0be-dccb-4601-9a9f-dca9c3a609ce@dcfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260614T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260614T134500Z
+SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
+UID:a761d31f-091f-40fc-acac-697bb0394e7b@a761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260607T133000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260607T111500Z
+SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
+UID:5ea87db7-3d70-4b9a-b690-6f092b0a8452@5ea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260614T133000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260614T111500Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
+UID:9a90dabd-90fc-4925-ad4a-fb50a01b44cc@9a90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260418T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260418T134500Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
+UID:15ea66c8-bc40-4f1c-90c5-8bd666b687dc@15ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260418T090000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260418T064500Z
+SUMMARY:Ekonometryczna analiza danych (laboratorium)
+UID:06a809d8-2449-4a3e-8258-7aa5404c1012@06a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Beliczyński
+DTEND:20260320T170000Z
+DTSTART:20260320T144500Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:f444b33e-48f7-4fc8-abf2-12a7cc84b89a@f444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20260419T160000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260419T134500Z
+SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
+UID:d9735b46-a786-4540-ad30-d9e2338689f9@d973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260426T141500Z
+LOCATION:Platforma Moodle
+DTSTART:20260426T120000Z
+SUMMARY:Podstawy zarządzania (Ćwiczenia e-learningowe)
+UID:0b1515de-527a-4895-b534-edb1735efbfc@0b15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260301T114500Z
+DTSTART:20260301T093000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:c080f726-466a-4d6c-b5ed-33bc189ec89e@c080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260425T133000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260425T111500Z
+SUMMARY:Ekonometryczna analiza danych (laboratorium)
+UID:de466d41-867c-4649-acb0-750daf89888b@de46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260516T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260516T060000Z
+SUMMARY:Ekonometryczna analiza danych (laboratorium)
+UID:6d8418f9-9459-4eac-923c-093e4817bcd4@6d84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Łukasz Cholewa
@@ -526,15 +139,61 @@ DTEND:20260612T180000Z
 LOCATION:Paw.A 07 lab. Win7\, Office21
 DTSTART:20260612T163000Z
 SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
-UID:0fc4cb16-1712-4e1d-9302-ba70eae82459@0fc4.org
+UID:50e24f37-2f5a-4665-ab48-f6bf18c31991@50e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:f60f2751-0133-4c82-9ec2-28c28d1ddd82@f60f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260531T133000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260531T111500Z
+SUMMARY:Ekonometryczna analiza danych (laboratorium)
+UID:79d27880-5c22-44e5-9bc7-3c7b0ddff9ac@79d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260419T104500Z
+DTSTART:20260419T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:3868ad78-c540-4abe-9846-abebd5059958@3868.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260315T151500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260315T121500Z
-SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
-UID:e3c88661-ef19-42aa-9310-d43558c0d8ea@e3c8.org
+DTEND:20260417T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6299755
+DTSTART:20260417T163000Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (wykład)
+UID:abbab953-c53d-450b-ad66-c13dd9d7a4af@abba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260314T180000Z
+LOCATION:Paw.B 451
+DTSTART:20260314T154500Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:442b49de-b7c3-413f-afdb-de3ae2e8b367@442b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260425T064500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6793658
+DTSTART:20260425T060000Z
+SUMMARY:Metody numeryczne (konwersatorium zdalne)
+UID:1c9e9bc1-f14b-4827-a98a-3a0649743570@1c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Beliczyński
+DTEND:20260417T160000Z
+LOCATION:Platforma Moodle
+DTSTART:20260417T134500Z
+SUMMARY:Podstawy zarządzania (wykład e-learningowy)
+UID:7cc176c1-0e5a-428e-9f14-54a5fb6a5594@7cc1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Sebastian Baran
@@ -542,6 +201,347 @@ DTEND:20260301T143000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20260301T121500Z
 SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
-UID:a454d3e9-f36d-498c-b056-10dac59dd14a@a454.org
+UID:5fd4ca2c-3b72-4e00-9656-e62ae9f2deab@5fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260301T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260301T070000Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
+UID:72def6e9-5ad4-41d8-a04e-cb5dc9f9b150@72de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260315T091500Z
+DTSTART:20260315T070000Z
+SUMMARY:Ekonometryczna analiza danych (Przeniesienie zajęć)
+UID:867f7abc-9239-4c5d-9361-0fafc15e5bc3@867f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260320T194500Z
+DTSTART:20260320T173000Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (wykład)
+UID:f343c89b-a24d-492c-bd88-5ad1ad54f880@f343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260517T160000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260517T134500Z
+SUMMARY:WEB Mining (laboratorium)
+UID:e684bab2-2036-4720-bf2f-aa4c64fcd403@e684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260419T133000Z
+DTSTART:20260419T111500Z
+SUMMARY:Ekonometryczna analiza danych (Przeniesienie zajęć)
+UID:f8ee75c8-f61c-468c-9daa-542fc32fd03e@f8ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20260530T141500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260530T111500Z
+SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
+UID:a389088a-3943-42e7-a576-3588690cdd0c@a389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260314T124500Z
+LOCATION:Paw.F 104
+DTSTART:20260314T103000Z
+SUMMARY:Metody numeryczne (konwersatorium do wyboru)
+UID:cd21bc19-e621-4c82-82db-438006a6c3f4@cd21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260227T170000Z
+DTSTART:20260227T144500Z
+SUMMARY:Nadzorowane uczenie statystyczne (wykład)
+UID:91d57757-455d-46e4-9165-8430d116403b@91d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20260425T173000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260425T134500Z
+SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
+UID:f56ca516-8936-4340-be12-09844463453c@f56c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260613T100000Z
+LOCATION:Paw.S sala 6
+DTSTART:20260613T083000Z
+SUMMARY:Metody numeryczne (konwersatorium do wyboru)
+UID:c4d243fa-553b-4f5c-812b-67e8028b72fa@c4d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260607T104500Z
+DTSTART:20260607T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:f5200230-8236-432d-90a9-87cd69cd5f1b@f520.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260626T170000Z
+LOCATION:Paw.C sala B
+DTSTART:20260626T144500Z
+SUMMARY:Nadzorowane uczenie statystyczne (egzamin)
+UID:db16be16-fa5c-4466-bdaf-b4aa5a53ce7e@db16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260517T104500Z
+DTSTART:20260517T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:59dd26ae-8ee9-4c83-9fb0-5c14c3e1f863@59dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260322T114500Z
+DTSTART:20260322T093000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:62612c83-e12a-4636-842c-df4e9e6a937a@6261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20260228T091500Z
+DTSTART:20260228T070000Z
+SUMMARY:Ekonometryczna analiza danych (wykład)
+UID:02d7de16-5660-46b6-9627-56ce5e454a7b@02d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20260321T091500Z
+DTSTART:20260321T070000Z
+SUMMARY:Ekonometryczna analiza danych (wykład)
+UID:969b7bc8-ca38-4774-8494-6d449ac8aaa2@969b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260321T114500Z
+DTSTART:20260321T093000Z
+SUMMARY:Nadzorowane uczenie statystyczne (wykład)
+UID:9e4e944d-5167-4950-b748-01db8268cc32@9e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260517T133000Z
+LOCATION:Bibl. 440
+DTSTART:20260517T111500Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:c38f5cd5-0089-4e6a-a94c-ef39f02149bb@c38f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20260424T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6299789
+DTSTART:20260424T163000Z
+SUMMARY:Ekonometryczna analiza danych (wykład)
+UID:b06ddc1d-5bda-4ab3-94d3-4d77d4622b0d@b06d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260329T104500Z
+DTSTART:20260329T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:e8bec0c0-858a-4542-becf-1227bf1dcb9b@e8be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260530T183000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260530T144500Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
+UID:737cc6a8-ab63-46fe-a372-6d3ef6d32543@737c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20260314T100000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260314T070000Z
+SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
+UID:35f74fd3-db7d-44c0-8dd7-5610f2516b6d@35f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20260621T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260621T074500Z
+SUMMARY: (egzamin)
+UID:8ee1ab99-9338-4a58-b471-e6510a8045e8@8ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:4e05c93e-0466-4c20-9c50-64ded5a63961@4e05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260531T104500Z
+DTSTART:20260531T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:6ad40f8b-fb51-4f97-85ea-82de14a2a39a@6ad4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260612T160000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260612T134500Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
+UID:ea208ef9-936d-4f13-b6bd-df8151b00da2@ea20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260607T081500Z
+DTSTART:20260607T060000Z
+SUMMARY:Ekonometryczna analiza danych (Przeniesienie zajęć)
+UID:c10d8819-2e2f-430c-b5e3-80501ab213e8@c10d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260426T104500Z
+DTSTART:20260426T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:ae534248-0576-4fdc-a5f6-11b00bda3145@ae53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260515T160000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260515T134500Z
+SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
+UID:37d8c25e-e5bf-48d2-8fac-b2460d25ff39@37d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260322T143000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260322T121500Z
+SUMMARY:WEB Mining (laboratorium)
+UID:cea9b0df-b3e2-4e46-b851-f091a69a375f@cea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20260613T081500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260613T060000Z
+SUMMARY:Ekonometryczna analiza danych (laboratorium)
+UID:9e365d41-5618-48fb-9adc-d43b2742bb88@9e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260322T091500Z
+LOCATION:Paw.F 104
+DTSTART:20260322T070000Z
+SUMMARY:Metody numeryczne (konwersatorium do wyboru)
+UID:3f90d226-eea7-4889-ad4c-f77e0ef961c1@3f90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20260606T164500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260606T134500Z
+SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
+UID:e9344d18-6192-4a66-9be4-74488a6da679@e934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Beliczyński
+DTEND:20260228T114500Z
+DTSTART:20260228T093000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:b1a95268-dac6-42b3-b59e-e68a99716d91@b1a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260315T114500Z
+DTSTART:20260315T093000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:5f9ba8d5-a204-46b1-969d-929391ae5c8f@5f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20260516T173000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260516T134500Z
+SUMMARY:Nadzorowane uczenie statystyczne (laboratorium)
+UID:17f154f1-f92e-4f00-a7f6-aa0845236e80@17f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260315T151500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260315T121500Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
+UID:ce2a08b1-b928-4b3f-899e-d5d17c0da843@ce2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260321T151500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260321T130000Z
+SUMMARY:Analiza i raportowanie danych w Power B (konwersatorium do wyboru)
+UID:2810ab17-39ac-4d6b-b01f-4c27fe81e021@2810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260419T081500Z
+LOCATION:Paw.F 104
+DTSTART:20260419T060000Z
+SUMMARY:Metody numeryczne (konwersatorium do wyboru)
+UID:19f9b692-88ff-4b15-9a93-4fcc8e8d9c1d@19f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260516T133000Z
+LOCATION:Paw.F 613
+DTSTART:20260516T111500Z
+SUMMARY:Metody numeryczne (konwersatorium do wyboru)
+UID:3b608c7a-57ee-450c-bd0e-d5f905a0fcbe@3b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260228T143000Z
+DTSTART:20260228T121500Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (wykład)
+UID:15178c90-03bd-4e15-8152-3e51368583dd@1517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260418T133000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260418T111500Z
+SUMMARY:WEB Mining (laboratorium)
+UID:85dc5ad9-a1b4-40a0-9022-c2042192459f@85dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260531T081500Z
+LOCATION:Paw.F 104
+DTSTART:20260531T060000Z
+SUMMARY:Metody numeryczne (konwersatorium do wyboru)
+UID:faf7c976-e92f-4dbd-90ed-a91fc81cff01@faf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260515T184500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260515T163000Z
+SUMMARY:Sieci neuronowe i uczenie maszynowe (laboratorium)
+UID:c4decc60-196f-4183-8a3e-ebc856efe47c@c4de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:09eb64cd-1d80-43c2-b841-41c864cb3831@09eb.org
 END:VEVENT
 END:VCALENDAR
