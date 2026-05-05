@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260515T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6390215
-DTSTART:20260515T093000Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:a4df76f0-b92b-4823-807e-37840ce2d301@a4df.org
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260421T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260421T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:e30ad9d2-fca3-4fe7-8d50-bafddd5b4def@e30a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Misiołek
@@ -15,659 +15,21 @@ DTEND:20260527T124500Z
 LOCATION:.
 DTSTART:20260527T111500Z
 SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:eedd59d6-16c5-41ad-b68b-b2b93c9baa0d@eedd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260409T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374248
-DTSTART:20260409T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:b13eeb5a-a0d6-443e-9113-e2cf8e06ff21@b13e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260521T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6347010
-DTSTART:20260521T074500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:8879b64b-5d33-45fe-9d07-2bcb2ab3cd2f@8879.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260226T134500Z
-DTSTART:20260226T121500Z
-SUMMARY:Ład korporacyjny (wykład)
-UID:07db3c79-4d8f-43fd-985c-43b40ff33ccb@07db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260327T134500Z
-DTSTART:20260327T121500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:50ee929d-cd07-4ca6-82c4-f7676e47d227@50ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260306T134500Z
-DTSTART:20260306T121500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:5a4782bb-7e65-4c54-8d17-41475f00256b@5a47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260612T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6382332
-DTSTART:20260612T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:7eebbbd5-d69c-4e0c-9bc1-9e9061aa93da@7eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260313T134500Z
-DTSTART:20260313T121500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:d810aab2-4296-452b-aca5-a1b9c472b752@d810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260318T134500Z
-LOCATION:.
-DTSTART:20260318T121500Z
-SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:886bdd09-dfb7-4e89-bd42-773ea74dc5d7@886b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:88880698-04cc-49c2-8a8f-2750cbdcc2f9@8888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260507T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374252
-DTSTART:20260507T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:bb49d7c2-d045-4065-9799-98ad4212c024@bb49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260409T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6369221
-DTSTART:20260409T111500Z
-SUMMARY:Ład korporacyjny (wykład)
-UID:77d2e464-78e0-40e9-9a88-40f44be4a319@77d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260416T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374249
-DTSTART:20260416T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:c8bd5ae9-25d0-4db7-8082-40f9375ca402@c8bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260409T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6347007
-DTSTART:20260409T074500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:a4ba6620-2c15-4c4e-8b46-ff347aeef8e3@a4ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260430T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381425
-DTSTART:20260430T130000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:51970630-85d6-4112-9618-00850b538f87@5197.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260415T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20260415T074500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:4f9190f3-dfbf-450a-b7af-4236411e3c69@4f91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260612T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387374
-DTSTART:20260612T074500Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:6d7c4fe1-37e4-4b88-a151-0b0d1921af7c@6d7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260401T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20260401T074500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:75b6c723-ec0e-4667-9e0a-c87bfd173bfb@75b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260514T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374253
-DTSTART:20260514T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:7cbe2af1-0c69-46ce-8c23-daa283daa598@7cbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260521T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374254
-DTSTART:20260521T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:3c07d297-5144-4bf3-a2b7-4ebc0828a1b8@3c07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260326T101500Z
-DTSTART:20260326T084500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:a3068c80-0519-47ff-887e-871baff19417@a306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260609T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260609T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:17a6cba4-d9ba-47ee-9d4d-0dcd2a93c112@17a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260424T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387366
-DTSTART:20260424T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:72ba2d79-7fb9-4f40-b0bd-f4a8f0b24ab2@72ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260423T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381424
-DTSTART:20260423T130000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:f4287f6d-8442-4fb7-a743-9deb7d854884@f428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260416T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381423
-DTSTART:20260416T130000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:7a4f5d0e-2853-4f7f-9856-6e1a7f95a06c@7a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260521T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6369224
-DTSTART:20260521T111500Z
-SUMMARY:Ład korporacyjny (wykład)
-UID:ff65d32c-7998-4efd-92a3-80a1df091dde@ff65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260224T153000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260224T140000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:e28f6125-4f53-4a3b-85df-20fe74a81fb6@e28f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260612T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387370
-DTSTART:20260612T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:4b12f2e3-2e13-4ebb-b2d1-71753a93ea2c@4b12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260514T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387376
-DTSTART:20260514T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:2a728891-6dbd-48fb-bbe5-5e53a468ecaa@2a72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260507T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6369223
-DTSTART:20260507T111500Z
-SUMMARY:Ład korporacyjny (wykład)
-UID:2da81584-7a36-48ee-a27c-64f70acfa9f4@2da8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260423T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6347008
-DTSTART:20260423T074500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:6e10f876-c18e-4680-82ef-e1adc4d1b13c@6e10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260527T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20260527T074500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:a21feef1-bfd8-497a-8c6a-50e8ae5cc1f2@a21f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260226T101500Z
-DTSTART:20260226T084500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:74a63749-1762-4ad4-9c6a-e2cab85e4b3e@74a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260508T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387372
-DTSTART:20260508T074500Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:d26440ff-60c8-4eb6-b0de-1a00df965485@d264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260310T153000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260310T140000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:b2579028-e490-4d89-81bf-22805b1df88d@b257.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260513T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20260513T074500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:cb63bb56-8276-434c-8a40-3d21d428440b@cb63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260226T120000Z
-DTSTART:20260226T103000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:9d48f156-0528-443a-b358-2bf46b76d852@9d48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260423T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374250
-DTSTART:20260423T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:d0abead9-8a58-4987-8b2b-140ace0ff1fa@d0ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260529T124500Z
-DTSTART:20260529T111500Z
-SUMMARY:Historia gospodarcza (Przeniesienie zajęć)
-UID:3d7b0422-0152-487c-b1de-72f08232f4cc@3d7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260324T153000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260324T140000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:dee71864-1c53-4c35-a0e7-4d70de4cc73f@dee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260522T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6382329
-DTSTART:20260522T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:ccd14770-15a1-4838-9ad0-75c87a6398b0@ccd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:969064d5-ec55-487a-917e-036629132d38@9690.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260515T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6382328
-DTSTART:20260515T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:ec7379a8-3b97-4ed6-82b9-61402ac1b2ed@ec73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260514T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381427
-DTSTART:20260514T130000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:2141e7e6-f8c0-4c9b-a3a3-97aa936b46a2@2141.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260611T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374255
-DTSTART:20260611T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:f2fd0fe4-f7d6-46d4-a3dd-ceb9f57c271b@f2fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260521T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381428
-DTSTART:20260521T130000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:0c2a6fb4-8228-4f3d-8f2b-c4ba3de914a2@0c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260331T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260331T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:bc86a6e4-401b-43c9-80b2-ba5338f118de@bc86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260512T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260512T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:188f05db-d94a-49e5-9527-c3ea1a24f881@188f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260417T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6382324
-DTSTART:20260417T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:1894ecc7-2dda-400a-81fd-7f789efb7665@1894.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260529T100000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6386974
-DTSTART:20260529T074500Z
-SUMMARY:Ład korporacyjny (wykład)
-UID:32a7b8f4-364d-44bd-b1c2-12cb14a78bbe@32a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260429T091500Z
-LOCATION:Paw.U sala K
-DTSTART:20260429T074500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:f9eea12f-6e60-47e8-b03c-03c2997e992b@f9ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260312T153000Z
-DTSTART:20260312T140000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:eaff4676-b0f9-4a35-91cc-d051513710f3@eaff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260508T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387368
-DTSTART:20260508T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:6623c548-794d-4f9a-afd8-7aad8f3228b2@6623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260312T120000Z
-DTSTART:20260312T103000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:9d932bfc-e816-4a21-9eb2-9d465c0d2b97@9d93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260414T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260414T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:8015bd13-e2c5-40b6-bcdc-67b0e9cfc94d@8015.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260522T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387373
-DTSTART:20260522T074500Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:5e174582-c00e-446d-ab4c-d0843572f61f@5e17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260312T134500Z
-DTSTART:20260312T121500Z
-SUMMARY:Ład korporacyjny (wykład)
-UID:d2ac2868-8ec3-43db-9068-2ffc475f2486@d2ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260226T153000Z
-DTSTART:20260226T140000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:80ac598d-79be-4c3d-a7f8-5f2744e988de@80ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260415T124500Z
-LOCATION:.
-DTSTART:20260415T111500Z
-SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:8076b5c4-05ae-4458-92ad-06545703d803@8076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:a83397f5-a510-4161-b09c-c930f22982b2@a833.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260318T101500Z
-LOCATION:Paw.U sala K
-DTSTART:20260318T084500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:11412712-f17b-4215-b5b4-2eb45a4ca4e1@1141.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260428T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260428T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:2ee91568-8116-4f89-adea-608f5f3cd0bd@2ee9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260508T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6382327
-DTSTART:20260508T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:abb25ade-cc23-4392-bb65-24f276a72bc8@abb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260513T124500Z
-LOCATION:.
-DTSTART:20260513T111500Z
-SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:76f1e0ff-a329-497f-b01a-f4c138cddbe8@76f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260319T120000Z
-DTSTART:20260319T103000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:04208e62-0785-4db6-87e0-3c429c2ef831@0420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260430T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6374251
-DTSTART:20260430T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:a22b372b-17d6-4778-ac70-5e21938728ef@a22b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260602T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260602T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:d91cc37d-0f45-4cf8-9833-f031c3b99ec9@d91c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260424T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6382325
-DTSTART:20260424T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:18fda772-c574-4a45-bfde-799a1ca71d6e@18fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260421T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260421T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:d4c46eb8-3f64-423f-abd0-82052e85c00e@d4c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260305T153000Z
-DTSTART:20260305T140000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:882b424e-4a15-4844-b220-b7bc13d34259@882b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260505T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260505T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:ca5ed787-9083-4664-8e48-1d5b660dcc73@ca5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260507T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6347009
-DTSTART:20260507T074500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:214b83c5-4c73-45aa-828b-2fa6e7c36233@214b.org
+UID:bb697364-7fa8-4cf1-8b25-9dce627a4458@bb69.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Miodunka
 DTEND:20260227T134500Z
 DTSTART:20260227T121500Z
 SUMMARY:Historia gospodarcza (wykład)
-UID:2a4a908f-de20-41b7-8eb8-2a7376ae9093@2a4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260521T073000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387125
-DTSTART:20260521T064500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:d9a56430-db13-4b7c-be6f-e600b92c4b9f@d9a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260410T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6382323
-DTSTART:20260410T111500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:aa34082a-0fab-4ea2-a3ee-f11dca47760c@aa34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Miodunka
-DTEND:20260320T134500Z
-DTSTART:20260320T121500Z
-SUMMARY:Historia gospodarcza (wykład)
-UID:e5365144-b785-4423-9e2c-386190e9961a@e536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260303T153000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260303T140000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:412e7082-c8ce-4388-8c00-9df602536e30@412e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260304T101500Z
-LOCATION:Paw.G - 2
-DTSTART:20260304T084500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:876225eb-3c22-445d-a409-37c03f5ae400@8762.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260423T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6369222
-DTSTART:20260423T111500Z
-SUMMARY:Ład korporacyjny (wykład)
-UID:ba643efc-ecb1-464b-a9e8-eb23ec5f008a@ba64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260312T101500Z
-DTSTART:20260312T084500Z
-SUMMARY:Modele zmian organizacyjnych (wykład)
-UID:2fcf8fd8-496f-469c-b1aa-a1b759926d74@2fcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260401T124500Z
-LOCATION:.
-DTSTART:20260401T111500Z
-SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:6e00986d-2c17-44da-8ee5-9a69c07db0b0@6e00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260519T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260519T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:9bc0fd29-1a4e-4845-9d9e-130160f7c1be@9bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260304T134500Z
-LOCATION:.
-DTSTART:20260304T121500Z
-SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:6036324c-3468-4631-8d23-b87ea1dffab7@6036.org
+UID:224ddd62-9078-4c24-82b7-89efcb4a55bb@224d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260507T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381426
-DTSTART:20260507T130000Z
+DTEND:20260312T153000Z
+DTSTART:20260312T140000Z
 SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:6e3e893b-edf3-45a4-80a7-3bc96e2ded56@6e3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Mierzejewski
-DTEND:20260526T143000Z
-LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
-DTSTART:20260526T130000Z
-SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:2c5ae17e-fdf9-4434-9779-eb6986ee138b@2c5a.org
+UID:b5b8be69-54ed-4b02-a178-170c32748f10@b5b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Krzysztof Misiołek
@@ -675,54 +37,15 @@ DTEND:20260429T124500Z
 LOCATION:.
 DTSTART:20260429T111500Z
 SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:d569190b-8d67-4187-9b44-5227c62915c4@d569.org
+UID:8bcde541-96b3-4952-b077-7e97aab0ae94@8bcd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260409T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381422
-DTSTART:20260409T130000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:d40d9618-aa16-4bad-ae60-a7b811b812e5@d40d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260610T120000Z
-LOCATION:Paw.F 104
-DTSTART:20260610T111500Z
-SUMMARY:Ład korporacyjny (ćwiczenia)
-UID:cbb8e4c4-02de-4191-9b20-72428587e205@cbb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260319T153000Z
-DTSTART:20260319T140000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:ae6829c1-6c69-4212-aada-4f97010727a8@ae68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
-DTEND:20260522T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6387369
-DTSTART:20260522T093000Z
-SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
-UID:57312853-afdd-4078-a54e-18678f7efef1@5731.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260610T083000Z
-LOCATION:Paw.U sala K
-DTSTART:20260610T074500Z
-SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
-UID:0d7ec63d-9c86-4e51-b49a-87824cc6eebf@0d7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
-DTEND:20260611T143000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6381431
-DTSTART:20260611T130000Z
-SUMMARY:Ekonomia rozwoju (wykład do wyboru)
-UID:ace80276-c0d5-447f-bab5-3c7429439fbc@ace8.org
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260512T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260512T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:92048718-ad3e-464d-b6a9-c425e6a32f83@9204.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Piotr Miodunka
@@ -730,7 +53,433 @@ DTEND:20260611T091500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6387375
 DTSTART:20260611T074500Z
 SUMMARY:Historia gospodarcza (wykład)
-UID:6d79bb51-ab03-40a5-ae17-d28b4ca31f63@6d79.org
+UID:775b7299-d2c4-4bc1-94d9-7380035805b0@775b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260526T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260526T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:503a643f-857d-4b56-828f-0a4b4ffa3b67@503a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260327T134500Z
+DTSTART:20260327T121500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:d143e2dd-d736-4174-9466-ff304c3385ce@d143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260305T153000Z
+DTSTART:20260305T140000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:897babbf-264f-4ec9-bec1-0538e9f235ef@897b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:a5e6e67c-da40-4862-9e84-c164cf4c9193@a5e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:d10d3598-a404-4b30-b8b1-8520bf738824@d10d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260416T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374249
+DTSTART:20260416T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:2aa22d64-b23c-4cc3-910b-14bef5ce3c73@2aa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260415T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20260415T074500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:c6a15e40-8c42-4cce-ac9b-be5ce9c77226@c6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260529T100000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6386974
+DTSTART:20260529T074500Z
+SUMMARY:Ład korporacyjny (wykład)
+UID:f370373d-6c5e-444a-ae67-d3974cfe737d@f370.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260320T134500Z
+DTSTART:20260320T121500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:ba67aed2-e6f4-4fed-944d-e666afc4c734@ba67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260318T101500Z
+LOCATION:Paw.U sala K
+DTSTART:20260318T084500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:218fbaa7-3664-464f-8d12-cfc78bb10ac2@218f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260310T153000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260310T140000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:3a6dd477-557d-4b8e-8442-d76ed31b7107@3a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260324T153000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260324T140000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:4974e4be-f057-4225-b5c0-e03634f017cd@4974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260521T073000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387125
+DTSTART:20260521T064500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:86c5b912-1085-4857-a42f-4d1f0688050a@86c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260409T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381422
+DTSTART:20260409T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:eb32d373-9556-4fb4-bfb7-8d9bc1177ace@eb32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260508T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387372
+DTSTART:20260508T074500Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:14ec51a4-bb09-4424-bb6d-7b532a5e951a@14ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260521T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374254
+DTSTART:20260521T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:1266d726-673f-49d6-a544-e309ec2ade53@1266.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260430T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381425
+DTSTART:20260430T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:66eaf8d1-110d-4763-8978-87e2cd6a6402@66ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260304T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20260304T084500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:867e7918-443f-46f8-9327-395f670b718a@867e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260331T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260331T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:f4c08f38-ae64-470c-9376-bd6e474d5cca@f4c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260423T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6369222
+DTSTART:20260423T111500Z
+SUMMARY:Ład korporacyjny (wykład)
+UID:60ee68d6-9778-45cf-95a4-0d91e4a03198@60ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260612T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6382332
+DTSTART:20260612T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:fc58f7e4-ecfd-40f1-b1c3-9fda1ee08258@fc58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260416T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381423
+DTSTART:20260416T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:2c5283f9-b351-4a0d-928c-20c928a98ae5@2c52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260508T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387368
+DTSTART:20260508T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:11943ffb-020c-42f8-bec7-5abe9f01a2c6@1194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260521T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6347010
+DTSTART:20260521T074500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:e141cfd9-898f-4a0a-aaf8-a590d765315e@e141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260611T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374255
+DTSTART:20260611T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:31d5000a-20b3-4ae3-9a41-57b474c59038@31d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260507T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6347009
+DTSTART:20260507T074500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:eb807fda-7769-433a-a975-411e96670658@eb80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260303T153000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260303T140000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:55fb96bf-58f9-4a35-85e3-1357242adeb8@55fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260602T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260602T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:30408c11-f8f7-4983-bf09-c1d5026a0946@3040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260610T120000Z
+LOCATION:Paw.F 104
+DTSTART:20260610T111500Z
+SUMMARY:Ład korporacyjny (ćwiczenia)
+UID:37e4209d-58d2-4fa0-ae5c-7b22ad2636e4@37e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260306T134500Z
+DTSTART:20260306T121500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:20cd6e7f-faa2-4faa-8f15-2b256dd051ae@20cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260414T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260414T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:2a2c8eec-121a-4333-95ed-d49de18dc809@2a2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260423T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6347008
+DTSTART:20260423T074500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:ed610cf6-171e-4ea7-8edf-f750770fe3e0@ed61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260326T101500Z
+DTSTART:20260326T084500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:ec1b4e6c-550d-4e90-abe5-0b1c124bff64@ec1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260313T134500Z
+DTSTART:20260313T121500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:2255ddb1-4bcd-4681-adf0-ccf2fb624815@2255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260521T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6369224
+DTSTART:20260521T111500Z
+SUMMARY:Ład korporacyjny (wykład)
+UID:d6c0afe1-467f-444c-9d6c-b666ed71cd0e@d6c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260424T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387366
+DTSTART:20260424T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:792bd6f8-7efe-4f54-b2a8-2374b9eedc21@792b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260312T120000Z
+DTSTART:20260312T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:44b21714-9dd7-47a9-8a00-69256d02ef78@44b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260429T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20260429T074500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:3c0f6836-e716-4040-8b19-4e4417e35d77@3c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260514T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381427
+DTSTART:20260514T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:b45f686f-4f6b-4bdc-84bd-17de902a3a00@b45f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260527T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20260527T074500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:aa8ea552-f835-4b5e-bd97-7b7bde18482f@aa8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260226T101500Z
+DTSTART:20260226T084500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:cad14014-9b52-4d48-a751-af6e12ef2e95@cad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260409T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6347007
+DTSTART:20260409T074500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:3d98ee8d-7061-435c-bee0-92fd33b9dbdf@3d98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260522T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6382329
+DTSTART:20260522T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:fc274483-2ce8-4433-8967-2ac056b00473@fc27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260529T124500Z
+DTSTART:20260529T111500Z
+SUMMARY:Historia gospodarcza (Przeniesienie zajęć)
+UID:e83b33d0-ddc1-44eb-bf71-5925d65aeca8@e83b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260319T153000Z
+DTSTART:20260319T140000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:6f2b2ba6-1d67-4f4e-acc5-c1ee6135853c@6f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260410T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6382323
+DTSTART:20260410T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:f878f4b8-9edd-4a31-8be8-81762df0c657@f878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260424T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6382325
+DTSTART:20260424T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:22f2b2a2-1fcf-41f5-8537-fee8fae1cc4a@22f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260522T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387369
+DTSTART:20260522T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:d0011f10-6606-4a41-b457-8797992a96eb@d001.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260226T134500Z
+DTSTART:20260226T121500Z
+SUMMARY:Ład korporacyjny (wykład)
+UID:d3a85556-4c4f-4f0a-bfd4-6b5525dd5a8c@d3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260611T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381431
+DTSTART:20260611T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:166a6173-fad6-4ca4-b959-e9dcbd8c2ac0@166a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260507T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381426
+DTSTART:20260507T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:5af78521-30a6-40ba-a337-bb9c0150db4c@5af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260312T101500Z
+DTSTART:20260312T084500Z
+SUMMARY:Modele zmian organizacyjnych (wykład)
+UID:57212df8-bcdd-4328-9a0c-bfa17dee23e9@5721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260515T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6382328
+DTSTART:20260515T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:223d8b94-7f22-4198-a14f-45dc72315674@223d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260521T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381428
+DTSTART:20260521T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:660cc5bd-34e1-4434-98fa-ad27087ebbe9@660c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260508T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6382327
+DTSTART:20260508T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:69658cf3-5230-4196-b8fd-5378a0611ba8@6965.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Mierzejewski
@@ -738,6 +487,257 @@ DTEND:20260317T153000Z
 LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
 DTSTART:20260317T140000Z
 SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
-UID:8d0a0b91-4ce4-4cce-b543-cfe038872907@8d0a.org
+UID:88dd731d-600c-4aa5-ba1a-b13a9d3265f5@88dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260612T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387370
+DTSTART:20260612T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:10d0aade-593f-4216-976c-8db2c8d9db07@10d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260507T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374252
+DTSTART:20260507T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:90325158-eed3-445f-af4a-d3522ec41082@9032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260224T153000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260224T140000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:88eb1b97-5ddb-4c12-8c59-151b6ff46204@88eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260428T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260428T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:291f070f-c4d6-4b5e-a05a-ae5853e782f1@291f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260312T134500Z
+DTSTART:20260312T121500Z
+SUMMARY:Ład korporacyjny (wykład)
+UID:0db037ff-e2d6-47b8-b1b3-a35f30fb2640@0db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260319T120000Z
+DTSTART:20260319T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:880bec6c-fd08-49c3-8070-2599e7ee38a5@880b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260507T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6369223
+DTSTART:20260507T111500Z
+SUMMARY:Ład korporacyjny (wykład)
+UID:3fe238f6-81ea-4db1-89ca-6ffa0dba020d@3fe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260304T134500Z
+LOCATION:.
+DTSTART:20260304T121500Z
+SUMMARY:Ład korporacyjny (ćwiczenia)
+UID:90a485d8-9c5f-4736-8f4c-3fc24dd28ec4@90a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260513T124500Z
+LOCATION:.
+DTSTART:20260513T111500Z
+SUMMARY:Ład korporacyjny (ćwiczenia)
+UID:acb0a839-adcd-45a0-ac19-779f44baa5c8@acb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260401T124500Z
+LOCATION:.
+DTSTART:20260401T111500Z
+SUMMARY:Ład korporacyjny (ćwiczenia)
+UID:87d8a052-885d-421c-954b-4dc4c09ebf47@87d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260513T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20260513T074500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:b1dda977-644d-4cb9-9bde-f6866dd65eb2@b1dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260409T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6369221
+DTSTART:20260409T111500Z
+SUMMARY:Ład korporacyjny (wykład)
+UID:76c7ced7-13f5-4039-b8f9-b95d49a7ce0f@76c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260409T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374248
+DTSTART:20260409T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:462ab94a-e797-42ad-ad73-44113d9e802b@462a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260401T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20260401T074500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:fc4ec375-f1c3-45c3-898f-812686b45c04@fc4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260226T120000Z
+DTSTART:20260226T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:42987276-6110-4e89-9127-bfdf91f1c4f7@4298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260226T153000Z
+DTSTART:20260226T140000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:adfae927-37f9-41fa-967c-7eb80b4b0b9b@adfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260417T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6382324
+DTSTART:20260417T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:be23017f-9f9c-48cc-bdf9-f184b7f91d36@be23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260423T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374250
+DTSTART:20260423T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:eb04892b-b3aa-4d4b-86cd-628f60837809@eb04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260415T124500Z
+LOCATION:.
+DTSTART:20260415T111500Z
+SUMMARY:Ład korporacyjny (ćwiczenia)
+UID:f2cc27c4-3549-4985-8adc-fd3365c68323@f2cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260423T143000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6381424
+DTSTART:20260423T130000Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:92e9e00b-1965-4d2a-aa27-cffdb093e849@92e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260430T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374251
+DTSTART:20260430T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:5d6608d7-a31f-4862-be78-4d1f3a3a1147@5d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260514T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387376
+DTSTART:20260514T111500Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:2e20275d-55e6-4526-a08e-6c0b113ba486@2e20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260612T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387374
+DTSTART:20260612T074500Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:5e441105-5eda-43c3-8697-c58bb6529a37@5e44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20260522T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6387373
+DTSTART:20260522T074500Z
+SUMMARY:Ekonomia rozwoju (wykład do wyboru)
+UID:898a6c45-89b3-450a-ab7c-ee0b13f7be79@898a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20260515T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6390215
+DTSTART:20260515T093000Z
+SUMMARY:Historia gospodarcza (wykład)
+UID:32d18a4d-1fb5-41c0-9532-e9b416c44ac5@32d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20260514T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6374253
+DTSTART:20260514T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:0b2f51b7-bc81-4918-93be-f066a9fc9e3d@0b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260519T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260519T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:dbafdd9d-565c-4a58-b859-a766de07af4b@dbaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:8827b761-3259-4eea-a0ea-067231164eea@8827.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260318T134500Z
+LOCATION:.
+DTSTART:20260318T121500Z
+SUMMARY:Ład korporacyjny (ćwiczenia)
+UID:a0ab99b5-db36-4d10-86d1-b54bf21eedf5@a0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260610T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20260610T074500Z
+SUMMARY:Modele zmian organizacyjnych (ćwiczenia)
+UID:97d00de9-c0ed-4716-964c-082926557054@97d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260505T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260505T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:61ade179-11dd-4ed9-8efb-6d3713325759@61ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20260609T143000Z
+LOCATION:Paw.B 054 (KSB)\, Labolatorium Mobilne
+DTSTART:20260609T130000Z
+SUMMARY:Modelowanie przyczynowe w ekonometrii biznesowej (ćwiczenia)
+UID:8d8ea0b2-aef9-436e-a61f-832b9ee43e94@8d8e.org
 END:VEVENT
 END:VCALENDAR
