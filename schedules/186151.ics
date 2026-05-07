@@ -2,34 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:3d411e80-82c0-4c7e-8880-9177ec447275@3d41.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20260328T100000Z
-DTSTART:20260328T074500Z
-SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium zdalne)
-UID:f4c8fa30-f9c9-44de-bfa0-38b909df2e87@f4c8.org
+DTEND:20260425T090000Z
+DTSTART:20260425T064500Z
+SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (Przeniesienie zajęć)
+UID:dba5efc0-8dd9-446d-a00e-0e7751e3181d@dba5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260425T151500Z
-DTSTART:20260425T130000Z
-SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
-UID:bd7f3771-02fb-42af-bf99-81b5a6d54cd3@bd7f.org
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20260329T141500Z
+DTSTART:20260329T120000Z
+SUMMARY:Zrównoważony transport zbiorowy (konwersatorium zdalne)
+UID:5fa54c90-62b5-44b7-826f-c1ef87dea7f4@5fa5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260530T174500Z
-LOCATION:Paw.F 008
-DTSTART:20260530T153000Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
-UID:05df8636-f046-42de-8be6-0e8ca844ab94@05df.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20260227T194500Z
+DTSTART:20260227T173000Z
+SUMMARY:Zarządzanie projektami (wykład)
+UID:8499a30f-f763-453b-ab6a-8fb7237cfa7c@8499.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rzegocki
-DTEND:20260322T124500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260322T103000Z
-SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
-UID:9fb052fe-b0b3-4ad6-834b-59d20ddfddd2@9fb0.org
+DTEND:20260530T114500Z
+DTSTART:20260530T093000Z
+SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (Przeniesienie zajęć)
+UID:8a6fbe14-10e6-4991-93f1-41144d5db345@8a6f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Arkadiusz Wróżek
@@ -37,310 +42,7 @@ DTEND:20260322T161500Z
 LOCATION:Bibl. 440
 DTSTART:20260322T140000Z
 SUMMARY:Zrównoważony transport zbiorowy (konwersatorium do wyboru)
-UID:3c1bcc53-e713-46d3-bbd5-b167b7604ce3@3c1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260322T184500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260322T163000Z
-SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
-UID:5617de7f-d59d-42bc-a91e-73b77797709a@5617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Ziółko
-DTEND:20260529T160000Z
-LOCATION:Bibl.425
-DTSTART:20260529T134500Z
-SUMMARY:Elektromobilność w logistyce (konwersatorium)
-UID:32b229c1-e97a-4dfd-9add-53a7fc3f4178@32b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260419T114500Z
-DTSTART:20260419T093000Z
-SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
-UID:cb7c5256-5776-40ba-ac68-db49b804c3aa@cb7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rzegocki
-DTEND:20260612T184500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260612T163000Z
-SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
-UID:8a09bc3c-9337-42b7-928b-9ebf57fead5b@8a09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260328T124500Z
-DTSTART:20260328T103000Z
-SUMMARY:Zarządzanie projektami (ćwiczenia zdalne)
-UID:1e7fe7e9-e99f-426c-b515-9ca569d32ef9@1e7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260321T124500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260321T103000Z
-SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
-UID:ef74f12d-063e-4380-abe8-32bf9776230b@ef74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260426T104500Z
-DTSTART:20260426T083000Z
-SUMMARY:Zaawansowane metody analiz logistycznych (Przeniesienie zajęć)
-UID:00001baf-a303-4c23-afd8-c8c4485389b5@0000.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260228T161500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260228T140000Z
-SUMMARY:Zarządzanie projektami (ćwiczenia)
-UID:920bfb07-4e32-43fc-9083-ecd0196dd7c7@920b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260418T114500Z
-LOCATION:Paw.F 415
-DTSTART:20260418T093000Z
-SUMMARY:Zarządzanie projektami (ćwiczenia)
-UID:0835beee-ed01-4454-8a29-e442c373a8ae@0835.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260301T100000Z
-LOCATION:Bibl. 440
-DTSTART:20260301T074500Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
-UID:4a871f08-9d2b-42e5-b465-4c07a3c0c45c@4a87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Ziółko
-DTEND:20260329T114500Z
-DTSTART:20260329T093000Z
-SUMMARY:Elektromobilność w logistyce (konwersatorium zdalne)
-UID:6af70506-8f2f-4ecf-8450-e2fa3e3433ce@6af7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260425T174500Z
-DTSTART:20260425T153000Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (Przeniesienie zajęć)
-UID:73d149a0-982b-4754-8f06-0c9dcdfa2d61@73d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20260320T194500Z
-DTSTART:20260320T173000Z
-SUMMARY:Zarządzanie projektami (wykład)
-UID:3c7d2990-19d0-4937-b41f-2d2f09330895@3c7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260328T184500Z
-DTSTART:20260328T163000Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium zdalne)
-UID:ddec88b1-d872-41c1-94b6-f729ce504327@ddec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260516T151500Z
-DTSTART:20260516T130000Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (Przeniesienie zajęć)
-UID:5cf8ca19-83c7-4a7e-b26e-1d54f3a700d9@5cf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260613T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260613T093000Z
-SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
-UID:2c4b951a-7e19-4a2c-9700-8edef268f8c8@2c4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260530T151500Z
-LOCATION:Bibl.425
-DTSTART:20260530T130000Z
-SUMMARY:Zarządzanie projektami (ćwiczenia)
-UID:646d4dfd-40e6-4cb0-af31-5cdfdceef3b1@646d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20260516T090000Z
-LOCATION:L Paw.A 401
-DTSTART:20260516T064500Z
-SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
-UID:4fbc72f5-3f9c-4d17-bbb9-bf27f80e28c5@4fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20260417T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6295609
-DTSTART:20260417T163000Z
-SUMMARY:Zarządzanie projektami (wykład)
-UID:ea69c191-f687-4297-87d7-8d0b0b6d90d0@ea69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20260516T174500Z
-LOCATION:Paw.F 415
-DTSTART:20260516T153000Z
-SUMMARY:Zrównoważony transport zbiorowy (konwersatorium do wyboru)
-UID:1f9e1ed9-1c33-4e2b-b1b7-71d418f6f2ac@1f9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Ziółko
-DTEND:20260321T161500Z
-LOCATION:Bibl. 440
-DTSTART:20260321T140000Z
-SUMMARY:Elektromobilność w logistyce (konwersatorium)
-UID:38b5fdac-3a34-4018-8fe9-704e5867bf8e@38b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rzegocki
-DTEND:20260418T174500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260418T153000Z
-SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
-UID:fe547e16-b1db-4f88-b494-3afc0f3d2b0b@fe54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20260329T141500Z
-DTSTART:20260329T120000Z
-SUMMARY:Zrównoważony transport zbiorowy (konwersatorium zdalne)
-UID:b16c9f76-6457-4e9d-863d-75ae90c2bc18@b16c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260329T090000Z
-DTSTART:20260329T064500Z
-SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium zdalne)
-UID:98330dd3-f2b2-43d2-9062-4c6c5025d4a3@9833.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20260328T161500Z
-DTSTART:20260328T140000Z
-SUMMARY:Cyfryzacja i automatyzacja w magazynie (konwersatorium zdalne)
-UID:7d5af7e6-e1b0-4010-b9d7-d86fff672b60@7d5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Ziółko
-DTEND:20260613T151500Z
-DTSTART:20260613T130000Z
-SUMMARY:Elektromobilność w logistyce (Przeniesienie zajęć)
-UID:6d84a412-97d0-495d-8b10-8a9da4789545@6d84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260620T161500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260620T144500Z
-SUMMARY:Zaawansowane metody analiz logistycznych (kolokwium)
-UID:a17e6d34-2533-40c1-8043-fac2d5f8a935@a17e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20260530T090000Z
-DTSTART:20260530T064500Z
-SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (Przeniesienie zajęć)
-UID:64800448-9432-44a3-9750-28bec3bb58ac@6480.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260322T100000Z
-LOCATION:Bibl. 440
-DTSTART:20260322T074500Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
-UID:918c2ee0-af8c-4bd2-8375-727d8829172f@918c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20260425T090000Z
-DTSTART:20260425T064500Z
-SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (Przeniesienie zajęć)
-UID:ccf897ec-b67e-4787-a0d5-8ba7fd877406@ccf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260612T160000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260612T134500Z
-SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
-UID:8bf84cb0-f704-407b-b237-c5a41b15c07a@8bf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260613T174500Z
-LOCATION:Paw.B 451
-DTSTART:20260613T153000Z
-SUMMARY:Zarządzanie projektami (ćwiczenia)
-UID:89218f24-597d-4e0f-8f89-40daa69671b4@8921.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dorota Dziedzic
-DTEND:20260531T123000Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260531T101500Z
-SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
-UID:19c24c03-05a6-4af1-ab9b-db59b3f4309b@19c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20260419T141500Z
-LOCATION:Paw.F 106
-DTSTART:20260419T120000Z
-SUMMARY:Cyfryzacja i automatyzacja w magazynie (konwersatorium do wyboru)
-UID:595e4ec4-bcb9-4e59-a8cc-a99a55331a3c@595e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rzegocki
-DTEND:20260516T090000Z
-DTSTART:20260516T064500Z
-SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (Przeniesienie zajęć)
-UID:aeeebcf5-49df-48aa-8302-0d459a948bb6@aeee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260321T184500Z
-LOCATION:Bibl.425
-DTSTART:20260321T163000Z
-SUMMARY:Zarządzanie projektami (ćwiczenia)
-UID:f01c8e96-ed87-493b-930d-85410da88903@f01c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260530T090000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260530T064500Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
-UID:d3f1e884-5188-4e80-9e49-9adf7231e73d@d3f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20260424T184500Z
-DTSTART:20260424T163000Z
-SUMMARY:Cyfryzacja i automatyzacja w magazynie (Przeniesienie zajęć)
-UID:07f8ae22-3951-41d1-9672-0d383582f3fa@07f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20260321T100000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260321T074500Z
-SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
-UID:6d74f5b3-d518-4b45-9613-8800467e13f8@6d74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:6915aad4-34e3-4c7b-bf2f-4d645c094c2a@6915.org
+UID:342a1a7a-4229-439e-a63f-04e2b87bf960@342a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Monika Ziółko
@@ -348,106 +50,69 @@ DTEND:20260228T184500Z
 LOCATION:Paw.E sala G (KSB)
 DTSTART:20260228T163000Z
 SUMMARY:Elektromobilność w logistyce (konwersatorium)
-UID:efa1a72d-9e54-4824-b6ac-67fcaa9ed9f6@efa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Bober
-DTEND:20260228T124500Z
-LOCATION:Bibl. 440
-DTSTART:20260228T103000Z
-SUMMARY:Cyfryzacja i automatyzacja w magazynie (konwersatorium do wyboru)
-UID:041f1ed4-3f9f-41aa-ab30-912c94d1ddf7@041f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20260228T100000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260228T074500Z
-SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
-UID:d95f1531-9247-46a8-a217-c1d0d9c3a51c@d95f.org
+UID:59b09aec-37c1-4fca-b4e6-5fb89ef5e0b3@59b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
-DTEND:20260227T194500Z
-DTSTART:20260227T173000Z
+DTEND:20260320T194500Z
+DTSTART:20260320T173000Z
 SUMMARY:Zarządzanie projektami (wykład)
-UID:34ed34c0-e721-4e39-b914-abeaf91c6af2@34ed.org
+UID:156c11a1-e49a-4e46-9cac-c143e43a3b67@156c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260531T123000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260531T101500Z
+SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
+UID:b9d873e4-5d08-4766-a50b-b63e89a2ed25@b9d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260321T124500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260321T103000Z
+SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
+UID:e0a73e27-1ad2-4eb1-a09d-f9f69fe99170@e0a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20260417T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6295609
+DTSTART:20260417T163000Z
+SUMMARY:Zarządzanie projektami (wykład)
+UID:c19936c1-76c5-46e1-80b7-4a26dea8b626@c199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:0222c2ac-a2f4-4569-b179-181f6dbd1145@0222.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rzegocki
-DTEND:20260515T184500Z
-LOCATION:Paw.F 008
-DTSTART:20260515T163000Z
+DTEND:20260418T174500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260418T153000Z
 SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
-UID:c042cae5-6d26-49e4-9b07-c82f01d928c3@c042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rzegocki
-DTEND:20260529T184500Z
-LOCATION:Paw.F 008
-DTSTART:20260529T163000Z
-SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
-UID:ae008b85-6b4f-48f6-af6e-861baf3005f1@ae00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Żak
-DTEND:20260613T090000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260613T064500Z
-SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
-UID:a3f987cc-2bfd-4341-9ff6-a3f7dcf2e100@a3f9.org
+UID:d7e3e447-dc2c-4977-bce9-39e5cc02d60d@d7e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Patryk Stawiarski
-DTEND:20260516T114500Z
-DTSTART:20260516T093000Z
-SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
-UID:27c6a92d-4707-4b6b-ae83-8648514069a0@27c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rzegocki
-DTEND:20260301T124500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260301T103000Z
-SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
-UID:c7a7d613-71e6-41ef-8c46-3e439b4f4dec@c7a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Leszek Zelek
-DTEND:20260418T151500Z
-LOCATION:Paw.F 008
-DTSTART:20260418T130000Z
-SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
-UID:b9624dae-ad97-4120-98f7-4ce9146150cb@b962.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:e404207f-2a49-4c38-95a1-7325186eba5b@e404.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Monika Ziółko
-DTEND:20260530T114500Z
-LOCATION:Paw.A 301b
-DTSTART:20260530T093000Z
-SUMMARY:Elektromobilność w logistyce (konwersatorium)
-UID:495b1c55-1ac9-47a6-b621-bff1552f9487@495b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:aaf2fbff-06ef-4733-83df-50c8a66192dc@aaf2.org
+DTEND:20260530T151500Z
+LOCATION:Bibl.425
+DTSTART:20260530T130000Z
+SUMMARY:Zarządzanie projektami (ćwiczenia)
+UID:31ab8455-6ddc-4b10-890c-9f13227fe204@31ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Arkadiusz Wróżek
-DTEND:20260424T160000Z
-DTSTART:20260424T134500Z
-SUMMARY:Zrównoważony transport zbiorowy (Przeniesienie zajęć)
-UID:22427435-705e-45d0-b6d8-ee6f9af75266@2242.org
+DTEND:20260419T141500Z
+LOCATION:Paw.F 106
+DTSTART:20260419T120000Z
+SUMMARY:Cyfryzacja i automatyzacja w magazynie (konwersatorium do wyboru)
+UID:86ca5e35-f95c-42ca-96d1-7ea6ed05e6f9@86ca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Żak
@@ -455,14 +120,52 @@ DTEND:20260418T090000Z
 LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
 DTSTART:20260418T064500Z
 SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
-UID:94bad57f-f002-4dd2-b132-88ce7f44bffa@94ba.org
+UID:c883dd42-fa8a-4893-b9ba-3a917c2f9c6d@c883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rzegocki
+DTEND:20260529T184500Z
+LOCATION:Paw.F 008
+DTSTART:20260529T163000Z
+SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
+UID:f635b1dd-00d1-4fc2-8918-59c98ecec9ca@f635.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Monika Ziółko
-DTEND:20260425T114500Z
-DTSTART:20260425T093000Z
-SUMMARY:Elektromobilność w logistyce (Przeniesienie zajęć)
-UID:cb1db57f-8bcf-419e-965c-63db2e012615@cb1d.org
+DTEND:20260329T114500Z
+DTSTART:20260329T093000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium zdalne)
+UID:deb6f99a-fe0a-4fa3-807e-2ea4c7a7c21e@deb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20260328T100000Z
+DTSTART:20260328T074500Z
+SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium zdalne)
+UID:ded783ee-6fe4-4c1e-b876-17a08bd9291a@ded7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260530T174500Z
+LOCATION:Paw.F 008
+DTSTART:20260530T153000Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
+UID:ada9273e-9e77-4147-b8c1-ba0ac187458d@ada9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rzegocki
+DTEND:20260516T090000Z
+DTSTART:20260516T064500Z
+SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (Przeniesienie zajęć)
+UID:e674c012-ca50-45d6-bb0c-bf2553923dd4@e674.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20260228T124500Z
+LOCATION:Bibl. 440
+DTSTART:20260228T103000Z
+SUMMARY:Cyfryzacja i automatyzacja w magazynie (konwersatorium do wyboru)
+UID:8fb3434f-df5f-47c5-9f27-5503d0345849@8fb3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Monika Ziółko
@@ -470,13 +173,310 @@ DTEND:20260531T090000Z
 LOCATION:Bibl.425
 DTSTART:20260531T064500Z
 SUMMARY:Elektromobilność w logistyce (konwersatorium)
-UID:79821512-f38e-4a1b-bbcc-048156508025@7982.org
+UID:86ec8241-01c5-4afc-ae87-4505ee336670@86ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rzegocki
+DTEND:20260515T184500Z
+LOCATION:Paw.F 008
+DTSTART:20260515T163000Z
+SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
+UID:06c5ef50-7e28-471c-942c-c86a15545335@06c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260620T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260620T144500Z
+SUMMARY:Zaawansowane metody analiz logistycznych (kolokwium)
+UID:afdd48ed-082d-4a79-8cfd-064b40ae2d08@afdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260301T100000Z
+LOCATION:Bibl. 440
+DTSTART:20260301T074500Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
+UID:69530500-73fb-4587-8175-11d373061f36@6953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260329T090000Z
+DTSTART:20260329T064500Z
+SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium zdalne)
+UID:7525ab55-760a-419b-bf3f-7e1337630850@7525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260425T151500Z
+DTSTART:20260425T130000Z
+SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
+UID:6902beeb-75ee-4fab-ba62-b750682b845b@6902.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260613T174500Z
+LOCATION:Paw.B 451
+DTSTART:20260613T153000Z
+SUMMARY:Zarządzanie projektami (ćwiczenia)
+UID:0061724f-fb03-4684-b4b9-a60010c7423a@0061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260516T114500Z
+DTSTART:20260516T093000Z
+SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
+UID:046ee1e0-c627-4644-a82b-bb04bb7d2cc3@046e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260612T160000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260612T134500Z
+SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
+UID:e03a7e28-d997-4f67-a297-4c8a4d044943@e03a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260613T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260613T093000Z
+SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
+UID:e8b6b948-ea94-4f73-81db-c677f4fa47e1@e8b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20260529T160000Z
+LOCATION:Bibl.425
+DTSTART:20260529T134500Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:cdd657f1-eb92-4df6-a57f-b06f8fce6a75@cdd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rzegocki
+DTEND:20260301T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260301T103000Z
+SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
+UID:02a22fbc-d881-4549-8ba6-15ba1b404efd@02a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260418T151500Z
+LOCATION:Paw.F 008
+DTSTART:20260418T130000Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
+UID:315edbcd-f34e-4256-9c7c-1a61ee3498bb@315e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20260424T184500Z
+DTSTART:20260424T163000Z
+SUMMARY:Cyfryzacja i automatyzacja w magazynie (Przeniesienie zajęć)
+UID:f314f5ab-d1a6-44c6-a64d-c41eee137bf1@f314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260530T090000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260530T064500Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
+UID:08e2c5e6-a2f1-40b3-9840-8bd9ae0c263e@08e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rzegocki
+DTEND:20260612T184500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260612T163000Z
+SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
+UID:584dcc89-a34d-42c0-94e5-a22991d3ccfa@584d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20260613T151500Z
+DTSTART:20260613T130000Z
+SUMMARY:Elektromobilność w logistyce (Przeniesienie zajęć)
+UID:e79eba39-4fb8-42eb-9796-ce819bf248de@e79e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20260516T174500Z
+LOCATION:Paw.F 415
+DTSTART:20260516T153000Z
+SUMMARY:Zrównoważony transport zbiorowy (konwersatorium do wyboru)
+UID:d9100203-4d0b-42b3-8b7c-b988565fd727@d910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260419T114500Z
+DTSTART:20260419T093000Z
+SUMMARY:Zarządzanie projektami (Przeniesienie zajęć)
+UID:bee2e1ff-fad8-46f8-b2e8-609d7df8b841@bee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20260613T090000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260613T064500Z
+SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
+UID:dceb2134-6f80-43b2-bd74-504d88799e50@dceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260426T104500Z
+DTSTART:20260426T083000Z
+SUMMARY:Zaawansowane metody analiz logistycznych (Przeniesienie zajęć)
+UID:26521e06-9b8a-4800-a503-492aa9bab88d@2652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20260530T090000Z
+DTSTART:20260530T064500Z
+SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (Przeniesienie zajęć)
+UID:1338a9d3-2c7b-4805-9c1d-7cd9cf12d798@1338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260328T124500Z
+DTSTART:20260328T103000Z
+SUMMARY:Zarządzanie projektami (ćwiczenia zdalne)
+UID:0465e87d-b284-40b8-94ed-9a4712396569@0465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260228T161500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260228T140000Z
+SUMMARY:Zarządzanie projektami (ćwiczenia)
+UID:a1caf4f1-f8a8-450b-a623-b95e29bde31b@a1ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rzegocki
+DTEND:20260322T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260322T103000Z
+SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (konwersatorium)
+UID:c51cbb42-e7a8-4574-b248-2571ea58e6b5@c51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20260425T114500Z
+DTSTART:20260425T093000Z
+SUMMARY:Elektromobilność w logistyce (Przeniesienie zajęć)
+UID:d21c87cc-5f27-464e-b945-1ef84e7477ba@d21c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:ab1c5d29-0134-4a33-9bcc-8f259520d10f@ab1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20260321T100000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260321T074500Z
+SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
+UID:e83dc082-1140-4333-9b1e-79dde92ebde6@e83d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20260328T161500Z
+DTSTART:20260328T140000Z
+SUMMARY:Cyfryzacja i automatyzacja w magazynie (konwersatorium zdalne)
+UID:6becfb8d-8cef-4d03-b4b8-21696d0ad9b8@6bec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20260322T184500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260322T163000Z
+SUMMARY:Zaawansowane metody analiz logistycznych (laboratorium)
+UID:93d700f3-e7e0-473e-9ecf-4d13701f73f6@93d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
 DTEND:20260530T114500Z
+LOCATION:Paw.A 301b
 DTSTART:20260530T093000Z
-SUMMARY:Motywowanie i kierowanie międzynarodowym zespołem logistycznym (Przeniesienie zajęć)
-UID:52aef48e-f1d1-4d1a-af72-8067c6a69bd6@52ae.org
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:3a869022-cbc6-4860-9140-2b03d720dc41@3a86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260418T114500Z
+LOCATION:Paw.F 415
+DTSTART:20260418T093000Z
+SUMMARY:Zarządzanie projektami (ćwiczenia)
+UID:26ba0824-934f-47f5-9cd9-15f1ecaa15ae@26ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260322T100000Z
+LOCATION:Bibl. 440
+DTSTART:20260322T074500Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium)
+UID:f18ccdb8-8be6-4d93-9522-e442599545bd@f18c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260516T151500Z
+DTSTART:20260516T130000Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (Przeniesienie zajęć)
+UID:56271768-ff41-445c-8ba8-d8793cbc6369@5627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20260321T161500Z
+LOCATION:Bibl. 440
+DTSTART:20260321T140000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:753ed198-6206-4e63-8d4d-0d81b173bcda@753e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20260321T184500Z
+LOCATION:Bibl.425
+DTSTART:20260321T163000Z
+SUMMARY:Zarządzanie projektami (ćwiczenia)
+UID:b2897c1b-9443-4d06-baf2-f64cda925000@b289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Wróżek
+DTEND:20260424T160000Z
+DTSTART:20260424T134500Z
+SUMMARY:Zrównoważony transport zbiorowy (Przeniesienie zajęć)
+UID:d4c394ff-6bc4-4ab8-90e1-0e68cc95f9bf@d4c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20260516T090000Z
+LOCATION:L Paw.A 401
+DTSTART:20260516T064500Z
+SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
+UID:517b5d05-69e8-4d96-9b0d-5b10708c2b3d@517b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żak
+DTEND:20260228T100000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260228T074500Z
+SUMMARY:Społeczna odpowiedzialność biznesu logistycznego (konwersatorium)
+UID:33ae4118-31a0-4690-bdd3-99575f92d87f@33ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260425T174500Z
+DTSTART:20260425T153000Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (Przeniesienie zajęć)
+UID:7f40c34c-ad5a-429c-9777-ec3a1fa0cbf1@7f40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Leszek Zelek
+DTEND:20260328T184500Z
+DTSTART:20260328T163000Z
+SUMMARY:Modele biznesu w przedsiębiorstwach logistycznych (konwersatorium zdalne)
+UID:847f4f22-3b31-43f8-984d-e9f4bbeab691@847f.org
 END:VEVENT
 END:VCALENDAR

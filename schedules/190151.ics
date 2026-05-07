@@ -2,12 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260424T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298923
-DTSTART:20260424T163000Z
-SUMMARY:Rachunek prawdopodobieństwa (wykład)
-UID:12325b4b-8723-4267-ba4d-921e2e7dfc88@1232.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260228T133000Z
+DTSTART:20260228T111500Z
+SUMMARY:Statystyka opisowa i ekonomiczna (wykład)
+UID:79d02c6e-6045-42b9-a432-3347421e641e@79d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20260314T124500Z
+DTSTART:20260314T103000Z
+SUMMARY:Mikroekonomia II (wykład)
+UID:81e6728c-5a46-4079-bf95-32b4f0bbccac@81e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
@@ -15,238 +21,22 @@ DTEND:20260613T081500Z
 LOCATION:Paw.F 107
 DTSTART:20260613T060000Z
 SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
-UID:de3ad849-7e01-4fee-b208-b09f8f133e1f@de3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260418T104500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260418T083000Z
-SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
-UID:41c402e4-59d2-4944-b1cb-940260d00c5a@41c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
-DTEND:20260314T170000Z
-DTSTART:20260314T140000Z
-SUMMARY:Podstawy zarządzania (wykład)
-UID:a98cb6ae-43ad-4524-9c3d-33624c4e99eb@a98c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sylwia Guzdek
-DTEND:20260329T141500Z
-LOCATION:Paw.B 351
-DTSTART:20260329T120000Z
-SUMMARY:Mikroekonomia II (ćwiczenia)
-UID:93c96ae4-9e92-4a7e-9c72-cbb80f1ad7a1@93c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260227T194500Z
-DTSTART:20260227T173000Z
-SUMMARY:Rachunek prawdopodobieństwa (wykład)
-UID:6616e40c-a9d4-4543-ba50-f347e7a7263b@6616.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
-DTEND:20260517T161500Z
-LOCATION:Paw.B 151
-DTSTART:20260517T144500Z
-SUMMARY:Mikroekonomia II (kolokwium)
-UID:bc1eec42-55c0-44e8-afe0-33ebd4a4102c@bc1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
-DTEND:20260228T161500Z
-DTSTART:20260228T140000Z
-SUMMARY:Podstawy zarządzania (wykład)
-UID:5d8d62a6-908d-4c46-b46d-39eac68e553d@5d8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Wajda-Lichy
-DTEND:20260529T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298931
-DTSTART:20260529T134500Z
-SUMMARY:Makroekonomia I (wykład)
-UID:62be5562-7460-4da4-9e3d-3041051a54de@62be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20260426T133000Z
-LOCATION:Paw.F 104
-DTSTART:20260426T111500Z
-SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
-UID:4ba9d523-634d-4eca-8a17-99f3d9497468@4ba9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Wajda-Lichy
-DTEND:20260531T104500Z
-LOCATION:Paw.B 251
-DTSTART:20260531T083000Z
-SUMMARY:Makroekonomia I (ćwiczenia)
-UID:fdbf096c-ce1e-48bb-8f99-314d411fa808@fdbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20260620T114500Z
-LOCATION:Paw.F 102
-DTSTART:20260620T101500Z
-SUMMARY:Analiza matematyczna w ekonomii (egzamin)
-UID:d6fad961-77b5-4bec-965d-0ed0119c245d@d6fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260614T104500Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260614T083000Z
-SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
-UID:8b83eb0d-515f-44f4-b671-c4af10e796f5@8b83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
-DTEND:20260606T094500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298979
-DTSTART:20260606T064500Z
-SUMMARY:Podstawy zarządzania (wykład)
-UID:2e1bf625-d1cf-499d-9c86-d42dc42bdf58@2e1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260426T104500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260426T083000Z
-SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
-UID:238872dd-7c88-4ec4-b84f-cb1fee7d19bd@2388.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260313T170000Z
-DTSTART:20260313T144500Z
-SUMMARY:Rachunek prawdopodobieństwa (wykład)
-UID:1d6bd099-7fc7-46f9-ac2c-848f78826c4f@1d6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20260425T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298849
-DTSTART:20260425T064500Z
-SUMMARY:Analiza matematyczna w ekonomii (wykład)
-UID:f575fa48-1a5a-46e3-a572-a37856f301a3@f575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260530T081500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260530T060000Z
-SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
-UID:aa18f82d-4087-40ed-b54b-f01a5df7eace@aa18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:ac0d9dd0-2134-4196-b82e-152cb8940f41@ac0d.org
+UID:e22299bd-4fc5-4594-9aa0-c9d270e74bca@e222.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
 DTEND:20260228T110000Z
 DTSTART:20260228T084500Z
 SUMMARY:Analiza matematyczna w ekonomii (wykład)
-UID:9188cc87-829b-4951-ab4f-211c5f2d2045@9188.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
-DTEND:20260620T091500Z
-LOCATION:Paw.S sala 3\, Paw.S sala 4
-DTSTART:20260620T083000Z
-SUMMARY:Podstawy zarządzania (egzamin)
-UID:b4e41ecd-393c-4792-b2c1-0213fe620947@b4e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260424T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6294398
-DTSTART:20260424T134500Z
-SUMMARY:Statystyka opisowa i ekonomiczna (wykład)
-UID:df1e17bc-e83d-4ace-85d6-5562c1509e24@df1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
-DTEND:20260417T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298928
-DTSTART:20260417T134500Z
-SUMMARY:Mikroekonomia II (wykład)
-UID:e3115f57-d1f0-425a-a06b-d6efb57362c8@e311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Wajda-Lichy
-DTEND:20260425T141500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298930
-DTSTART:20260425T120000Z
-SUMMARY:Makroekonomia I (wykład)
-UID:6d7806f5-5656-45e4-acb1-187e1ac8e614@6d78.org
+UID:e937251f-c1c4-457d-8fec-9836177aa376@e937.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260322T114500Z
-LOCATION:Paw.B 251
-DTSTART:20260322T093000Z
-SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
-UID:4577c8b2-3603-446e-8cc4-aaf9cbd4b0d9@4577.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260607T133000Z
-DTSTART:20260607T111500Z
-SUMMARY:Rachunek prawdopodobieństwa (Przeniesienie zajęć)
-UID:61dfbdfd-58cb-4fd5-809d-3eb4a820e258@61df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260228T133000Z
-DTSTART:20260228T111500Z
-SUMMARY:Statystyka opisowa i ekonomiczna (wykład)
-UID:7934f637-cc96-4dda-b34f-691a060d0f73@7934.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Wajda-Lichy
-DTEND:20260417T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298934
-DTSTART:20260417T163000Z
-SUMMARY:Makroekonomia I (wykład)
-UID:7da313a3-fc85-4008-a03c-b2869deb1964@7da3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sylwia Guzdek
-DTEND:20260322T143000Z
-LOCATION:Paw.B 351
-DTSTART:20260322T121500Z
-SUMMARY:Mikroekonomia II (ćwiczenia)
-UID:7eb09e63-7f15-40c3-a9e9-62cded1f6a58@7eb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260517T104500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260517T083000Z
-SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
-UID:65dbdb2f-3141-4395-80cb-77039e001429@65db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20260314T100000Z
-DTSTART:20260314T074500Z
-SUMMARY:Analiza matematyczna w ekonomii (wykład)
-UID:85b7132a-7704-4037-8e1a-707b31370ebe@85b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Wajda-Lichy
-DTEND:20260614T160000Z
-LOCATION:Paw.B 451
-DTSTART:20260614T134500Z
-SUMMARY:Makroekonomia I (ćwiczenia)
-UID:06434bd6-891e-430a-ba5d-8d8f82490534@0643.org
+DTEND:20260424T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298923
+DTSTART:20260424T163000Z
+SUMMARY:Rachunek prawdopodobieństwa (wykład)
+UID:7ca0ee88-36b9-4647-86ac-83656fc50c98@7ca0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mateusz Baryła
@@ -254,54 +44,31 @@ DTEND:20260426T160000Z
 LOCATION:Bibl. 443
 DTSTART:20260426T134500Z
 SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
-UID:44b25bed-e689-4284-bc96-534cfcb97a07@44b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20260315T143000Z
-LOCATION:Paw.F 104
-DTSTART:20260315T121500Z
-SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
-UID:5f8061b2-2033-4176-8b9b-49b0481e6e46@5f80.org
+UID:620f0559-b714-4fbe-8256-0a352893dd3e@620f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260621T110000Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260621T093000Z
-SUMMARY: (egzamin)
-UID:d8bedf07-8e6d-4974-bdb1-97e2734d038a@d8be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
-DTEND:20260227T170000Z
-DTSTART:20260227T144500Z
-SUMMARY:Mikroekonomia II (wykład)
-UID:70e129da-3c8e-4f1c-9644-2817540b3de6@70e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Sylwia Guzdek
-DTEND:20260419T141500Z
-LOCATION:Paw.B 351
-DTSTART:20260419T120000Z
-SUMMARY:Mikroekonomia II (ćwiczenia)
-UID:5607c1f3-fdad-4a31-845c-1cf3b27a628c@5607.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20260620T133000Z
-LOCATION:Paw.F 102
-DTSTART:20260620T120000Z
-SUMMARY:Analiza matematyczna w ekonomii (zaliczenie)
-UID:6ca6bb88-f2e1-46ec-a16d-dbe049e23ffa@6ca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260315T114500Z
+DTEND:20260426T104500Z
 LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260315T093000Z
+DTSTART:20260426T083000Z
 SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
-UID:8ca08028-94ae-4c53-8c19-7b26dff2b9cd@8ca0.org
+UID:fdc7e442-dd14-48da-8cf9-160194b98e88@fdc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260418T104500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260418T083000Z
+SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
+UID:db4b3713-a1cf-4392-b14c-fcf5e20a3f56@db4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20260614T160000Z
+LOCATION:Paw.B 451
+DTSTART:20260614T134500Z
+SUMMARY:Makroekonomia I (ćwiczenia)
+UID:ad063783-762f-44b3-a4c2-ed6a58987364@ad06.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marta Wajda-Lichy
@@ -309,46 +76,14 @@ DTEND:20260418T133000Z
 LOCATION:Bibl. 443
 DTSTART:20260418T111500Z
 SUMMARY:Makroekonomia I (ćwiczenia)
-UID:98fd8c8f-b964-4599-9e49-1dc9e3e20f65@98fd.org
+UID:03d5261b-df60-4fbd-b117-7de98bc8e014@03d5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260517T141500Z
-LOCATION:Paw.C sala D
-DTSTART:20260517T111500Z
-SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
-UID:0573f725-e99a-4d9e-9767-3af8fd44cfc0@0573.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260530T141500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20260530T111500Z
-SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
-UID:b3ec3d73-3ba1-4469-a3b4-752cc3ac7578@b3ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260419T113000Z
-LOCATION:Paw.F 106
-DTSTART:20260419T083000Z
-SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
-UID:2fb5b72a-6137-43ad-ac92-b23e4906a76e@2fb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marta Wajda-Lichy
-DTEND:20260607T104500Z
-DTSTART:20260607T083000Z
-SUMMARY:Makroekonomia I (Przeniesienie zajęć)
-UID:cac22581-56f7-4667-b16b-428a684f8423@cac2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
-DTEND:20260418T081500Z
-LOCATION:Paw.F 104
-DTSTART:20260418T060000Z
-SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
-UID:e7997333-7b23-4779-aa60-639ece26e7bd@e799.org
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:9b7e10e8-96fa-4b28-aef6-0764b55b200a@9b7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
@@ -356,36 +91,83 @@ DTEND:20260329T104500Z
 LOCATION:Paw.F 104
 DTSTART:20260329T083000Z
 SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
-UID:39aed45b-b6e8-494e-9989-231ac5c4d090@39ae.org
+UID:22650564-4161-47e0-8d72-d211b0e08bd8@2265.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
-DTEND:20260516T094500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6298975
-DTSTART:20260516T064500Z
-SUMMARY:Podstawy zarządzania (wykład)
-UID:7e592fb8-daa2-44a4-875b-ead80d8adf3e@7e59.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20260418T081500Z
+LOCATION:Paw.F 104
+DTSTART:20260418T060000Z
+SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
+UID:7afab6d1-d1d0-4c74-912e-923dba839522@7afa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20260607T104500Z
+DTSTART:20260607T083000Z
+SUMMARY:Makroekonomia I (Przeniesienie zajęć)
+UID:c7c91b83-72f9-4e44-a16d-5a63a554b000@c7c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
-DTEND:20260314T124500Z
-DTSTART:20260314T103000Z
+DTEND:20260227T170000Z
+DTSTART:20260227T144500Z
 SUMMARY:Mikroekonomia II (wykład)
-UID:cbd30bf8-46b9-4026-ab0d-01ccc0436824@cbd3.org
+UID:8ba0c4b8-1170-469d-b340-0b6717be3177@8ba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20260314T100000Z
+DTSTART:20260314T074500Z
+SUMMARY:Analiza matematyczna w ekonomii (wykład)
+UID:bc5bf1a3-6dc0-4e54-aa57-76cfd32e3fd3@bc5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20260426T133000Z
+LOCATION:Paw.F 104
+DTSTART:20260426T111500Z
+SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
+UID:1aa7bedf-69fc-4f90-a6b2-275efdada3c0@1aa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20260620T133000Z
+LOCATION:Paw.F 102
+DTSTART:20260620T120000Z
+SUMMARY:Analiza matematyczna w ekonomii (zaliczenie)
+UID:ee06ef88-e0c6-4319-82a6-c134bcb072ea@ee06.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
 SUMMARY: (rezerwacja)
-UID:e98bb094-4672-4d86-b173-db2cc97721ab@e98b.org
+UID:616edf39-272c-480f-92a3-f8ae255c4dc3@616e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
-DTEND:20260321T091500Z
-DTSTART:20260321T070000Z
-SUMMARY:Statystyka opisowa i ekonomiczna (wykład)
-UID:d96fd94d-ba2d-4819-9089-6a152cb0a909@d96f.org
+DTEND:20260614T104500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260614T083000Z
+SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
+UID:74fce7d5-4d52-49dc-a8bf-eb89e5b905c1@74fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260322T114500Z
+LOCATION:Paw.B 251
+DTSTART:20260322T093000Z
+SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
+UID:c459f5b3-a35a-4049-8cb9-0473be263c90@c459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sylwia Guzdek
+DTEND:20260329T141500Z
+LOCATION:Paw.B 351
+DTSTART:20260329T120000Z
+SUMMARY:Mikroekonomia II (ćwiczenia)
+UID:6ce38b29-2bed-405c-8a96-5764cdb3a6d7@6ce3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
@@ -393,22 +175,44 @@ DTEND:20260530T104500Z
 LOCATION:Paw.F 104
 DTSTART:20260530T083000Z
 SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
-UID:10201832-a5a6-43a6-a0d3-5a51dd111057@1020.org
+UID:080a4549-bf7a-42d7-add9-f72ee9411bdd@080a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mateusz Baryła
-DTEND:20260619T160000Z
-LOCATION:Paw.C sala B
-DTSTART:20260619T134500Z
-SUMMARY:Rachunek prawdopodobieństwa (egzamin)
-UID:db4b25ca-aacd-4f2d-9651-1beb772befdc@db4b.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260321T091500Z
+DTSTART:20260321T070000Z
+SUMMARY:Statystyka opisowa i ekonomiczna (wykład)
+UID:4b3a5a44-8be7-4572-b5b0-e762f39f50d0@4b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sylwia Guzdek
+DTEND:20260322T143000Z
+LOCATION:Paw.B 351
+DTSTART:20260322T121500Z
+SUMMARY:Mikroekonomia II (ćwiczenia)
+UID:b8cb4cf5-e004-4ac7-b3cf-dada49e68287@b8cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
 SUMMARY: (rezerwacja)
-UID:7deecaf1-1ab9-4916-ac59-958bd4a94db4@7dee.org
+UID:72bafe53-42b7-4185-b9f1-0f087ceade3a@72ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20260228T161500Z
+DTSTART:20260228T140000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:825b2dd1-1a40-47cd-a249-c98dbef7d15d@825b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20260425T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298849
+DTSTART:20260425T064500Z
+SUMMARY:Analiza matematyczna w ekonomii (wykład)
+UID:aef485b2-768d-4a7b-95e5-d68f698a4b2a@aef4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
@@ -416,6 +220,202 @@ DTEND:20260425T114500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6298924
 DTSTART:20260425T093000Z
 SUMMARY:Podstawy zarządzania (wykład)
-UID:2e16d609-e2d3-4b50-8bba-f69142f7f7a9@2e16.org
+UID:f99e6311-d36e-4212-b608-69b7db2fac06@f99e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20260620T114500Z
+LOCATION:Paw.F 102
+DTSTART:20260620T101500Z
+SUMMARY:Analiza matematyczna w ekonomii (egzamin)
+UID:257c5f88-596e-4402-97ff-4fcb21bd3a4c@257c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260530T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260530T060000Z
+SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
+UID:e8affebf-af90-46bf-9a78-3311e1f1c90e@e8af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260607T133000Z
+DTSTART:20260607T111500Z
+SUMMARY:Rachunek prawdopodobieństwa (Przeniesienie zajęć)
+UID:df4d223f-e904-4039-9da9-296c892828a2@df4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260315T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260315T093000Z
+SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
+UID:f1c1a3ca-5c9a-450e-8e60-a11df56090e1@f1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260621T110000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260621T093000Z
+SUMMARY: (egzamin)
+UID:cdf89de2-d46d-4e02-b2e3-8c8ede4e5a3d@cdf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260419T113000Z
+LOCATION:Paw.F 106
+DTSTART:20260419T083000Z
+SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
+UID:772e3d7e-ce93-49d3-a47a-933159f8b7b6@772e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20260531T104500Z
+LOCATION:Paw.B 251
+DTSTART:20260531T083000Z
+SUMMARY:Makroekonomia I (ćwiczenia)
+UID:b8531554-104c-4d85-b49b-fb90ebcee465@b853.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260530T141500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20260530T111500Z
+SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
+UID:2c28b05f-ef3d-43c5-aabc-0eb31dda2724@2c28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Lipieta
+DTEND:20260315T143000Z
+LOCATION:Paw.F 104
+DTSTART:20260315T121500Z
+SUMMARY:Analiza matematyczna w ekonomii (ćwiczenia)
+UID:521f6611-87cb-44c2-b03a-d19f6238d578@521f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20260417T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298934
+DTSTART:20260417T163000Z
+SUMMARY:Makroekonomia I (wykład)
+UID:0eb786f4-2cc6-45c5-9050-3b8257b09aef@0eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20260425T141500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298930
+DTSTART:20260425T120000Z
+SUMMARY:Makroekonomia I (wykład)
+UID:2cdbbe60-d82b-4dca-af11-7895f30021e8@2cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20260516T094500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298975
+DTSTART:20260516T064500Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:72b3454d-c44e-4fcf-940d-9a225524e11f@72b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20260314T170000Z
+DTSTART:20260314T140000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:409f67d3-30fb-4c98-935a-01851cc7c617@409f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260517T104500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260517T083000Z
+SUMMARY:Statystyka opisowa i ekonomiczna (ćwiczenia)
+UID:2310dd20-2cc4-47fc-a5a0-dfecfd5ee051@2310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260227T194500Z
+DTSTART:20260227T173000Z
+SUMMARY:Rachunek prawdopodobieństwa (wykład)
+UID:2bb3223d-c1bb-4279-897e-fa1617cb37fc@2bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20260529T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298931
+DTSTART:20260529T134500Z
+SUMMARY:Makroekonomia I (wykład)
+UID:b2c9b7a9-ba15-4df0-be5f-707256bdfc6a@b2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20260620T091500Z
+LOCATION:Paw.S sala 3\, Paw.S sala 4
+DTSTART:20260620T083000Z
+SUMMARY:Podstawy zarządzania (egzamin)
+UID:10aa0531-9af7-4290-9a94-c92c4c2c6ace@10aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260619T160000Z
+LOCATION:Paw.C sala B
+DTSTART:20260619T134500Z
+SUMMARY:Rachunek prawdopodobieństwa (egzamin)
+UID:b8f4d87d-d3e8-478a-8a5f-1a5b5996c9d3@b8f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20260417T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298928
+DTSTART:20260417T134500Z
+SUMMARY:Mikroekonomia II (wykład)
+UID:adcc9e0c-0576-422e-8e7f-a2fd151e95f0@adcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Wałęga
+DTEND:20260424T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6294398
+DTSTART:20260424T134500Z
+SUMMARY:Statystyka opisowa i ekonomiczna (wykład)
+UID:ad06f0bd-2d88-4f50-b6c6-c878d10db6f9@ad06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sylwia Guzdek
+DTEND:20260419T141500Z
+LOCATION:Paw.B 351
+DTSTART:20260419T120000Z
+SUMMARY:Mikroekonomia II (ćwiczenia)
+UID:3d6444c3-eb3a-4f78-a94b-c52d5d4ca943@3d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20260517T161500Z
+LOCATION:Paw.B 151
+DTSTART:20260517T144500Z
+SUMMARY:Mikroekonomia II (kolokwium)
+UID:472f3edf-798a-46ad-abb0-ab993fe69477@472f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260517T141500Z
+LOCATION:Paw.C sala D
+DTSTART:20260517T111500Z
+SUMMARY:Rachunek prawdopodobieństwa (ćwiczenia)
+UID:b8d8cca0-6dc3-40af-88ce-2007ef6b1565@b8d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Baryła
+DTEND:20260313T170000Z
+DTSTART:20260313T144500Z
+SUMMARY:Rachunek prawdopodobieństwa (wykład)
+UID:725dfb7f-33a0-498f-bbdd-1958155943d2@725d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20260606T094500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6298979
+DTSTART:20260606T064500Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:f99afcec-3d2e-47ef-80a1-82878dd803b8@f99a.org
 END:VEVENT
 END:VCALENDAR
