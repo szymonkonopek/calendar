@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20260516T143000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260516T130000Z
-SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
-UID:bb58f045-2336-425f-9ea6-0fd90025cedc@bb58.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20260426T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6371817
+DTSTART:20260426T111500Z
+SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (wykład do wyboru)
+UID:59b1dc89-f79f-4e4b-8b0b-f1c3d1679d87@59b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20260418T114500Z
+DTSTART:20260418T093000Z
+SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (Przeniesienie zajęć)
+UID:6a82f1be-f625-4bfc-aabd-60409ced4b2c@6a82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Zbigniew Borek
@@ -15,15 +22,21 @@ DTEND:20260417T160000Z
 LOCATION:Paw.E sala G (KSB)
 DTSTART:20260417T134500Z
 SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
-UID:e99ab60a-4178-4276-babb-98020b33360f@e99a.org
+UID:2125f89c-3c28-43ff-afae-95d292c3dadb@2125.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
-DTEND:20260426T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6371817
-DTSTART:20260426T111500Z
+DTEND:20260329T090000Z
+DTSTART:20260329T064500Z
 SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (wykład do wyboru)
-UID:bc077c08-2a14-42d5-8a34-bdd87edaf187@bc07.org
+UID:2804f94d-3c68-47e7-babb-a6baa55493e5@2804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:b21814c4-1098-4cbe-88d8-f6b816890b48@b218.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
@@ -31,52 +44,15 @@ DTEND:20260322T110000Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20260322T084500Z
 SUMMARY:Wprowadzenie do symulacji dyskretnej (ćwiczenia do wyboru)
-UID:08a6a409-cd08-47b9-8a86-ba5ae449d4cb@08a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20260329T114500Z
-DTSTART:20260329T093000Z
-SUMMARY:Zarządzanie jakością oprogramowania (wykład do wyboru)
-UID:8dad0e8f-95a4-4075-b782-ce7689c8bdd9@8dad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20260418T174500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260418T153000Z
-SUMMARY:Zarządzanie jakością oprogramowania (ćwiczenia do wyboru)
-UID:a2a7bb93-d421-4d95-ae89-70888b42899d@a2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
-DTEND:20260307T100000Z
-DTSTART:20260307T074500Z
-SUMMARY:Zarządzanie jakością oprogramowania (wykład do wyboru)
-UID:b12bef04-17cf-4ca6-845c-566309fbc42a@b12b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
-DTEND:20260321T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260321T103000Z
-SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (ćwiczenia do wyboru)
-UID:4e43f2c7-3fff-4dee-94c4-78277a78ac99@4e43.org
+UID:f5973848-d760-4925-889c-018dbb1189d9@f597.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20260516T124500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260516T111500Z
+DTEND:20260516T143000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260516T130000Z
 SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
-UID:73800316-21c4-4d72-92ec-d4fa664c6d6f@7380.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:e919102a-3a7b-45b8-b706-9f7d4fa2d039@e919.org
+UID:4e5173e3-c751-4065-aa77-0cd551346e69@4e51.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
@@ -84,44 +60,7 @@ DTEND:20260426T081500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6388936
 DTSTART:20260426T060000Z
 SUMMARY:Zarządzanie jakością oprogramowania (wykład do wyboru)
-UID:b1d23805-b3b2-49c3-9b64-04ca22d4a173@b1d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260329T141500Z
-DTSTART:20260329T120000Z
-SUMMARY:Wprowadzenie do symulacji dyskretnej (wykład do wyboru)
-UID:a06abd5f-737e-499f-b180-31319ebeb1a5@a06a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20260613T160000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260613T134500Z
-SUMMARY:Zarządzanie jakością oprogramowania (ćwiczenia do wyboru)
-UID:e9144334-5095-4e43-b3b1-ea7581cfe971@e914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
-DTEND:20260329T090000Z
-DTSTART:20260329T064500Z
-SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (wykład do wyboru)
-UID:f9f4ad7c-11e3-483e-bdad-c453fee10b18@f9f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
-DTEND:20260308T091500Z
-DTSTART:20260308T070000Z
-SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (wykład do wyboru)
-UID:1f365996-71c8-4e08-8cfc-1b5eca76be52@1f36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
-DTEND:20260517T114500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260517T093000Z
-SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (ćwiczenia do wyboru)
-UID:47da757f-19ba-42c5-b28b-eeefa8c3023d@47da.org
+UID:9cadbd00-a704-439b-b75f-7cbc41719005@9cad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
@@ -129,68 +68,23 @@ DTEND:20260530T123000Z
 LOCATION:Rakowicka 16 sala 13
 DTSTART:20260530T101500Z
 SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (ćwiczenia do wyboru)
-UID:30f17090-60a0-4adc-862e-e781226b8ca6@30f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260418T151500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260418T130000Z
-SUMMARY:Wprowadzenie do symulacji dyskretnej (ćwiczenia do wyboru)
-UID:76fb7bed-491b-4589-b2f8-6f5c36e123fd@76fb.org
+UID:66d17e87-6aad-4d35-9077-b3c0252f6746@66d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Artur Żuwała
-DTEND:20260531T151500Z
+DTEND:20260418T174500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260531T130000Z
+DTSTART:20260418T153000Z
 SUMMARY:Zarządzanie jakością oprogramowania (ćwiczenia do wyboru)
-UID:3b7d0eed-589b-439b-ab51-d67df6dc8770@3b7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:6537829a-9820-40b5-91f5-384567a1fe78@6537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20260530T094500Z
-LOCATION:Bud.gł. Stara Aula
-DTSTART:20260530T064500Z
-SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
-UID:8c047cb8-66cc-44d5-87ec-203762e5f064@8c04.org
+UID:adf50eb2-12e6-4632-a95f-c2bd53d93b0d@adf5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
-DTEND:20260418T114500Z
-DTSTART:20260418T093000Z
-SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (Przeniesienie zajęć)
-UID:ef851f98-2e26-454a-bd90-34f0ac723594@ef85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Zbigniew Borek
-DTEND:20260322T141500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260322T111500Z
-SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
-UID:9e5ae5fd-e805-45d0-b735-3473f75cb83c@9e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260517T151500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260517T130000Z
-SUMMARY:Wprowadzenie do symulacji dyskretnej (ćwiczenia do wyboru)
-UID:1059d8b0-bbaf-419a-bac6-c707b4c108cd@1059.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
-DTEND:20260308T114500Z
-DTSTART:20260308T093000Z
-SUMMARY:Wprowadzenie do symulacji dyskretnej (wykład do wyboru)
-UID:cca31160-4cf6-4f67-b5e3-457288c4e54f@cca3.org
+DTEND:20260321T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260321T103000Z
+SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (ćwiczenia do wyboru)
+UID:52634bef-af49-48e2-9787-3298002d5ac4@5263.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Zbigniew Borek
@@ -198,7 +92,120 @@ DTEND:20260529T170000Z
 LOCATION:Paw.C sala E
 DTSTART:20260529T144500Z
 SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
-UID:0038b80b-228c-450d-ac3a-0ee4c839f980@0038.org
+UID:a9734dab-7bba-47d0-aabb-4cebc17af1d5@a973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20260517T114500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260517T093000Z
+SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (ćwiczenia do wyboru)
+UID:e291dc4c-6176-4f11-ab68-c55105ed8744@e291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:8eb634b1-3f9e-4d58-b653-4b8c8752bff9@8eb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260517T151500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260517T130000Z
+SUMMARY:Wprowadzenie do symulacji dyskretnej (ćwiczenia do wyboru)
+UID:647510ca-a56c-4e35-9d33-513b90319003@6475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20260531T151500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260531T130000Z
+SUMMARY:Zarządzanie jakością oprogramowania (ćwiczenia do wyboru)
+UID:6e89f154-00d4-424f-9efc-cf790a990240@6e89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260308T114500Z
+DTSTART:20260308T093000Z
+SUMMARY:Wprowadzenie do symulacji dyskretnej (wykład do wyboru)
+UID:8d5839e8-46de-4ba1-af30-7860ccef0d99@8d58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260418T151500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260418T130000Z
+SUMMARY:Wprowadzenie do symulacji dyskretnej (ćwiczenia do wyboru)
+UID:c46cca5d-484e-4ebb-b01a-8da569590fdf@c46c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20260307T100000Z
+DTSTART:20260307T074500Z
+SUMMARY:Zarządzanie jakością oprogramowania (wykład do wyboru)
+UID:10c70029-75b5-40d4-ad20-368bb5257c25@10c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20260613T160000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260613T134500Z
+SUMMARY:Zarządzanie jakością oprogramowania (ćwiczenia do wyboru)
+UID:6fe8bb88-30b6-4330-b0b7-677c145e869b@6fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20260322T141500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260322T111500Z
+SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
+UID:d5e235e6-1c35-447e-b382-896794bb81d7@d5e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:c2afd5ce-8366-415c-8280-161100cb7fac@c2af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20260308T091500Z
+DTSTART:20260308T070000Z
+SUMMARY:Filozofia wobec wyzwań współczesnej cywilizacji (wykład do wyboru)
+UID:21574e94-3b13-49d4-b68e-2b22d7c3440c@2157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20260329T114500Z
+DTSTART:20260329T093000Z
+SUMMARY:Zarządzanie jakością oprogramowania (wykład do wyboru)
+UID:493f5e33-7b99-4d8d-9e82-6de22f0a30c3@493f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20260329T141500Z
+DTSTART:20260329T120000Z
+SUMMARY:Wprowadzenie do symulacji dyskretnej (wykład do wyboru)
+UID:d2681ca3-1034-4e84-b293-a0efdc103e09@d268.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20260530T094500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20260530T064500Z
+SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
+UID:13ef4ada-d838-4260-8049-c078bbacc8c8@13ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20260516T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260516T111500Z
+SUMMARY:Zarządzanie zdrowym stylem życia (ćwiczenia do wyboru)
+UID:8abefec5-bee8-4443-b9b9-1fe6ce09931a@8abe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
@@ -206,13 +213,6 @@ DTEND:20260426T104500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6371800
 DTSTART:20260426T083000Z
 SUMMARY:Wprowadzenie do symulacji dyskretnej (wykład do wyboru)
-UID:48b406ad-b882-4193-9a01-863387c74748@48b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:5a2de8cd-2008-477f-ade6-f6db8b89298b@5a2d.org
+UID:fcdd93fe-0879-4bd3-ab94-906d5bbd95b1@fcdd.org
 END:VEVENT
 END:VCALENDAR
