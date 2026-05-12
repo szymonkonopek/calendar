@@ -2,20 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20260529T160000Z
-LOCATION:Paw.F 109
-DTSTART:20260529T134500Z
-SUMMARY:Koszty transportu (ćwiczenia)
-UID:5cd2c2b4-6534-4853-a784-dda024ccded9@5cd2.org
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260315T114500Z
+LOCATION:Paw.B 251
+DTSTART:20260315T093000Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
+UID:c31577eb-1444-4be2-8ddb-ab35bc465c0d@c315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260314T170000Z
+DTSTART:20260314T144500Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (wykład)
+UID:3be7c69f-ac84-4cd0-ba9c-e87d6d18b3a9@3be7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260425T081500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301495
-DTSTART:20260425T060000Z
+DTEND:20260328T091500Z
+DTSTART:20260328T070000Z
 SUMMARY:Proces zarządzania (wykład do wyboru)
-UID:a2efaf40-1109-4383-a4b7-abc0fe82d199@a2ef.org
+UID:0692dca0-14dd-458b-8e2a-91560c52d881@0692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260328T143000Z
+DTSTART:20260328T121500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:ddb9c184-8974-4b16-a966-e56f543c3ead@ddb9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
@@ -23,342 +36,14 @@ DTEND:20260531T081500Z
 LOCATION:Sienk. 4 sala audio
 DTSTART:20260531T060000Z
 SUMMARY:Cło w transporcie i spedycji (konwersatorium)
-UID:27f4962b-af1e-4a76-905c-e3a8010a2194@27f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
-DTEND:20260315T091500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260315T070000Z
-SUMMARY:Cło w transporcie i spedycji (konwersatorium)
-UID:f0ab5391-3a4f-4b72-8531-1c40119e598a@f0ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:1dea3659-4ec8-4b57-8eb3-0c7ffdf878f0@1dea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20260418T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301524
-DTSTART:20260418T111500Z
-SUMMARY:Etyka i wyzwania współczesności (wykład do wyboru)
-UID:5c53b480-4314-4f95-8661-7a716387bb6b@5c53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20260314T143000Z
-DTSTART:20260314T121500Z
-SUMMARY:Etyka i wyzwania współczesności (wykład do wyboru)
-UID:cab1a243-17a0-4896-8db0-684488c1d496@cab1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260425T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20260425T083000Z
-SUMMARY:Analiza efektywności zarządzania (wykład e-learningowy)
-UID:090e1dcd-3ab1-4cb8-9fbc-bd000364e416@090e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20260516T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301527
-DTSTART:20260516T134500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (wykład)
-UID:c1af89e5-0772-4edf-9928-29c90091c675@c1af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260314T114500Z
-DTSTART:20260314T093000Z
-SUMMARY:Bezpieczeństwo żywności w transporcie (Przeniesienie zajęć)
-UID:0c2d2186-bcae-4b57-8ce7-bcc8f4f0c3dc@0c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
-DTEND:20260614T081500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260614T060000Z
-SUMMARY:Cło w transporcie i spedycji (konwersatorium)
-UID:fb2f70e9-5fa6-492e-8dd6-419ad6edd87b@fb2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20260606T081500Z
-DTSTART:20260606T060000Z
-SUMMARY:Koszty transportu (Przeniesienie zajęć)
-UID:770e1252-1a38-4501-8916-0fab538411e5@770e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260418T081500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6413205
-DTSTART:20260418T060000Z
-SUMMARY:Bezpieczeństwo żywności w transporcie (wykład do wyboru)
-UID:46f6463b-1b58-4563-a567-06bbd18b9288@46f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20260425T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6794212
-DTSTART:20260425T134500Z
-SUMMARY:Koszty transportu (wykład)
-UID:547ce2e8-adb9-402f-ade0-ef149dc66925@547c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260228T143000Z
-DTSTART:20260228T121500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:997f384d-27e3-430f-b92f-600b7e10d179@997f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260531T133000Z
-DTSTART:20260531T111500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
-UID:77424873-382a-4957-beec-c8274f48a08e@7742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260612T184500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260612T163000Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
-UID:df19a25f-fcda-4f3c-a235-14b193f2d4ab@df19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260530T104500Z
-DTSTART:20260530T083000Z
-SUMMARY:Bezpieczeństwo żywności w transporcie (Przeniesienie zajęć)
-UID:3b87f1d9-e384-4fa5-ab46-b8be3199937d@3b87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260515T160000Z
-LOCATION:Paw.F 109
-DTSTART:20260515T134500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
-UID:12f0b929-8f1a-47a2-9755-bfac5ee001b3@12f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260606T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301542
-DTSTART:20260606T111500Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (wykład)
-UID:d14f9d45-670d-468f-9cd5-8d0829c1c2af@d14f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260517T160000Z
-DTSTART:20260517T134500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
-UID:7f8c84c8-8827-4b7b-992d-9e975563ca91@7f8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260614T133000Z
-DTSTART:20260614T111500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
-UID:c2c35e7c-1617-467c-811c-c1c335f0057f@c2c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260327T194500Z
-DTSTART:20260327T173000Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia zdalne)
-UID:8b00e9f7-136b-4c7c-8635-f0d29106a17f@8b00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20260424T160000Z
-LOCATION:Paw.F 109
-DTSTART:20260424T134500Z
-SUMMARY:Koszty transportu (ćwiczenia)
-UID:5a43aba2-cb1a-4039-b01d-0eb07dc6b503@5a43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
-DTEND:20260530T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301522
-DTSTART:20260530T111500Z
-SUMMARY:Etyka i wyzwania współczesności (wykład do wyboru)
-UID:d19b9898-d6f4-43a2-aa3a-58da32ff2921@d19b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20260516T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301538
-DTSTART:20260516T111500Z
-SUMMARY:Koszty transportu (wykład)
-UID:c5596b11-e89c-4c59-8d42-1cc7884e6c71@c559.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260531T104500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260531T083000Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
-UID:f3dd3e54-ab1e-4878-9535-21e4582418c3@f3dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
-DTEND:20260419T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301528
-DTSTART:20260419T111500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (wykład)
-UID:c572d986-96c1-455b-bc5e-2e3acb7c479e@c572.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260517T123000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6795186
-DTSTART:20260517T101500Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia zdalne)
-UID:c74fe34d-e56e-42db-8358-b70d15846663@c74f.org
+UID:ad839dd7-8ad5-4d62-ac65-4a7147cda801@ad83.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
 DTEND:20260614T104500Z
 DTSTART:20260614T083000Z
 SUMMARY:Ocena oddziaływania transportu na środowisko (Przeniesienie zajęć)
-UID:422a33b4-412d-4a73-a64c-3a805d964a50@422a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260426T104500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260426T083000Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
-UID:f04713a8-7b5f-4b8d-be89-9210c472e4e8@f047.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
-DTEND:20260329T081500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260329T060000Z
-SUMMARY:Cło w transporcie i spedycji (konwersatorium)
-UID:46a936b0-56d9-484d-be26-e120cb76acd3@46a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
-DTEND:20260517T081500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260517T060000Z
-SUMMARY:Cło w transporcie i spedycji (konwersatorium)
-UID:5a5d42a1-38ce-4fd6-b8d7-d49d17e4d8b4@5a5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260328T114500Z
-LOCATION:Platforma Moodle
-DTSTART:20260328T093000Z
-SUMMARY:Analiza efektywności zarządzania (wykład e-learningowy)
-UID:63b5ad83-72fa-4224-9e13-19af31409bbc@63b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260328T143000Z
-DTSTART:20260328T121500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:91ce7dc2-39d7-45bb-96d1-7fec9f323c5b@91ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:8865dc02-66fa-4da5-85ea-c243acb7a921@8865.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260424T184500Z
-LOCATION:Paw.F 515
-DTSTART:20260424T163000Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
-UID:874ef741-49e2-4582-a442-6b22f2882fb9@874e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260516T104500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301541
-DTSTART:20260516T083000Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (wykład)
-UID:5b750b38-247a-4f2e-ad4c-2fd3322d641e@5b75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20260419T104500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301529
-DTSTART:20260419T083000Z
-SUMMARY:Koszty transportu (wykład)
-UID:4d6d90c0-909d-4a8f-aff7-76f6be9054a1@4d6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260314T170000Z
-DTSTART:20260314T144500Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (wykład)
-UID:86a8140a-571f-4ec6-8992-83e3b582db18@86a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260328T091500Z
-DTSTART:20260328T070000Z
-SUMMARY:Proces zarządzania (wykład do wyboru)
-UID:b6550186-ee80-405a-8395-c7921791a889@b655.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260426T133000Z
-LOCATION:Paw.F 413
-DTSTART:20260426T111500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
-UID:26e2786c-6aa7-4cea-a0df-53916eee924b@26e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260529T184500Z
-LOCATION:Paw.F 109
-DTSTART:20260529T163000Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
-UID:adf1c0b4-c4f6-4fc9-a2e8-b436e3d5e090@adf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Bernard Bińczycki
-DTEND:20260228T114500Z
-DTSTART:20260228T093000Z
-SUMMARY:Analiza efektywności zarządzania (wykład do wyboru)
-UID:ff5b0b9f-c090-44ee-b8cc-006fa0a26eee@ff5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
-DTEND:20260426T081500Z
-LOCATION:Paw.U sala S(Kat.Opak.)
-DTSTART:20260426T060000Z
-SUMMARY:Cło w transporcie i spedycji (konwersatorium)
-UID:065aab25-1aeb-479d-a9b5-2f3e3d5cc712@065a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260315T114500Z
-LOCATION:Paw.B 251
-DTSTART:20260315T093000Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
-UID:e6d28575-501a-466b-a774-5cd6ee6664ea@e6d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260329T133000Z
-DTSTART:20260329T111500Z
-SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
-UID:fbc1cdad-7123-4eb0-a31a-16443fc66624@fbc1.org
+UID:d4789a5a-58f6-4738-8f6a-12c09c6b582c@d478.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
@@ -366,66 +51,28 @@ DTEND:20260606T104500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6301526
 DTSTART:20260606T083000Z
 SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (wykład)
-UID:30ec607d-b474-4207-be75-92115beb6851@30ec.org
+UID:b9169bd6-563b-456a-be20-2832fdc1c010@b916.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260418T081500Z
-DTSTART:20260418T060000Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (Przeniesienie zajęć)
-UID:97f549fb-b8d2-4d25-a15c-3e22baa38a86@97f5.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20260314T143000Z
+DTSTART:20260314T121500Z
+SUMMARY:Etyka i wyzwania współczesności (wykład do wyboru)
+UID:b535fb2e-2498-4cfd-a1a6-0c4d0d021d0b@b535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260228T114500Z
+DTSTART:20260228T093000Z
+SUMMARY:Analiza efektywności zarządzania (wykład do wyboru)
+UID:ff84db75-7f5a-4649-b9db-b8677c6cce16@ff84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260315T143000Z
-DTSTART:20260315T121500Z
+DTEND:20260614T133000Z
+DTSTART:20260614T111500Z
 SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
-UID:f4619a7e-577f-4681-b512-fd32fa7c22c0@f461.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260314T100000Z
-DTSTART:20260314T074500Z
-SUMMARY:Bezpieczeństwo żywności w transporcie (wykład do wyboru)
-UID:68d9b516-5cdb-48a9-9ae4-2a07f418b749@68d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260329T104500Z
-LOCATION:Paw.S sala 11
-DTSTART:20260329T083000Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
-UID:ecf8437e-d260-43c8-b330-034b38bbdbeb@ecf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kinga Bauer
-DTEND:20260515T184500Z
-LOCATION:Paw.F 109
-DTSTART:20260515T163000Z
-SUMMARY:Koszty transportu (ćwiczenia)
-UID:1c7a5707-b16e-4802-b397-75695e7b864a@1c7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
-DTEND:20260228T091500Z
-DTSTART:20260228T070000Z
-SUMMARY:Proces zarządzania (wykład do wyboru)
-UID:383f8176-db33-4022-9b24-7965506c4481@383f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260425T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6301511
-DTSTART:20260425T111500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:ae2d1825-7913-41a8-820a-a6af77bba109@ae2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marcin Rychwalski
-DTEND:20260315T114500Z
-DTSTART:20260315T093000Z
-SUMMARY:Ocena oddziaływania transportu na środowisko (Przeniesienie zajęć)
-UID:d9078d14-85b7-49bd-acf5-b14895715f50@d907.org
+UID:49002d44-020f-4930-8502-13cf82b11976@4900.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
@@ -433,21 +80,128 @@ DTEND:20260418T104500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6301518
 DTSTART:20260418T083000Z
 SUMMARY:Bezpieczeństwo żywności w transporcie (wykład do wyboru)
-UID:ee9e96dc-246f-4d9d-a30f-6b4ff16f9d04@ee9e.org
+UID:25b93eab-992b-4579-a249-457e1c9ff96e@25b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:e16697a6-7caf-4b5f-88e0-fe4b39e2e82c@e166.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260329T160000Z
-DTSTART:20260329T134500Z
+DTEND:20260327T194500Z
+DTSTART:20260327T173000Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia zdalne)
+UID:9dc68c72-8ffe-4cdb-a3a2-2e46b416861a@9dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260314T114500Z
+DTSTART:20260314T093000Z
+SUMMARY:Bezpieczeństwo żywności w transporcie (Przeniesienie zajęć)
+UID:b067c6b7-6df0-41b3-8d21-0745d86679ad@b067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260531T104500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260531T083000Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
+UID:3850af8e-4216-4a9e-a267-f2ae95144a46@3850.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20260516T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301527
+DTSTART:20260516T134500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (wykład)
+UID:50970c91-9843-4dab-8620-bdeae7496971@5097.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
+DTEND:20260426T081500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20260426T060000Z
+SUMMARY:Cło w transporcie i spedycji (konwersatorium)
+UID:6d3df08a-f127-462d-865c-6958bc2abd82@6d3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260418T081500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6413205
+DTSTART:20260418T060000Z
+SUMMARY:Bezpieczeństwo żywności w transporcie (wykład do wyboru)
+UID:a9685656-9fa3-40ce-b5df-156074893d54@a968.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260329T133000Z
+DTSTART:20260329T111500Z
 SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
-UID:7d318832-b8ad-48c8-b133-d3fdebceb87c@7d31.org
+UID:66300fd8-2ad7-440a-a87a-7e9ee4a2ddf6@6630.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20260305T133000Z
 DTSTART:20260305T103000Z
 SUMMARY: (rezerwacja)
-UID:bb7a770d-9cde-41f8-a5f4-ae1e4ac7852e@bb7a.org
+UID:e546faff-3442-4dd7-a383-42ac4f36aef5@e546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260418T081500Z
+DTSTART:20260418T060000Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (Przeniesienie zajęć)
+UID:8d2182cd-c6cc-46fe-b232-f05fa7b4da36@8d21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260530T104500Z
+DTSTART:20260530T083000Z
+SUMMARY:Bezpieczeństwo żywności w transporcie (Przeniesienie zajęć)
+UID:726246dd-52d0-4d08-9da2-d26282b2f8a1@7262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Bartłomiej Kabaja
+DTEND:20260419T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301528
+DTSTART:20260419T111500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (wykład)
+UID:961aef68-75a2-4087-9a9e-3a336ad78e01@961a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
+DTEND:20260315T091500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260315T070000Z
+SUMMARY:Cło w transporcie i spedycji (konwersatorium)
+UID:274040d1-dac0-4001-b710-b3b268c8e9b8@2740.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260426T104500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260426T083000Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
+UID:9e4f33a1-11be-4d51-af4e-891dbf241de5@9e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20260425T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6794212
+DTSTART:20260425T134500Z
+SUMMARY:Koszty transportu (wykład)
+UID:a8592d0a-a7f8-4b71-a47e-8ffa959dab3a@a859.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260517T123000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6795186
+DTSTART:20260517T101500Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia zdalne)
+UID:b3b7f77a-8690-4acd-a455-955436e16d5c@b3b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marcin Rychwalski
@@ -455,6 +209,252 @@ DTEND:20260417T160000Z
 LOCATION:Paw.S sala 11
 DTSTART:20260417T134500Z
 SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
-UID:3df6378c-67f8-4e3d-b315-d0a19afd02ff@3df6.org
+UID:91efc350-aaee-4a67-af59-f895a2ee5d62@91ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260515T160000Z
+LOCATION:Paw.F 109
+DTSTART:20260515T134500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
+UID:f21c9150-3f99-4078-93bd-1dfc49a1d976@f21c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:0937b5c6-399b-4339-b759-4d582f57e3f1@0937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260424T184500Z
+LOCATION:Paw.F 515
+DTSTART:20260424T163000Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
+UID:7504299c-a629-41c2-bad6-92ffbc97d01e@7504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20260515T184500Z
+LOCATION:Paw.F 109
+DTSTART:20260515T163000Z
+SUMMARY:Koszty transportu (ćwiczenia)
+UID:00eb5c40-e26f-4f64-b71e-a07c8d950da6@00eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260425T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301511
+DTSTART:20260425T111500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:c4348dfc-9276-44ea-8102-e0420e64e28e@c434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
+DTEND:20260614T081500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260614T060000Z
+SUMMARY:Cło w transporcie i spedycji (konwersatorium)
+UID:e17ef353-e49b-4e64-89d0-24b554640402@e17e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260531T133000Z
+DTSTART:20260531T111500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
+UID:db9b2766-5467-41e3-9687-b8071dfbd0b1@db9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20260418T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301524
+DTSTART:20260418T111500Z
+SUMMARY:Etyka i wyzwania współczesności (wykład do wyboru)
+UID:21005c92-2657-4176-bd77-1f5dc0c83917@2100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260425T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20260425T083000Z
+SUMMARY:Analiza efektywności zarządzania (wykład e-learningowy)
+UID:acb076ed-961d-4cbe-8061-f02746ca7093@acb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20260529T160000Z
+LOCATION:Paw.F 109
+DTSTART:20260529T134500Z
+SUMMARY:Koszty transportu (ćwiczenia)
+UID:988572ae-f159-4473-a451-68d477761a6a@9885.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260612T184500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260612T163000Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
+UID:a310bf8a-f1eb-4372-8223-545eaa7b1d42@a310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260314T100000Z
+DTSTART:20260314T074500Z
+SUMMARY:Bezpieczeństwo żywności w transporcie (wykład do wyboru)
+UID:8f89eb75-46fc-4572-853d-c428bd9e7d55@8f89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260315T114500Z
+DTSTART:20260315T093000Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (Przeniesienie zajęć)
+UID:62f5b549-d655-4de4-bf6e-69fd4e30ecc8@62f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260329T104500Z
+LOCATION:Paw.S sala 11
+DTSTART:20260329T083000Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (ćwiczenia)
+UID:689f0d58-e0f4-4851-9fab-075a6a7cbf6c@689f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260426T133000Z
+LOCATION:Paw.F 413
+DTSTART:20260426T111500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
+UID:298e8a41-6889-4ca5-b6ab-f12e5c7c5471@298e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260315T143000Z
+DTSTART:20260315T121500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
+UID:0c273ed0-96b1-4100-aa09-64f0aacf6eac@0c27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20260606T081500Z
+DTSTART:20260606T060000Z
+SUMMARY:Koszty transportu (Przeniesienie zajęć)
+UID:76e0400c-132a-47a3-87ba-0641cb4ee75d@76e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260228T143000Z
+DTSTART:20260228T121500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:30662c6b-1c06-45e0-89b4-03dabf3f6977@3066.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
+DTEND:20260517T081500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260517T060000Z
+SUMMARY:Cło w transporcie i spedycji (konwersatorium)
+UID:aa62286b-a7b0-4587-b8c7-6e8a4bac08c7@aa62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20260530T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301522
+DTSTART:20260530T111500Z
+SUMMARY:Etyka i wyzwania współczesności (wykład do wyboru)
+UID:0599adde-adea-4719-b81e-c47f188decdc@0599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20260328T114500Z
+LOCATION:Platforma Moodle
+DTSTART:20260328T093000Z
+SUMMARY:Analiza efektywności zarządzania (wykład e-learningowy)
+UID:0d35c7f1-356c-41ec-ba89-b90948034522@0d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260228T091500Z
+DTSTART:20260228T070000Z
+SUMMARY:Proces zarządzania (wykład do wyboru)
+UID:bc01909f-a2c6-44bc-ac94-4643378487da@bc01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20260419T104500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301529
+DTSTART:20260419T083000Z
+SUMMARY:Koszty transportu (wykład)
+UID:edcb6307-105b-4328-9e27-99c311666555@edcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260516T104500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301541
+DTSTART:20260516T083000Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (wykład)
+UID:00eaf487-070e-43d9-8f51-08319973aa22@00ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20260425T081500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301495
+DTSTART:20260425T060000Z
+SUMMARY:Proces zarządzania (wykład do wyboru)
+UID:21230fe4-c8dc-4e8f-a85c-f8020d07e785@2123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260517T160000Z
+DTSTART:20260517T134500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
+UID:9adccea0-a6d3-4cae-ac74-fdeebb9adebd@9adc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260529T184500Z
+LOCATION:Paw.F 109
+DTSTART:20260529T163000Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (ćwiczenia)
+UID:4aabb5b3-b68c-4c1b-bc0a-6720ab340413@4aab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260329T160000Z
+DTSTART:20260329T134500Z
+SUMMARY:Dokumentacja i czas pracy w transporcie i spedycji (Przeniesienie zajęć)
+UID:be0a10c0-849b-4d69-a791-e1db8568d7b6@be0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20260424T160000Z
+LOCATION:Paw.F 109
+DTSTART:20260424T134500Z
+SUMMARY:Koszty transportu (ćwiczenia)
+UID:91d8fb97-2a14-41e7-9d17-72fac85fb3db@91d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20260516T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301538
+DTSTART:20260516T111500Z
+SUMMARY:Koszty transportu (wykład)
+UID:fce5b1e1-78ec-4cf8-b951-0b44a3d919b1@fce5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20260606T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6301542
+DTSTART:20260606T111500Z
+SUMMARY:Ocena oddziaływania transportu na środowisko (wykład)
+UID:51b6872f-6559-4c3c-8cee-6f438d7d8026@51b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Woźniak-Słota
+DTEND:20260329T081500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260329T060000Z
+SUMMARY:Cło w transporcie i spedycji (konwersatorium)
+UID:ae7179e3-1735-4384-9404-ffe7f44c4a06@ae71.org
 END:VEVENT
 END:VCALENDAR
