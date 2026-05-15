@@ -2,20 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20260301T110000Z
+DTSTART:20260301T084500Z
+SUMMARY:Zarządzanie relacjami z klientem (Przeniesienie zajęć)
+UID:31c2db0d-109f-486a-b1fa-e6333ba94189@31c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260315T133000Z
+DTSTART:20260315T111500Z
+SUMMARY:Controling i rachunkowość zarządcza (wykład)
+UID:7f940449-598f-4b08-ae56-e1d33f3dba3b@7f94.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Dariusz Firszt
 DTEND:20260516T160000Z
 LOCATION:Paw.U sala O
 DTSTART:20260516T134500Z
 SUMMARY:Controling i rachunkowość zarządcza (ćwiczenia)
-UID:06f912ff-c07f-45d4-b23a-473230b65a57@06f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20260517T100000Z
-LOCATION:Paw.S sala 6
-DTSTART:20260517T074500Z
-SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
-UID:55c296fa-d5c6-4d36-a732-21e7466c517d@55c2.org
+UID:6369eeab-15e9-443d-a367-07869caf36a1@6369.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Artur Budzyński
@@ -23,51 +29,7 @@ DTEND:20260515T170000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6396083
 DTSTART:20260515T144500Z
 SUMMARY:Systemy informatyczne i platformy internetowe (wykład)
-UID:0c846af0-86fe-40ce-8a42-bc1c0a8f7f2c@0c84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Budzyński
-DTEND:20260315T110000Z
-DTSTART:20260315T084500Z
-SUMMARY:Systemy informatyczne i platformy internetowe (wykład)
-UID:38b59fab-9cb8-4907-819e-624767cc0baf@38b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260411T164500Z
-LOCATION:Paw.U sala M
-DTSTART:20260411T134500Z
-SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
-UID:8a88210e-3925-433b-b2ca-9aa2125bd79b@8a88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260328T114500Z
-LOCATION:Paw.C sala D
-DTSTART:20260328T093000Z
-SUMMARY:Negocjacje w biznesie (konwersatorium do wyboru)
-UID:ccbfc1d7-3d5a-4379-8625-9a543050b4cc@ccbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:832da16f-af26-41ed-aed1-d9a523febbe9@832d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260228T100000Z
-DTSTART:20260228T074500Z
-SUMMARY:Controling i rachunkowość zarządcza (wykład)
-UID:2e2c8f4f-ad9c-46ee-8a96-1377c489d03b@2e2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:c3e56fe5-40d9-4ede-9cd6-2f9f011076ff@c3e5.org
+UID:3b38e381-d220-4912-bb70-d5270cc30385@3b38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agata Niemczyk
@@ -75,123 +37,7 @@ DTEND:20260328T143000Z
 LOCATION:Paw.B 451
 DTSTART:20260328T121500Z
 SUMMARY:Sharing Economy- nowe modele (konwersatorium do wyboru)
-UID:e6ec7fec-e8b0-4fd5-a386-99920237bf67@e6ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260607T100000Z
-LOCATION:Paw.U sala M
-DTSTART:20260607T074500Z
-SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
-UID:01b9b689-814a-4986-8d31-caaa4c65a2eb@01b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260315T133000Z
-DTSTART:20260315T111500Z
-SUMMARY:Controling i rachunkowość zarządcza (wykład)
-UID:792f47f6-993b-4669-ac2d-08a0ae1711aa@792f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260328T170000Z
-LOCATION:Paw.U sala O
-DTSTART:20260328T144500Z
-SUMMARY:Controling i rachunkowość zarządcza (ćwiczenia)
-UID:1afb2007-7a65-439a-bc31-6e6868fb6d0a@1afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260412T090000Z
-DTSTART:20260412T064500Z
-SUMMARY:Controling i rachunkowość zarządcza (wykład)
-UID:f8d345ea-c9d6-41ea-9163-ae5830f492b4@f8d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20260301T110000Z
-DTSTART:20260301T084500Z
-SUMMARY:Zarządzanie relacjami z klientem (Przeniesienie zajęć)
-UID:35210663-7c12-4197-b4c3-2722e81b7759@3521.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20260327T194500Z
-LOCATION:Paw.B 251
-DTSTART:20260327T173000Z
-SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
-UID:99084b92-3834-46d7-8487-9cacc5c5928b@9908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20260411T104500Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20260411T083000Z
-SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
-UID:e7f82dea-5247-41bf-9c74-801697951340@e7f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20260606T141500Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260606T120000Z
-SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
-UID:1daf0994-249b-4d54-b732-9138a616ebd4@1daf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Agata Niemczyk
-DTEND:20260607T123000Z
-LOCATION:Paw.F 715
-DTSTART:20260607T101500Z
-SUMMARY:Sharing Economy- nowe modele (konwersatorium do wyboru)
-UID:1d6c280a-d6f1-44bf-92bb-31a5e48ccb1a@1d6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Budzyński
-DTEND:20260228T100000Z
-DTSTART:20260228T074500Z
-SUMMARY:Systemy informatyczne i platformy internetowe (Przeniesienie zajęć)
-UID:73e1dbaa-5778-485e-9698-c59645d8fb93@73e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260606T081500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260606T060000Z
-SUMMARY:Negocjacje w biznesie (konwersatorium do wyboru)
-UID:bd5fed57-aa89-4846-bb35-c47da600e0ef@bd5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Magdalena Satora
-DTEND:20260606T104500Z
-LOCATION:208 paw.U (tylko Kat. Rach)
-DTSTART:20260606T083000Z
-SUMMARY:Systemy informatyczne i platformy internetowe (ćwiczenia)
-UID:126131ef-4215-4d22-8257-ce415a93c056@1261.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jowita Świerczyńska
-DTEND:20260517T123000Z
-LOCATION:Paw.F 717
-DTSTART:20260517T101500Z
-SUMMARY:Negocjacje w biznesie (konwersatorium do wyboru)
-UID:2c2bdd11-7810-4e62-b1f6-c779abca4250@2c2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20260314T100000Z
-LOCATION:Paw.B 251
-DTSTART:20260314T074500Z
-SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
-UID:243f58e5-4df7-4706-bde9-13dc83cac34f@243f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Łukasz Spendel
-DTEND:20260516T133000Z
-LOCATION:Paw.B 055 (KSB)
-DTSTART:20260516T111500Z
-SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
-UID:0a1fb7d4-8b17-45b9-be29-32b969b37929@0a1f.org
+UID:15c8a91b-5e67-4430-bd01-0d166cffe72f@15c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
@@ -199,15 +45,22 @@ DTEND:20260516T094500Z
 LOCATION:Bud.gł. 2
 DTSTART:20260516T064500Z
 SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
-UID:29ba57f6-5dd8-4958-822c-f3e3aa2cc2c8@29ba.org
+UID:1dd7bcae-9c8f-4e0a-90bd-888a8dec4d01@1dd7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260327T170000Z
-LOCATION:Paw.F 717
-DTSTART:20260327T144500Z
-SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
-UID:11a9a353-14b1-43d6-9620-ee9f8217215c@11a9.org
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:671bbecf-5c81-464c-a873-74ff7f61ce70@671b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20260517T100000Z
+LOCATION:Paw.S sala 6
+DTSTART:20260517T074500Z
+SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
+UID:4fc30500-395e-469e-9f3a-e92d0d8595a4@4fc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
@@ -215,14 +68,14 @@ DTEND:20260314T133000Z
 LOCATION:Paw.U sala O
 DTSTART:20260314T103000Z
 SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
-UID:d94cd2e3-ef5f-474f-8b84-c9191f0d4f92@d94c.org
+UID:f785d49e-6d04-43a4-82f2-d698dcacb507@f785.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Budzyński
-DTEND:20260412T114500Z
-DTSTART:20260412T093000Z
-SUMMARY:Systemy informatyczne i platformy internetowe (wykład)
-UID:9c6ea40e-dd11-4781-b4bd-c685856b3cc7@9c6e.org
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260412T090000Z
+DTSTART:20260412T064500Z
+SUMMARY:Controling i rachunkowość zarządcza (wykład)
+UID:ea2e25cd-28d8-4d0f-b6cb-089e4f4c0d21@ea2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Magdalena Satora
@@ -230,7 +83,7 @@ DTEND:20260411T133000Z
 LOCATION:Paw.A 116 lab.Win8.1\, Office21
 DTSTART:20260411T111500Z
 SUMMARY:Systemy informatyczne i platformy internetowe (ćwiczenia)
-UID:4b77c1fc-6e3f-4cea-a843-15baddc30a16@4b77.org
+UID:d3e831b5-65be-416c-b644-127c9bafbc38@d3e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Agata Niemczyk
@@ -238,15 +91,114 @@ DTEND:20260530T141500Z
 LOCATION:Paw.S sala 8
 DTSTART:20260530T120000Z
 SUMMARY:Sharing Economy- nowe modele (konwersatorium do wyboru)
-UID:73f811b2-b13c-4650-8a25-117e88bec098@73f8.org
+UID:ac06d33e-1c18-428c-b260-76bfeeb6f31d@ac06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agata Niemczyk
+DTEND:20260607T123000Z
+LOCATION:Paw.F 715
+DTSTART:20260607T101500Z
+SUMMARY:Sharing Economy- nowe modele (konwersatorium do wyboru)
+UID:77edadc8-7e0a-424e-807f-2d568cbe3b16@77ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:9462b010-8301-447d-9c10-05d0b39f12a2@9462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260606T081500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260606T060000Z
+SUMMARY:Negocjacje w biznesie (konwersatorium do wyboru)
+UID:69cd66e9-3f37-4cfc-9f50-54d39b11582f@69cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260314T161500Z
+DTEND:20260228T100000Z
+DTSTART:20260228T074500Z
+SUMMARY:Controling i rachunkowość zarządcza (wykład)
+UID:6029d10e-999a-41c8-867c-485989f50f6b@6029.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260517T123000Z
+LOCATION:Paw.F 717
+DTSTART:20260517T101500Z
+SUMMARY:Negocjacje w biznesie (konwersatorium do wyboru)
+UID:559a7e49-8f75-4d31-9be2-1ee0eef86c18@559a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260411T164500Z
+LOCATION:Paw.U sala M
+DTSTART:20260411T134500Z
+SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
+UID:91b0c0f0-9f4e-4284-a93f-bc3207febe30@91b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Budzyński
+DTEND:20260412T114500Z
+DTSTART:20260412T093000Z
+SUMMARY:Systemy informatyczne i platformy internetowe (wykład)
+UID:5acd624a-2946-4540-8de0-4e634373e6a9@5acd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:77b9684a-7e0b-45e7-9018-9229b7cb10a6@77b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20260516T133000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20260516T111500Z
+SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
+UID:67982532-125e-42e0-af33-819db48d273f@6798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20260606T104500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20260606T083000Z
+SUMMARY:Systemy informatyczne i platformy internetowe (ćwiczenia)
+UID:cd954d59-fa2c-4cef-9715-c94222a5572c@cd95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260328T170000Z
 LOCATION:Paw.U sala O
-DTSTART:20260314T140000Z
+DTSTART:20260328T144500Z
 SUMMARY:Controling i rachunkowość zarządcza (ćwiczenia)
-UID:958b676d-5ef3-4b38-ace5-63b915a2da55@958b.org
+UID:e9352217-d009-4ca0-93bc-3ec941ec07d1@e935.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Budzyński
+DTEND:20260315T110000Z
+DTSTART:20260315T084500Z
+SUMMARY:Systemy informatyczne i platformy internetowe (wykład)
+UID:0e032ef7-4c63-4bd1-9afa-a3fec81622ce@0e03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260607T100000Z
+LOCATION:Paw.U sala M
+DTSTART:20260607T074500Z
+SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
+UID:19aee465-75e8-4dd3-ada1-a9782730383c@19ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20260327T194500Z
+LOCATION:Paw.B 251
+DTSTART:20260327T173000Z
+SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
+UID:d71af697-1eee-45cf-b190-0a0f452f3844@d71a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Magdalena Satora
@@ -254,13 +206,61 @@ DTEND:20260328T091500Z
 LOCATION:208 paw.U (tylko Kat. Rach)
 DTSTART:20260328T070000Z
 SUMMARY:Systemy informatyczne i platformy internetowe (ćwiczenia)
-UID:28155293-a215-4f80-809a-7218d6270c96@2815.org
+UID:a6ca059c-c3f4-4862-bc31-c3fd1c7d8b20@a6ca.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:5d03f4a0-d8e3-4f37-ae7c-4e99392db8e2@5d03.org
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20260328T114500Z
+LOCATION:Paw.C sala D
+DTSTART:20260328T093000Z
+SUMMARY:Negocjacje w biznesie (konwersatorium do wyboru)
+UID:01ec875d-3506-4ee8-ac99-7b139212a444@01ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260327T170000Z
+LOCATION:Paw.F 717
+DTSTART:20260327T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi w przedsiębiorstwach logistycznych (konwersatorium)
+UID:7d37f711-c5a2-417f-9ed5-13760ac2e58b@7d37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20260411T104500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20260411T083000Z
+SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
+UID:d1fa8111-6678-466a-bb85-b66be52266fa@d1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260314T161500Z
+LOCATION:Paw.U sala O
+DTSTART:20260314T140000Z
+SUMMARY:Controling i rachunkowość zarządcza (ćwiczenia)
+UID:c21a5a09-dde0-4542-95ef-77850ea5d24e@c21a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Budzyński
+DTEND:20260228T100000Z
+DTSTART:20260228T074500Z
+SUMMARY:Systemy informatyczne i platformy internetowe (Przeniesienie zajęć)
+UID:717ece5a-f406-4387-aab1-e5f0365f8c0b@717e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20260606T141500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260606T120000Z
+SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
+UID:a8fa7c95-6731-4d4e-8496-1beffa3c638f@a8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Spendel
+DTEND:20260314T100000Z
+LOCATION:Paw.B 251
+DTSTART:20260314T074500Z
+SUMMARY:Zarządzanie relacjami z klientem (konwersatorium)
+UID:7dbb7ce7-7319-4dd9-b551-b6eda2ee6606@7dbb.org
 END:VEVENT
 END:VCALENDAR
