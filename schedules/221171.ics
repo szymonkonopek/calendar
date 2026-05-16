@@ -2,12 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:7b75d2c4-9259-4220-9f82-61e60fc84d90@7b75.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
-DTEND:20260417T073000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6414217
-DTSTART:20260417T060000Z
+DTEND:20260410T073000Z
+DTSTART:20260410T060000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:ad243ad9-4f76-46c1-9b6f-6d618a9250a9@ad24.org
+UID:12b4534f-28ad-4ca3-bded-cf22631f72f0@12b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
@@ -15,22 +21,7 @@ DTEND:20260424T073000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6414224
 DTSTART:20260424T060000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:eeb01771-0b66-4f2e-b52a-cf29a1883cb8@eeb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:0e9210f1-69b8-401f-9780-0da28cb593e3@0e92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
-DTEND:20260522T073000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6414228
-DTSTART:20260522T060000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:5a8f1f2e-37b3-429e-9bd6-fa6f67bfca4a@5a8f.org
+UID:42a4ff1e-6f7e-4ba4-80e2-5f2a09b46260@42a4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
@@ -38,15 +29,7 @@ DTEND:20260515T073000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6414227
 DTSTART:20260515T060000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:ed53b873-8d11-4ef7-98d1-c8b036a5144c@ed53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
-DTEND:20260508T073000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6414226
-DTSTART:20260508T060000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:f7083f61-1dfa-4de2-abef-4a3e572c5064@f708.org
+UID:02bae300-4b79-43b3-bd2a-df237af844cd@02ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
@@ -54,14 +37,45 @@ DTEND:20260612T073000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6414231
 DTSTART:20260612T060000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:8b7726af-7699-4097-909b-158de968d07d@8b77.org
+UID:3d3e99b1-8f88-4336-a953-daeb91e8ad8a@3d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:980a41c1-f696-452e-850c-d7282c7d0821@980a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20260417T073000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6414217
+DTSTART:20260417T060000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:55413d67-289c-4085-85af-c1ab16fc8b81@5541.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
 DTEND:20260326T150000Z
 DTSTART:20260326T103000Z
 SUMMARY: (rezerwacja)
-UID:0f295952-f8d2-4fa2-b9ef-84c0df2326b0@0f29.org
+UID:ec37c4b0-6df2-4769-944a-a37f43330a7a@ec37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20260508T073000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6414226
+DTSTART:20260508T060000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:deeb298a-e85e-4643-962f-80bfdc8a3775@deeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20260522T073000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6414228
+DTSTART:20260522T060000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:f4b98665-3004-42ac-9903-1b3b22daafb8@f4b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
@@ -69,20 +83,6 @@ DTEND:20260529T073000Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6414229
 DTSTART:20260529T060000Z
 SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:1782d32f-752b-4d63-a50f-f2ea29a32da7@1782.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:254c531f-75dd-40fa-a565-78300ce94398@254c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
-DTEND:20260410T073000Z
-DTSTART:20260410T060000Z
-SUMMARY:Seminarium indywidualne - 20h (seminarium)
-UID:cbecac51-07a2-45ee-a4d9-862cd6553c94@cbec.org
+UID:be8589dd-1d5b-434e-bed6-4d98d5adeb96@be85.org
 END:VEVENT
 END:VCALENDAR
