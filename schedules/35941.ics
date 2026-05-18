@@ -2,43 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Tomasz Mendelski
-DTEND:20260612T183000Z
-DTSTART:20260612T144500Z
-SUMMARY:Zarządzanie operacyjne (Studia podyplomowe)
-UID:b5f32ba2-a0c8-4bfb-aac7-181901221a3d@b5f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marek Dziura
-DTEND:20260508T183000Z
-LOCATION:Zajęcia Online
-DTSTART:20260508T144500Z
-SUMMARY:Restrukturyzacja przedsiębiorstw - istota i przesłanki (Studia podyplomowe)
-UID:6f173536-c065-4c2e-8ffd-405047688c12@6f17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Misiołek
-DTEND:20260418T103000Z
-LOCATION:Paw.G 12
-DTSTART:20260418T064500Z
-SUMMARY:Nadzór korporacyjny (Studia podyplomowe)
-UID:c8ec0987-e487-4ba9-82e8-c12a7e28e6f8@c8ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
-DTEND:20260522T183000Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20260522T144500Z
-SUMMARY:Rachunkowość zarządcza i podatkowa (Studia podyplomowe)
-UID:384bdd62-b836-42b6-b9b7-f87abb6f11a3@384b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
 DTEND:20260313T193000Z
 LOCATION:Paw.G 11
 DTSTART:20260313T154500Z
 SUMMARY:Controlling operacyjny przedsiębiorstwa (Studia podyplomowe)
-UID:b8671e62-c405-45e7-aea7-f73f4f8fbc8f@b867.org
+UID:3cdb98c6-40a1-401f-8332-dcc636504f21@3cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260626T183000Z
+DTSTART:20260626T144500Z
+SUMMARY:Systemy zarządzania poprzez jakość (ISO) (Studia podyplomowe)
+UID:0ae5b08a-188e-4972-9836-d6c95274832e@0ae5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza  dr Agnieszka Żak
+DTEND:20260704T111500Z
+DTSTART:20260704T064500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:54c7f0c7-8dd3-42a5-a10a-0c01e0b6df25@54c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
@@ -46,44 +29,22 @@ DTEND:20260523T120000Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20260523T064500Z
 SUMMARY:Rachunkowość zarządcza i podatkowa (Studia podyplomowe)
-UID:82f07773-d29a-4497-b50c-d798cfeeda73@82f0.org
+UID:56d07a0e-b44b-450f-92dd-399745cb8b8b@56d0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Brańka
-DTEND:20260321T113000Z
-LOCATION:Paw.G 11
-DTSTART:20260321T074500Z
-SUMMARY:Marketingowe zarządzanie przedsiębiorstwem (Studia podyplomowe)
-UID:c5290610-1208-42b4-967d-6a369582bafd@c529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260626T183000Z
-DTSTART:20260626T144500Z
-SUMMARY:Systemy zarządzania poprzez jakość (ISO) (Studia podyplomowe)
-UID:873a8384-2fa1-4960-8d08-c50130ba6301@873a.org
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20260508T183000Z
+LOCATION:Zajęcia Online
+DTSTART:20260508T144500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw - istota i przesłanki (Studia podyplomowe)
+UID:1b153cd6-d7a4-4916-9672-9f9c305ee40d@1b15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza  dr Agnieszka Żak
 DTEND:20260703T181500Z
 DTSTART:20260703T134500Z
 SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:2fce2e20-2dec-47c6-8a9b-ad54d737f2b6@2fce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Kamila Solon-Serek
-DTEND:20260509T124500Z
-LOCATION:Paw.G 11
-DTSTART:20260509T064500Z
-SUMMARY:Podstawy ESG i raportowania niefinansowego (Studia podyplomowe)
-UID:43787ed9-891c-4edb-a816-0aa5ec955ae1@4378.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza  dr Agnieszka Żak
-DTEND:20260704T111500Z
-DTSTART:20260704T064500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:ae7fcdbb-7873-480a-83ca-c5dba7fcb5c9@ae7f.org
+UID:091f8e2f-0e99-4e84-9c6c-7f29e7b98498@091f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
@@ -91,29 +52,59 @@ DTEND:20260417T183000Z
 LOCATION:Paw.G 12
 DTSTART:20260417T144500Z
 SUMMARY:Audyt wewnętrzny w organizacji gospodarczej (Studia podyplomowe)
-UID:ffd0fe09-cbdc-4f3d-bae0-969c2e88e2b8@ffd0.org
+UID:1a1d492e-9bee-436a-aa88-455d472fcc2a@1a1d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
-DTEND:20260314T130000Z
+DESCRIPTION:Instructor: dr Kamila Solon-Serek
+DTEND:20260509T124500Z
 LOCATION:Paw.G 11
-DTSTART:20260314T074500Z
-SUMMARY:Controlling operacyjny przedsiębiorstwa (Studia podyplomowe)
-UID:f06ba020-8839-4f80-ae7e-698512d067e2@f06b.org
+DTSTART:20260509T064500Z
+SUMMARY:Podstawy ESG i raportowania niefinansowego (Studia podyplomowe)
+UID:f7ab5e15-5d2e-4c97-b47c-d6306d03df8b@f7ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20260522T183000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260522T144500Z
+SUMMARY:Rachunkowość zarządcza i podatkowa (Studia podyplomowe)
+UID:177883f3-20b2-42e1-9ee3-cecebe65a331@1778.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Tomasz Mendelski
 DTEND:20260613T120000Z
 DTSTART:20260613T064500Z
 SUMMARY:Zarządzanie operacyjne (Studia podyplomowe)
-UID:ca455e6d-78f2-4297-bf3c-bfe775a27437@ca45.org
+UID:ad94530c-d3cd-4766-9c06-1a2827f8664b@ad94.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Żak
 DTEND:20260627T073000Z
 DTSTART:20260627T064500Z
 SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:520045c8-4dc5-4e5f-a38f-2c8cb6e0aa9c@5200.org
+UID:658b6511-28f8-4dd8-8ddc-b89d6b23c39c@658b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20260627T113000Z
+DTSTART:20260627T074500Z
+SUMMARY:Elementy prawa pracy (Studia podyplomowe)
+UID:719e8ad2-cb47-40c3-b8c8-0f8e08fe6378@719e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tomasz Mendelski
+DTEND:20260612T183000Z
+DTSTART:20260612T144500Z
+SUMMARY:Zarządzanie operacyjne (Studia podyplomowe)
+UID:760de338-327e-402f-b960-c387ee82620e@760d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Brańka
+DTEND:20260321T113000Z
+LOCATION:Paw.G 11
+DTSTART:20260321T074500Z
+SUMMARY:Marketingowe zarządzanie przedsiębiorstwem (Studia podyplomowe)
+UID:c0ecaae6-9d8c-4d86-9337-7ca42e31738d@c0ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
@@ -121,13 +112,22 @@ DTEND:20260418T150000Z
 LOCATION:Paw.G 12
 DTSTART:20260418T111500Z
 SUMMARY:Zarządzanie wartością przedsiębiorstwa (VBM) (Studia podyplomowe)
-UID:d581fde4-f3c5-44e0-9053-d3b824dacb8c@d581.org
+UID:e7b10c31-1487-4557-bd2a-1649cf9a14b8@e7b1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
-DTEND:20260627T113000Z
-DTSTART:20260627T074500Z
-SUMMARY:Elementy prawa pracy (Studia podyplomowe)
-UID:2a69d82f-7dcf-4f28-990a-e0e86dc86a29@2a69.org
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20260418T103000Z
+LOCATION:Paw.G 12
+DTSTART:20260418T064500Z
+SUMMARY:Nadzór korporacyjny (Studia podyplomowe)
+UID:bb60870c-32e0-44a7-9a7c-5c98f60c4a10@bb60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20260314T130000Z
+LOCATION:Paw.G 11
+DTSTART:20260314T074500Z
+SUMMARY:Controlling operacyjny przedsiębiorstwa (Studia podyplomowe)
+UID:efd93f0c-f54d-436a-b8ca-c348a56f0c64@efd9.org
 END:VEVENT
 END:VCALENDAR
