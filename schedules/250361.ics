@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krystian Szczęsny
-DTEND:20260324T153000Z
-LOCATION:Paw.F 104
-DTSTART:20260324T140000Z
-SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
-UID:760b0f49-a2e4-4478-8c28-65cdf8bd1fbf@760b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260514T143000Z
-LOCATION:Paw.C sala E
-DTSTART:20260514T130000Z
-SUMMARY:Komunikacja interpersonalna (wykład)
-UID:31056a31-e92a-4d0d-b6e4-005a2bbb2b72@3105.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260423T091500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260423T074500Z
-SUMMARY:Analiza matematyczna w data science (wykład)
-UID:42047a12-eb7b-4d64-b25d-a0cadbf778bc@4204.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260511T124500Z
-LOCATION:Paw.F 111
-DTSTART:20260511T111500Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:dce002f2-f955-47bf-b42d-89eedfebcc71@dce0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260527T143000Z
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260526T153000Z
 LOCATION:Paw.B 251
-DTSTART:20260527T130000Z
-SUMMARY:Statystyka opisowa (wykład)
-UID:82a0ee53-01af-499e-9a4b-c3898c98dc2a@82a0.org
+DTSTART:20260526T144500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:5b0d5637-b7a0-45bb-b0d1-a71baf615066@5b0d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
@@ -47,167 +15,7 @@ DTEND:20260616T091500Z
 LOCATION:Paw.G 12
 DTSTART:20260616T074500Z
 SUMMARY: (egzamin)
-UID:fa691ca9-7c3b-4b8c-b6a0-4f98d34453f7@fa69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260312T101500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260312T084500Z
-SUMMARY:Analiza matematyczna w data science (wykład)
-UID:bf1eec82-45c3-470f-90d6-8220b7cacf15@bf1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260317T110000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260317T084500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:1dbddd52-81f8-461c-8a19-d60ae7f8d363@1dbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krystian Szczęsny
-DTEND:20260602T143000Z
-LOCATION:Paw.F 104
-DTSTART:20260602T130000Z
-SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
-UID:f456dc9c-d434-4ea6-963f-c1a517e8aed2@f456.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260323T101500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260323T084500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:c669f788-6894-421c-b881-5b945273a0d0@c669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260304T101500Z
-LOCATION:Paw.F 516
-DTSTART:20260304T084500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:4e2d8721-5f5f-4c56-add1-ba70077fa57b@4e2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260615T073000Z
-LOCATION:Paw.F 106
-DTSTART:20260615T060000Z
-SUMMARY:Podstawy makroekonomii (egzamin)
-UID:12b24376-6bd4-482a-a088-d1246f692500@12b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260511T110000Z
-LOCATION:Paw.F 516
-DTSTART:20260511T093000Z
-SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:325624f0-12cd-435b-836b-4a191ce5afbd@3256.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260430T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6793021
-DTSTART:20260430T074500Z
-SUMMARY:Elementy matematyki dyskretnej (wykład zdalny)
-UID:2c7b17a1-c9b4-4ab6-8cf4-f98646241709@2c7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260608T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260608T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:86dba06d-0c69-467f-a2fa-cac9050f24ff@86db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260223T101500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260223T084500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:1aadf3ed-e9ea-4a9d-a602-d369b2ac7e8a@1aad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260318T134500Z
-LOCATION:Paw.B 251
-DTSTART:20260318T121500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:6c5a34a5-e6f2-46fb-9477-9ac5d6b99ef2@6c5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260519T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260519T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:b9e18491-8c2b-472b-abdf-2427c16ae6ed@b9e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260326T101500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260326T084500Z
-SUMMARY:Analiza matematyczna w data science (wykład)
-UID:e7519245-f1ac-413d-9c4b-4f4033a88ae4@e751.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260311T120000Z
-LOCATION:Paw.F 104
-DTSTART:20260311T103000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:04f82669-54de-4794-af83-94d6a90751c0@04f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260610T083000Z
-LOCATION:Paw.F 516
-DTSTART:20260610T074500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:9429dc5e-5a25-4173-a10e-a7a09ed0acee@9429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260512T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260512T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:4842eee0-a4c3-46b8-adc2-cbef709176e3@4842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260527T091500Z
-LOCATION:Paw.F 516
-DTSTART:20260527T074500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:88bcf489-1684-409a-a94a-3c87830697cd@88bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260610T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260610T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:88ffd61f-0cd6-4e51-acdf-05554a1ce5a6@88ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260602T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260602T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:71d3bc65-86c7-4d91-a936-3a6457ed6467@71d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260514T124500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260514T111500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:5b46f9f3-be38-4df8-bab6-30e22de06378@5b46.org
+UID:2411556d-ed85-4105-9ac3-6b3bfeac8433@2411.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Krystian Szczęsny
@@ -215,380 +23,7 @@ DTEND:20260519T143000Z
 LOCATION:Paw.F 104
 DTSTART:20260519T130000Z
 SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
-UID:79405239-5ef6-43b3-a602-3e1baa01c0f1@7940.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260525T110000Z
-LOCATION:Paw.F 516
-DTSTART:20260525T093000Z
-SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:9ed5d2e6-26e8-4ea7-b171-d18a7a084e32@9ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260316T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260316T140000Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:7f173a14-3143-4623-a1ec-38c8143914eb@7f17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260306T101500Z
-DTSTART:20260306T084500Z
-SUMMARY:Analiza matematyczna w data science (wykład zdalny)
-UID:1d64d9bd-1220-4e0a-b949-fdd750da45ea@1d64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260610T153000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260610T144500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:27b3ebf6-6a6d-4f12-b707-90efb19f1bc2@27b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260318T120000Z
-LOCATION:Paw.F 104
-DTSTART:20260318T103000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:9a15c4cd-d3c0-4d4f-a610-d1db8de80f73@9a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260526T153000Z
-LOCATION:Paw.B 251
-DTSTART:20260526T144500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:729e442e-d115-4f30-a88d-b9d1c02c0e76@729e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260421T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260421T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:495b9a90-027f-447f-806b-d48c6017c7d7@495b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260521T143000Z
-LOCATION:Paw.B 251
-DTSTART:20260521T130000Z
-SUMMARY:Komunikacja interpersonalna (wykład)
-UID:6e5213c8-5d61-437a-ab60-9332847ed817@6e52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260414T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260414T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:c986e0bc-ff29-4d02-b9d6-0689a339d86f@c986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260420T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260420T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:792eebdb-6e0e-4a65-bf41-2ccc7e41e276@792e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260429T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260429T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:1b0f0844-7823-4f08-8f32-97330222f767@1b0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260318T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260318T154500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:58d7d491-7277-4ae1-94d0-208eb1e58463@58d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260521T161500Z
-LOCATION:Paw.B 251
-DTSTART:20260521T144500Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:b0dff2dd-8ee6-4021-8480-f586ae96d0a5@b0df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260309T101500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260309T084500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:7347c7ff-5057-424b-887b-a9bf7e519de1@7347.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260312T153000Z
-LOCATION:Paw.B 251
-DTSTART:20260312T140000Z
-SUMMARY:Komunikacja interpersonalna (wykład)
-UID:0c8ec4ad-6568-40c6-b2a0-80946e7c688a@0c8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260608T134500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260608T130000Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:022e4955-b13c-4304-bd8e-133d30b6a002@022e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260324T110000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260324T084500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:a42c16aa-b320-441c-9c00-0be13f15c728@a42c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260401T091500Z
-LOCATION:Paw.F 516
-DTSTART:20260401T074500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:ed342053-b1cc-4f96-8e05-167a64594283@ed34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260429T091500Z
-LOCATION:Paw.F 516
-DTSTART:20260429T074500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:5897c09c-eecd-450b-bb6e-cf4d8effcd24@5897.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260415T143000Z
-LOCATION:Paw.B 251
-DTSTART:20260415T130000Z
-SUMMARY:Statystyka opisowa (wykład)
-UID:778e1deb-8057-4942-98e6-4bb118f9cc54@778e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260514T091500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260514T074500Z
-SUMMARY:Elementy matematyki dyskretnej (wykład)
-UID:76c792ac-fe3d-49be-b2ee-56fecae5f56e@76c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260312T134500Z
-LOCATION:Paw.B 251
-DTSTART:20260312T121500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:a0a117a6-4c88-4357-84d5-240d6e6343f7@a0a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260527T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260527T144500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:b1ff38cf-1dd9-4422-80e4-6cf514746abe@b1ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260415T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260415T144500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:432abdf4-e31d-45ec-b52b-cb76314dfd64@432a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260623T141500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260623T120000Z
-SUMMARY:Elementy matematyki dyskretnej\, Teoria grafów (egzamin)
-UID:06086ca3-e6c6-4ff2-98b5-e0f3beeb1c90@0608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260603T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260603T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:98422d3d-22bd-4a20-9c11-2d23b1d8af2e@9842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krystian Szczęsny
-DTEND:20260421T143000Z
-LOCATION:Paw.F 104
-DTSTART:20260421T130000Z
-SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
-UID:50b14afc-60a5-42eb-aba8-a5a32524a4d1@50b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260909T151500Z
-LOCATION:Paw.F 102
-DTSTART:20260909T130000Z
-SUMMARY:Elementy matematyki dyskretnej (egzamin)
-UID:8509ac99-fb2e-4f84-a918-6624f75d93a2@8509.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260525T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260525T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:3f6333dc-77d2-4735-a922-e7c569f8d468@3f63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260505T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260505T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:4c481b0f-a8d6-4b6d-b355-3c5136b7b0aa@4c48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260507T124500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6795125
-DTSTART:20260507T111500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:0904b6d4-3730-4555-aafd-0e92d07fd20a@0904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260326T190000Z
-DTSTART:20260326T173000Z
-SUMMARY:Komunikacja interpersonalna (Przeniesienie zajęć)
-UID:4bdf7499-b12f-4439-993f-9598d4b3bb00@4bdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260428T100000Z
-DTSTART:20260428T074500Z
-SUMMARY:Programowanie w języku Python (Przeniesienie zajęć)
-UID:111b5a95-bd77-41a5-a844-47734d7c30b7@111b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260507T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6787009
-DTSTART:20260507T074500Z
-SUMMARY:Analiza matematyczna w data science (wykład)
-UID:b3005331-0d51-412d-b2fa-ae6bb2b3630d@b300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260310T110000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260310T084500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:9f3f6750-90d2-4992-8894-e9025cfaeda1@9f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260409T124500Z
-LOCATION:Paw.B 251
-DTSTART:20260409T111500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:2a7d55ed-c039-4205-96b7-87d0c0fb7721@2a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260225T101500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260225T084500Z
-SUMMARY:Elementy matematyki dyskretnej (wykład)
-UID:176b405d-853a-4064-b2bb-e883364c065d@176b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260313T101500Z
-LOCATION:Bibl. 443
-DTSTART:20260313T084500Z
-SUMMARY:Elementy matematyki dyskretnej (wykład)
-UID:97ae70c5-efa6-4af8-ac4c-c468dad894c4@97ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260427T110000Z
-LOCATION:Paw.F 516
-DTSTART:20260427T093000Z
-SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:74b017d8-065d-4a42-a105-e759ba4cffea@74b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260304T171500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260304T154500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:c62a5903-771d-4665-85cf-8a5ed539e33e@c62a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260226T101500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260226T084500Z
-SUMMARY:Analiza matematyczna w data science (wykład)
-UID:38d6f421-8e58-4582-b1c7-286be0c8ff40@38d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260625T154500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260625T120000Z
-SUMMARY:Statystyka opisowa (egzamin)
-UID:91c1abb7-3353-41ab-acab-419ae89531f3@91c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260521T083000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260521T074500Z
-SUMMARY:Analiza matematyczna w data science (wykład)
-UID:6ddf0a4a-6e69-41f3-91c1-47a52da35155@6ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260330T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260330T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:409d4ef4-2787-442e-a828-ff66a340ce28@409d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260609T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260609T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:471b5404-59de-4569-a0c7-4168820580b9@471b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260423T124500Z
-LOCATION:Paw.B 251
-DTSTART:20260423T111500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:577f5a31-8631-4731-9ec7-d7d4c604b5b6@577f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260518T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260518T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:851b93ef-79ad-4284-ae2d-087b53646ef4@851b.org
+UID:51c2dd56-b129-4ebf-805b-06ec7f3fe01e@51c2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski  dr Elżbieta Pliś
@@ -596,53 +31,7 @@ DTEND:20260618T110000Z
 LOCATION:Paw.S sala 8\, Paw.S sala 9
 DTSTART:20260618T093000Z
 SUMMARY:Analiza matematyczna w data science (egzamin)
-UID:84072fa4-2b2c-42f2-9080-251de054c799@8407.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krystian Szczęsny
-DTEND:20260310T153000Z
-LOCATION:Paw.F 104
-DTSTART:20260310T140000Z
-SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
-UID:cc584ec2-a7af-48d7-9605-a6a7f8a3b013@cc58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260409T143000Z
-DTSTART:20260409T130000Z
-SUMMARY:Komunikacja interpersonalna (Przeniesienie zajęć)
-UID:7a0bc754-a84e-49ca-a403-1f90313a21db@7a0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260413T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260413T130000Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:7608c2fe-7122-4bb1-ab8a-105b8abee076@7608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260506T110000Z
-DTSTART:20260506T093000Z
-SUMMARY:Analiza matematyczna w data science (Przeniesienie zajęć)
-UID:1ac13a7e-baf3-41f3-a0a9-2c28e247e036@1ac1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260401T143000Z
-LOCATION:Paw.B 251
-DTSTART:20260401T130000Z
-SUMMARY:Statystyka opisowa (wykład)
-UID:67fbef10-fc5a-425f-8e2f-48ee8f253afc@67fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260520T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260520T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:5e719f16-4200-4f8a-a77a-e963a4d996e8@5e71.org
+UID:4bef9140-b7ff-4496-ac79-63f55aec8b27@4bef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
@@ -650,220 +39,7 @@ DTEND:20260302T120000Z
 LOCATION:Paw.F 516
 DTSTART:20260302T103000Z
 SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:3dd8ab08-6677-4251-86aa-1f627fff416b@3dd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260304T120000Z
-LOCATION:Paw.F 104
-DTSTART:20260304T103000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:7cf3be5f-c33f-4bf7-ac7e-e5d2700cad66@7cf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260522T120000Z
-LOCATION:Paw.C sala B
-DTSTART:20260522T111500Z
-SUMMARY:Komunikacja interpersonalna (wykład)
-UID:c785f812-b7c2-45e2-a635-95846a1a1893@c785.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krystian Szczęsny
-DTEND:20260505T143000Z
-LOCATION:Paw.F 104
-DTSTART:20260505T130000Z
-SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
-UID:73a673d4-be5f-4993-a0ea-3116e6df0368@73a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260416T091500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260416T074500Z
-SUMMARY:Elementy matematyki dyskretnej (wykład)
-UID:71accfa1-9e8a-4ce7-a1e2-0c5954ae9038@71ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260507T110000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6789038
-DTSTART:20260507T093000Z
-SUMMARY:Statystyka opisowa (wykład)
-UID:010335ea-8f0b-424f-b5e9-15a8527169c7@0103.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260527T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260527T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:620cb3cd-e932-413e-bb44-b4ee31894e5d@620c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260514T101500Z
-LOCATION:Paw.F 717
-DTSTART:20260514T093000Z
-SUMMARY:Elementy matematyki dyskretnej (wykład)
-UID:60909d47-bacf-40bc-ad62-d7f6d5a561fe@6090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260521T124500Z
-LOCATION:Paw.B 251
-DTSTART:20260521T111500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:4168674d-6741-47e9-9598-587fe67dd662@4168.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260522T083000Z
-DTSTART:20260522T074500Z
-SUMMARY:Elementy matematyki dyskretnej (Przeniesienie zajęć)
-UID:bd81e885-bd9b-4a9b-b412-cd8adff14c28@bd81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:2fd5871b-075c-4257-8fc9-166f0d21ec01@2fd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260409T091500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260409T074500Z
-SUMMARY:Analiza matematyczna w data science (wykład)
-UID:5f89e4cb-cbfa-4a3a-8e91-258d7c58bb20@5f89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:dd8bcde7-ed1d-4ab2-be6d-d6a6b924cfb7@dd8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260601T161500Z
-LOCATION:Paw.B 151
-DTSTART:20260601T144500Z
-SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:c6a7a0dd-24d0-429c-b029-af4e66aef280@c6a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260413T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260413T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:e40800c1-791c-4b5b-9990-d3a220d69b8f@e408.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260226T134500Z
-LOCATION:Paw.B 251
-DTSTART:20260226T121500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
-UID:e06b6491-0e94-4072-81a4-524076ef7ffe@e06b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260422T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260422T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:2d75f16e-586c-4fd4-b86f-9355328d8568@2d75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260610T134500Z
-LOCATION:Paw.B 251
-DTSTART:20260610T130000Z
-SUMMARY:Statystyka opisowa (wykład)
-UID:dab0e55c-8e77-4bbe-b2db-b0486f82152d@dab0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260608T101500Z
-LOCATION:Paw.F 516
-DTSTART:20260608T093000Z
-SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:36929724-b149-44b1-8f27-b166991d08d9@3692.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260415T091500Z
-LOCATION:Paw.F 516
-DTSTART:20260415T074500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:5151a612-8298-44f0-9e3a-3a00e9de15f9@5151.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260408T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260408T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:4f09e161-ac3e-4c35-a7d3-6a398aa853a9@4f09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260525T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260525T130000Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:730f356a-74f5-44b8-8b7f-3a18234d71f5@730f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260318T101500Z
-LOCATION:Paw.F 516
-DTSTART:20260318T084500Z
-SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:f9eba9fa-5fd4-4049-a4fe-364513f5debf@f9eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260305T101500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260305T084500Z
-SUMMARY:Elementy matematyki dyskretnej (wykład)
-UID:bbdd7213-cd15-4529-9cf8-8a0126e78729@bbdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260331T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260331T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:0e460b69-18dc-476c-a56e-4e4c88884f4e@0e46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260427T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260427T130000Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:da99a0e9-8bd2-4fc7-9192-f9def3991d43@da99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260401T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260401T093000Z
-SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:debb68d0-baf9-4ae0-9725-a7f38b987615@debb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260511T143000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260511T130000Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:821ac604-beac-4575-92ea-fa4bdee8bd50@821a.org
+UID:7a8797c9-8987-4e01-a2a5-d562de8f10fa@7a87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
@@ -871,31 +47,30 @@ DTEND:20260318T153000Z
 LOCATION:Paw.B 251
 DTSTART:20260318T140000Z
 SUMMARY:Statystyka opisowa (wykład)
-UID:35edef58-98be-49cc-b75b-ab90f8eb8100@35ed.org
+UID:ec58df4a-c9c3-4f74-8299-6bc2d93f9946@ec58.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
-DTEND:20260319T101500Z
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260506T110000Z
+DTSTART:20260506T093000Z
+SUMMARY:Analiza matematyczna w data science (Przeniesienie zajęć)
+UID:f184de5b-95b5-4d2d-b05a-a3a1e7702063@f184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260521T083000Z
 LOCATION:Paw.S sala 8
-DTSTART:20260319T084500Z
-SUMMARY:Elementy matematyki dyskretnej (wykład)
-UID:d3e086e5-3da5-4cc7-907f-a7d8c97566e4@d3e0.org
+DTSTART:20260521T074500Z
+SUMMARY:Analiza matematyczna w data science (wykład)
+UID:4cdb246a-519c-4167-8b35-c4f759cf508b@4cdb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260413T110000Z
-LOCATION:Paw.F 516
-DTSTART:20260413T093000Z
-SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:f7ce6f4d-452f-4701-b6c4-894f57836be1@f7ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260401T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260401T144500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:d8fca882-e911-40a0-8209-2d2bc69c8920@d8fc.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260608T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260608T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:4fef3261-c0da-4278-8276-9f6e3d582378@4fef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Lech Górniak
@@ -903,133 +78,84 @@ DTEND:20260507T143000Z
 LOCATION:Paw.B 251
 DTSTART:20260507T130000Z
 SUMMARY:Komunikacja interpersonalna (wykład)
-UID:593b6725-2e49-4a35-9ac5-3f45e3dc90f7@593b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260316T101500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260316T084500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:db63a1c6-5d2e-4131-be3d-d38c004f244d@db63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260526T100000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260526T074500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:271fb593-3386-4b30-9229-33dd28efff3a@271f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:59b323bf-7350-4707-b5aa-791b8b22df7b@59b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260302T153000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260302T140000Z
-SUMMARY:Podstawy makroekonomii (wykład)
-UID:b5ed3f0d-6334-4bc1-a98b-a4c344bd8c9e@b5ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Krystian Szczęsny
-DTEND:20260610T174500Z
-LOCATION:Paw.F 106
-DTSTART:20260610T153000Z
-SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
-UID:d5c60146-7bd8-4f9e-9ed7-f2718554eff5@d5c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Lech Górniak
-DTEND:20260423T143000Z
-LOCATION:Paw.B 251
-DTSTART:20260423T130000Z
-SUMMARY:Komunikacja interpersonalna (wykład)
-UID:cc0c9cf7-aa75-4fde-b3aa-fbdccb4066f7@cc0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260330T143000Z
-DTSTART:20260330T130000Z
-SUMMARY:Podstawy makroekonomii (Przeniesienie zajęć)
-UID:ce5a9a9b-27ac-4e9b-badf-49ebdd37205b@ce5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260429T161500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260429T144500Z
-SUMMARY:Statystyka opisowa (laboratorium)
-UID:7ad29956-eea9-4f27-bcb9-f66a1fa5a871@7ad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260224T110000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260224T084500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:c1589d4f-d25b-4b29-8318-49a6afdb818b@c158.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260430T133000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6793633
-DTSTART:20260430T111500Z
-SUMMARY:Programowanie w języku Python (laboratorium zdalne)
-UID:da3b3456-4a91-4e5c-a03d-7dcade96934e@da3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260504T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260504T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:dbb008f9-0d62-4f33-86a8-57b19609a6f2@dbb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260429T143000Z
-LOCATION:Paw.B 251
-DTSTART:20260429T130000Z
-SUMMARY:Statystyka opisowa (wykład)
-UID:fcef7e13-6f01-4ce3-9ab2-344f414476a1@fcef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260511T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260511T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:dce512c0-9452-4db3-8bb2-dd8ba7439f2c@dce5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
-DTEND:20260304T153000Z
-LOCATION:Paw.B 251
-DTSTART:20260304T140000Z
-SUMMARY:Statystyka opisowa (wykład)
-UID:1bc74651-c50f-4764-b044-02fd12b4ae47@1bc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260302T101500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260302T084500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:ae96b4ae-78a8-4163-a146-58a0154fd96f@ae96.org
+UID:705f0990-cc6a-4d06-bcff-a3a9a690e60f@705f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260327T101500Z
-LOCATION:Paw.F 415
-DTSTART:20260327T084500Z
+DTEND:20260304T120000Z
+LOCATION:Paw.F 104
+DTSTART:20260304T103000Z
 SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:5f15b1b1-d0fb-410b-8667-3a8e609cb502@5f15.org
+UID:54a9f703-7a3a-4a81-860f-b3dea1b0484b@54a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260312T134500Z
+LOCATION:Paw.B 251
+DTSTART:20260312T121500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:807dde2e-dd5a-4350-aee2-c594ad855da4@807d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260306T101500Z
+DTSTART:20260306T084500Z
+SUMMARY:Analiza matematyczna w data science (wykład zdalny)
+UID:7ee30070-00a6-492c-9f5d-455bd77a5f02@7ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260330T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260330T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:bb4f7b85-6239-4520-8b6c-768ae2004ec6@bb4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260909T151500Z
+LOCATION:Paw.F 102
+DTSTART:20260909T130000Z
+SUMMARY:Elementy matematyki dyskretnej (egzamin)
+UID:5f69721b-ea39-4a20-8033-2be206f70629@5f69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260610T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260610T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:c37c9740-76d7-4d3b-87e7-b00d278d52af@c37c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260522T083000Z
+DTSTART:20260522T074500Z
+SUMMARY:Elementy matematyki dyskretnej (Przeniesienie zajęć)
+UID:0587cd49-b348-417e-b3c8-147cf5c554d4@0587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260625T154500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260625T120000Z
+SUMMARY:Statystyka opisowa (egzamin)
+UID:095866cc-fb7d-45f6-895a-549f5e5f6c96@0958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260603T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260603T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:f6297b6e-f331-4a10-95fa-4337ed7428a0@f629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260326T190000Z
+DTSTART:20260326T173000Z
+SUMMARY:Komunikacja interpersonalna (Przeniesienie zajęć)
+UID:36c76d06-3603-45d9-b6d6-358a68a1c973@36c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski
@@ -1037,38 +163,147 @@ DTEND:20260415T110000Z
 LOCATION:Paw.F 104
 DTSTART:20260415T093000Z
 SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:9d1ed349-da79-491a-8817-e3fa39b62744@9d1e.org
+UID:0309bd67-aad4-4c47-9f74-ba96cafc8f6f@0309.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
-DTEND:20260330T110000Z
-DTSTART:20260330T093000Z
-SUMMARY:Podstawy makroekonomii (Przeniesienie zajęć)
-UID:3b4c85f4-ca16-44a9-aeae-33f0ed3017ea@3b4c.org
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260401T091500Z
+LOCATION:Paw.F 516
+DTSTART:20260401T074500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
+UID:19489950-0e87-482a-9afb-eb45e63f6f6d@1948.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Wójcik
-DTEND:20260303T110000Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260303T084500Z
-SUMMARY:Programowanie w języku Python (laboratorium)
-UID:d29e0f15-25a7-479a-a88e-6756c0007e27@d29e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
-DTEND:20260427T091500Z
-LOCATION:Paw.A 121 lab. Win10\, Office21
-DTSTART:20260427T074500Z
-SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:18ff7db3-a03c-4940-8722-5515c460967a@18ff.org
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:471248cc-7610-4cdc-9353-b5eb78180e23@4712.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Bielawski
-DTEND:20260513T110000Z
-LOCATION:Paw.F 104
-DTSTART:20260513T093000Z
+DTEND:20260312T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260312T084500Z
+SUMMARY:Analiza matematyczna w data science (wykład)
+UID:0710184b-c77c-4b64-84fb-129ddb2984ad@0710.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260323T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260323T084500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:23042566-c54c-408a-b14a-e9052cc7f936@2304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260511T124500Z
+LOCATION:Paw.F 111
+DTSTART:20260511T111500Z
 SUMMARY:Analiza matematyczna w data science (ćwiczenia)
-UID:b14b205c-8e82-4b85-a344-e3022970a9ee@b14b.org
+UID:08f85636-dfcf-4ee9-8a0e-8243b4af9f66@08f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260427T110000Z
+LOCATION:Paw.F 516
+DTSTART:20260427T093000Z
+SUMMARY:Podstawy makroekonomii (ćwiczenia)
+UID:114ccc61-1695-46a3-8921-de189950cf06@114c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260602T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260602T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:d6c629db-6bc9-47b8-a32f-5ecb7adb32bc@d6c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260316T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260316T140000Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:48c31981-ea39-44a1-87e0-d2655b970a0d@48c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260521T124500Z
+LOCATION:Paw.B 251
+DTSTART:20260521T111500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:aed68d61-210f-42c2-884a-b464688e7832@aed6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krystian Szczęsny
+DTEND:20260505T143000Z
+LOCATION:Paw.F 104
+DTSTART:20260505T130000Z
+SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
+UID:0ea445d1-f96b-49a2-bca7-321c311144ef@0ea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260408T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260408T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:7ee797bd-af0d-44df-a438-c03355e08901@7ee7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260304T101500Z
+LOCATION:Paw.F 516
+DTSTART:20260304T084500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
+UID:751820e7-fa23-403c-872d-b2747200d3f3@7518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260310T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260310T084500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:4d1b0c6d-1915-4104-954e-f8ac9016f53c@4d1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260330T143000Z
+DTSTART:20260330T130000Z
+SUMMARY:Podstawy makroekonomii (Przeniesienie zajęć)
+UID:0e181faa-ea7f-44b7-8283-eea050026430@0e18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260428T100000Z
+DTSTART:20260428T074500Z
+SUMMARY:Programowanie w języku Python (Przeniesienie zajęć)
+UID:054efa1d-2726-435b-8c92-c66fc77f6eab@054e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260302T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260302T084500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:a25821d4-051f-4b08-b4dc-cccc71cc96f3@a258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260430T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6793021
+DTSTART:20260430T074500Z
+SUMMARY:Elementy matematyki dyskretnej (wykład zdalny)
+UID:9c77602b-2e40-4a47-9842-db3355562666@9c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:7809e19d-3213-47bb-b788-36acc61f9912@7809.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Lech Górniak
@@ -1076,15 +311,71 @@ DTEND:20260226T153000Z
 LOCATION:Paw.B 251
 DTSTART:20260226T140000Z
 SUMMARY:Komunikacja interpersonalna (wykład)
-UID:e0211d9d-63c4-48a1-b459-1073b84ae8ca@e021.org
+UID:d7a32368-a375-4601-bdfb-55cc3d042281@d7a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
-DTEND:20260513T091500Z
+DTEND:20260415T091500Z
 LOCATION:Paw.F 516
-DTSTART:20260513T074500Z
+DTSTART:20260415T074500Z
 SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
-UID:078f6843-591d-47eb-93f7-21cae1786d94@078f.org
+UID:0c941e61-76c6-4510-b708-ace3e95fb71c@0c94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260512T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260512T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:a89a3b1b-39a0-41d8-ada1-a531f23756c9@a89a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260527T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260527T144500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:82dc302e-0033-4ff7-b96c-10f6b833b318@82dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260226T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260226T084500Z
+SUMMARY:Analiza matematyczna w data science (wykład)
+UID:3f05175c-5ad7-4672-a699-fa1b15ec0405@3f05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260525T110000Z
+LOCATION:Paw.F 516
+DTSTART:20260525T093000Z
+SUMMARY:Podstawy makroekonomii (ćwiczenia)
+UID:b912873a-46cd-4bdc-b8fd-ee6c5c0d1678@b912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260525T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260525T130000Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:9ec3bc27-7e08-4688-b212-cb94388cff1c@9ec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260309T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260309T084500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:3247110d-4650-454c-875d-2b8854d977a2@3247.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260318T134500Z
+LOCATION:Paw.B 251
+DTSTART:20260318T121500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:678068a0-d295-47cb-a8cf-0bacae1a345f@6780.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
@@ -1092,7 +383,414 @@ DTEND:20260601T091500Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260601T074500Z
 SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
-UID:a3693230-6ace-423d-96c7-ce2c5a5a4cbf@a369.org
+UID:74980ff6-7132-4e83-81aa-ef18278c7fe1@7498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260608T101500Z
+LOCATION:Paw.F 516
+DTSTART:20260608T093000Z
+SUMMARY:Podstawy makroekonomii (ćwiczenia)
+UID:67ed850b-31c6-40f3-b0d5-69f860a46004@67ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260520T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260520T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:f7eb04dd-9723-467c-8cd0-381faf369147@f7eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260304T153000Z
+LOCATION:Paw.B 251
+DTSTART:20260304T140000Z
+SUMMARY:Statystyka opisowa (wykład)
+UID:13574a88-8fa4-4dff-ac85-a301c491230a@1357.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260610T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260610T144500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:4874783d-992a-4420-886d-f0dbefd34af0@4874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260225T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260225T084500Z
+SUMMARY:Elementy matematyki dyskretnej (wykład)
+UID:354a4cd0-4bad-4f38-bf49-1a19884894a1@354a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260313T101500Z
+LOCATION:Bibl. 443
+DTSTART:20260313T084500Z
+SUMMARY:Elementy matematyki dyskretnej (wykład)
+UID:299b9082-8a22-42e0-aa82-9f55b0f4b7dc@299b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260527T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260527T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:05c3f0d7-defe-4251-b95d-afa3d44f400a@05c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260521T161500Z
+LOCATION:Paw.B 251
+DTSTART:20260521T144500Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:93ff40e1-ee8b-4be1-b6c2-3edd6da4cba1@93ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260326T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260326T084500Z
+SUMMARY:Analiza matematyczna w data science (wykład)
+UID:dabab528-39c4-4923-a6ae-c965d4916e90@daba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260422T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260422T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:beabfcdc-e52f-4852-8fa8-eb02d7f3dcf7@beab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260415T143000Z
+LOCATION:Paw.B 251
+DTSTART:20260415T130000Z
+SUMMARY:Statystyka opisowa (wykład)
+UID:b583e64e-5ff6-4927-81ff-0595e453e3d8@b583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260318T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260318T154500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:b38231e3-8244-4c00-b6e7-d0ce62dde281@b382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260324T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260324T084500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:ecc0a43d-6335-4fb8-8a97-d32b71c70024@ecc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260401T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260401T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:b9732816-1414-4297-a3cb-c8f88baa01cd@b973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260401T143000Z
+LOCATION:Paw.B 251
+DTSTART:20260401T130000Z
+SUMMARY:Statystyka opisowa (wykład)
+UID:dbae2b52-5cbf-4835-b91f-6dd53e4743f8@dbae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260409T124500Z
+LOCATION:Paw.B 251
+DTSTART:20260409T111500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:b4a42a95-2321-4435-8fe8-bf321e684dd5@b4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260511T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260511T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:ed36710e-12fb-4693-a154-dcaab576f386@ed36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260519T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260519T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:d93d2aac-fe63-4a0c-b041-9f511cb858b8@d93d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krystian Szczęsny
+DTEND:20260310T153000Z
+LOCATION:Paw.F 104
+DTSTART:20260310T140000Z
+SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
+UID:2396c2aa-b053-46b0-842d-4d6b3dba71a0@2396.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260316T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260316T084500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:cf04d34a-0293-4b6a-803a-0b10d6acc4e1@cf04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260623T141500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260623T120000Z
+SUMMARY:Elementy matematyki dyskretnej\, Teoria grafów (egzamin)
+UID:6d9a504c-3fe2-4c81-b7fb-ac82e6ae4011@6d9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260327T101500Z
+LOCATION:Paw.F 415
+DTSTART:20260327T084500Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:8e64d384-8147-4575-87e8-c6f5c32aeb8e@8e64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260514T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260514T074500Z
+SUMMARY:Elementy matematyki dyskretnej (wykład)
+UID:db24617f-9468-4630-b6ac-88f14cdcc54a@db24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260312T153000Z
+LOCATION:Paw.B 251
+DTSTART:20260312T140000Z
+SUMMARY:Komunikacja interpersonalna (wykład)
+UID:5bea2ac2-f1db-4b8a-9285-ea67effe131d@5bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260518T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260518T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:e76a408c-289e-4e6b-b88b-2d107c527f55@e76a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260429T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260429T144500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:f6c6591f-a649-488d-aea6-55a69e137b5b@f6c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260429T143000Z
+LOCATION:Paw.B 251
+DTSTART:20260429T130000Z
+SUMMARY:Statystyka opisowa (wykład)
+UID:7acf3de4-b32f-44ca-af08-e1c5c8c15133@7acf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260610T134500Z
+LOCATION:Paw.B 251
+DTSTART:20260610T130000Z
+SUMMARY:Statystyka opisowa (wykład)
+UID:d88f66f0-b9fb-4241-abad-68e9b4e5381e@d88f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260527T143000Z
+LOCATION:Paw.B 251
+DTSTART:20260527T130000Z
+SUMMARY:Statystyka opisowa (wykład)
+UID:913b10c0-a3e0-4480-85bc-a4cca1a817e5@913b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260521T143000Z
+LOCATION:Paw.B 251
+DTSTART:20260521T130000Z
+SUMMARY:Komunikacja interpersonalna (wykład)
+UID:b6e75b06-f0f4-42ae-93c8-cdb9cc2e1fda@b6e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260302T153000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260302T140000Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:59a35a56-8032-4950-a783-a57977d7ca3a@59a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260514T101500Z
+LOCATION:Paw.F 717
+DTSTART:20260514T093000Z
+SUMMARY:Elementy matematyki dyskretnej (wykład)
+UID:25a76436-9028-4d55-81b9-e2971234ca07@25a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260609T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260609T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:9dd729e7-3b14-45d4-b5a1-8439dca669a9@9dd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260504T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260504T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:10e2fa73-7480-41cc-804e-76ce35b06188@10e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260223T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260223T084500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:366cfc2a-cd68-4d1e-b847-d2a6bd935ee0@366c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260526T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260526T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:16a8d36c-93e7-4492-8808-d58d3c093391@16a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260330T110000Z
+DTSTART:20260330T093000Z
+SUMMARY:Podstawy makroekonomii (Przeniesienie zajęć)
+UID:64f01d17-9d36-4688-8f8a-536ea99a241d@64f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260507T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6787009
+DTSTART:20260507T074500Z
+SUMMARY:Analiza matematyczna w data science (wykład)
+UID:e3995483-2d39-4dd6-b1f7-35c0a25714a7@e399.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260415T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260415T144500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:1eab45e6-c2e0-40cb-992f-016c833aa9c9@1eab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260522T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20260522T111500Z
+SUMMARY:Komunikacja interpersonalna (wykład)
+UID:3b12a75d-2098-4c5f-a3cd-024332242876@3b12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260527T091500Z
+LOCATION:Paw.F 516
+DTSTART:20260527T074500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
+UID:bd6fca9e-cc90-4274-82c2-7371717ac96e@bd6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260429T091500Z
+LOCATION:Paw.F 516
+DTSTART:20260429T074500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
+UID:aff2773c-2f34-46ec-9b4d-d66fdbcdd933@aff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260413T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260413T130000Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:815d5d9c-4a44-4498-aeed-c2cb0243d2a5@815d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260224T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260224T084500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:ffc316a4-ef50-4b8b-9866-6efcc44f2bab@ffc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260409T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260409T074500Z
+SUMMARY:Analiza matematyczna w data science (wykład)
+UID:0bfcf9de-3b3e-4902-97c3-54a08da79ec9@0bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260318T101500Z
+LOCATION:Paw.F 516
+DTSTART:20260318T084500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
+UID:203307ea-c368-473a-8240-f4190144605b@2033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260401T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260401T144500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:0c7758e2-f546-4db0-9e1a-0902ee87a582@0c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260304T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260304T154500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:49da83ee-fd8f-4dad-a4f4-5c578e1203ac@49da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260226T134500Z
+LOCATION:Paw.B 251
+DTSTART:20260226T121500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:ed69a8f3-e321-4adb-b16f-70782d476e6d@ed69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260305T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260305T084500Z
+SUMMARY:Elementy matematyki dyskretnej (wykład)
+UID:637cd025-08b6-428e-a300-1ef608772999@637c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260615T073000Z
+LOCATION:Paw.F 106
+DTSTART:20260615T060000Z
+SUMMARY:Podstawy makroekonomii (egzamin)
+UID:fbbaa2a3-70d2-4609-8632-ec5448b37359@fbba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
@@ -1100,6 +798,308 @@ DTEND:20260316T120000Z
 LOCATION:Paw.F 516
 DTSTART:20260316T103000Z
 SUMMARY:Podstawy makroekonomii (ćwiczenia)
-UID:4c2b91c3-45df-455e-9200-30a113caa599@4c2b.org
+UID:e689ad8f-bae8-4bea-87cf-0bca8ac84fa5@e689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260429T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260429T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:f7e3e76c-c023-4754-a427-51320c232734@f7e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krystian Szczęsny
+DTEND:20260602T143000Z
+LOCATION:Paw.F 104
+DTSTART:20260602T130000Z
+SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
+UID:b2497abc-1fc9-4f54-bff8-42cf76d49918@b249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krystian Szczęsny
+DTEND:20260610T174500Z
+LOCATION:Paw.F 106
+DTSTART:20260610T153000Z
+SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
+UID:934d8e9c-83cf-43b9-9b1f-7c2bba97e493@934d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260514T143000Z
+LOCATION:Paw.C sala E
+DTSTART:20260514T130000Z
+SUMMARY:Komunikacja interpersonalna (wykład)
+UID:52f7e79b-a0c6-4fe4-9116-82b2c5e9c1e7@52f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:998f0d86-add3-47c8-8033-6d8d7b282d09@998f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260413T110000Z
+LOCATION:Paw.F 516
+DTSTART:20260413T093000Z
+SUMMARY:Podstawy makroekonomii (ćwiczenia)
+UID:2e9e4dfe-9195-4c77-a5fb-f79b26d71588@2e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260416T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260416T074500Z
+SUMMARY:Elementy matematyki dyskretnej (wykład)
+UID:d4dd09f0-4334-4c0f-9f6a-b2e6514ec70c@d4dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260507T110000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6789038
+DTSTART:20260507T093000Z
+SUMMARY:Statystyka opisowa (wykład)
+UID:b199ea5e-8035-4ee6-9e94-c0a97405af1c@b199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260311T120000Z
+LOCATION:Paw.F 104
+DTSTART:20260311T103000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:0a942205-2b74-4cc6-806c-e4533284f07f@0a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260317T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260317T084500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:489b246d-3672-4d4f-9ea8-04be64d6c9ed@489b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Pawełek
+DTEND:20260507T124500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6795125
+DTSTART:20260507T111500Z
+SUMMARY:Statystyka opisowa (laboratorium)
+UID:b6ff00be-a054-4bd8-bcef-b90843d55fae@b6ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260421T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260421T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:35e79d86-0f06-4a3a-9129-a090a028ba47@35e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260409T143000Z
+DTSTART:20260409T130000Z
+SUMMARY:Komunikacja interpersonalna (Przeniesienie zajęć)
+UID:303dcc42-4694-44fd-9d38-a2fa5ca924b7@303d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260513T091500Z
+LOCATION:Paw.F 516
+DTSTART:20260513T074500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
+UID:953c1e65-e4d3-47bd-982d-0c3e2ea48d8f@953c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260430T133000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6793633
+DTSTART:20260430T111500Z
+SUMMARY:Programowanie w języku Python (laboratorium zdalne)
+UID:7fbee2fc-47a1-4371-9ebb-31d31b403057@7fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260427T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260427T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:a8876f86-b241-4fda-bda9-401c3bafe66d@a887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260505T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260505T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:bdc3c3fe-977d-497a-8295-7549e2e230d2@bdc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260427T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260427T130000Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:f95c8f55-781d-422a-b321-ff721998673e@f95c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260525T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260525T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:6d14c274-d102-450c-8024-ba80877cfdc2@6d14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260610T083000Z
+LOCATION:Paw.F 516
+DTSTART:20260610T074500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (ćwiczenia)
+UID:15f2d771-e89c-4bfe-a373-1591b7090518@15f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20260423T143000Z
+LOCATION:Paw.B 251
+DTSTART:20260423T130000Z
+SUMMARY:Komunikacja interpersonalna (wykład)
+UID:a28305dd-c2a7-4f34-9dca-5d6fd7eb845b@a283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Kosiorowski
+DTEND:20260319T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260319T084500Z
+SUMMARY:Elementy matematyki dyskretnej (wykład)
+UID:12d489d1-34d0-4e29-87a5-bfc5c1e289e1@12d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260513T110000Z
+LOCATION:Paw.F 104
+DTSTART:20260513T093000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:f627a1b9-d7cc-4efc-a8de-a150b77cf373@f627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260414T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260414T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:e07d19a7-0582-490f-b2a2-acf966459110@e07d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260423T124500Z
+LOCATION:Paw.B 251
+DTSTART:20260423T111500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:4f68df4c-4443-4bd6-90bb-b70ccdeed503@4f68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260511T110000Z
+LOCATION:Paw.F 516
+DTSTART:20260511T093000Z
+SUMMARY:Podstawy makroekonomii (ćwiczenia)
+UID:ba677e45-cce8-4fb7-b0bd-3b6af966ffc3@ba67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260303T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260303T084500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:ce53fe72-cf0b-4bc6-a41d-4501f2a9ebcd@ce53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260413T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260413T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:23e8f8de-5101-4460-9857-3c287add88c4@23e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260608T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260608T130000Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:f03c1ab3-2dd7-4c55-b0d4-b84308afbeaf@f03c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260423T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260423T074500Z
+SUMMARY:Analiza matematyczna w data science (wykład)
+UID:0ee7ca54-3c74-4343-b988-a2c5d7726954@0ee7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marcin Salamaga
+DTEND:20260514T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260514T111500Z
+SUMMARY:Podstawy rachunku prawdopodobieństwa (wykład)
+UID:f175dcc6-f7a1-48a1-a9a6-c38ecfc6287c@f175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krystian Szczęsny
+DTEND:20260324T153000Z
+LOCATION:Paw.F 104
+DTSTART:20260324T140000Z
+SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
+UID:9bcc04f3-6282-4726-9793-16c7d306a059@9bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Wójcik
+DTEND:20260331T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260331T074500Z
+SUMMARY:Programowanie w języku Python (laboratorium)
+UID:291e1c00-295e-453d-95e6-1c6ed81d2b83@291e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260601T161500Z
+LOCATION:Paw.B 151
+DTSTART:20260601T144500Z
+SUMMARY:Podstawy makroekonomii (ćwiczenia)
+UID:48eca400-fa32-4cfe-a5a5-7d53d60e9300@48ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20260420T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20260420T074500Z
+SUMMARY:Bazy danych i język SQL (laboratorium do wyboru)
+UID:04fe2954-a956-4fa8-b709-370238d0b98e@04fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20260318T120000Z
+LOCATION:Paw.F 104
+DTSTART:20260318T103000Z
+SUMMARY:Analiza matematyczna w data science (ćwiczenia)
+UID:6d636361-9a39-418d-a075-4e76ad7f8a9c@6d63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jagoda Kaszowska-Mojsa
+DTEND:20260511T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260511T130000Z
+SUMMARY:Podstawy makroekonomii (wykład)
+UID:7402538e-0364-45c8-b4af-72714e35c7ff@7402.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Krystian Szczęsny
+DTEND:20260421T143000Z
+LOCATION:Paw.F 104
+DTSTART:20260421T130000Z
+SUMMARY:Elementy matematyki dyskretnej (ćwiczenia)
+UID:ba0a4ca0-c5a5-4423-950a-024c438ced83@ba0a.org
 END:VEVENT
 END:VCALENDAR
