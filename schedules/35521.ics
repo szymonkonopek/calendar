@@ -2,34 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20260523T120000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260523T064500Z
+SUMMARY:Analiza techniczna (Studia podyplomowe)
+UID:28e99942-fa43-4963-8e49-bda8c604f985@28e9.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
 DTEND:20260627T120000Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
 DTSTART:20260627T064500Z
 SUMMARY:Analiza fundamentalna (Studia podyplomowe)
-UID:9b13a452-ca97-4c45-a9f0-251468524df3@9b13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260704T103000Z
-DTSTART:20260704T064500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:3f22f797-66dd-4ccf-af8e-08a8529368dc@3f22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Oleksy
-DTEND:20260320T193000Z
-LOCATION:Paw.G  9
-DTSTART:20260320T154500Z
-SUMMARY:Inwestycje alternatywne (Studia podyplomowe)
-UID:9cb95349-c07c-4d0b-8711-a911533bee58@9cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karolina Manugiewicz
-DTEND:20260626T174500Z
-DTSTART:20260626T144500Z
-SUMMARY:Umiejętności miękkie w sektorze finansowym (Studia podyplomowe)
-UID:072340e4-196e-4dc9-a357-cc2800cfe700@0723.org
+UID:dc709379-16ab-4d29-a565-8c34852320bd@dc70.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
@@ -37,7 +23,29 @@ DTEND:20260612T183000Z
 LOCATION:Paw.G 10
 DTSTART:20260612T144500Z
 SUMMARY:Fuzje i przejęcia (Studia podyplomowe)
-UID:9616174e-9b6e-4968-981d-99a87a5b9a18@9616.org
+UID:086f6ded-223a-497b-a67d-a02f3d0c59a7@086f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20260320T193000Z
+LOCATION:Paw.G  9
+DTSTART:20260320T154500Z
+SUMMARY:Inwestycje alternatywne (Studia podyplomowe)
+UID:cc9c990e-7719-47fa-836b-b462bb0cba5c@cc9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Manugiewicz
+DTEND:20260626T174500Z
+DTSTART:20260626T144500Z
+SUMMARY:Umiejętności miękkie w sektorze finansowym (Studia podyplomowe)
+UID:8f9cc331-1b0a-4157-9504-260beee6123d@8f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260704T103000Z
+DTSTART:20260704T064500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:aaf0fc63-9eda-4276-a5bf-d39667f2294d@aaf0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Karol Magoń
@@ -45,38 +53,7 @@ DTEND:20260417T183000Z
 LOCATION:Paw.B 057 (KSB)
 DTSTART:20260417T144500Z
 SUMMARY:Kodeks spółek handlowych. Kodeks Dobrych Praktyk. Corpor. Governance (Studia podyplomowe)
-UID:0873d055-2312-44f9-b45b-0065d41da4b3@0873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260613T120000Z
-DTSTART:20260613T064500Z
-SUMMARY:Analiza fundamentalna (Studia podyplomowe)
-UID:170bdc6c-3bc9-4a1e-89d6-6bbca20b24bc@170b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20260522T183000Z
-LOCATION:Paw.G  9
-DTSTART:20260522T144500Z
-SUMMARY:Rynek walutowy (Studia podyplomowe)
-UID:5fa82183-b4cc-44a6-8f9a-b134026d4f28@5fa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Remigiusz Lipiec
-DTEND:20260314T130000Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260314T074500Z
-SUMMARY:Finanse empiryczne (Studia podyplomowe)
-UID:4037d6f5-3625-4151-8d47-00baf1edf905@4037.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marcin Rychlak
-DTEND:20260523T120000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260523T064500Z
-SUMMARY:Analiza techniczna (Studia podyplomowe)
-UID:1fb42b25-ffc8-4ca1-890b-6d744d18efe1@1fb4.org
+UID:c78d4b4b-5ebb-4a28-ac1c-dead9e1165d2@c78d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marcin Rychlak
@@ -84,31 +61,15 @@ DTEND:20260509T120000Z
 LOCATION:Paw.G  8
 DTSTART:20260509T064500Z
 SUMMARY:Giełdy papierów wartościowych (Studia podyplomowe)
-UID:f2d66591-f51d-4885-a6cf-5b6095b07fe5@f2d6.org
+UID:a07a9143-8fcb-44d4-ba1e-f021a7e40a3c@a07a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Karol Magoń
-DTEND:20260418T103000Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260418T064500Z
-SUMMARY:Obrót instrumentami finansowymi (Studia podyplomowe)
-UID:c140511f-4d11-4a98-a618-20084d455936@c140.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260321T143000Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260321T130000Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:3c7ab608-da07-4ba6-99d4-c33f2542a84e@3c7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260313T184500Z
-LOCATION:Paw.G 13 SENACKA
-DTSTART:20260313T154500Z
-SUMMARY: (Studia podyplomowe)
-UID:8ab8d87d-7700-4ff3-9800-e5bb2447cc2b@8ab8.org
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20260522T183000Z
+LOCATION:Paw.G  9
+DTSTART:20260522T144500Z
+SUMMARY:Rynek walutowy (Studia podyplomowe)
+UID:b3f58e9b-afa0-4545-b18b-d44eef367243@b3f5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Remigiusz Lipiec
@@ -116,6 +77,45 @@ DTEND:20260321T121500Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
 DTSTART:20260321T074500Z
 SUMMARY:Zarządzanie ryzykiem rynkowym w przedsiębiorstwie (Studia podyplomowe)
-UID:69b2aaa3-3139-4784-9b5c-ac70c990989c@69b2.org
+UID:3e33d5f7-cfba-445f-982f-391eea26540a@3e33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260613T120000Z
+DTSTART:20260613T064500Z
+SUMMARY:Analiza fundamentalna (Studia podyplomowe)
+UID:e976ee68-377d-43c6-a369-c04698c71143@e976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Magoń
+DTEND:20260418T103000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260418T064500Z
+SUMMARY:Obrót instrumentami finansowymi (Studia podyplomowe)
+UID:530a83ef-9fa5-4b2b-be70-1442932b265a@530a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Remigiusz Lipiec
+DTEND:20260314T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260314T074500Z
+SUMMARY:Finanse empiryczne (Studia podyplomowe)
+UID:da1a3117-faf3-44ca-96ac-9fdb4a4a9033@da1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260321T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260321T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:a9aff18c-aff4-4f62-95b9-65ab8684565a@a9af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260313T184500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20260313T154500Z
+SUMMARY: (Studia podyplomowe)
+UID:da474930-ec60-42aa-887d-58caf3925274@da47.org
 END:VEVENT
 END:VCALENDAR
