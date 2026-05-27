@@ -2,12 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20260517T100000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260517T083000Z
+SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
+UID:fdbbf5d8-b272-472e-82c0-c7d6faf3f4c8@fdbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Geodecki
+DTEND:20260306T170000Z
+DTSTART:20260306T144500Z
+SUMMARY:Innowacyjna gospodarka (wykład)
+UID:b48217da-fb47-4fa9-9549-44a7279f97b5@b482.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Miś
 DTEND:20260517T131500Z
 LOCATION:Rakowicka 16 sala -103
 DTSTART:20260517T101500Z
 SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
-UID:8bd45f8b-7684-44ec-9a24-247bbf626314@8bd4.org
+UID:5ee454a9-62d7-4103-a630-2f7ec8ba6dfc@5ee4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Grzegorz Miś
@@ -15,268 +30,7 @@ DTEND:20260322T124500Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20260322T103000Z
 SUMMARY:Bezpieczeństwo i porządek publiczny (konwersatorium do wyboru)
-UID:0e193725-18c5-4eea-8b62-6b60aa516b9c@0e19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260425T090000Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260425T060000Z
-SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
-UID:9828e8b6-2981-4adf-9e7f-66474c8fe22b@9828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260531T090000Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20260531T060000Z
-SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
-UID:76f26aa5-7247-4909-910f-7a111544c9ad@76f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260425T114500Z
-LOCATION:Bud.gł. 8
-DTSTART:20260425T093000Z
-SUMMARY:Bezpieczeństwo i porządek publiczny (konwersatorium do wyboru)
-UID:a38cddea-1083-4159-bf62-4156480a5ec0@a38c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260516T081500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20260516T060000Z
-SUMMARY:Ochrona danych osobowych i informacji niejawnych (konwersatorium)
-UID:8e3ae5c5-0e72-460c-9951-1752d42eff63@8e3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260308T091500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260308T070000Z
-SUMMARY:Bezpieczeństwo i porządek publiczny (konwersatorium do wyboru)
-UID:b5d31eb6-d1b1-4638-8a94-2ac3ba9d013a@b5d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260320T194500Z
-DTSTART:20260320T173000Z
-SUMMARY:Historia polityczna Polski od 1989 r. (Przeniesienie zajęć)
-UID:2ef8ca63-6336-446d-9ee0-627fd74c0ea5@2ef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260329T104500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20260329T083000Z
-SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
-UID:c6405794-e5cd-4dc8-a8eb-97a43bc2ef32@c640.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:1f55fd8e-529f-46eb-b659-aa8a4ed81867@1f55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Geodecki
-DTEND:20260424T184500Z
-DTSTART:20260424T163000Z
-SUMMARY:Innowacyjna gospodarka (Przeniesienie zajęć)
-UID:2fbdaed6-0281-482d-b3b3-699ad3f86d57@2fbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20260517T100000Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20260517T083000Z
-SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
-UID:2427bd85-6716-451f-a2e4-0871d2b3a01b@2427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260306T194500Z
-DTSTART:20260306T173000Z
-SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
-UID:de55dd3e-a53a-4f7b-be6b-74e302f24f56@de55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260911T184500Z
-LOCATION:.
-DTSTART:20260911T171500Z
-SUMMARY:Historia polityczna Polski od 1989 r. (egzamin)
-UID:9788a5b7-b00e-486b-a907-38775f44da0f@9788.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260424T160000Z
-DTSTART:20260424T134500Z
-SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
-UID:832f3104-54dc-44f9-908a-e476742fafe3@832f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20260607T090000Z
-LOCATION:Rakowicka 16 sala -103
-DTSTART:20260607T064500Z
-SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
-UID:2ed0eb55-b7cd-4d68-8126-da96e8e7709e@2ed0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260329T081500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260329T060000Z
-SUMMARY:Kontrola i nadzór w administracji publicznej (konwersatorium do wyboru)
-UID:b5f64cb1-7b79-4f30-a594-969b23c06f2f@b5f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260308T114500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260308T093000Z
-SUMMARY:Ochrona danych osobowych i informacji niejawnych (konwersatorium)
-UID:1febcc77-f28b-4180-94fc-728298683e99@1feb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260322T100000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20260322T074500Z
-SUMMARY:Ochrona danych osobowych i informacji niejawnych (konwersatorium)
-UID:fd1db576-b768-4f9f-aee0-5d1340ac6abf@fd1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Geodecki
-DTEND:20260327T170000Z
-DTSTART:20260327T144500Z
-SUMMARY:Innowacyjna gospodarka (wykład)
-UID:9926f1e9-b5e3-4925-a562-4026eeb02375@9926.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20260426T104500Z
-LOCATION:Rakowicka 16 sala 11
-DTSTART:20260426T083000Z
-SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
-UID:a702861d-5814-4820-a1bf-40d27234b703@a702.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260320T170000Z
-DTSTART:20260320T144500Z
-SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
-UID:e563c386-fed5-488d-88d8-b92bf1f9ea8b@e563.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:44172656-861d-48ac-99ab-b864e28f05d2@4417.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20260308T161500Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20260308T140000Z
-SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
-UID:9e64d63b-10cd-4291-82d5-1c7ad9c25622@9e64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Geodecki
-DTEND:20260515T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6790186
-DTSTART:20260515T163000Z
-SUMMARY:Innowacyjna gospodarka (wykład)
-UID:f2745a1a-e741-4357-b703-c917e9756da1@f274.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260517T081500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260517T060000Z
-SUMMARY:Kontrola i nadzór w administracji publicznej (konwersatorium do wyboru)
-UID:f2fe366a-4427-4a32-8638-9ac34b1ed774@f2fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260529T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6804440
-DTSTART:20260529T134500Z
-SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
-UID:fe45361f-4574-427a-a578-8b3380f5633c@fe45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260515T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6383168
-DTSTART:20260515T134500Z
-SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
-UID:aa933fd6-c0e6-4770-8298-60f71da81635@aa93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Grzegorz Miś
-DTEND:20260614T090000Z
-LOCATION:Bibl. 440
-DTSTART:20260614T064500Z
-SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
-UID:ed59d2c3-d41e-4fe7-b09a-5785ecbc5a8f@ed59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20260614T110000Z
-LOCATION:Paw.F 416
-DTSTART:20260614T093000Z
-SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
-UID:20defa8c-ac65-4814-9747-255799052da5@20de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Geodecki
-DTEND:20260306T170000Z
-DTSTART:20260306T144500Z
-SUMMARY:Innowacyjna gospodarka (wykład)
-UID:bae5259b-4f13-43b7-8f1b-a095ed5d6a70@bae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:ca6055e3-58e3-4e41-bd64-8a4f9a961c13@ca60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20260530T081500Z
-LOCATION:Rakowicka 16 sala 12
-DTSTART:20260530T060000Z
-SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
-UID:ec563a35-a2ad-437e-894a-24388e1f1ded@ec56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Olech
-DTEND:20260327T194500Z
-DTSTART:20260327T173000Z
-SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
-UID:75abf91b-9721-446f-877e-ff016bddfbed@75ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Tomasz Geodecki
-DTEND:20260530T091500Z
-LOCATION:Paw.C sala E
-DTSTART:20260530T083000Z
-SUMMARY:Innowacyjna gospodarka (rezerwacja)
-UID:8d0add13-ea5f-46a4-81d7-ad643b80c6c7@8d0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
-DTEND:20260322T143000Z
-LOCATION:Rakowicka 16 sala 13
-DTSTART:20260322T130000Z
-SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
-UID:3d2a465b-1c68-4286-9547-db940122666f@3d2a.org
+UID:56bd158d-13e6-469b-9700-685754d06010@56bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Olech
@@ -284,7 +38,192 @@ DTEND:20260426T081500Z
 LOCATION:Rakowicka 16 sala 12
 DTSTART:20260426T060000Z
 SUMMARY:Kontrola i nadzór w administracji publicznej (konwersatorium do wyboru)
-UID:ddbff0bd-3509-4421-b3e2-fdf138d5148b@ddbf.org
+UID:10b5088a-6177-40e9-8756-2ed4a2f23499@10b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260515T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6383168
+DTSTART:20260515T134500Z
+SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
+UID:d30bf97e-eed1-427f-a1a2-888df3f7314e@d30b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260322T100000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20260322T074500Z
+SUMMARY:Ochrona danych osobowych i informacji niejawnych (konwersatorium)
+UID:c5253789-f492-4181-b8f5-cc4518a07685@c525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:5156d1a7-5530-479d-86e4-4c800827bbd3@5156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260320T194500Z
+DTSTART:20260320T173000Z
+SUMMARY:Historia polityczna Polski od 1989 r. (Przeniesienie zajęć)
+UID:60726d2d-fd9a-4a71-9620-955ff0850c11@6072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260516T081500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260516T060000Z
+SUMMARY:Ochrona danych osobowych i informacji niejawnych (konwersatorium)
+UID:fb090624-6da0-4f1f-8d32-f06a885784e3@fb09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260329T104500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20260329T083000Z
+SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
+UID:428ff43f-c488-4df6-81b5-a2733846b3ec@428f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260531T090000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260531T060000Z
+SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
+UID:478cf9e3-195b-43e4-9487-8dd61c9a5113@478c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260425T090000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260425T060000Z
+SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
+UID:543be234-6eeb-4881-a667-3cffe804938a@543b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20260607T090000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20260607T064500Z
+SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
+UID:dfa9ca88-9a19-4a81-b8b0-d56e7a0c2b95@dfa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:6300f91a-6ba6-4dae-9508-b1afdd11e3e9@6300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Geodecki
+DTEND:20260515T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6790186
+DTSTART:20260515T163000Z
+SUMMARY:Innowacyjna gospodarka (wykład)
+UID:81d43726-225a-4d83-a73c-e02ee3526372@81d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20260530T081500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260530T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
+UID:9d4bb2e1-0136-42de-8913-4274ea4e716e@9d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260614T090000Z
+LOCATION:Bibl. 440
+DTSTART:20260614T064500Z
+SUMMARY:Status prawny pracowników administracji publicznej (konwersatorium)
+UID:d40fced4-6fa2-48a0-8497-4ebf70b9ac3d@d40f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260517T081500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260517T060000Z
+SUMMARY:Kontrola i nadzór w administracji publicznej (konwersatorium do wyboru)
+UID:41c32e8a-39e1-4ab3-b956-abca74f8f1f0@41c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20260426T104500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260426T083000Z
+SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
+UID:e58a0d9b-23c7-47d2-9075-aad51219c4fa@e58a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260308T114500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260308T093000Z
+SUMMARY:Ochrona danych osobowych i informacji niejawnych (konwersatorium)
+UID:d4339564-e33f-46df-ab41-33a428776385@d433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260320T170000Z
+DTSTART:20260320T144500Z
+SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
+UID:0bbf4ae2-137a-4ba0-90e3-439ba7415dcb@0bbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Geodecki
+DTEND:20260327T170000Z
+DTSTART:20260327T144500Z
+SUMMARY:Innowacyjna gospodarka (wykład)
+UID:4b0b9e5d-0099-4677-bfa5-6e1c1931fa9b@4b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260327T194500Z
+DTSTART:20260327T173000Z
+SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
+UID:ee1040c8-4126-411b-bf2c-1f906bade960@ee10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Geodecki
+DTEND:20260530T091500Z
+LOCATION:Paw.C sala E
+DTSTART:20260530T083000Z
+SUMMARY:Innowacyjna gospodarka (rezerwacja)
+UID:4dd4bfd3-2c94-4003-b304-df3069069927@4dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260308T091500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260308T070000Z
+SUMMARY:Bezpieczeństwo i porządek publiczny (konwersatorium do wyboru)
+UID:8d6ac61c-0fbd-48aa-bb92-58acab75f771@8d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260424T160000Z
+DTSTART:20260424T134500Z
+SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
+UID:8b4687fc-474b-480e-98d9-03fce32a850c@8b46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260529T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6804440
+DTSTART:20260529T134500Z
+SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
+UID:7b2256eb-fd6b-46e6-85b2-07d5a5d27285@7b22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260911T184500Z
+LOCATION:.
+DTSTART:20260911T171500Z
+SUMMARY:Historia polityczna Polski od 1989 r. (egzamin)
+UID:0da1519c-0011-4faa-9ba0-0ca0a74f4409@0da1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jakub Olech
@@ -292,6 +231,67 @@ DTEND:20260619T184500Z
 LOCATION:.
 DTSTART:20260619T171500Z
 SUMMARY:Historia polityczna Polski od 1989 r. (egzamin)
-UID:e883b779-b177-4315-af9e-98bc7e1bede2@e883.org
+UID:da9b6b9e-55f3-4fec-8dd8-253848e110f1@da9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20260308T161500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20260308T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
+UID:a1b99d83-9f07-4d13-8238-997871324135@a1b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260306T194500Z
+DTSTART:20260306T173000Z
+SUMMARY:Historia polityczna Polski od 1989 r. (wykład do wyboru)
+UID:051dfcb6-7e9c-410d-a599-f8972add6a01@051d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20260425T114500Z
+LOCATION:Bud.gł. 8
+DTSTART:20260425T093000Z
+SUMMARY:Bezpieczeństwo i porządek publiczny (konwersatorium do wyboru)
+UID:027b69b0-748d-4d06-bc3c-dc5e3fc08940@027b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20260329T081500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20260329T060000Z
+SUMMARY:Kontrola i nadzór w administracji publicznej (konwersatorium do wyboru)
+UID:1e964529-d206-46e5-abbb-504fb5c6cfcb@1e96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:5bdb6179-dee2-4583-9329-da23b0629ffc@5bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20260322T143000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20260322T130000Z
+SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
+UID:2505bb92-740a-4df3-a74a-75b6302732eb@2505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Geodecki
+DTEND:20260424T184500Z
+DTSTART:20260424T163000Z
+SUMMARY:Innowacyjna gospodarka (Przeniesienie zajęć)
+UID:49fa49af-65a4-4035-b406-8f112109b7b3@49fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20260614T110000Z
+LOCATION:Paw.F 416
+DTSTART:20260614T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi w administracji (konwersatorium)
+UID:e86d7855-9d2a-4957-9317-8d60eae5c056@e86d.org
 END:VEVENT
 END:VCALENDAR
