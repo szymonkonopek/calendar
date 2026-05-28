@@ -2,12 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260619T164500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260619T134500Z
-SUMMARY: (egzamin)
-UID:1db1f2a7-a00b-49e2-81d2-c45a359915aa@1db1.org
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20260307T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260307T093000Z
+SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (ćwiczenia do wyboru)
+UID:37dd8673-f50c-4b34-9fe9-eaa820df3182@37dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20260320T170000Z
+DTSTART:20260320T144500Z
+SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (wykład do wyboru)
+UID:cfcc2ac1-3e8d-43f7-bef6-e9f6b2c22b05@cfcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20260328T100000Z
+DTSTART:20260328T074500Z
+SUMMARY:Metody badań rynkowych (wykład do wyboru)
+UID:96e57307-77a0-45d9-9692-e393d3412b3d@96e5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
@@ -15,21 +29,7 @@ DTEND:20260426T164500Z
 LOCATION:Paw.A 118 lab. Win10\, Office21
 DTSTART:20260426T134500Z
 SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
-UID:a7a56a05-6a8b-4396-8779-7b5bbd95ca18@a7a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:f4f1d106-332c-4952-a141-4dbe4ab58475@f4f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260425T090000Z
-DTSTART:20260425T064500Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (wykład do wyboru)
-UID:f5b90149-9c08-4f1a-a3d4-addb507f7420@f5b9.org
+UID:9ce8a878-50fc-40d4-9abb-4aeebd52be52@9ce8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
@@ -37,268 +37,7 @@ DTEND:20260515T174500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6396103
 DTSTART:20260515T153000Z
 SUMMARY:Techniki i narzędzia oceny ryzyka (wykład do wyboru)
-UID:797b9a3a-2348-46d0-9c25-5630343a4cc2@797b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260329T160000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260329T130000Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
-UID:41dda3e5-5161-4b47-8274-c9419cae21c2@41dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20260329T123000Z
-LOCATION:Paw.U sala K
-DTSTART:20260329T101500Z
-SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:6844f7c3-a499-46da-9dca-9b6f5bd2dfd9@6844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260411T141500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260411T111500Z
-SUMMARY:Big Data (wykład do wyboru)
-UID:80a49b6a-0e48-4775-be76-c42b280ea975@80a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20260320T170000Z
-DTSTART:20260320T144500Z
-SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (wykład do wyboru)
-UID:26ec0c2f-313f-4190-aaaf-532b5643a77c@26ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20260307T114500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260307T093000Z
-SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (ćwiczenia do wyboru)
-UID:df44dc2a-5f5d-4470-822b-3c5d448260e2@df44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
-DTEND:20260322T124500Z
-DTSTART:20260322T103000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:6d934365-c8c0-4892-98d5-114321e0b005@6d93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260227T184500Z
-DTSTART:20260227T154500Z
-SUMMARY:Analiza rynków finansowych i towarowych (wykład)
-UID:321ecd20-2607-435f-97af-ea441dd7046a@321e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
-DTEND:20260424T183000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260424T153000Z
-SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
-UID:269010f7-1477-4301-9651-a1d7ca7b781f@2690.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
-DTEND:20260327T184500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260327T163000Z
-SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
-UID:411df4ef-d037-47c6-91b7-a33c52e4e5f3@411d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20260301T100000Z
-DTSTART:20260301T074500Z
-SUMMARY:Rynek pracy w Polsce i UE (wykład do wyboru)
-UID:b6e20f46-c9b5-48ae-b86f-b59f418fdc29@b6e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:0ea83332-fbdd-4a03-a231-c8418b10440c@0ea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260329T094500Z
-LOCATION:Paw.C sala C
-DTSTART:20260329T064500Z
-SUMMARY:Analiza rynków finansowych i towarowych (ćwiczenia)
-UID:d2c980cf-4c57-48bc-96b8-12cc26f3180f@d2c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20260306T184500Z
-DTSTART:20260306T163000Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:efe242a6-1c72-44f7-96e2-4a91830df406@efe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260523T081500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260523T060000Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
-UID:57caf78a-ab6c-4dfe-bb69-2de432d7b56f@57ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20260425T114500Z
-DTSTART:20260425T093000Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:84b18ea6-1854-4b51-b9a7-16a3be85a77b@84b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260523T150000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260523T111500Z
-SUMMARY:Big Data (wykład do wyboru)
-UID:7ad19248-82cd-4c8c-80dc-9f6d03439252@7ad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
-DTEND:20260426T090000Z
-DTSTART:20260426T064500Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:0fefa977-418b-4ac8-9c30-3fd03046757d@0fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260307T184500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260307T154500Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
-UID:2655c55d-283a-483c-b8f8-e37989766a8f@2655.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260307T151500Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260307T121500Z
-SUMMARY:Big Data (wykład do wyboru)
-UID:08f55967-c86a-4b25-a0a6-993465824900@08f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20260320T194500Z
-DTSTART:20260320T173000Z
-SUMMARY:Rynek pracy w Polsce i UE (wykład do wyboru)
-UID:e736532e-4283-48c4-babd-2fcdd5ac0031@e736.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20260301T124500Z
-DTSTART:20260301T103000Z
-SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (wykład do wyboru)
-UID:95b1f237-dc4c-4f69-b737-dc248af0a610@95b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:9c683774-fcda-4dcf-93ed-00a7ac6452a3@9c68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
-DTEND:20260328T100000Z
-DTSTART:20260328T074500Z
-SUMMARY:Metody badań rynkowych (wykład do wyboru)
-UID:706e9321-7a97-4713-9559-c9acf0cb4cd2@706e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
-DTEND:20260412T141500Z
-DTSTART:20260412T120000Z
-SUMMARY:Socjologia (wykład do wyboru)
-UID:a2f05575-e0dd-4238-b8a9-16f8128fa9c8@a2f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260613T104500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260613T083000Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
-UID:b0982abc-bb31-4646-8a49-ce89621ae8e1@b098.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
-DTEND:20260322T151500Z
-DTSTART:20260322T130000Z
-SUMMARY:Rachunkowość zarządcza (wykład)
-UID:079f1419-7710-46c9-b378-6249e594642c@079f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20260517T081500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260517T060000Z
-SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (ćwiczenia do wyboru)
-UID:bcc2757a-e010-4dc1-80dd-bd58ae5e177b@bcc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20260523T104500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260523T083000Z
-SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (ćwiczenia do wyboru)
-UID:cb39aa9f-4de8-4e44-baf7-955d0ff68810@cb39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260322T100000Z
-DTSTART:20260322T074500Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (wykład do wyboru)
-UID:124c869f-fcbc-4cf2-8151-b28f529300c7@124c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
-DTEND:20260228T124500Z
-DTSTART:20260228T103000Z
-SUMMARY:Metody badań rynkowych (wykład do wyboru)
-UID:a2e80a63-27a2-4ebc-8ddd-a29786d83038@a2e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
-DTEND:20260412T090000Z
-DTSTART:20260412T064500Z
-SUMMARY:Metody badań rynkowych (wykład do wyboru)
-UID:495ba4ab-516e-4239-b1b8-9905eaef3cbe@495b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260606T133000Z
-DTSTART:20260606T111500Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (Przeniesienie zajęć)
-UID:4d03da11-92c2-4d6d-afce-c37cefa4ec32@4d03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
-DTEND:20260228T100000Z
-DTSTART:20260228T074500Z
-SUMMARY:Techniki i narzędzia oceny ryzyka (Przeniesienie zajęć)
-UID:520e298b-0c75-46e4-a306-2b63adbd6202@520e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
-DTEND:20260410T183000Z
-LOCATION:Paw.C sala C
-DTSTART:20260410T144500Z
-SUMMARY:Analiza rynków finansowych i towarowych (ćwiczenia)
-UID:3d47f024-2d9d-4d81-a454-cbffbdee64bc@3d47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
-DTEND:20260411T081500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260411T060000Z
-SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
-UID:c560a069-544f-4258-b869-ea3b4fffe68e@c560.org
+UID:f78a6d2f-4532-4114-b2ec-8d95e40f11f2@f78a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
@@ -306,36 +45,126 @@ DTEND:20260517T104500Z
 LOCATION:Paw.U sala N
 DTSTART:20260517T083000Z
 SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:ee73bc5a-0cae-4f34-b3eb-d007e33fd7df@ee73.org
+UID:d0999090-53fc-45ee-b043-ba61b6dbaa36@d099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20260329T123000Z
+LOCATION:Paw.U sala K
+DTSTART:20260329T101500Z
+SUMMARY:Rachunkowość zarządcza (ćwiczenia)
+UID:2c51f135-1775-432d-b821-9b048c8e9cb2@2c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:4aeb7336-974f-4cb9-90aa-30858dc40893@4aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20260322T124500Z
+DTSTART:20260322T103000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:96b324e4-7592-4fe8-87d1-46ced863a606@96b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260410T183000Z
+LOCATION:Paw.C sala C
+DTSTART:20260410T144500Z
+SUMMARY:Analiza rynków finansowych i towarowych (ćwiczenia)
+UID:66d42ab2-170f-40b4-8f9c-5f339bb514e5@66d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20260322T151500Z
+DTSTART:20260322T130000Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:0c8602a0-1d39-4672-96d9-895d4ebe738c@0c86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260523T081500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260523T060000Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
+UID:70f7eaa1-29f6-489f-814f-184f616cce66@70f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20260517T081500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260517T060000Z
+SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (ćwiczenia do wyboru)
+UID:bbd888a7-69cd-4423-8410-0f0f333f3ade@bbd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20260523T104500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260523T083000Z
+SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (ćwiczenia do wyboru)
+UID:af4d5c76-8bdf-4db0-8f67-22052431400b@af4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20260425T114500Z
+DTSTART:20260425T093000Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:de41a01a-83c7-42e2-b480-7d05a0108a78@de41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20260228T124500Z
+DTSTART:20260228T103000Z
+SUMMARY:Metody badań rynkowych (wykład do wyboru)
+UID:1962eef9-4444-4e13-9859-531b66b98d5a@1962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260322T100000Z
+DTSTART:20260322T074500Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (wykład do wyboru)
+UID:b2793995-0f94-4a23-8e5e-415c4fa998b9@b279.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
 DTEND:20260328T141500Z
 DTSTART:20260328T103000Z
 SUMMARY:Analiza rynków finansowych i towarowych (wykład)
-UID:90051594-0476-416b-b856-7b825fde1b45@9005.org
+UID:d276b498-d6d0-41f7-91b3-0dfbcb9b8add@d276.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Andrzej Pisulewski
-DTEND:20260412T114500Z
-DTSTART:20260412T093000Z
-SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (wykład do wyboru)
-UID:cbec22df-4ee4-4419-9365-702c57a5e0be@cbec.org
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20260426T090000Z
+DTSTART:20260426T064500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:6eac48ff-0351-4b65-ac00-619a04d299ff@6eac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
-DTEND:20260426T114500Z
-DTSTART:20260426T093000Z
-SUMMARY:Rynek pracy w Polsce i UE (wykład do wyboru)
-UID:15ccc2d8-1cac-4ac3-b981-a88ba3b07c8c@15cc.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20260411T081500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260411T060000Z
+SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
+UID:6a266c34-d0f0-4a2f-a463-f42cfa254add@6a26.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Baran
-DTEND:20260516T173000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260516T134500Z
-SUMMARY:Big Data (wykład do wyboru)
-UID:647b8bf1-a39d-4292-9772-47e7f87d85db@647b.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20260412T090000Z
+DTSTART:20260412T064500Z
+SUMMARY:Metody badań rynkowych (wykład do wyboru)
+UID:34099786-ad26-41c1-9b2b-34a44c657502@3409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260613T104500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260613T083000Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
+UID:0300f68b-d4ae-41be-9c40-779372166195@0300.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
@@ -343,15 +172,118 @@ DTEND:20260522T174500Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
 DTSTART:20260522T144500Z
 SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
-UID:af5a122c-5803-437d-bbee-955e7943fbac@af5a.org
+UID:323e7ea7-94d2-4e45-8dfa-cb46af1ffd8a@323e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20260320T194500Z
+DTSTART:20260320T173000Z
+SUMMARY:Rynek pracy w Polsce i UE (wykład do wyboru)
+UID:c5940238-8177-48f7-84e5-0a9703731caf@c594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260516T173000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260516T134500Z
+SUMMARY:Big Data (wykład do wyboru)
+UID:f034f4a3-382d-455b-9673-3d63e74ac5c0@f034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260227T184500Z
+DTSTART:20260227T154500Z
+SUMMARY:Analiza rynków finansowych i towarowych (wykład)
+UID:4aafe69f-d669-4e2d-84a0-160ef3a4cea0@4aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260228T100000Z
+DTSTART:20260228T074500Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (Przeniesienie zajęć)
+UID:581bd331-83c2-42eb-9752-5525aecc03d9@581b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
+DTEND:20260306T184500Z
+DTSTART:20260306T163000Z
+SUMMARY:Rachunkowość zarządcza (wykład)
+UID:7ee35739-9f2b-4ab7-834b-00a967c088b2@7ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260606T133000Z
+DTSTART:20260606T111500Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (Przeniesienie zajęć)
+UID:3190ad64-3605-4573-b189-04c6530ea671@3190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260619T164500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260619T134500Z
+SUMMARY: (egzamin)
+UID:39994d3e-170e-4c7c-810d-f924d9b4102c@3999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20260301T100000Z
+DTSTART:20260301T074500Z
+SUMMARY:Rynek pracy w Polsce i UE (wykład do wyboru)
+UID:6685ea58-b5f9-424a-90a2-8a8f2667e310@6685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:4c11834c-4b09-40d5-a932-6e2fb95702cc@4c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20260426T114500Z
+DTSTART:20260426T093000Z
+SUMMARY:Rynek pracy w Polsce i UE (wykład do wyboru)
+UID:2139d382-96c6-472e-a470-ccecbc25f23f@2139.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20260329T094500Z
+LOCATION:Paw.C sala C
+DTSTART:20260329T064500Z
+SUMMARY:Analiza rynków finansowych i towarowych (ćwiczenia)
+UID:45d8e223-5811-4ad3-9548-2c647b3d361a@45d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20260301T124500Z
+DTSTART:20260301T103000Z
+SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (wykład do wyboru)
+UID:b39dc354-b3a2-4b76-9dd5-757aecdefa07@b39d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
-DTEND:20260606T164500Z
+DTEND:20260327T184500Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260606T134500Z
+DTSTART:20260327T163000Z
 SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
-UID:4c5c8c54-acaf-4436-85ad-fbca715ffccc@4c5c.org
+UID:951b5863-66ea-4f91-b1f3-0a4fef7b82f8@951b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260411T141500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260411T111500Z
+SUMMARY:Big Data (wykład do wyboru)
+UID:c341a2b2-2f3e-4027-8b87-b75e0d7081d5@c341.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20260424T183000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260424T153000Z
+SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
+UID:85533318-0d74-4499-8fc6-6ab5176d589a@8553.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
@@ -359,7 +291,7 @@ DTEND:20260619T184500Z
 LOCATION:Paw.A 09 lab. Win8.1\, Office21
 DTSTART:20260619T163000Z
 SUMMARY: (egzamin)
-UID:4e38ecb0-9010-4f05-abd4-c409af678c8a@4e38.org
+UID:10d0c194-e4a4-4ebd-b95e-4720668b55b6@10d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Bielawski
@@ -367,6 +299,74 @@ DTEND:20260411T104500Z
 LOCATION:Paw.U sala O
 DTSTART:20260411T083000Z
 SUMMARY:Rachunkowość zarządcza (ćwiczenia)
-UID:6c2ec937-e0e0-4b99-9a87-34fa50a8f47c@6c2e.org
+UID:953ff8e1-218a-4d55-9501-d5705bf706aa@953f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260425T090000Z
+DTSTART:20260425T064500Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (wykład do wyboru)
+UID:7ec51ab4-516e-4f51-977a-46f660b57851@7ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260523T150000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260523T111500Z
+SUMMARY:Big Data (wykład do wyboru)
+UID:90585859-8136-42d6-9ddd-215a1267e615@9058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20260307T151500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260307T121500Z
+SUMMARY:Big Data (wykład do wyboru)
+UID:157ce466-911d-4e7b-b6b2-c6c071f3d987@157c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:4d8cc31d-f5b0-43e0-80e3-405bafd2c138@4d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20260606T164500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260606T134500Z
+SUMMARY:Metody badań rynkowych (ćwiczenia do wyboru)
+UID:b8b4257b-66f6-444c-8288-42d113bff04f@b8b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20260412T114500Z
+DTSTART:20260412T093000Z
+SUMMARY:Modelowanie produkcji\, kosztów i efektywności gospodarowania (wykład do wyboru)
+UID:8cc78f19-b460-4042-886e-773b65eb7ef2@8cc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260307T184500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260307T154500Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
+UID:e0e16dd7-97e7-4a57-9b49-2b75ec851e5c@e0e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20260329T160000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260329T130000Z
+SUMMARY:Techniki i narzędzia oceny ryzyka (ćwiczenia do wyboru)
+UID:d5f41ab0-5f24-4dc1-aa18-02a21df19832@d5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20260412T141500Z
+DTSTART:20260412T120000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:5360ced6-ce9a-4cfb-a6e7-efaa55385a95@5360.org
 END:VEVENT
 END:VCALENDAR
