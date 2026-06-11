@@ -2,11 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:e22c9f12-6df6-43f2-8df2-4f81186d281c@e22c.org
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260609T091500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6807259
+DTSTART:20260609T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru zdalny)
+UID:72ef244a-25ec-42cd-a39a-b805286a77ac@72ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260420T143000Z
+DTSTART:20260420T130000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
+UID:71bdf97d-c8e9-47fc-a5c8-5a4bdc2c56d4@71bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260505T124500Z
+DTSTART:20260505T111500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty zdalne)
+UID:d1076936-3840-4472-8da8-fb3660a0c172@d107.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
@@ -14,7 +29,7 @@ DTEND:20260310T101500Z
 LOCATION:Paw.C sala D
 DTSTART:20260310T084500Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:e648027f-d9ba-4117-a76e-835b90592e5b@e648.org
+UID:dbe81604-fd03-4b11-bf1d-da50fd4c5dc8@dbe8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
@@ -22,218 +37,7 @@ DTEND:20260518T124500Z
 LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
 DTSTART:20260518T111500Z
 SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
-UID:7b9b11fe-91bd-4d00-80c2-3ef425a59c97@7b9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260309T101500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260309T084500Z
-SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:a742fcde-4918-4a87-8508-2fcf886b6f32@a742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260519T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20260519T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:edc53fa4-76a5-4b31-90ad-6966276fd2bb@edc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260601T143000Z
-LOCATION:Paw.B 056 (KSB)
-DTSTART:20260601T130000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
-UID:48801685-0bf8-454a-8fad-2004597f81d1@4880.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260515T091500Z
-LOCATION:Bibl. 440
-DTSTART:20260515T074500Z
-SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:493af21f-7352-4c6d-8870-ac58df26fac9@493a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260519T073000Z
-LOCATION:Paw.G 12
-DTSTART:20260519T060000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:98d0293f-5a43-47f9-8b52-9fce7cb4a7e0@98d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260609T073000Z
-LOCATION:Paw.G  7
-DTSTART:20260609T064500Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:2a7109e0-605e-486f-b6ad-960871ce3229@2a71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260609T124500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20260609T120000Z
-SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:5c6c6dce-5982-453a-8014-74a4c269a77a@5c6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260505T124500Z
-DTSTART:20260505T111500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty zdalne)
-UID:f69b1c33-9857-43ec-9e7e-d75f371fe6f6@f69b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260608T110000Z
-LOCATION:Paw.B 251
-DTSTART:20260608T101500Z
-SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:28bd81ec-ec17-4d79-a7cc-a64ddde10272@28bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260526T073000Z
-LOCATION:Paw.G 12
-DTSTART:20260526T060000Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:f5d9cab4-a289-44f2-90ab-9fe27529431c@f5d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260421T073000Z
-LOCATION:Paw.G 12
-DTSTART:20260421T060000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:41472bdb-9f16-40c2-ac64-f9ad3ace86f1@4147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260303T083000Z
-LOCATION:Paw.G 12
-DTSTART:20260303T070000Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:b6253135-5790-400d-b7af-11410ec4b701@b625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260223T101500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260223T084500Z
-SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:92306380-d5ba-447b-a667-6b6decf4af96@9230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260505T110000Z
-DTSTART:20260505T093000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia zdalne)
-UID:d0a54b1c-c7c6-41b8-949a-beaf5c431bad@d0a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260608T083000Z
-LOCATION:Bibl. 443
-DTSTART:20260608T074500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
-UID:3a2eff12-6d05-4371-b3e1-9c6541792c1b@3a2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260519T110000Z
-LOCATION:L Paw.A 401
-DTSTART:20260519T093000Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:eb21a93e-6e68-4652-a115-b9301dfa5679@eb21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Mateusz Niemiec
-DTEND:20260421T110000Z
-LOCATION:Paw.B 151
-DTSTART:20260421T093000Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:1b219e8f-2e36-4162-9ec8-7e9a419a5863@1b21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260504T110000Z
-LOCATION:Paw.F 613
-DTSTART:20260504T093000Z
-SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:a6131a2e-0cf3-4fd4-a29b-3ca9c5ad3eca@a613.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260331T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20260331T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:b1c42653-3f11-4a93-8426-5f0a58480567@b1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260508T091500Z
-DTSTART:20260508T074500Z
-SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:707f88ab-63c5-4153-814b-7879a750c0df@707f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260508T073000Z
-DTSTART:20260508T060000Z
-SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:85c4a9bd-6376-47a1-8d72-5e821b32d02d@85c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260601T110000Z
-DTSTART:20260601T093000Z
-SUMMARY:Partnerstwo publiczno-prywatne (Przeniesienie zajęć)
-UID:bd13fea5-8e87-48a1-a4cb-dee00a19fb00@bd13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260602T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20260602T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:6ef9ff4a-b90e-4ef7-abc5-a83a489b25fb@6ef9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260609T101500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260609T093000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:f0e13a37-3c7b-45d3-801e-832056956d71@f0e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260609T091500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6807259
-DTSTART:20260609T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru zdalny)
-UID:794d7cb0-c445-4497-ae95-576e949121ba@794d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260520T073000Z
-LOCATION:Paw.F 107
-DTSTART:20260520T060000Z
-SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:630f9f09-5d5e-4017-951c-8e1fe64da1a0@630f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260317T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260317T103000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:8cc0cde5-4a50-43a6-946a-670be56f65bf@8cc0.org
+UID:fdb4f5fb-122d-4ef6-ad18-6f3ec19b8d7b@fdb4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
@@ -241,328 +45,7 @@ DTEND:20260518T091500Z
 LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
 DTSTART:20260518T074500Z
 SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:54308799-0dd1-44fe-907e-8e8d978d8fb2@5430.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:7b0249aa-c090-4cea-9440-dbc314d5da29@7b02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260420T124500Z
-DTSTART:20260420T111500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
-UID:c1fb1805-c086-45ad-86bc-73a235175616@c1fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260515T073000Z
-LOCATION:Bibl. 440
-DTSTART:20260515T060000Z
-SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:c72feb8f-e95c-480b-ab68-c0363db9069a@c72f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260601T091500Z
-DTSTART:20260601T074500Z
-SUMMARY:Partnerstwo publiczno-prywatne (Przeniesienie zajęć)
-UID:e939b44a-884c-45fa-9f1a-39339aeb14c5@e939.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260227T101500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260227T084500Z
-SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:a31150df-c1ba-4fcd-86b1-7221a30c98a5@a311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260224T083000Z
-LOCATION:Paw.G 12
-DTSTART:20260224T070000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:e8c36c62-9680-46f4-b201-014a939d92a0@e8c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260505T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20260505T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:1929574d-0af4-42d5-a13f-ea01b019a652@1929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260601T124500Z
-LOCATION:Paw.B 056 (KSB)
-DTSTART:20260601T111500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
-UID:93ff5668-5fce-4fe5-bd13-8ee711e41908@93ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260428T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260428T093000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:58664a18-449c-410c-8ee0-b82ddb0a103e@5866.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260324T101500Z
-LOCATION:Paw.C sala D
-DTSTART:20260324T084500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:97cb046b-d36c-4594-9b0d-f908ed1b13db@97cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260602T073000Z
-LOCATION:Paw.G 12
-DTSTART:20260602T060000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:bf4d64fe-e171-410d-9c15-2eb96930e7ea@bf4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260223T153000Z
-DTSTART:20260223T140000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
-UID:265bb7a3-4c1e-4a83-b01b-40800fadf74f@265b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260331T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260331T093000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:8a9d3037-357c-459b-967e-77b1749c51be@8a9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260424T091500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260424T074500Z
-SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:f8a55e78-30a9-4d0e-8137-022091ad1ad0@f8a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260504T124500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260504T111500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
-UID:3006f176-5342-46ad-91e1-e614242cbe7f@3006.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260303T101500Z
-LOCATION:Paw.C sala D
-DTSTART:20260303T084500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:0405ee82-ce6e-4b46-b2d2-163713f2e235@0405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260428T143000Z
-LOCATION:Paw.B 058 (KSB)
-DTSTART:20260428T130000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
-UID:50cee9ac-f463-4883-a63e-9ba840545b6a@50ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260223T120000Z
-LOCATION:Paw.F 613
-DTSTART:20260223T103000Z
-SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:a82d1bae-f1f3-44eb-94fb-451696c00511@a82d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260309T134500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260309T121500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
-UID:ed7929f7-3a2a-4c74-b835-6f0fb5a5c047@ed79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260313T101500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260313T084500Z
-SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:f6a6ad6d-ac85-4b3c-a56c-c26d09a139a6@f6a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260609T064500Z
-LOCATION:Paw.G  7
-DTSTART:20260609T060000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:c93411e4-083e-44d5-99f8-9ece9d1bd237@c934.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260608T101500Z
-LOCATION:Paw.B 251
-DTSTART:20260608T093000Z
-SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:a1814362-4b97-4820-9631-629370935b5f@a181.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260526T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20260526T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:2007a14d-9610-45de-bef6-09d561ed3232@2007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260223T134500Z
-DTSTART:20260223T121500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
-UID:e5f2e5fb-f236-435e-872c-54ed9aa2a18e@e5f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260310T083000Z
-LOCATION:Paw.G 12
-DTSTART:20260310T070000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:54d1215c-0e08-49a4-981a-05f3d83a32da@54d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260323T120000Z
-LOCATION:Paw.F 613
-DTSTART:20260323T103000Z
-SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:c7d9e057-26ce-4f52-9ec1-60a4a3ae7cc7@c7d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260313T083000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260313T070000Z
-SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:d1cc6274-80b5-4138-9162-3ce39a5987cb@d1cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260420T091500Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260420T074500Z
-SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:153451f3-3f86-4708-81e1-c0a8590814a0@1534.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260428T124500Z
-LOCATION:Paw.B 057 (KSB)
-DTSTART:20260428T111500Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
-UID:0ec8de47-3350-4860-a56d-3ab6453bb7c4@0ec8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260421T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20260421T074500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:56de1278-cbfc-4fd7-877b-0d501fb0487d@56de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260504T143000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260504T130000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
-UID:0ccd8809-0758-4b31-b396-7636d900c797@0ccd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260608T091500Z
-LOCATION:Bibl. 443
-DTSTART:20260608T083000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
-UID:97c1dc4e-80be-485e-a785-4f854e8c7016@97c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260309T153000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260309T140000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
-UID:f47d5cd2-a3bd-40c6-a496-30cb298d446f@f47d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:dcb8ae4a-de99-447f-8a7f-5e3ba926d648@dcb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260505T073000Z
-LOCATION:Paw.G 12
-DTSTART:20260505T060000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:b4f8ae52-bbd2-4755-bf80-7e26da0179df@b4f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260609T120000Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20260609T111500Z
-SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:51d5470f-94b1-4c4a-b760-696ad2ae3234@51d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260522T073000Z
-DTSTART:20260522T060000Z
-SUMMARY:Rachunkowość zarządcza i controlling (Przeniesienie zajęć)
-UID:fed48e2f-16ec-4e49-a34b-b8d220a27065@fed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260410T073000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260410T060000Z
-SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:d8207d4c-c601-4e71-b5f5-e647acc53d01@d820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260512T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260512T093000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:574f0a4e-780b-42dc-b63c-0d3c51251b1f@574f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260303T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260303T103000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:1f42d1ba-5764-46f3-811d-8241548ceb18@1f42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260414T073000Z
-LOCATION:Paw.G 12
-DTSTART:20260414T060000Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:f4eb7d7c-9e20-49e7-b519-b2625c853fd6@f4eb.org
+UID:c7bd77e0-2217-4bd3-aa39-7ed0d1dc7874@c7bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
@@ -570,61 +53,23 @@ DTEND:20260323T134500Z
 LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
 DTSTART:20260323T121500Z
 SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
-UID:81722831-70a0-43d6-af51-81e65a8ffb14@8172.org
+UID:a02b440b-e3dd-47b5-a7da-83db7e92b076@a02b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260424T073000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260424T060000Z
-SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:3673a391-b649-428b-8f10-822d935493f0@3673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260518T143000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260518T130000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
-UID:5896f91b-9ed1-4897-94e2-ff5859802b9d@5896.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260518T110000Z
-LOCATION:Paw.F 613
-DTSTART:20260518T093000Z
-SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:a9a1a137-e9e0-411a-983e-42d0342a953c@a9a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260420T143000Z
-DTSTART:20260420T130000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
-UID:ec7c4f3e-5a33-4425-9d57-0814eaf1c037@ec7c.org
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260428T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260428T093000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:e19a1d61-2d13-4dff-a4ba-b0f5f24ba6e5@e19a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agata Miętus
-DTEND:20260512T073000Z
-DTSTART:20260512T060000Z
-SUMMARY:Współczesne modele biznesu (Przeniesienie zajęć)
-UID:7e8ef5f6-c44d-49c4-96ca-15d0b51f1e72@7e8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
-DTEND:20260323T153000Z
-LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
-DTSTART:20260323T140000Z
-SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
-UID:a45c3c32-f8ed-48b3-b8e5-814ee1b97a2d@a45c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260227T083000Z
-LOCATION:Paw.E sala G (KSB)
-DTSTART:20260227T070000Z
-SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:ccc0174e-1d68-43df-94ba-9aec5f287a7d@ccc0.org
+DTEND:20260609T064500Z
+LOCATION:Paw.G  7
+DTSTART:20260609T060000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:9a5a3204-e4e8-4eb0-a1a8-4696dd187672@9a5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
@@ -632,15 +77,14 @@ DTEND:20260323T101500Z
 LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
 DTSTART:20260323T084500Z
 SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:42b4f050-5cc9-46ad-8d49-5e321ca44fe8@42b4.org
+UID:72bec7ab-2822-468d-b8a7-08aa15755f35@72be.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
-DTEND:20260324T083000Z
-LOCATION:Paw.G 12
-DTSTART:20260324T070000Z
-SUMMARY:Współczesne modele biznesu (ćwiczenia)
-UID:cc8ebf42-5f52-4eb0-b6a4-0dffa605231f@cc8e.org
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260508T073000Z
+DTSTART:20260508T060000Z
+SUMMARY:Rachunkowość zarządcza i controlling (wykład)
+UID:9b49b74e-28f6-4d11-831b-dd648a4c50d0@9b49.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
@@ -648,15 +92,37 @@ DTEND:20260504T091500Z
 LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
 DTSTART:20260504T074500Z
 SUMMARY:Partnerstwo publiczno-prywatne (wykład)
-UID:03232c6c-586b-48a9-a515-ad126bb745fe@0323.org
+UID:e8f8bf85-d3ef-403c-84b2-cef6020bb353@e8f8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
-DTEND:20260317T083000Z
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260505T073000Z
 LOCATION:Paw.G 12
-DTSTART:20260317T070000Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:f1294fd9-aaaa-414e-8e7d-4c375889598b@f129.org
+DTSTART:20260505T060000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:007df982-a8ca-487f-9dcb-84619474878f@007d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260601T110000Z
+DTSTART:20260601T093000Z
+SUMMARY:Partnerstwo publiczno-prywatne (Przeniesienie zajęć)
+UID:7b11b026-467d-43b3-b820-c3712680d40e@7b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:58e0f5a5-d1e3-4f5c-add2-5dee371f870a@58e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260512T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260512T093000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:218fefba-a7a1-4527-a67d-04b99e07fbf2@218f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
@@ -664,54 +130,15 @@ DTEND:20260414T091500Z
 LOCATION:Paw.C sala D
 DTSTART:20260414T074500Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:479d9885-f386-485f-8939-3deb5fe4e853@479d.org
+UID:bf6cdf55-9f36-48b3-a01c-5527e521d2a6@bf6c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260520T091500Z
-LOCATION:Paw.F 104
-DTSTART:20260520T074500Z
-SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:1d203f69-cc75-4501-93be-342f493f7be1@1d20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260522T091500Z
-DTSTART:20260522T074500Z
-SUMMARY:Rachunkowość zarządcza i controlling (Przeniesienie zajęć)
-UID:953c6327-5aa3-4bfa-9b28-464f66da4794@953c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260526T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260526T093000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:e1613c76-3f9b-4d49-832f-6bb31b3b8d74@e161.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260410T091500Z
-LOCATION:Paw.E sala H (KSB)
-DTSTART:20260410T074500Z
-SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:8b6f9a90-5b35-4ed6-88f0-c4d1fe528282@8b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Karol Wałachowski
-DTEND:20260420T110000Z
-LOCATION:Paw.F 613
-DTSTART:20260420T093000Z
-SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:856f6e7a-e528-43be-8cca-09d648354c6a@856f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Sebastian Kubala
-DTEND:20260414T110000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260414T093000Z
-SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
-UID:bb85c108-8e69-487e-99cb-a9732f19311b@bb85.org
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260428T124500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20260428T111500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
+UID:197ca517-d64f-487c-a197-9b54f0368800@197c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Krzemiński
@@ -719,7 +146,87 @@ DTEND:20260327T101500Z
 LOCATION:Paw.E sala H (KSB)
 DTSTART:20260327T084500Z
 SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
-UID:07eef2e9-8bdc-4c3c-b912-299ecc7aef40@07ee.org
+UID:e69f2722-d4dd-4d02-b2b6-76217e84cc14@e69f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260303T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20260303T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:2bfc1e13-36f7-44d4-a5a7-d3c998c3b0e9@2bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260608T091500Z
+LOCATION:Bibl. 443
+DTSTART:20260608T083000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
+UID:34de4d7e-9f36-4e09-b59d-d5dcb7c37690@34de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260414T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260414T093000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:bc18e633-86a0-48f8-804f-2bded502e080@bc18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260518T143000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260518T130000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
+UID:472536ed-07d9-480e-a512-c38b4f74f3fa@4725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260515T091500Z
+LOCATION:Bibl. 440
+DTSTART:20260515T074500Z
+SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
+UID:56b9fce9-ddf8-4dc3-a50d-588631ddfe81@56b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260309T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260309T084500Z
+SUMMARY:Partnerstwo publiczno-prywatne (wykład)
+UID:e4ce7552-afa3-4054-87e0-1001f2b4be2c@e4ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260602T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20260602T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:cc6100d5-f879-4ec0-9e43-79e4ef9c578e@cc61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260303T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260303T103000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:fa7b25ce-ccbb-4d5e-8b08-c3b39e94ae2b@fa7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260414T073000Z
+LOCATION:Paw.G 12
+DTSTART:20260414T060000Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:aa53965e-5f1c-40dc-86d1-6f0dee832367@aa53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260331T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260331T093000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:908da3cb-fd18-42fb-bf89-6f424295f5af@908d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
@@ -727,54 +234,198 @@ DTEND:20260512T091500Z
 LOCATION:Paw.C sala D
 DTSTART:20260512T074500Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:5a80771d-710f-46cc-ae6d-c9de0551cfe7@5a80.org
+UID:336f7af7-79f7-4a6b-96aa-bbb06989a667@336f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260224T101500Z
-LOCATION:Paw.C sala D
-DTSTART:20260224T084500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:4fe086c2-e603-49f3-afa7-a78eff0fd8c4@4fe0.org
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260519T110000Z
+LOCATION:L Paw.A 401
+DTSTART:20260519T093000Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:9bbb8c9a-4b52-470b-a1dd-01f2bca31315@9bbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260223T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260223T084500Z
+SUMMARY:Partnerstwo publiczno-prywatne (wykład)
+UID:2aaa9042-eb6f-42f0-a0db-d567d66d0712@2aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260526T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260526T093000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:446febd4-2411-4c7d-ac99-7e2086f880fc@446f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260601T091500Z
+DTSTART:20260601T074500Z
+SUMMARY:Partnerstwo publiczno-prywatne (Przeniesienie zajęć)
+UID:ad995f40-d46a-49d3-bbe5-3deed8093cf1@ad99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
-DTEND:20260331T073000Z
+DTEND:20260324T083000Z
 LOCATION:Paw.G 12
-DTSTART:20260331T060000Z
-SUMMARY:Współczesne modele biznesu (warsztaty)
-UID:5debbe58-be16-4ee5-b021-a3c9ff3d1dfb@5deb.org
+DTSTART:20260324T070000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:39bec3eb-80b4-4ec7-bc71-ea7c1c63b638@39be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Paweł Krzemiński
-DTEND:20260327T083000Z
+DTEND:20260313T101500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260313T084500Z
+SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
+UID:00b1603a-b4bd-4df8-9d6c-3775475bfaec@00b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260424T073000Z
 LOCATION:Paw.E sala G (KSB)
-DTSTART:20260327T070000Z
+DTSTART:20260424T060000Z
 SUMMARY:Rachunkowość zarządcza i controlling (wykład)
-UID:917eb17d-0030-4d16-b49f-d08a48afe33a@917e.org
+UID:3d4338b8-aede-4eba-99b6-d97ca759a784@3d43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260410T073000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260410T060000Z
+SUMMARY:Rachunkowość zarządcza i controlling (wykład)
+UID:1eefde7c-1b5e-4bed-8588-49af1f6ef291@1eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260504T143000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260504T130000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
+UID:2fdb9fc1-1296-4a15-aa81-bc259075cb98@2fdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260519T073000Z
+LOCATION:Paw.G 12
+DTSTART:20260519T060000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:a9278e3a-44c8-45a7-bbb8-d9423d46e65b@a927.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260608T083000Z
+LOCATION:Bibl. 443
+DTSTART:20260608T074500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
+UID:ff9000b1-70d5-446c-aaa4-b00270315c93@ff90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260428T091500Z
+DTEND:20260421T091500Z
 LOCATION:Paw.C sala D
-DTSTART:20260428T074500Z
+DTSTART:20260421T074500Z
 SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:7c4254ee-a257-4fa0-9c97-8ea84d5dab7a@7c42.org
+UID:aad73705-f7d8-4dc1-b226-36befdf2de23@aad7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260303T083000Z
+LOCATION:Paw.G 12
+DTSTART:20260303T070000Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:23c004b0-1540-4fd4-a064-ef74fcb0c7df@23c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260424T091500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260424T074500Z
+SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
+UID:b8afb262-3d20-44bc-9448-0dc7ed4feef5@b8af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260515T073000Z
+LOCATION:Bibl. 440
+DTSTART:20260515T060000Z
+SUMMARY:Rachunkowość zarządcza i controlling (wykład)
+UID:2360cf24-dcee-4f71-9124-1329e60562d4@2360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260317T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260317T103000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:e7962c19-1c07-49fc-a5d7-1bcf7cf2ce00@e796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260504T110000Z
+LOCATION:Paw.F 613
+DTSTART:20260504T093000Z
+SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
+UID:db617c7c-1c51-43e3-b0a8-ccdefd95d3ba@db61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260323T120000Z
+LOCATION:Paw.F 613
+DTSTART:20260323T103000Z
+SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
+UID:c17de1b2-e95f-441d-b061-7cb83447e8d8@c17d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260324T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20260324T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:1a90c551-43af-4fe2-aee7-6a93c3aa81cc@1a90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260331T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20260331T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:0c075f0b-979f-48aa-b9fe-ab605e002e6c@0c07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Kubala
+DTEND:20260609T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260609T093000Z
+SUMMARY:Deklaracje podatkowe w praktyce (wykład do wyboru)
+UID:4eccac46-f17a-49dc-9f8e-5d00a09947f7@4ecc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Mateusz Niemiec
-DTEND:20260428T073000Z
-DTSTART:20260428T060000Z
-SUMMARY:Współczesne modele biznesu (Przeniesienie zajęć)
-UID:44dcae25-3f67-4f90-abf4-2e4f2b5b1917@44dc.org
+DTEND:20260421T110000Z
+LOCATION:Paw.B 151
+DTSTART:20260421T093000Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:fa80eb1b-f754-4a73-80b7-73aee8f4ff44@fa80.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Marian Bursztyn
-DTEND:20260317T101500Z
-LOCATION:Paw.C sala D
-DTSTART:20260317T084500Z
-SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
-UID:9d8a51b0-7edb-4990-bf13-c8e09233e861@9d8a.org
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260601T124500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20260601T111500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
+UID:6e518ace-3fd5-46a0-a13f-c5d378ea5f6f@6e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260609T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20260609T111500Z
+SUMMARY:Partnerstwo publiczno-prywatne (wykład)
+UID:aa5558de-ed3d-425f-b32a-9d4f02db52ec@aa55.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Karol Wałachowski
@@ -782,6 +433,355 @@ DTEND:20260309T120000Z
 LOCATION:Paw.F 613
 DTSTART:20260309T103000Z
 SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
-UID:f688eaee-379b-45bb-b759-691ad84ebd36@f688.org
+UID:397af874-2dbf-460c-9872-7e809c3df78a@397a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260428T143000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20260428T130000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
+UID:393a4e07-1ba5-4aa7-8763-1f1a2ae93338@393a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260609T073000Z
+LOCATION:Paw.G  7
+DTSTART:20260609T064500Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:9016622a-b336-48da-bfd0-c2e840deb325@9016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260520T091500Z
+LOCATION:Paw.F 104
+DTSTART:20260520T074500Z
+SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
+UID:512ad085-1f1e-4414-8442-bdc255604c0b@512a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260608T101500Z
+LOCATION:Paw.B 251
+DTSTART:20260608T093000Z
+SUMMARY:Rachunkowość zarządcza i controlling (wykład)
+UID:bc589527-4057-4fa9-8660-fd226b7a7aef@bc58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260522T091500Z
+DTSTART:20260522T074500Z
+SUMMARY:Rachunkowość zarządcza i controlling (Przeniesienie zajęć)
+UID:1769fa79-30fe-461b-b467-4627665ae860@1769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260519T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20260519T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:98703ea6-553f-4e32-b4c1-4c19c402f615@9870.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260522T073000Z
+DTSTART:20260522T060000Z
+SUMMARY:Rachunkowość zarządcza i controlling (Przeniesienie zajęć)
+UID:d94cc606-a425-4a8c-95a3-bce8407159ac@d94c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260227T101500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260227T084500Z
+SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
+UID:a206159d-e71c-40fe-a9f5-cf456a82397b@a206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260601T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20260601T130000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
+UID:16163098-4347-4876-8ff9-b7489a308aba@1616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260327T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260327T070000Z
+SUMMARY:Rachunkowość zarządcza i controlling (wykład)
+UID:47918e7c-db5a-4d72-b1ff-8e9f51864f08@4791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260223T120000Z
+LOCATION:Paw.F 613
+DTSTART:20260223T103000Z
+SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
+UID:e5bad144-0153-4bbf-9989-3144fc819794@e5ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260223T153000Z
+DTSTART:20260223T140000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
+UID:9b72aec2-9ef1-4607-929c-d2b9c05df52b@9b72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
+DTEND:20260317T083000Z
+LOCATION:Paw.G 12
+DTSTART:20260317T070000Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:fa8e0498-8d28-497a-8942-03d63bf90bd0@fa8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260518T110000Z
+LOCATION:Paw.F 613
+DTSTART:20260518T093000Z
+SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
+UID:c5cab863-0d9c-46a2-8fa5-dd746c9c4d18@c5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260224T083000Z
+LOCATION:Paw.G 12
+DTSTART:20260224T070000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:9f50558a-267a-4378-a264-75449330021d@9f50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260323T153000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260323T140000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
+UID:4a1f97a7-4d20-4746-b520-bc6d121d30c8@4a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260421T073000Z
+LOCATION:Paw.G 12
+DTSTART:20260421T060000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:d2eec8a3-ca40-41db-8080-b7bbd013fab3@d2ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260526T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20260526T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:687c701e-3e98-440d-81b1-7ccc0220e703@687c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260504T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260504T111500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
+UID:9dc65232-7cc1-47bd-ae0a-35bcb71806c3@9dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260317T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20260317T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:d8348c3a-8184-4572-b3c6-a73731bb5d40@d834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:6c76cd70-cca8-459f-b5d1-7be130685d98@6c76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260313T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260313T070000Z
+SUMMARY:Rachunkowość zarządcza i controlling (wykład)
+UID:0de6aea4-b854-4145-95a5-27ab37414080@0de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260420T110000Z
+LOCATION:Paw.F 613
+DTSTART:20260420T093000Z
+SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
+UID:6deea38d-d2ce-451a-bfdf-32932ca69070@6dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260410T091500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20260410T074500Z
+SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
+UID:8fb99e2f-fefe-464e-b60b-70626efa4ff7@8fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260420T124500Z
+DTSTART:20260420T111500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
+UID:68b6bdc1-871c-41e5-bebe-e6cf62e659d3@68b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260602T073000Z
+LOCATION:Paw.G 12
+DTSTART:20260602T060000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:65bbbde1-badc-42ae-b2b3-25af1c475e77@65bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260512T073000Z
+DTSTART:20260512T060000Z
+SUMMARY:Współczesne modele biznesu (Przeniesienie zajęć)
+UID:3b2f3a56-8472-4ef6-8ea4-913921dc03a8@3b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260310T083000Z
+LOCATION:Paw.G 12
+DTSTART:20260310T070000Z
+SUMMARY:Współczesne modele biznesu (ćwiczenia)
+UID:a551a3f3-36ec-452c-b2ef-9e12bcb4cee3@a551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260224T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20260224T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:69b8009b-5d48-4341-9f9f-db2cdcb307d2@69b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Arkadiusz Tomaszek
+DTEND:20260331T073000Z
+LOCATION:Paw.G 12
+DTSTART:20260331T060000Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:dece3c5f-6e0f-43a8-b3fc-1faaca0fc2a5@dece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260508T091500Z
+DTSTART:20260508T074500Z
+SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
+UID:eb5b9eb1-c62c-4032-a15e-4c5b9468264d@eb5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20260526T073000Z
+LOCATION:Paw.G 12
+DTSTART:20260526T060000Z
+SUMMARY:Współczesne modele biznesu (warsztaty)
+UID:adadbef5-a76a-44ec-a38e-b1b52763e1f1@adad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260505T110000Z
+DTSTART:20260505T093000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia zdalne)
+UID:329f254a-6335-4686-8564-0d5c423c057d@329f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260420T091500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260420T074500Z
+SUMMARY:Partnerstwo publiczno-prywatne (wykład)
+UID:50cad978-327b-4aac-968e-f2c33f575a64@50ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260223T134500Z
+DTSTART:20260223T121500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (Przeniesienie zajęć)
+UID:ead3b6f8-b1b9-4fad-82a4-a3c3c799005d@ead3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260309T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260309T121500Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (ćwiczenia)
+UID:af226fee-e6e2-4cd2-86bb-c932c264e45d@af22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Mateusz Niemiec
+DTEND:20260428T073000Z
+DTSTART:20260428T060000Z
+SUMMARY:Współczesne modele biznesu (Przeniesienie zajęć)
+UID:49a61ec1-e426-4317-9dcd-20d6495c9ff0@49a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260505T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20260505T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:43bbcf32-e847-456a-86df-107ee74ee465@43bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260227T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20260227T070000Z
+SUMMARY:Rachunkowość zarządcza i controlling (wykład)
+UID:c41dbe70-7c3d-4520-b05a-e13507e7c1d4@c41d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260520T073000Z
+LOCATION:Paw.F 107
+DTSTART:20260520T060000Z
+SUMMARY:Partnerstwo publiczno-prywatne (wykład)
+UID:cf2bdff1-6f02-4084-80c4-44c344ad28da@cf2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20260609T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20260609T120000Z
+SUMMARY:Partnerstwo publiczno-prywatne (ćwiczenia)
+UID:bf9b82e4-6c00-4505-9be5-2b6ed09bb63c@bf9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20260309T153000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20260309T140000Z
+SUMMARY:Projekty rozwojowe w biznesie i sektorze publicznym (warsztaty)
+UID:d9991a59-726a-489c-9abb-a5d865fd7126@d999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20260428T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20260428T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:11bb3c3b-c9d6-453f-86d7-b93a200b237b@11bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20260608T110000Z
+LOCATION:Paw.B 251
+DTSTART:20260608T101500Z
+SUMMARY:Rachunkowość zarządcza i controlling (ćwiczenia)
+UID:14527861-55d4-4c86-aa8b-18f016ca107b@1452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:3a497936-776a-40c1-bfe3-1a4c9f26ac38@3a49.org
 END:VEVENT
 END:VCALENDAR
