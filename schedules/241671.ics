@@ -2,65 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20260515T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6404001
-DTSTART:20260515T134500Z
-SUMMARY:Ekonomia menadżerska (wykład)
-UID:5ddfed28-c6f3-4a76-95c8-8aeb06bed717@5ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20260523T081500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260523T060000Z
-SUMMARY:Instrumentalne metody w ocenie jakości surowców i produktów (laboratorium)
-UID:ba0012b9-6f43-461e-922e-b171ada33c65@ba00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20260620T100000Z
-LOCATION:Paw.F 111
-DTSTART:20260620T083000Z
-SUMMARY: (egzamin)
-UID:fc882029-c7ed-4360-9861-1b99d0e5130e@fc88.org
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260523T114500Z
+DTSTART:20260523T093000Z
+SUMMARY:Bezpieczeństwo produktów (Przeniesienie zajęć)
+UID:276cda7b-62c0-42fd-b788-47d59cec6613@276c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260613T090000Z
-LOCATION:Sienk. 5 pr. spoż. 2
-DTSTART:20260613T060000Z
-SUMMARY:Rozwój produktów żywnościowych (laboratorium)
-UID:d5fd3c33-1dc8-4ea9-aa28-d5cbef7d5bc2@d5fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20260410T160000Z
-DTSTART:20260410T134500Z
-SUMMARY:Analiza i zarządzanie ryzykiem (wykład)
-UID:d1d038e3-f1ce-4c3f-848a-bc3a7df5583e@d1d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20260516T133000Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20260516T120000Z
-SUMMARY:Rozwój produktów przemysłowych (laboratorium)
-UID:e0fd973c-1694-42e2-a7a4-8f729e07c6eb@e0fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20260411T123000Z
-DTSTART:20260411T093000Z
-SUMMARY:Narzędzia zarządzania produktem (wykład)
-UID:9ad5b664-094c-4b00-98c7-c982193c3333@9ad5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20260425T090000Z
-DTSTART:20260425T064500Z
-SUMMARY:Analiza i zarządzanie ryzykiem (wykład)
-UID:fb4959df-677a-477a-9ebd-dc750573e5dd@fb49.org
+DTEND:20260410T184500Z
+DTSTART:20260410T163000Z
+SUMMARY:Rozwój produktów żywnościowych (wykład)
+UID:980f7eca-4b77-48f4-abe1-717cd261d44c@980f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
@@ -68,86 +21,14 @@ DTEND:20260614T104500Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20260614T083000Z
 SUMMARY:Bezpieczeństwo produktów (konwersatorium)
-UID:2c7f8763-c225-4841-b301-c0501cbdfda9@2c7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260614T104500Z
-DTSTART:20260614T083000Z
-SUMMARY:Bezpieczeństwo produktów (Przeniesienie zajęć)
-UID:fd87269f-bdae-456e-a15f-d0d9a35da8be@fd87.org
+UID:fdb627cc-86a2-4f51-a564-705ef6d519bc@fdb6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20260517T104500Z
-LOCATION:Paw.C sala B
-DTSTART:20260517T083000Z
-SUMMARY:Analiza i zarządzanie ryzykiem (ćwiczenia)
-UID:1ef5a6b1-134b-475a-a3c6-dd672d23ec85@1ef5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20260328T143000Z
-LOCATION:Paw.C sala B
-DTSTART:20260328T121500Z
-SUMMARY:Analiza i zarządzanie ryzykiem (ćwiczenia)
-UID:adc41a3c-f54c-49ed-b6ce-d2de2d5045fd@adc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260530T133000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260530T111500Z
-SUMMARY:Bezpieczeństwo produktów (konwersatorium)
-UID:4be02c91-f82b-44d8-bf7e-8ae28f6d5000@4be0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260613T101500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260613T093000Z
-SUMMARY:Rozwój produktów żywnościowych (egzamin)
-UID:ac3283c5-c94a-47f7-a353-34f571ec5a43@ac32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20260530T091500Z
-LOCATION:Paw.A 301b
-DTSTART:20260530T074500Z
-SUMMARY: (rezerwacja)
-UID:1104663c-140c-4db5-a539-885a604511f0@1104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Jacek Czerniak
-DTEND:20260328T114500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260328T093000Z
-SUMMARY:Instrumentalne metody w ocenie jakości surowców i produktów (laboratorium)
-UID:f33ca95a-c08e-42df-b20b-130804f69b09@f33c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20260530T101500Z
-LOCATION:Sienk. 4 pr. przem. 3
-DTSTART:20260530T093000Z
-SUMMARY:Rozwój produktów przemysłowych (laboratorium)
-UID:b0c56479-d1d8-400a-a3e0-3acb9f294e12@b0c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20260531T104500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6414392
-DTSTART:20260531T083000Z
-SUMMARY:Narzędzia zarządzania produktem (wykład)
-UID:fc8126cb-8ae3-45ed-830b-d80e4d30a343@fc81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20260614T081500Z
-LOCATION:Paw.C sala B
-DTSTART:20260614T060000Z
-SUMMARY:Analiza i zarządzanie ryzykiem (ćwiczenia)
-UID:22ed56f5-f408-42d4-8a7e-2541a89561f2@22ed.org
+DTEND:20260425T090000Z
+DTSTART:20260425T064500Z
+SUMMARY:Analiza i zarządzanie ryzykiem (wykład)
+UID:2d558d39-787a-487b-9746-3cfd587ef0f2@2d55.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Jacek Czerniak
@@ -155,140 +36,7 @@ DTEND:20260322T114500Z
 LOCATION:Paw.Ustronie lab.fiz.1
 DTSTART:20260322T093000Z
 SUMMARY:Instrumentalne metody w ocenie jakości surowców i produktów (laboratorium)
-UID:bc8b22c0-ed97-4061-8bfa-cbde59fce656@bc8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260313T170000Z
-DTSTART:20260313T144500Z
-SUMMARY:Rozwój produktów żywnościowych (wykład)
-UID:027ba2db-0432-4e55-af43-deff3601e055@027b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20260424T174500Z
-DTSTART:20260424T153000Z
-SUMMARY:Narzędzia zarządzania produktem (Przeniesienie zajęć)
-UID:46d0fd14-f939-4e5a-8230-30f41e641a66@46d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20260314T133000Z
-DTSTART:20260314T111500Z
-SUMMARY:Ekonomia menadżerska (wykład)
-UID:9d63a709-2ee4-4b65-8b72-fa27a62a606d@9d63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20260425T141500Z
-DTSTART:20260425T120000Z
-SUMMARY:Ekonomia menadżerska (wykład)
-UID:6b6e22f8-bdd7-4111-99a3-15c6d17e888c@6b6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260531T081500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6410334
-DTSTART:20260531T060000Z
-SUMMARY:Rozwój produktów żywnościowych (wykład)
-UID:eec229f8-f606-4b7c-a348-364761ffc8d9@eec2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260523T114500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260523T093000Z
-SUMMARY:Bezpieczeństwo produktów (konwersatorium)
-UID:bb1b44b9-38cc-4dfb-850a-8563e74181f6@bb1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
-DTEND:20260523T114500Z
-DTSTART:20260523T093000Z
-SUMMARY:Bezpieczeństwo produktów (Przeniesienie zajęć)
-UID:2ad47e88-4134-4b37-8398-d5802d013823@2ad4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260321T100000Z
-DTSTART:20260321T074500Z
-SUMMARY:Rozwój produktów żywnościowych (Przeniesienie zajęć)
-UID:8366197e-d670-447f-b1b2-c5e2c13b24a3@8366.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20260412T104500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260412T083000Z
-SUMMARY:Rozwój produktów przemysłowych (laboratorium)
-UID:37e8dd3e-d035-4721-9b8d-3aa557a1a460@37e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20260426T104500Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260426T083000Z
-SUMMARY:Bezpieczeństwo produktów (konwersatorium)
-UID:93c22424-c9b7-49b5-9dc5-5e01c89d0918@93c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20260515T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6404281
-DTSTART:20260515T163000Z
-SUMMARY:Narzędzia zarządzania produktem (wykład)
-UID:d09577ba-d0cc-45fd-8b28-0e57cdd2876f@d095.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20260412T160000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260412T134500Z
-SUMMARY:Bezpieczeństwo produktów (konwersatorium)
-UID:07672bf5-55b9-4d11-a596-f54272d9ae07@0767.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Nowicki
-DTEND:20260313T194500Z
-DTSTART:20260313T173000Z
-SUMMARY:Analiza i zarządzanie ryzykiem (wykład)
-UID:51e3f697-a59c-46eb-ad8e-942172f0a6ba@51e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jakub Bartak
-DTEND:20260411T151500Z
-DTSTART:20260411T130000Z
-SUMMARY:Ekonomia menadżerska (Przeniesienie zajęć)
-UID:efbb4b3a-a666-4ba0-95cd-2a785c47cfc3@efbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20260529T174500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6404282
-DTSTART:20260529T144500Z
-SUMMARY:Narzędzia zarządzania produktem (wykład)
-UID:28b01a2a-6b23-452d-bcb7-4a0ede40acc8@28b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260410T184500Z
-DTSTART:20260410T163000Z
-SUMMARY:Rozwój produktów żywnościowych (wykład)
-UID:d9e6be93-22e0-4eaa-b600-3482f19d60cd@d9e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20260411T090000Z
-DTSTART:20260411T064500Z
-SUMMARY:Rozwój produktów przemysłowych (wykład)
-UID:c1694e7b-ce27-4db8-95b4-d11ab14c3726@c169.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
-DTEND:20260314T104500Z
-DTSTART:20260314T074500Z
-SUMMARY:Narzędzia zarządzania produktem (wykład)
-UID:615032ad-2ea5-4b86-9eec-6e24ae420169@6150.org
+UID:6a125a05-cf76-48cd-890f-f5fe74dd122c@6a12.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
@@ -296,14 +44,7 @@ DTEND:20260516T113000Z
 LOCATION:Sienk. 5 pr. spoż. 2
 DTSTART:20260516T074500Z
 SUMMARY:Rozwój produktów żywnościowych (laboratorium)
-UID:cf8dba41-ada6-4c61-be8e-6b2186e423be@cf8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
-DTEND:20260425T114500Z
-DTSTART:20260425T093000Z
-SUMMARY:Rozwój produktów przemysłowych (wykład)
-UID:b7c5f4ee-8c53-4946-811c-24da767e0b9c@b7c5.org
+UID:dc002cfc-3623-4f42-b09a-029f4337ccf8@dc00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Nowicki
@@ -311,22 +52,82 @@ DTEND:20260620T073000Z
 LOCATION:Paw.S sala 7
 DTSTART:20260620T064500Z
 SUMMARY: (egzamin)
-UID:c6fa1723-f39c-4b97-b7ff-ccc66032b4a0@c6fa.org
+UID:3b53e2ad-4182-4486-b783-07969044fa12@3b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260614T104500Z
+DTSTART:20260614T083000Z
+SUMMARY:Bezpieczeństwo produktów (Przeniesienie zajęć)
+UID:8b610a5f-9979-4ae4-a112-d7d205e0e3dc@8b61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20260411T123000Z
+DTSTART:20260411T093000Z
+SUMMARY:Narzędzia zarządzania produktem (wykład)
+UID:b072d13b-6c93-410b-80b0-7c143fa230c4@b072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20260410T160000Z
+DTSTART:20260410T134500Z
+SUMMARY:Analiza i zarządzanie ryzykiem (wykład)
+UID:ed18134b-2d10-408b-90e1-e92019e93b04@ed18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20260531T104500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6414392
+DTSTART:20260531T083000Z
+SUMMARY:Narzędzia zarządzania produktem (wykład)
+UID:f2937867-7526-45cf-ad1f-0141583d516b@f293.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
 DTEND:20260315T100000Z
 DTSTART:20260315T074500Z
 SUMMARY:Rozwój produktów przemysłowych (wykład)
-UID:19ec4461-22b4-4a23-a7d6-2df98b53bb1b@19ec.org
+UID:ddffdaf6-0284-436c-b2db-5b8a7d7ec125@ddff.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
-DTEND:20260322T170000Z
-LOCATION:Sienk. 4 sala audio
-DTSTART:20260322T144500Z
-SUMMARY:Bezpieczeństwo produktów (konwersatorium)
-UID:e2fe8680-60d4-4254-82b3-35d4493ae067@e2fe.org
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20260515T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6404001
+DTSTART:20260515T134500Z
+SUMMARY:Ekonomia menadżerska (wykład)
+UID:9c16b27a-7e79-4db8-8b81-03da3543d2b8@9c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20260620T100000Z
+LOCATION:Paw.F 111
+DTSTART:20260620T083000Z
+SUMMARY: (egzamin)
+UID:697b189f-464b-4063-9684-a01ae52452ec@697b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20260529T174500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6404282
+DTSTART:20260529T144500Z
+SUMMARY:Narzędzia zarządzania produktem (wykład)
+UID:6b0f3764-34c2-4692-95f1-07f2a594b95b@6b0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20260614T081500Z
+LOCATION:Paw.C sala B
+DTSTART:20260614T060000Z
+SUMMARY:Analiza i zarządzanie ryzykiem (ćwiczenia)
+UID:d23d4b33-ab56-42e4-9157-bf7ec8d41216@d23d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20260314T104500Z
+DTSTART:20260314T074500Z
+SUMMARY:Narzędzia zarządzania produktem (wykład)
+UID:2ea99a31-b45b-4df9-a3ba-9bff63379ab5@2ea9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
@@ -334,6 +135,205 @@ DTEND:20260426T170000Z
 LOCATION:Sienk. 4 pr. przem. 3
 DTSTART:20260426T144500Z
 SUMMARY:Rozwój produktów przemysłowych (laboratorium)
-UID:ce1d2b00-bf32-4767-a62b-57035f403e08@ce1d.org
+UID:d5c9ef5b-b99b-47e9-bf0b-5fc35cb3d01a@d5c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20260517T104500Z
+LOCATION:Paw.C sala B
+DTSTART:20260517T083000Z
+SUMMARY:Analiza i zarządzanie ryzykiem (ćwiczenia)
+UID:8bec234b-cb45-428c-b339-06f628ea1bed@8bec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20260322T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260322T144500Z
+SUMMARY:Bezpieczeństwo produktów (konwersatorium)
+UID:2764c137-d090-4ed3-99b9-746b44160e9e@2764.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20260411T151500Z
+DTSTART:20260411T130000Z
+SUMMARY:Ekonomia menadżerska (Przeniesienie zajęć)
+UID:7ecdf89d-aad6-46df-b338-105b03812a6b@7ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20260412T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260412T134500Z
+SUMMARY:Bezpieczeństwo produktów (konwersatorium)
+UID:4f462ff7-eb56-4066-b80b-08c1be6475ee@4f46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260613T090000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20260613T060000Z
+SUMMARY:Rozwój produktów żywnościowych (laboratorium)
+UID:a8870424-8578-48ff-9116-ece02f3673a8@a887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20260530T101500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20260530T093000Z
+SUMMARY:Rozwój produktów przemysłowych (laboratorium)
+UID:598cf522-b75b-4550-9774-34b44dfca2f2@598c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260613T101500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260613T093000Z
+SUMMARY:Rozwój produktów żywnościowych (egzamin)
+UID:9287ee2c-4704-46b5-88a2-482bf1ca088f@9287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20260515T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6404281
+DTSTART:20260515T163000Z
+SUMMARY:Narzędzia zarządzania produktem (wykład)
+UID:a4392954-91f7-4cf9-a59c-007f5c327e09@a439.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20260425T141500Z
+DTSTART:20260425T120000Z
+SUMMARY:Ekonomia menadżerska (wykład)
+UID:16393c06-5150-4eea-a07e-93d4184b333a@1639.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20260412T104500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260412T083000Z
+SUMMARY:Rozwój produktów przemysłowych (laboratorium)
+UID:416aafa9-f807-49f8-950f-e793b1116e56@416a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260531T081500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6410334
+DTSTART:20260531T060000Z
+SUMMARY:Rozwój produktów żywnościowych (wykład)
+UID:fe05e883-bdf9-40f0-8d29-23c42151b0a6@fe05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260530T133000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260530T111500Z
+SUMMARY:Bezpieczeństwo produktów (konwersatorium)
+UID:651a3bd1-7920-4b1e-a122-24301b5b40f5@651a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260313T170000Z
+DTSTART:20260313T144500Z
+SUMMARY:Rozwój produktów żywnościowych (wykład)
+UID:b408b474-d109-47d4-b540-c68c0332fefc@b408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20260424T174500Z
+DTSTART:20260424T153000Z
+SUMMARY:Narzędzia zarządzania produktem (Przeniesienie zajęć)
+UID:e192e870-ee16-4651-9f34-1de70e915527@e192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20260523T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260523T093000Z
+SUMMARY:Bezpieczeństwo produktów (konwersatorium)
+UID:a26212cc-096b-4226-ae06-0986fd88156d@a262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20260411T090000Z
+DTSTART:20260411T064500Z
+SUMMARY:Rozwój produktów przemysłowych (wykład)
+UID:b2023d60-5ffd-4722-89b9-71bf017354e5@b202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20260426T104500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20260426T083000Z
+SUMMARY:Bezpieczeństwo produktów (konwersatorium)
+UID:010e000e-edaf-4c07-9ce5-ccece793b074@010e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20260530T091500Z
+LOCATION:Paw.A 301b
+DTSTART:20260530T074500Z
+SUMMARY: (rezerwacja)
+UID:5d8aa4b3-bcb1-4a49-a6c8-8a9989de533d@5d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20260523T081500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260523T060000Z
+SUMMARY:Instrumentalne metody w ocenie jakości surowców i produktów (laboratorium)
+UID:0de8d7a4-3320-44b2-822a-173000f8576b@0de8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20260328T114500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260328T093000Z
+SUMMARY:Instrumentalne metody w ocenie jakości surowców i produktów (laboratorium)
+UID:3bc33592-ffc2-4bfb-83a8-b689600c82f2@3bc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20260328T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20260328T121500Z
+SUMMARY:Analiza i zarządzanie ryzykiem (ćwiczenia)
+UID:b10d1d61-4493-4d6b-92ea-215069080897@b10d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20260425T114500Z
+DTSTART:20260425T093000Z
+SUMMARY:Rozwój produktów przemysłowych (wykład)
+UID:c7128528-f0e7-4aa4-9988-651d9d938a49@c712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20260314T133000Z
+DTSTART:20260314T111500Z
+SUMMARY:Ekonomia menadżerska (wykład)
+UID:2616b9f4-c2d8-48dc-a79b-4c4c85d5926f@2616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260321T100000Z
+DTSTART:20260321T074500Z
+SUMMARY:Rozwój produktów żywnościowych (Przeniesienie zajęć)
+UID:bdddf85d-6d30-49f4-bc1c-91ac584b902b@bddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20260516T133000Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20260516T120000Z
+SUMMARY:Rozwój produktów przemysłowych (laboratorium)
+UID:df7a98fa-1b8d-4d89-ae5c-79ad85d13f5a@df7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20260313T194500Z
+DTSTART:20260313T173000Z
+SUMMARY:Analiza i zarządzanie ryzykiem (wykład)
+UID:a2022e90-bc46-4bde-94b1-b2c45905352c@a202.org
 END:VEVENT
 END:VCALENDAR
