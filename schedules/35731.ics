@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Konrad Kulikowski
+DTEND:20260509T131500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260509T093000Z
+SUMMARY:Psychologia pracy (Studia podyplomowe)
+UID:00809d92-baea-4890-9a02-644a135c24e3@0080.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Renata Janusz
 DTEND:20260626T183000Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20260626T144500Z
 SUMMARY:Coaching i mentoring w rozwoju pracowników (Studia podyplomowe)
-UID:7cd7d5aa-2df6-4e88-97f1-b74dd47a2b38@7cd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Kotucz
-DTEND:20260418T150000Z
-LOCATION:Paw.G  9
-DTSTART:20260418T111500Z
-SUMMARY:Budowanie autorytetu w wystąpieniach publicznych (Studia podyplomowe)
-UID:7c4fc17c-1849-4a12-92c5-f42d5bd2a947@7c4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
-DTEND:20260510T120000Z
-LOCATION:Paw.G  7
-DTSTART:20260510T064500Z
-SUMMARY:Budowanie zespołów (Studia podyplomowe)
-UID:26a85168-59ff-4849-823c-2e1b7e564eee@26a8.org
+UID:c1147a36-0ec3-4f89-810d-36ec61851280@c114.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
@@ -31,15 +23,22 @@ DTEND:20260522T174500Z
 LOCATION:Paw.G  7
 DTSTART:20260522T144500Z
 SUMMARY:Systemy motywowania pracowników (Studia podyplomowe)
-UID:880d6e3f-a233-4424-ad71-508a40ca3aaa@880d.org
+UID:ec618390-c0e6-4094-be9a-d683a0bab434@ec61.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
-DTEND:20260523T111500Z
+DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
+DTEND:20260613T121500Z
+DTSTART:20260613T074500Z
+SUMMARY:Diagnoza różnic indywidualnych - metoda Insights (Studia podyplomowe)
+UID:f35e27ad-8acf-497c-a13c-0b006c93692d@f35e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Tomasz Sapeta
+DTEND:20260510T120000Z
 LOCATION:Paw.G  7
-DTSTART:20260523T064500Z
-SUMMARY:Systemy motywowania pracowników (Studia podyplomowe)
-UID:fcdbc7f2-90d7-4142-a971-59a8a9754e50@fcdb.org
+DTSTART:20260510T064500Z
+SUMMARY:Budowanie zespołów (Studia podyplomowe)
+UID:d648cced-cc95-4485-b1e3-8f2f33fa6087@d648.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Renata Janusz
@@ -47,85 +46,7 @@ DTEND:20260627T113000Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20260627T074500Z
 SUMMARY:Coaching i mentoring w rozwoju pracowników (Studia podyplomowe)
-UID:0900a388-6742-49e6-a987-e9f5195405b5@0900.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
-DTEND:20260613T121500Z
-DTSTART:20260613T074500Z
-SUMMARY:Diagnoza różnic indywidualnych - metoda Insights (Studia podyplomowe)
-UID:2f3f6c5c-c856-4974-9a24-1c2b67727e70@2f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20260322T113000Z
-LOCATION:Paw.G  7
-DTSTART:20260322T074500Z
-SUMMARY:Sztuka negocjacji (Studia podyplomowe)
-UID:ae0771d8-dd1e-415b-81c2-ce1eb9688e8a@ae07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Katarzyna Zemowska
-DTEND:20260314T151500Z
-LOCATION:Paw.G - 2
-DTSTART:20260314T074500Z
-SUMMARY:Happiness at work (Studia podyplomowe)
-UID:26f929f7-6572-4a8b-8c86-cb319fa60e8f@26f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20260321T160000Z
-LOCATION:Paw.G  7
-DTSTART:20260321T121500Z
-SUMMARY:Sztuka negocjacji (Studia podyplomowe)
-UID:8df9d657-e616-40aa-b608-9f71c2c47bab@8df9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Szczygieł
-DTEND:20260321T113000Z
-LOCATION:Paw.G  7
-DTSTART:20260321T074500Z
-SUMMARY:Sztuka negocjacji (Studia podyplomowe)
-UID:2ef6baf7-d7e4-49ee-b1d8-75dd64db0f43@2ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Anna Kaczmarczyk-Pocica mgr Jerzy Pocica
-DTEND:20260320T193000Z
-LOCATION:Paw.G  7
-DTSTART:20260320T154500Z
-SUMMARY:Business Communication (Studia podyplomowe)
-UID:eec89882-0551-484c-accd-650a695f2356@eec8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Odrobina
-DTEND:20260627T073000Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260627T064500Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:75c94875-bb9e-48ef-81a6-78b00f7fd01d@75c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Odrobina  prof. UEK dr Tomasz Sapeta  dr Alicja Szczygieł
-DTEND:20260704T121500Z
-DTSTART:20260704T074500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:b33af065-a8fd-40eb-a47e-b9506ab8dee7@b33a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Kotucz
-DTEND:20260418T103000Z
-LOCATION:Paw.G  9
-DTSTART:20260418T064500Z
-SUMMARY:Budowanie autorytetu w wystąpieniach publicznych (Studia podyplomowe)
-UID:c8a65955-7dff-461d-af02-e025f4771ec8@c8a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Konrad Kulikowski
-DTEND:20260509T131500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260509T093000Z
-SUMMARY:Psychologia pracy (Studia podyplomowe)
-UID:3550c0fb-7e1e-4f55-aa0f-2357ef8d9572@3550.org
+UID:6a3eb055-cdf5-4116-824b-01ecf2bda23a@6a3e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
@@ -133,7 +54,54 @@ DTEND:20260614T111500Z
 LOCATION:Paw.G 11
 DTSTART:20260614T064500Z
 SUMMARY:Public Relations w sytuacjach kryzysowych (Studia podyplomowe)
-UID:1a0ff107-cd85-4c79-9d0a-cfe884fb9949@1a0f.org
+UID:89e1d994-a3be-412c-ab7d-1bc76e6e26a2@89e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina  prof. UEK dr Tomasz Sapeta  dr Alicja Szczygieł
+DTEND:20260704T121500Z
+DTSTART:20260704T074500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:6eacf791-fd65-42eb-9f62-c926b6d67c65@6eac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20260322T113000Z
+LOCATION:Paw.G  7
+DTSTART:20260322T074500Z
+SUMMARY:Sztuka negocjacji (Studia podyplomowe)
+UID:5bd45488-699c-41ac-9f12-062bd974041d@5bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20260627T073000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260627T064500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:d00ec215-028a-4f2c-92aa-d8b78ea8cad7@d00e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Kotucz
+DTEND:20260418T150000Z
+LOCATION:Paw.G  9
+DTSTART:20260418T111500Z
+SUMMARY:Budowanie autorytetu w wystąpieniach publicznych (Studia podyplomowe)
+UID:075bb7ba-5b9f-4c41-a4d2-671cb83c9152@075b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20260523T111500Z
+LOCATION:Paw.G  7
+DTSTART:20260523T064500Z
+SUMMARY:Systemy motywowania pracowników (Studia podyplomowe)
+UID:912c95d9-c51e-4040-b822-0698d40063a2@912c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20260321T113000Z
+LOCATION:Paw.G  7
+DTSTART:20260321T074500Z
+SUMMARY:Sztuka negocjacji (Studia podyplomowe)
+UID:9360d378-c7a5-4edc-9dcf-2459f94cb46c@9360.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Agnieszka Kotucz
@@ -141,6 +109,38 @@ DTEND:20260417T183000Z
 LOCATION:Paw.G 13 SENACKA
 DTSTART:20260417T144500Z
 SUMMARY:Budowanie autorytetu w wystąpieniach publicznych (Studia podyplomowe)
-UID:18815f68-fda9-407d-b84e-2011cbc2dcc0@1881.org
+UID:971877b6-23b4-47cc-9f85-5f4ba24aacff@9718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Zemowska
+DTEND:20260314T151500Z
+LOCATION:Paw.G - 2
+DTSTART:20260314T074500Z
+SUMMARY:Happiness at work (Studia podyplomowe)
+UID:1ee8fee1-fbad-4508-b7a9-38ecf782d56e@1ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Kaczmarczyk-Pocica mgr Jerzy Pocica
+DTEND:20260320T193000Z
+LOCATION:Paw.G  7
+DTSTART:20260320T154500Z
+SUMMARY:Business Communication (Studia podyplomowe)
+UID:85edae11-409a-4f84-869e-2be5aa3b3060@85ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Kotucz
+DTEND:20260418T103000Z
+LOCATION:Paw.G  9
+DTSTART:20260418T064500Z
+SUMMARY:Budowanie autorytetu w wystąpieniach publicznych (Studia podyplomowe)
+UID:92e341e2-92d5-4407-a4a5-9eab82b6e934@92e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20260321T160000Z
+LOCATION:Paw.G  7
+DTSTART:20260321T121500Z
+SUMMARY:Sztuka negocjacji (Studia podyplomowe)
+UID:3cb48b48-8be2-415f-9cd5-791cd6be22e5@3cb4.org
 END:VEVENT
 END:VCALENDAR
