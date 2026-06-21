@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
-DTEND:20260613T103000Z
-LOCATION:Paw.F 713a (Kat.Bank)
-DTSTART:20260613T064500Z
-SUMMARY:Challenger banki i BigTechy na rynku finansowym (Studia podyplomowe)
-UID:22e5a5dd-27e9-4950-939c-1f7e61038fa6@22e5.org
+DESCRIPTION:Instructor: mgr Grzegorz Kwiatkowski
+DTEND:20260516T103000Z
+LOCATION:Zajęcia Online
+DTSTART:20260516T064500Z
+SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
+UID:22b19d73-7dc9-4aba-9658-99ba3ca0f154@22b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Karaś
+DTEND:20260328T164500Z
+DTSTART:20260328T130000Z
+SUMMARY:Współczesna polityka pieniężna (Studia podyplomowe)
+UID:56dc9570-561f-43df-9970-1c000a24fcc8@56dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Łukasz Gębski
@@ -15,15 +22,7 @@ DTEND:20260411T103000Z
 LOCATION:Zajęcia Online
 DTSTART:20260411T064500Z
 SUMMARY:Innowacyjne modele i strategie biznesowe w bankowości (Studia podyplomowe)
-UID:cc0ba116-e234-4b47-8bdd-81d7fecc05c4@cc0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20260523T154500Z
-LOCATION:Paw.G - 1
-DTSTART:20260523T120000Z
-SUMMARY:Ochrona konsumenta na rynku bankowym (Studia podyplomowe)
-UID:9731063f-e608-460b-ba06-45fba539650b@9731.org
+UID:abb9eb62-2a8d-43a2-a060-7de3b0fe9ff2@abb9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Andrzej Poniński
@@ -31,77 +30,22 @@ DTEND:20260509T154500Z
 LOCATION:Paw.F 715
 DTSTART:20260509T120000Z
 SUMMARY:Produkty i usługi sektora FinTech (Studia podyplomowe)
-UID:ca4adc19-5247-4b07-95fb-57c31c990bdf@ca4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Andrzej Poniński
-DTEND:20260509T103000Z
-LOCATION:Paw.F 715
-DTSTART:20260509T064500Z
-SUMMARY:Produkty i usługi sektora FinTech (Studia podyplomowe)
-UID:28bab8cb-d305-4f6e-a4de-9547c7ee12f6@28ba.org
+UID:05bdd35a-5a8b-4885-979c-78691dd54997@05bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bartłomiej Balawejder
-DTEND:20260627T104500Z
-DTSTART:20260627T074500Z
-SUMMARY:Egzamin końcowy (Studia podyplomowe)
-UID:6bd59035-01fa-4135-9ccd-a65091078500@6bd5.org
+DTEND:20260627T073000Z
+DTSTART:20260627T064500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:d79d61e2-7da8-4a2c-9d4b-f1a003d6dcf2@d79d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Pastuszak
-DTEND:20260314T164500Z
-LOCATION:Zajęcia Online
-DTSTART:20260314T130000Z
-SUMMARY:Klient cyfrowy: diagnozowanie potrzeb i efektywna komunikacja (Studia podyplomowe)
-UID:7b3647a4-e6f8-4f3b-a031-65816ffc38ef@7b36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Michał Pastuszak
-DTEND:20260314T113000Z
-LOCATION:Zajęcia Online
-DTSTART:20260314T074500Z
-SUMMARY:Klient cyfrowy: diagnozowanie potrzeb i efektywna komunikacja (Studia podyplomowe)
-UID:d59bcc85-6f39-4073-96ad-3f07c57db18f@d59b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Krzysztof Kil
-DTEND:20260328T113000Z
-DTSTART:20260328T074500Z
-SUMMARY:Zarządzanie ryzykiem operacyjnym\, prawnym i reputacji (Studia podyplomowe)
-UID:c86b1009-dc00-4f92-8f6b-94408312d449@c86b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Grzegorz Kwiatkowski
-DTEND:20260516T103000Z
-LOCATION:Zajęcia Online
-DTSTART:20260516T064500Z
-SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
-UID:dc8ccb7c-3856-4253-9a7c-95849c0b51d6@dc8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
-DTEND:20260613T154500Z
+DESCRIPTION:Instructor: prof. UEK dr hab. Mateusz Folwarski
+DTEND:20260613T103000Z
 LOCATION:Paw.F 713a (Kat.Bank)
-DTSTART:20260613T120000Z
-SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
-UID:d89e250e-c554-437b-ba19-e99a9f87a245@d89e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
-DTEND:20260523T103000Z
-LOCATION:Paw.G - 1
-DTSTART:20260523T064500Z
-SUMMARY:Zagrożenia cybernetyczne w bankowości (Studia podyplomowe)
-UID:6b68e8ae-5e47-4cb8-9f02-3520971e8226@6b68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Marian Gola
-DTEND:20260418T103000Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20260418T064500Z
-SUMMARY:Regulacje bankowe w UE (Studia podyplomowe)
-UID:cb76e9af-ad40-4ac9-b95c-1f079ab4dbcb@cb76.org
+DTSTART:20260613T064500Z
+SUMMARY:Challenger banki i BigTechy na rynku finansowym (Studia podyplomowe)
+UID:bd6329b6-4d53-49b7-be67-2236ef261ff1@bd63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Marian Gola
@@ -109,21 +53,47 @@ DTEND:20260418T154500Z
 LOCATION:Paw.G 11
 DTSTART:20260418T120000Z
 SUMMARY:Regulacje bankowe w UE (Studia podyplomowe)
-UID:8f6774a4-b356-4de2-88e2-2d4704baa678@8f67.org
+UID:e1991824-56fd-4e99-b71a-22eccf90c209@e199.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bartłomiej Balawejder
-DTEND:20260627T073000Z
-DTSTART:20260627T064500Z
-SUMMARY:Egzamin semestralny (Studia podyplomowe)
-UID:000b83d1-3bee-45f7-a400-b3256d9ffbc5@000b.org
+DESCRIPTION:Instructor: mgr Andrzej Poniński
+DTEND:20260509T103000Z
+LOCATION:Paw.F 715
+DTSTART:20260509T064500Z
+SUMMARY:Produkty i usługi sektora FinTech (Studia podyplomowe)
+UID:46515953-6ea1-463d-b728-9d6a19eec989@4651.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Piotr Karaś
-DTEND:20260328T164500Z
-DTSTART:20260328T130000Z
-SUMMARY:Współczesna polityka pieniężna (Studia podyplomowe)
-UID:1684682a-05b8-4554-b953-1d4395796573@1684.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20260523T103000Z
+LOCATION:Paw.G - 1
+DTSTART:20260523T064500Z
+SUMMARY:Zagrożenia cybernetyczne w bankowości (Studia podyplomowe)
+UID:3c9e817b-1c40-43bf-8cbf-8d31febf44d2@3c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Pastuszak
+DTEND:20260314T164500Z
+LOCATION:Zajęcia Online
+DTSTART:20260314T130000Z
+SUMMARY:Klient cyfrowy: diagnozowanie potrzeb i efektywna komunikacja (Studia podyplomowe)
+UID:a7b7c16b-9a3a-48ad-9d96-9cb15ca2fe37@a7b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Pastuszak
+DTEND:20260314T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20260314T074500Z
+SUMMARY:Klient cyfrowy: diagnozowanie potrzeb i efektywna komunikacja (Studia podyplomowe)
+UID:53765b2b-e92c-4e4a-9dbf-c542476606d2@5376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marian Gola
+DTEND:20260418T103000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20260418T064500Z
+SUMMARY:Regulacje bankowe w UE (Studia podyplomowe)
+UID:1057e583-63b4-4a98-afc2-8c32266378ae@1057.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Łukasz Gębski
@@ -131,6 +101,36 @@ DTEND:20260411T154500Z
 LOCATION:Zajęcia Online
 DTSTART:20260411T120000Z
 SUMMARY:Innowacyjne modele i strategie biznesowe w bankowości (Studia podyplomowe)
-UID:dfe736ee-2e6c-4e22-b342-eda016bc936c@dfe7.org
+UID:22b94a35-5624-4fa2-8fed-8ea1e221004d@22b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Balawejder
+DTEND:20260627T104500Z
+DTSTART:20260627T074500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:f5764040-f7c4-45a4-82e8-3dae4ab94f2e@f576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20260523T154500Z
+LOCATION:Paw.G - 1
+DTSTART:20260523T120000Z
+SUMMARY:Ochrona konsumenta na rynku bankowym (Studia podyplomowe)
+UID:6ac2b00c-3bf0-4625-aa14-e63045b64a4d@6ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Ewa Miklaszewska
+DTEND:20260613T154500Z
+LOCATION:Paw.F 713a (Kat.Bank)
+DTSTART:20260613T120000Z
+SUMMARY:Zachowania etyczne i standardy profesjonalne w bankowości i finansach (Studia podyplomowe)
+UID:9a6e150e-9365-47d5-a3f0-51bb266d95fc@9a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Kil
+DTEND:20260328T113000Z
+DTSTART:20260328T074500Z
+SUMMARY:Zarządzanie ryzykiem operacyjnym\, prawnym i reputacji (Studia podyplomowe)
+UID:55b04e5c-38de-406b-9107-8b171f521a64@55b0.org
 END:VEVENT
 END:VCALENDAR
