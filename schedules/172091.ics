@@ -2,12 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260430T180000Z
+DTSTART:20260430T163000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:ef04750a-f58d-4535-93d2-ec8af8befeab@ef04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260511T114500Z
+DTSTART:20260511T093000Z
+SUMMARY:Polityka finansowa (Przeniesienie zajęć)
+UID:6b9332a7-44b3-4948-9a68-909015492afa@6b93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260223T083000Z
+DTSTART:20260223T070000Z
+SUMMARY:Długoterminowe decyzje finansowe (wykład)
+UID:50de1b4b-7c4b-49f1-b9e7-b427ca12634e@50de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260226T171500Z
+DTSTART:20260226T154500Z
+SUMMARY:Finanse empiryczne (Przeniesienie zajęć)
+UID:a0f06f71-5da5-4222-a99c-6bd5bed9aabc@a0f0.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260527T091500Z
-LOCATION:Bibl. 441
-DTSTART:20260527T074500Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:6cec8e78-5eab-4e76-885d-831bc36000e6@6cec.org
+DTEND:20260318T101500Z
+DTSTART:20260318T084500Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (Przeniesienie zajęć)
+UID:882ecb92-9c94-433c-88ab-1d297d59949a@882e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260223T120000Z
+DTSTART:20260223T103000Z
+SUMMARY:Polityka finansowa (wykład do wyboru)
+UID:e1e54908-4d57-4848-8365-362d27edeb5d@e1e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260319T190000Z
+DTSTART:20260319T173000Z
+SUMMARY:Analiza fundamentalna (Przeniesienie zajęć)
+UID:2ca7f4c7-7e7e-438f-aec0-ec38e5245bc1@2ca7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
@@ -15,280 +56,14 @@ DTEND:20260227T170000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20260227T144500Z
 SUMMARY:Finanse empiryczne (ćwiczenia)
-UID:e721d93b-4c5d-4416-b7c6-0a179455b65c@e721.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260423T110000Z
-DTSTART:20260423T093000Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
-UID:c0ddfcbf-257e-4549-85e2-1bffcbd1425a@c0dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260420T110000Z
-DTSTART:20260420T093000Z
-SUMMARY:Polityka finansowa (wykład do wyboru)
-UID:2daab2a8-9294-44ff-b8c8-aa4eda5ef903@2daa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260326T171500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260326T154500Z
-SUMMARY:Finanse empiryczne (ćwiczenia)
-UID:48725f85-9073-4841-b673-4f8b7de37a3a@4872.org
+UID:ae3d0a22-02c6-4a9e-9188-00d6c37359ca@ae3d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260316T190000Z
-DTSTART:20260316T173000Z
+DTEND:20260511T180000Z
+DTSTART:20260511T163000Z
 SUMMARY:Analiza fundamentalna (wykład)
-UID:e38c793f-5971-45e7-a92b-ab03c91051af@e38c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260323T120000Z
-DTSTART:20260323T103000Z
-SUMMARY:Polityka finansowa (wykład do wyboru)
-UID:988ce9ce-8c43-4713-850e-56686490a3c1@988c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260415T073000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20260415T060000Z
-SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:93aaa7bd-29ca-46a7-b480-722d23b5dfe4@93aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260323T083000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20260323T070000Z
-SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:70ecbe8a-6ea2-4e7e-b4c9-a1dbcb2a5ad5@70ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260312T120000Z
-DTSTART:20260312T103000Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
-UID:84846ad6-21ec-437c-9a4a-9ae98d852d79@8484.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260309T120000Z
-DTSTART:20260309T103000Z
-SUMMARY:Polityka finansowa (Przeniesienie zajęć)
-UID:2df28a62-f819-4e7c-962b-ad79c6aaca89@2df2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260318T083000Z
-DTSTART:20260318T070000Z
-SUMMARY:Długoterminowe decyzje finansowe (Przeniesienie zajęć)
-UID:d3216317-2be5-4af4-b52d-a352fc2b1c41@d321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260416T180000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260416T163000Z
-SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:ac752ba0-3c76-4d20-81c1-93fa50fb9e21@ac75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260305T171500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260305T154500Z
-SUMMARY:Finanse empiryczne (ćwiczenia)
-UID:ab94f22a-b544-4b56-8fd6-691807a0d34f@ab94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260525T180000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6308313
-DTSTART:20260525T163000Z
-SUMMARY:Analiza fundamentalna (wykład)
-UID:d39abb47-cdd2-4efc-82b0-fb0c27b1666c@d39a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260304T083000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20260304T070000Z
-SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:3ecea7cc-8a5d-45bc-8c12-f4eb2e13691b@3ece.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260306T100000Z
-DTSTART:20260306T074500Z
-SUMMARY:Finanse empiryczne (wykład)
-UID:3409e004-1df0-4af1-9279-e406813fa158@3409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260304T101500Z
-LOCATION:Bibl. 441
-DTSTART:20260304T084500Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:3447acba-ca8f-46b4-8637-9c4c053758a0@3447.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260415T091500Z
-DTSTART:20260415T074500Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (Przeniesienie zajęć)
-UID:db32f05f-a9fc-41c9-9b7a-acc0ef7a1503@db32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260522T133000Z
-DTSTART:20260522T111500Z
-SUMMARY:Polityka finansowa (wykład do wyboru)
-UID:eb59ec97-9eef-4593-a847-076b1393da56@eb59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260327T100000Z
-DTSTART:20260327T074500Z
-SUMMARY:Finanse empiryczne (wykład)
-UID:4f7b6abe-34ae-4ddd-b7d8-7dddd88783ef@4f7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260311T120000Z
-LOCATION:Bibl. 443
-DTSTART:20260311T103000Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:99cca21d-b077-4a71-90bc-64e0627729a7@99cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260318T101500Z
-DTSTART:20260318T084500Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (Przeniesienie zajęć)
-UID:0c868a67-2db8-4dcb-9a36-e9ea07f655fd@0c86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260330T180000Z
-DTSTART:20260330T163000Z
-SUMMARY:Analiza fundamentalna (wykład)
-UID:c74894a5-37f7-41ed-bea6-a60c79d0e783@c748.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260610T073000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20260610T064500Z
-SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:c7ce2ebc-16a0-466c-909e-0665a25f2d8d@c7ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260319T171500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260319T154500Z
-SUMMARY:Finanse empiryczne (ćwiczenia)
-UID:45030809-a4b5-43a6-87fe-9b7a702f0a15@4503.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260527T180000Z
-LOCATION:Paw.F 307
-DTSTART:20260527T163000Z
-SUMMARY: (egzamin)
-UID:a808ce91-a112-4df1-8b39-642f5486ee33@a808.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260302T120000Z
-DTSTART:20260302T103000Z
-SUMMARY:Polityka finansowa (Przeniesienie zajęć)
-UID:9c886ac1-b14a-4241-833d-2a2f9d8eed32@9c88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260226T120000Z
-DTSTART:20260226T103000Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
-UID:1345d630-8b69-477b-875a-9818418e675e@1345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260302T190000Z
-DTSTART:20260302T173000Z
-SUMMARY:Analiza fundamentalna (wykład)
-UID:f7fc05dd-4070-4c2f-96da-41922730af5f@f7fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260611T190000Z
-DTSTART:20260611T181500Z
-SUMMARY:Analiza fundamentalna (Przeniesienie zajęć)
-UID:ea768263-7747-465f-9e4b-994a426fd63e@ea76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260312T101500Z
-DTSTART:20260312T084500Z
-SUMMARY:Długoterminowe decyzje finansowe (wykład)
-UID:0ec7f791-94d9-4b15-aa93-1c850440795e@0ec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260611T180000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260611T163000Z
-SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:7aebd324-ade4-40ef-8df9-f8637546bb89@7aeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260422T124500Z
-LOCATION:Paw.S sala 3
-DTSTART:20260422T111500Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:cbf23dcd-08e7-4983-9e01-cc3bf9c27462@cbf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260413T110000Z
-DTSTART:20260413T093000Z
-SUMMARY:Polityka finansowa (wykład do wyboru)
-UID:a333e4a4-0ab7-4b9f-997b-95dfe4ad2625@a333.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:cf55297c-86f8-4610-872b-c2a7292896ce@cf55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260227T100000Z
-DTSTART:20260227T074500Z
-SUMMARY:Finanse empiryczne (wykład)
-UID:306dcf70-8941-44e7-9cea-63ad7fa9c97c@306d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260423T091500Z
-DTSTART:20260423T074500Z
-SUMMARY:Długoterminowe decyzje finansowe (wykład)
-UID:837024d4-ef85-4d14-966d-b5461c5b44c9@8370.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260511T114500Z
-DTSTART:20260511T093000Z
-SUMMARY:Polityka finansowa (Przeniesienie zajęć)
-UID:57af10b0-20b4-483b-be91-48d1ac1af2bc@57af.org
+UID:779217b1-7db7-4835-8905-0d76a4ecdaba@7792.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
@@ -296,163 +71,28 @@ DTEND:20260401T091500Z
 LOCATION:Bibl. 441
 DTSTART:20260401T074500Z
 SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:4e360be4-0383-4bfb-a449-9628c3477eb4@4e36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260610T091500Z
-DTSTART:20260610T083000Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (Przeniesienie zajęć)
-UID:db6b2a79-5a26-4c46-8bcd-88ce3b2f96f7@db6b.org
+UID:857524fa-74a0-41df-bc3c-2883f2d56b74@8575.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260316T120000Z
-DTSTART:20260316T103000Z
-SUMMARY:Polityka finansowa (wykład do wyboru)
-UID:c631feb4-18ec-431d-b790-19c539bb3104@c631.org
+DTEND:20260309T120000Z
+DTSTART:20260309T103000Z
+SUMMARY:Polityka finansowa (Przeniesienie zajęć)
+UID:f874cf69-401e-46d6-bb2d-19d57b6cdf17@f874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260302T190000Z
+DTSTART:20260302T173000Z
+SUMMARY:Analiza fundamentalna (wykład)
+UID:c9a4879a-09e4-426e-b1a4-02d02f3af3cc@c9a4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260521T114500Z
-DTSTART:20260521T093000Z
+DTEND:20260312T120000Z
+DTSTART:20260312T103000Z
 SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
-UID:74fed013-3d24-4811-826d-8c0f4e021830@74fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260305T101500Z
-DTSTART:20260305T084500Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
-UID:9d1b9510-4661-4c3b-9ab3-aecb9d9b2507@9d1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260513T073000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20260513T060000Z
-SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:cf9d4498-7094-4870-aeaa-f86c4e54a06c@cf9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260527T073000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20260527T060000Z
-SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:97fd0ac1-a515-4821-9afc-8479821884d9@97fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260223T083000Z
-DTSTART:20260223T070000Z
-SUMMARY:Długoterminowe decyzje finansowe (wykład)
-UID:02c5d9fc-b924-4db0-8a77-cb540fc1227f@02c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260507T091500Z
-DTSTART:20260507T074500Z
-SUMMARY:Długoterminowe decyzje finansowe (wykład)
-UID:723bbb76-144b-43bd-b2f1-d3ab589b8e87@723b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260429T091500Z
-LOCATION:Bibl. 441
-DTSTART:20260429T074500Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:bc2081ea-2684-482e-93b2-cc5fce3bf50e@bc20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260306T161500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260306T144500Z
-SUMMARY:Finanse empiryczne (ćwiczenia)
-UID:c914fb2e-fb18-4420-b1cf-598f6cad32d2@c914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260226T171500Z
-DTSTART:20260226T154500Z
-SUMMARY:Finanse empiryczne (Przeniesienie zajęć)
-UID:acaf5e61-ba74-4ee9-9e74-22e217401d69@acaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:15e1f4c5-ca2c-4dee-a757-e5d368fc6d1b@15e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260521T190000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260521T181500Z
-SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:acce54c2-6a2c-46e4-8bc1-a9e026ecdbdc@acce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260326T190000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260326T173000Z
-SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:cb6a7121-f5db-4045-bc3f-11f6d723c126@cb6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260429T073000Z
-LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
-DTSTART:20260429T060000Z
-SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:9ba18697-2740-4588-94d5-e442ab1015d6@9ba1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260615T090000Z
-LOCATION:Paw.A 07 lab. Win7\, Office21
-DTSTART:20260615T060000Z
-SUMMARY: (egzamin)
-UID:01ad5e5c-2b04-4f54-a07d-afbbd1e15643@01ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260313T100000Z
-DTSTART:20260313T074500Z
-SUMMARY:Finanse empiryczne (wykład)
-UID:354408b6-8af6-4b86-ae96-6aefd2d130d3@3544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260409T110000Z
-DTSTART:20260409T093000Z
-SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
-UID:2d3aca0b-cb41-45f8-a7c6-91f7c64fb9b0@2d3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260319T190000Z
-DTSTART:20260319T173000Z
-SUMMARY:Analiza fundamentalna (Przeniesienie zajęć)
-UID:45fcb595-372e-4a66-a400-e3b04d5c4972@45fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260305T190000Z
-LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260305T173000Z
-SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:53743752-f691-41d9-b73d-6873e6a58f6a@5374.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260330T110000Z
-DTSTART:20260330T093000Z
-SUMMARY:Polityka finansowa (wykład do wyboru)
-UID:3f961ccc-c879-4a41-8bfa-ddf68445f760@3f96.org
+UID:3518d898-604c-4e1a-9383-b524d2f9da19@3518.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
@@ -460,96 +100,110 @@ DTEND:20260624T180000Z
 LOCATION:Paw.A 013 lab. Win10\, Office21
 DTSTART:20260624T163000Z
 SUMMARY:Analiza fundamentalna (egzamin)
-UID:ac21dbc7-0c1b-41d7-8a8f-c36699b0e81c@ac21.org
+UID:213f6a2c-1bf3-4d6b-8238-40ac891b79cc@213f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260521T090000Z
-DTSTART:20260521T064500Z
-SUMMARY:Długoterminowe decyzje finansowe (wykład)
-UID:892c9961-3328-402c-8042-07159dae37de@892c.org
+DTEND:20260318T083000Z
+DTSTART:20260318T070000Z
+SUMMARY:Długoterminowe decyzje finansowe (Przeniesienie zajęć)
+UID:1fa3681a-fa0b-42ce-9c45-91a00f50fe9e@1fa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:af2ddda3-c501-413f-ae3f-31703c87e1d0@af2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
 DTEND:20260320T100000Z
 DTSTART:20260320T074500Z
 SUMMARY:Finanse empiryczne (wykład)
-UID:4bd8f45d-7dbd-4801-aa51-5c7e99c15f2d@4bd8.org
+UID:21192624-c9c1-4e5b-9693-f411162fb4cb@2119.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260521T180000Z
+DTEND:20260611T180000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
-DTSTART:20260521T163000Z
+DTSTART:20260611T163000Z
 SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:e1623708-8b45-4a84-b1cc-1f2df8b22f3c@e162.org
+UID:1892f02b-1d10-45cc-b3af-415185aa9f6a@1892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260427T180000Z
+DTSTART:20260427T163000Z
+SUMMARY:Analiza fundamentalna (wykład)
+UID:3cdee52e-9f8a-4415-b76b-5c3206988a10@3cde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260330T180000Z
+DTSTART:20260330T163000Z
+SUMMARY:Analiza fundamentalna (wykład)
+UID:76de9a68-d7c0-457a-bb1e-a628f6e16c63@76de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260312T171500Z
+DTEND:20260319T171500Z
 LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260312T154500Z
+DTSTART:20260319T154500Z
 SUMMARY:Finanse empiryczne (ćwiczenia)
-UID:5a0d8cda-0363-4d59-b2c8-df848532dd81@5a0d.org
+UID:7cb2abb5-9302-4f7b-ab2f-06af9eb020b4@7cb2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
-DTEND:20260223T120000Z
-DTSTART:20260223T103000Z
-SUMMARY:Polityka finansowa (wykład do wyboru)
-UID:c374571d-b899-4be1-afcc-17a3dc075d19@c374.org
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:4f0763f9-521d-4940-b173-ab843a804759@4f07.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260527T101500Z
-LOCATION:Paw.B 151
-DTSTART:20260527T093000Z
+DTEND:20260311T120000Z
+LOCATION:Bibl. 443
+DTSTART:20260311T103000Z
 SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:aa7c4bf1-6b0d-4b8d-811c-3a7e50107cee@aa7c.org
+UID:08e5fe12-ce5e-408b-b5ad-b230198fed29@08e5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260511T180000Z
-DTSTART:20260511T163000Z
-SUMMARY:Analiza fundamentalna (wykład)
-UID:c1267d18-8aee-4ad1-8474-4f9bc3be7475@c126.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
-DTEND:20260313T134500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260313T121500Z
-SUMMARY:Finanse empiryczne (ćwiczenia)
-UID:e438625a-00e9-416b-ada1-80c533787908@e438.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260413T180000Z
-DTSTART:20260413T163000Z
-SUMMARY:Analiza fundamentalna (wykład)
-UID:a46a9515-8dcd-4324-890b-1f04d8516f52@a46a.org
+DTEND:20260326T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260326T173000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:9cf6e0e3-639c-4279-8145-2d12d93cdf47@9cf6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260326T101500Z
-DTSTART:20260326T084500Z
+DTEND:20260312T101500Z
+DTSTART:20260312T084500Z
 SUMMARY:Długoterminowe decyzje finansowe (wykład)
-UID:401259e0-7f34-41b5-a98e-4f4a3c8b14fd@4012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260409T091500Z
-DTSTART:20260409T074500Z
-SUMMARY:Długoterminowe decyzje finansowe (wykład)
-UID:f4b5a2a6-e072-4b46-9c67-996b22dcca21@f4b5.org
+UID:0ce585d3-7eac-4638-a4dd-309d044e2143@0ce5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260608T171500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6308314
-DTSTART:20260608T163000Z
-SUMMARY:Analiza fundamentalna (wykład)
-UID:163b3186-2da1-44b2-ac47-88b24ded1166@163b.org
+DTEND:20260305T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260305T173000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:69df9314-bff0-4435-8f43-e894e67217cf@69df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260316T120000Z
+DTSTART:20260316T103000Z
+SUMMARY:Polityka finansowa (wykład do wyboru)
+UID:a4101c9e-c91e-4427-a835-41a1c5a8ea17@a410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260610T091500Z
+DTSTART:20260610T083000Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (Przeniesienie zajęć)
+UID:7e5fa38d-f776-4ef9-9a1b-a89b2159ffef@7e5f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
@@ -557,36 +211,53 @@ DTEND:20260401T073000Z
 LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
 DTSTART:20260401T060000Z
 SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
-UID:18593a0e-d277-4e1f-b3e0-af856985c671@1859.org
+UID:30a0e66c-40dd-42d1-aaf7-a7f42e449bb4@30a0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
-DTEND:20260513T091500Z
+DTEND:20260304T101500Z
 LOCATION:Bibl. 441
-DTSTART:20260513T074500Z
+DTSTART:20260304T084500Z
 SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
-UID:d52f10c8-6886-4d23-a297-b4b5bb09da92@d52f.org
+UID:6488b336-66ff-41e3-aa13-0a98da74941e@6488.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:85078f70-b41c-4580-91f5-b12fb84c0151@8507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
-DTEND:20260226T101500Z
-DTSTART:20260226T084500Z
-SUMMARY:Długoterminowe decyzje finansowe (Przeniesienie zajęć)
-UID:8cfc74cd-9438-4b70-8360-6cb7dab5c613@8cfc.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260413T110000Z
+DTSTART:20260413T093000Z
+SUMMARY:Polityka finansowa (wykład do wyboru)
+UID:6853f5e2-e98f-42ea-81fb-a693b9d7fc54@6853.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260430T180000Z
-DTSTART:20260430T163000Z
+DTEND:20260416T180000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260416T163000Z
 SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:41b2c2c8-90ab-4622-bef2-762271b31a0e@41b2.org
+UID:5a97c72c-8eed-4ac3-8e89-e3a5b5b380fb@5a97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260323T120000Z
+DTSTART:20260323T103000Z
+SUMMARY:Polityka finansowa (wykład do wyboru)
+UID:5ec94509-b6cd-44f9-81ea-d81f0e840b44@5ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260521T180000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260521T163000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:230275b2-26ee-461c-8b69-2d1a72e6b2e5@2302.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260521T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20260521T181500Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:1c2b3860-0bb5-486a-ab2b-96a18637b6ed@1c2b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
@@ -594,20 +265,349 @@ DTEND:20260514T180000Z
 LOCATION:Paw.A 117 lab. Win10\, Office21
 DTSTART:20260514T163000Z
 SUMMARY:Analiza fundamentalna (ćwiczenia)
-UID:5ce0e556-5dcb-4184-9092-b957778b15a4@5ce0.org
+UID:655e8447-97f7-45a1-834b-6a652da54182@655e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260305T101500Z
+DTSTART:20260305T084500Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
+UID:4823b09c-f12f-4f6f-bf2b-867c5093b6be@4823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260610T073000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20260610T064500Z
+SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
+UID:7d5252fc-da39-4d88-b215-62268b066264@7d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260323T083000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20260323T070000Z
+SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
+UID:546e0c7f-7a86-46a3-9539-92c51d0d027e@546e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260326T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260326T154500Z
+SUMMARY:Finanse empiryczne (ćwiczenia)
+UID:a5773295-e0ac-4ab4-85a1-380b2e464430@a577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260527T073000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20260527T060000Z
+SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
+UID:9ef61e9c-523a-4cc1-af1d-c727c776ccb7@9ef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260326T101500Z
+DTSTART:20260326T084500Z
+SUMMARY:Długoterminowe decyzje finansowe (wykład)
+UID:2dd130b6-1885-4311-856f-16b70143b321@2dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260527T180000Z
+LOCATION:Paw.F 307
+DTSTART:20260527T163000Z
+SUMMARY: (egzamin)
+UID:f7010be6-1296-47f2-ae4a-0bf386379feb@f701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260304T083000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20260304T070000Z
+SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
+UID:a9086a0c-a6a5-4474-8420-07ac80daf101@a908.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
-DTEND:20260427T180000Z
-DTSTART:20260427T163000Z
+DTEND:20260525T180000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6308313
+DTSTART:20260525T163000Z
 SUMMARY:Analiza fundamentalna (wykład)
-UID:d625a151-2bd7-4449-ad50-98dfd20c422c@d625.org
+UID:6fe7a438-956b-4ff8-8840-9d8f84b680d0@6fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260226T101500Z
+DTSTART:20260226T084500Z
+SUMMARY:Długoterminowe decyzje finansowe (Przeniesienie zajęć)
+UID:a91bc661-c9ff-4ea6-92bb-be23269a3ece@a91b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260527T101500Z
+LOCATION:Paw.B 151
+DTSTART:20260527T093000Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
+UID:b49ae10c-c94d-4706-b7e0-1838e82e80c6@b49a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260306T161500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260306T144500Z
+SUMMARY:Finanse empiryczne (ćwiczenia)
+UID:5798afc2-1ffb-4aa0-bd1f-6bcc369470db@5798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:e25c5cda-bb99-47c2-9fe1-2bbbaea659e5@e25c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260227T100000Z
+DTSTART:20260227T074500Z
+SUMMARY:Finanse empiryczne (wykład)
+UID:72edd268-5e2c-427c-b648-fd9889b48c9c@72ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260527T091500Z
+LOCATION:Bibl. 441
+DTSTART:20260527T074500Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
+UID:a8747d08-e591-45cc-9487-a9164639b30c@a874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260415T091500Z
+DTSTART:20260415T074500Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (Przeniesienie zajęć)
+UID:90dd3379-8e7a-4850-8dd9-ca9136b829d1@90dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260422T124500Z
+LOCATION:Paw.S sala 3
+DTSTART:20260422T111500Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
+UID:dc092e52-db52-48a0-a0e2-80e05eb74ffc@dc09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260420T110000Z
+DTSTART:20260420T093000Z
+SUMMARY:Polityka finansowa (wykład do wyboru)
+UID:1339ba1d-4eb9-420d-8594-3456f99de4ef@1339.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260429T091500Z
+LOCATION:Bibl. 441
+DTSTART:20260429T074500Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
+UID:bad8295a-c1b5-4d08-ac9d-27ae09d0f6f9@bad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260327T100000Z
+DTSTART:20260327T074500Z
+SUMMARY:Finanse empiryczne (wykład)
+UID:21d205fa-76d6-48c8-ae3d-669e3aa496d8@21d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260615T090000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20260615T060000Z
+SUMMARY: (egzamin)
+UID:d7a9a65d-10e8-4d9c-8ffd-2612307892d8@d7a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260522T133000Z
+DTSTART:20260522T111500Z
+SUMMARY:Polityka finansowa (wykład do wyboru)
+UID:f7b3a774-bed7-4083-a75a-4c5d69318aec@f7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260226T120000Z
+DTSTART:20260226T103000Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
+UID:f3f9e7dc-ff81-49c1-a98e-30a0a23e412a@f3f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260306T100000Z
+DTSTART:20260306T074500Z
+SUMMARY:Finanse empiryczne (wykład)
+UID:b9cbcfef-a554-4d5e-af1e-8f9ad2c83b19@b9cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260608T171500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6308314
+DTSTART:20260608T163000Z
+SUMMARY:Analiza fundamentalna (wykład)
+UID:950352ae-9f1a-468f-ae81-e5135eb7a517@9503.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
 DTEND:20260507T110000Z
 DTSTART:20260507T093000Z
 SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
-UID:cec38b10-4996-4e41-a888-e00f07caa941@cec3.org
+UID:1c0a3fe0-b063-466a-b740-f2e379e62d19@1c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260313T100000Z
+DTSTART:20260313T074500Z
+SUMMARY:Finanse empiryczne (wykład)
+UID:a42414bf-5bac-4803-bd80-c20c13a3adb9@a424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260413T180000Z
+DTSTART:20260413T163000Z
+SUMMARY:Analiza fundamentalna (wykład)
+UID:8f203173-50ea-4a11-82b3-616bb5ad0455@8f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260423T110000Z
+DTSTART:20260423T093000Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
+UID:b221a391-0781-4750-b978-869f932ccead@b221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260521T090000Z
+DTSTART:20260521T064500Z
+SUMMARY:Długoterminowe decyzje finansowe (wykład)
+UID:94c45952-2679-4eb7-aa4f-735477ae4571@94c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260302T120000Z
+DTSTART:20260302T103000Z
+SUMMARY:Polityka finansowa (Przeniesienie zajęć)
+UID:cf621b75-7c87-4a87-bb74-afd42f1bd0f0@cf62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260312T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260312T154500Z
+SUMMARY:Finanse empiryczne (ćwiczenia)
+UID:6c100fc4-7eef-4e0a-aecf-409597de12b6@6c10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260313T134500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260313T121500Z
+SUMMARY:Finanse empiryczne (ćwiczenia)
+UID:2f14cb76-029c-46a3-855c-fde7db34b5e2@2f14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20260305T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260305T154500Z
+SUMMARY:Finanse empiryczne (ćwiczenia)
+UID:814b56d2-ba31-4486-8041-cf0ec1a2e5ba@814b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260429T073000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20260429T060000Z
+SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
+UID:ce8a6816-9b9e-421d-bf83-b9b0d54a9242@ce8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260415T073000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20260415T060000Z
+SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
+UID:33a0154a-40b6-4bbb-ad7d-2a01cf721664@33a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260507T091500Z
+DTSTART:20260507T074500Z
+SUMMARY:Długoterminowe decyzje finansowe (wykład)
+UID:474e976a-abad-44a2-b2c2-832b2ad9aa30@474e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260521T114500Z
+DTSTART:20260521T093000Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
+UID:cdef6221-a616-4d1a-8b93-61fa61550aca@cdef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260409T091500Z
+DTSTART:20260409T074500Z
+SUMMARY:Długoterminowe decyzje finansowe (wykład)
+UID:72435745-8266-498b-8c0f-461e6c136356@7243.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Moździerz
+DTEND:20260330T110000Z
+DTSTART:20260330T093000Z
+SUMMARY:Polityka finansowa (wykład do wyboru)
+UID:9f11bacb-6b0f-4415-bdf5-94b3abba9697@9f11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260611T190000Z
+DTSTART:20260611T181500Z
+SUMMARY:Analiza fundamentalna (Przeniesienie zajęć)
+UID:579b8f0a-8ecf-44e3-8128-3738373f8163@579b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20260316T190000Z
+DTSTART:20260316T173000Z
+SUMMARY:Analiza fundamentalna (wykład)
+UID:c58edb3c-f1e4-49f9-af62-d3eff5710927@c58e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260409T110000Z
+DTSTART:20260409T093000Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (wykład)
+UID:64c1997e-2cae-4a02-9faf-23620cfac635@64c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260513T073000Z
+LOCATION:Paw.B 053 (KSB)\, Labolatorium Mobilne
+DTSTART:20260513T060000Z
+SUMMARY:Długoterminowe decyzje finansowe (ćwiczenia)
+UID:0e766538-c8e5-4be5-8130-13c8e4270f0b@0e76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Małecka-Łyszczek
+DTEND:20260513T091500Z
+LOCATION:Bibl. 441
+DTSTART:20260513T074500Z
+SUMMARY:Zwalczanie przestępczości na rynkach finansowych (ćwiczenia)
+UID:3dc30b73-a53c-4b5d-bd67-f70b76388f07@3dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Doś
+DTEND:20260423T091500Z
+DTSTART:20260423T074500Z
+SUMMARY:Długoterminowe decyzje finansowe (wykład)
+UID:a31754e0-3349-4209-b9a2-135fb3bafc5f@a317.org
 END:VEVENT
 END:VCALENDAR
