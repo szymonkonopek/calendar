@@ -3,10 +3,18 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20260313T194500Z
-DTSTART:20260313T173000Z
+DTEND:20260530T090000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6403838
+DTSTART:20260530T064500Z
 SUMMARY:Różnice kulturowe w biznesie (wykład)
-UID:c2ddaf49-e5e3-4cdf-8789-5e1488e5b002@c2dd.org
+UID:1e821cef-da2a-43a4-a046-47142e587b66@1e82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20260425T090000Z
+DTSTART:20260425T064500Z
+SUMMARY:Security management in logistics (wykład)
+UID:6e1dddd2-5364-4ea3-ac9b-80886d472d01@6e1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
@@ -14,7 +22,14 @@ DTEND:20260321T114500Z
 LOCATION:Paw.C sala E
 DTSTART:20260321T093000Z
 SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
-UID:4cc387f7-715f-441e-82c8-e8e505718815@4cc3.org
+UID:48f01c91-878a-4534-bd92-d61538a65b9c@48f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20260411T141500Z
+DTSTART:20260411T120000Z
+SUMMARY:Marketing w logistyce (wykład)
+UID:53688309-3d77-47eb-961d-cf4739290372@5368.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
@@ -22,75 +37,7 @@ DTEND:20260530T141500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6403879
 DTSTART:20260530T120000Z
 SUMMARY:Security management in logistics (wykład)
-UID:b2d843df-a30c-49e3-b803-f29c8f2b104d@b2d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dariusz Noworyta
-DTEND:20260517T104500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260517T083000Z
-SUMMARY:Usługi logistyczne (konwersatorium)
-UID:3ccbb0e5-13ea-4cd8-8d69-b498a75aaf4a@3ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Stopa
-DTEND:20260614T081500Z
-LOCATION:Paw.B 151
-DTSTART:20260614T060000Z
-SUMMARY:Strategie rozwoju biznesu (konwersatorium)
-UID:2b0bab2c-ed60-4197-9aab-0cd494e0ca14@2b0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260425T170000Z
-DTSTART:20260425T144500Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
-UID:926a3869-f94f-45ba-be88-301dd1c55b9b@926a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20260425T141500Z
-DTSTART:20260425T120000Z
-SUMMARY:Różnice kulturowe w biznesie (wykład)
-UID:96e8bb3c-a61e-4b21-9f40-5dac4560c4a6@96e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20260529T160000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6403837
-DTSTART:20260529T134500Z
-SUMMARY:Różnice kulturowe w biznesie (wykład)
-UID:a7c9a019-be73-4c1b-a1cf-fc010b6ebce6@a7c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20260627T110000Z
-LOCATION:Paw.B 251
-DTSTART:20260627T101500Z
-SUMMARY:Prawo w logistyce (egzamin)
-UID:50492a3f-7fb3-4463-9d61-e04f209ffcd0@5049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260412T104500Z
-LOCATION:Paw.B 053 (KSB)
-DTSTART:20260412T083000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
-UID:66e759d5-7bf2-4f8e-9b9f-508212dc507c@66e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260410T160000Z
-DTSTART:20260410T134500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
-UID:0283e118-2bd1-4635-989a-9ee62851c75d@0283.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20260515T160000Z
-DTSTART:20260515T134500Z
-SUMMARY:Różnice kulturowe w biznesie (wykład)
-UID:cb264a1f-6671-4bd5-88f3-fb5e96c7943e@cb26.org
+UID:f4979c41-3a6c-4858-b6b8-59079e521517@f497.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Maciej Stopa
@@ -98,144 +45,7 @@ DTEND:20260531T160000Z
 LOCATION:Paw.B 053 (KSB)
 DTSTART:20260531T134500Z
 SUMMARY:Strategie rozwoju biznesu (konwersatorium)
-UID:4d49a2ab-1b7a-4c29-a0aa-adb397f8c563@4d49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20260314T124500Z
-DTSTART:20260314T103000Z
-SUMMARY:Marketing w logistyce (wykład)
-UID:06a6e7bd-98fd-4150-98a1-d5a29cc782f3@06a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20260515T184500Z
-DTSTART:20260515T163000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:e943ae69-8733-448a-880d-1d223b4e6363@e943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20260425T114500Z
-DTSTART:20260425T093000Z
-SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:6b17cac3-b605-480b-84fa-c8568826c90c@6b17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260613T133000Z
-LOCATION:Paw.C sala B
-DTSTART:20260613T111500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
-UID:dc82476f-c1c4-4e59-8576-9f88907c6322@dc82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260314T100000Z
-DTSTART:20260314T074500Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
-UID:4129fe7d-2cdf-4808-a6ee-7434450a05ea@4129.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20260530T090000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6403838
-DTSTART:20260530T064500Z
-SUMMARY:Różnice kulturowe w biznesie (wykład)
-UID:2634e9cb-d7a7-4d59-8a3a-6667e657c4ab@2634.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20260530T114500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6403870
-DTSTART:20260530T093000Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:3ff46214-19a8-45e3-a390-d192f04efb24@3ff4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Stopa
-DTEND:20260517T160000Z
-LOCATION:Paw.B 251
-DTSTART:20260517T134500Z
-SUMMARY:Strategie rozwoju biznesu (konwersatorium)
-UID:c72b389f-bcd7-4ec1-85a2-b9996d2513ff@c72b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260531T104500Z
-LOCATION:Paw.F 102
-DTSTART:20260531T083000Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
-UID:5000a881-eb29-4c40-8427-9099387c6ce9@5000.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20260611T170000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260611T153000Z
-SUMMARY: (egzamin)
-UID:791723a5-e6c0-4912-a995-761fa5ed7cae@7917.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Dariusz Noworyta
-DTEND:20260321T091500Z
-LOCATION:Paw.F 111
-DTSTART:20260321T070000Z
-SUMMARY:Usługi logistyczne (konwersatorium)
-UID:92c2c76c-46d6-4efe-8d55-d00ff2765c2c@92c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260627T091500Z
-LOCATION:Paw.C sala A
-DTSTART:20260627T074500Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (egzamin)
-UID:28d17070-8979-4bdd-8c1f-7d6cd6bfcef9@28d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20260313T170000Z
-DTSTART:20260313T144500Z
-SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:125408e3-1899-40bc-ae40-ba8da0087c76@1254.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260426T104500Z
-LOCATION:Paw.S sala 6
-DTSTART:20260426T083000Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
-UID:4e69dd0c-4013-4858-9eae-12fecf4de838@4e69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260620T091500Z
-LOCATION:Paw.C sala F
-DTSTART:20260620T074500Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (egzamin)
-UID:3d2c9caa-512c-4a4a-b15e-7c4c953cb0b6@3d2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20260529T180000Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6403880
-DTSTART:20260529T163000Z
-SUMMARY:Marketing w logistyce (wykład)
-UID:2a4e8f05-1761-4ad5-b78f-c5bd036cf20f@2a4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260315T100000Z
-DTSTART:20260315T074500Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
-UID:f3fadee4-dc5e-4d4c-9e87-9c5e426c2303@f3fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20260315T133000Z
-DTSTART:20260315T111500Z
-SUMMARY:Security management in logistics (wykład)
-UID:00717ded-0cd6-4393-89ef-e9db7e4afc9a@0071.org
+UID:c3a1ee79-126a-46a7-beef-07b4768f7a04@c3a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Dariusz Noworyta
@@ -243,44 +53,74 @@ DTEND:20260531T081500Z
 LOCATION:Paw.F 102
 DTSTART:20260531T060000Z
 SUMMARY:Usługi logistyczne (konwersatorium)
-UID:0c6bdbf1-7a22-43ac-8d2a-c8f46c064275@0c6b.org
+UID:e02e3ff5-8a6b-4212-9dc2-1beba51631c9@e02e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Robert Śliwa
-DTEND:20260424T160000Z
-DTSTART:20260424T134500Z
-SUMMARY:Prawo w logistyce (wykład)
-UID:6a643706-45e7-40dd-99bb-0ff7a1e02305@6a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
-DTEND:20260411T090000Z
-DTSTART:20260411T064500Z
-SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
-UID:aa3607b2-d488-413e-afdd-58dd453428f7@aa36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
-DTEND:20260425T090000Z
-DTSTART:20260425T064500Z
-SUMMARY:Security management in logistics (wykład)
-UID:95baf258-33d9-4898-9a27-ee92431ca612@95ba.org
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20260425T114500Z
+DTSTART:20260425T093000Z
+SUMMARY:Trendy i innowacje w logistyce (wykład)
+UID:148d796a-f011-44c9-ae65-7aa4c1edb821@148d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260517T081500Z
-LOCATION:Paw.E sala J
-DTSTART:20260517T060000Z
+DTEND:20260613T133000Z
+LOCATION:Paw.C sala B
+DTSTART:20260613T111500Z
 SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
-UID:3204688e-5e98-4615-9244-0fc35f8c494d@3204.org
+UID:412a0191-dc74-481d-be9f-9c2188fe0f5e@412a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20260613T101500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260613T093000Z
-SUMMARY:Marketing w logistyce (wykład)
-UID:7c79297c-b5e8-41a1-84b2-0a69692c545e@7c79.org
+DESCRIPTION:Instructor: dr Maciej Stopa
+DTEND:20260517T160000Z
+LOCATION:Paw.B 251
+DTSTART:20260517T134500Z
+SUMMARY:Strategie rozwoju biznesu (konwersatorium)
+UID:315b7e69-2567-49b8-9114-78ff587d5e95@315b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20260313T194500Z
+DTSTART:20260313T173000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład)
+UID:25178912-85f7-4627-a131-eee62abc83ac@2517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20260530T114500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6403870
+DTSTART:20260530T093000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:bd273fde-7ae0-4a7f-8fa1-1dcf46861a1c@bd27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20260515T184500Z
+DTSTART:20260515T163000Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:f530948e-7028-4c4e-a354-fa087b5e1e95@f530.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260315T100000Z
+DTSTART:20260315T074500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
+UID:35198301-38f2-42e9-ab7a-ebb8c7b17113@3519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20260410T184500Z
+DTSTART:20260410T163000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład)
+UID:71a50f40-f1f4-4055-8d76-0b28852b7de5@71a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260620T091500Z
+LOCATION:Paw.C sala F
+DTSTART:20260620T074500Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (egzamin)
+UID:571dc077-d3f5-437b-8daa-275f7893c4cf@571d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariola Wiater
@@ -288,34 +128,194 @@ DTEND:20260627T100000Z
 LOCATION:Paw.C sala F
 DTSTART:20260627T083000Z
 SUMMARY:Marketing w logistyce (kolokwium)
-UID:89e6ae36-e8bd-4a9a-96bd-a89124a6493d@89e6.org
+UID:6394ac0e-0485-4abf-9d74-72575a39b0a4@6394.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
-DTEND:20260410T184500Z
-DTSTART:20260410T163000Z
-SUMMARY:Różnice kulturowe w biznesie (wykład)
-UID:da0ab3b9-7992-49e1-8243-42d5b806a989@da0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Dariusz Firszt
-DTEND:20260424T184500Z
-DTSTART:20260424T163000Z
-SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
-UID:2b513877-0ab3-455d-b5f8-a5a102fbd07c@2b51.org
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260314T100000Z
+DTSTART:20260314T074500Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
+UID:f7576e09-c4e8-4033-af32-68eab0634f23@f757.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jarosław Świda
 DTEND:20260411T114500Z
 DTSTART:20260411T093000Z
 SUMMARY:Trendy i innowacje w logistyce (wykład)
-UID:cdf81a7f-1783-45e4-a9bb-370a0e4f26e8@cdf8.org
+UID:47162941-4ea1-4989-920d-50c5697e2fe1@4716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20260424T160000Z
+DTSTART:20260424T134500Z
+SUMMARY:Prawo w logistyce (wykład)
+UID:588dccc0-93d3-4e4a-9f53-db965813aa92@588d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20260315T133000Z
+DTSTART:20260315T111500Z
+SUMMARY:Security management in logistics (wykład)
+UID:faeaee32-7713-411b-a5d6-114c3860185c@faea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260517T081500Z
+LOCATION:Paw.E sala J
+DTSTART:20260517T060000Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
+UID:9410e225-dc65-410a-88f7-1e41f362595a@9410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260425T170000Z
+DTSTART:20260425T144500Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
+UID:f58e0178-a3a9-4b89-874b-113ea505a589@f58e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20260529T160000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6403837
+DTSTART:20260529T134500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład)
+UID:e2714207-024f-4aeb-aea2-a9026c50a1d8@e271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20260425T141500Z
+DTSTART:20260425T120000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład)
+UID:afde3144-73f5-43cb-a4c2-d4e1f9676379@afde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260410T160000Z
+DTSTART:20260410T134500Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
+UID:9aba069a-8db3-4b87-a54d-fd2adcc57285@9aba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260412T104500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20260412T083000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
+UID:0c7009bd-26cf-4b84-85ea-01451f1b1a1c@0c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dariusz Noworyta
+DTEND:20260321T091500Z
+LOCATION:Paw.F 111
+DTSTART:20260321T070000Z
+SUMMARY:Usługi logistyczne (konwersatorium)
+UID:995a358c-22b3-4faa-bd68-79b34d970488@995a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Stopa
+DTEND:20260614T081500Z
+LOCATION:Paw.B 151
+DTSTART:20260614T060000Z
+SUMMARY:Strategie rozwoju biznesu (konwersatorium)
+UID:7d759d9e-ebc1-4772-b656-36f32dc64377@7d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260627T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20260627T074500Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (egzamin)
+UID:a743c931-a164-4bc0-9aff-ddfb561f5b76@a743.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Mariola Wiater
-DTEND:20260411T141500Z
-DTSTART:20260411T120000Z
+DTEND:20260314T124500Z
+DTSTART:20260314T103000Z
 SUMMARY:Marketing w logistyce (wykład)
-UID:9693908e-ee42-4123-8712-e4dfe74e09c3@9693.org
+UID:7dec9618-670b-4946-a8de-ad6bb71c783f@7dec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20260611T170000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260611T153000Z
+SUMMARY: (egzamin)
+UID:94b2688a-0f41-41c8-8d30-66179f6511c1@94b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260426T104500Z
+LOCATION:Paw.S sala 6
+DTSTART:20260426T083000Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (ćwiczenia)
+UID:9032a414-ba8a-4e24-a430-f8f75b3be594@9032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260424T184500Z
+DTSTART:20260424T163000Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (wykład)
+UID:afe15961-a483-4694-99a2-83becd18de81@afe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20260529T180000Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6403880
+DTSTART:20260529T163000Z
+SUMMARY:Marketing w logistyce (wykład)
+UID:51562c0f-a917-4c5e-b061-cacfc41869bf@5156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Dariusz Noworyta
+DTEND:20260517T104500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260517T083000Z
+SUMMARY:Usługi logistyczne (konwersatorium)
+UID:a3826eaf-894d-4a47-b084-16fe3be5ea8e@a382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20260411T090000Z
+DTSTART:20260411T064500Z
+SUMMARY:Międzynarodowe łańcuchy dostaw (wykład)
+UID:0ec0ed99-18f2-4d5d-97e1-c383f5ee19a4@0ec0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20260313T170000Z
+DTSTART:20260313T144500Z
+SUMMARY:Trendy i innowacje w logistyce (wykład)
+UID:fcf89467-bb4c-41aa-817f-e6226e0c2593@fcf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20260627T110000Z
+LOCATION:Paw.B 251
+DTSTART:20260627T101500Z
+SUMMARY:Prawo w logistyce (egzamin)
+UID:2b7f25a8-dce5-4242-9801-163038672ec5@2b7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20260515T160000Z
+DTSTART:20260515T134500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład)
+UID:21538ab9-563e-4967-ab14-b4ca136f74cf@2153.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20260613T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260613T093000Z
+SUMMARY:Marketing w logistyce (wykład)
+UID:23d6c46e-dae9-40c6-a4fc-96a203be9e4b@23d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20260531T104500Z
+LOCATION:Paw.F 102
+DTSTART:20260531T083000Z
+SUMMARY:Zarządzanie i organizacja przedsiębiorstw logistycznych (ćwiczenia)
+UID:2caf123e-3f05-4e41-bf65-cb45990944c8@2caf.org
 END:VEVENT
 END:VCALENDAR
