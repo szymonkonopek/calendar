@@ -2,26 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:1dbe84dd-1603-4618-b9c3-13a47cf5c708@1dbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260425T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20260425T083000Z
-SUMMARY:Makroekonomia (Ćwiczenia e-learningowe)
-UID:0699bf08-4c36-4320-9b8d-c05421e914dd@0699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260531T133000Z
-DTSTART:20260531T111500Z
-SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
-UID:f4a49d4c-d9a1-493e-aa57-5f763f04dafe@f4a4.org
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260627T173000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21\, Paw.A 09 lab. Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21\, Paw.A 121 lab. Win10\, Office21
+DTSTART:20260627T134500Z
+SUMMARY:Statystyka (egzamin)
+UID:a4eee333-e669-4a9a-b56d-11ad13a640cf@a4ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
@@ -29,7 +15,21 @@ DTEND:20260531T081500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6328903
 DTSTART:20260531T060000Z
 SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:1f420ea8-5854-4706-8399-690a5e91aca4@1f42.org
+UID:8b8cdcc0-a365-44a1-9c5c-de2a15b73426@8b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
+DTEND:20260418T081500Z
+DTSTART:20260418T060000Z
+SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
+UID:d4c85592-5981-45ee-9280-1dbf43bdf978@d4c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:660afbc5-5ee7-4e00-b455-58a96c3e8e67@660a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
@@ -37,307 +37,29 @@ DTEND:20260516T160000Z
 LOCATION:Paw.F 104
 DTSTART:20260516T134500Z
 SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
-UID:88ab50d6-b1c6-46b9-b049-39bc4b4a7263@88ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260515T184500Z
-LOCATION:Platforma Moodle
-DTSTART:20260515T163000Z
-SUMMARY:Makroekonomia (wykład e-learningowy)
-UID:8999d649-8b97-4ce1-a7e5-32438cb01836@8999.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Mariya Kozachenko
-DTEND:20260614T081500Z
-LOCATION:Paw.F 106
-DTSTART:20260614T060000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:71cb43cb-3cd3-4d93-b22c-ddf26dd1909f@71cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260301T091500Z
-DTSTART:20260301T070000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:26790abe-e6d9-45c4-828d-852cc06ace8f@2679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20260516T081500Z
-DTSTART:20260516T060000Z
-SUMMARY:Statystyka (ćwiczenia zdalne)
-UID:a62fd71f-a375-443e-8e55-bbe6f2bbc3d6@a62f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Drzewiej
-DTEND:20260606T081500Z
-LOCATION:Paw.U sala P (KatRozOrg)
-DTSTART:20260606T060000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
-UID:579102c1-1c5e-46fc-b091-fecc8ec80b68@5791.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik  dr Paweł Prysak
-DTEND:20260620T091500Z
-LOCATION:Paw.F 106\, Paw.F 107
-DTSTART:20260620T074500Z
-SUMMARY:Matematyka finansowa (zaliczenie)
-UID:f7793019-1b58-4a5a-a19b-0a438feea085@f779.org
+UID:a92f327c-a84f-4fdd-bebd-527c1f723f61@a92f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Halina Smutek
 DTEND:20260329T081500Z
 DTSTART:20260329T060000Z
 SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:9213b25e-bdff-4f7d-bae0-d6b6306e0b9b@9213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
-DTEND:20260418T081500Z
-DTSTART:20260418T060000Z
-SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
-UID:ce9771ea-2603-4148-9698-834f9eeb1181@ce97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
-DTEND:20260606T081500Z
-LOCATION:Bud.gł. 9
-DTSTART:20260606T060000Z
-SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
-UID:673010fe-10f3-41a3-adf5-ab5958041186@6730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Surówka-Pasek
-DTEND:20260419T133000Z
-LOCATION:Paw.F 515
-DTSTART:20260419T111500Z
-SUMMARY:Podstawy prawa (ćwiczenia)
-UID:0d3c6be0-8595-4b90-830c-da11e3dbae6c@0d3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20260529T160000Z
-LOCATION:Bud.gł. 3
-DTSTART:20260529T134500Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:dd47c419-39e1-4793-a8d7-bba5b7da42ab@dd47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260301T091500Z
-DTSTART:20260301T070000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:57e83c02-8098-45d1-b91a-fece98ce4c3c@57e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20260327T194500Z
-DTSTART:20260327T173000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
-UID:066b1af5-00cf-4fae-802b-a6d4077528e1@066b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
-DTEND:20260327T194500Z
-DTSTART:20260327T173000Z
-SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
-UID:89434c07-3351-4136-8039-cc6a766389b5@8943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260329T104500Z
-DTSTART:20260329T083000Z
-SUMMARY:Podstawy prawa (wykład)
-UID:593540d1-47cc-4af7-9797-efa59cd80b72@5935.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Mariya Kozachenko
-DTEND:20260607T081500Z
-DTSTART:20260607T060000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
-UID:744885fd-e1fe-4f48-97ad-c2502c0420d4@7448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260322T143000Z
-DTSTART:20260322T121500Z
-SUMMARY:Podstawy prawa (wykład)
-UID:8ad1093e-098c-4d80-9958-4380294e444f@8ad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260301T170000Z
-DTSTART:20260301T144500Z
-SUMMARY:Statystyka (wykład)
-UID:9e734946-c29c-4762-a9a7-815d9a84533f@9e73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20260328T114500Z
-LOCATION:Paw.F 614
-DTSTART:20260328T093000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:5dc9c152-54c6-4f03-90ca-b6facc18d44d@5dc9.org
+UID:3bb5c828-1849-4e07-8076-9e4180b2b88e@3bb5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260419T104500Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260419T083000Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:b2ef800a-5314-4b6b-bb33-cc5cb145f7da@b2ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260517T133000Z
-DTSTART:20260517T111500Z
-SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
-UID:2f8996c6-ae90-42df-a1e8-0434f7b41ca6@2f89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260607T081500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260607T060000Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:9e452999-31d7-479b-aa5c-6335032f6ce5@9e45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260517T081500Z
-DTSTART:20260517T060000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:3b4b6b22-499e-47c4-b08e-0baa11f66267@3b4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Mariya Kozachenko
-DTEND:20260314T114500Z
-LOCATION:Paw.B 054 (KSB)
-DTSTART:20260314T093000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:a220973b-a90b-4af1-a080-704014b9b984@a220.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
-DTEND:20260315T114500Z
-LOCATION:Bud.gł. 9
-DTSTART:20260315T093000Z
-SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
-UID:ce5eb4f3-876b-426f-8fd7-6fa9b7b08d1f@ce5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260322T091500Z
-DTSTART:20260322T070000Z
-SUMMARY:Statystyka (wykład)
-UID:e679076a-7406-4456-87f0-7255f734abd5@e679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260531T184500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6789972
-DTSTART:20260531T163000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:c5c5e558-72c2-4bd6-8782-5fd2f4ed93ab@c5c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20260419T081500Z
-LOCATION:Paw.F 416
-DTSTART:20260419T060000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:6c3b9851-28d0-4c44-aa00-3ca280bdcaf0@6c3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260313T194500Z
-DTSTART:20260313T173000Z
-SUMMARY:Podstawy prawa (wykład)
-UID:a501d430-67bd-4741-975a-5ad019b591de@a501.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260227T194500Z
-DTSTART:20260227T173000Z
-SUMMARY:Makroekonomia (wykład)
-UID:245e5553-377b-41d8-96c6-c42945d29487@245e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260509T133000Z
-DTSTART:20260509T111500Z
-SUMMARY:Statystyka (wykład)
-UID:03d38aee-1b06-4f52-ba65-63ceb928e502@03d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20260424T184500Z
-DTSTART:20260424T163000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
-UID:101ee523-d707-42e3-b1a9-87d4fbe7d0b1@101e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260301T114500Z
-DTSTART:20260301T093000Z
-SUMMARY:Makroekonomia (wykład)
-UID:d4d45552-0305-40de-a886-8f4219794ae1@d4d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
-DTEND:20260627T120000Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260627T060000Z
-SUMMARY:Narzędzia analizy danych finansowych (egzamin)
-UID:946479c6-23b1-41c7-9896-9400a7c84edd@9464.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20260607T104500Z
-LOCATION:Paw.F 104
-DTSTART:20260607T083000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:e854b4f8-1e80-4fb0-a4a4-e5fba79e5c97@e854.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Mariya Kozachenko
 DTEND:20260426T133000Z
-LOCATION:Bud.gł. 8
+LOCATION:309  paw. U (tylko KatHZ)
 DTSTART:20260426T111500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:8eb1baa6-8def-4231-ad50-1a7e866cbf44@8eb1.org
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:a5a57ef5-886a-4bf7-89dd-73e1cdd396a6@a5a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260531T104500Z
-LOCATION:https://services.uek.krakow.pl/schedule/class/6331395
-DTSTART:20260531T083000Z
+DTEND:20260515T160000Z
+DTSTART:20260515T134500Z
 SUMMARY:Podstawy prawa (wykład)
-UID:0a787664-edba-4823-bdf5-0fdbd80088aa@0a78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260320T170000Z
-LOCATION:Paw.B 251
-DTSTART:20260320T144500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:b5066d7a-0e6a-4d73-9d5e-81aa54fbeb31@b506.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Artur Lipieta
-DTEND:20260627T173000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21\, Paw.A 09 lab. Win8.1\, Office21\, Paw.A 116 lab.Win8.1\, Office21\, Paw.A 121 lab. Win10\, Office21
-DTSTART:20260627T134500Z
-SUMMARY:Statystyka (egzamin)
-UID:eddb1b9c-4df9-4ab3-a9af-1253dd432dea@eddb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260613T161500Z
-DTSTART:20260613T153000Z
-SUMMARY:Matematyka finansowa (Przeniesienie zajęć)
-UID:219a32ea-734c-45ff-95b6-b3704d77a2b4@219a.org
+UID:ffdeaad2-dad3-48f2-96ff-2c0ff4810f2f@ffde.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Halina Smutek
@@ -345,204 +67,7 @@ DTEND:20260531T081500Z
 LOCATION:https://services.uek.krakow.pl/schedule/class/6331355
 DTSTART:20260531T060000Z
 SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:48a277c7-5f82-4deb-b6a8-f6b22c737dbe@48a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260426T133000Z
-LOCATION:309  paw. U (tylko KatHZ)
-DTSTART:20260426T111500Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:7171eee3-89f9-4d57-b3d4-ff8f5fc1ac70@7171.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260517T133000Z
-DTSTART:20260517T111500Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:3a9911de-115c-45ee-bdcb-7127cf6ab0fb@3a99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260426T081500Z
-LOCATION:Paw.S sala 5
-DTSTART:20260426T060000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:d48f3da2-caa9-47c4-8ede-1643c4bc695d@d48f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
-DTEND:20260227T170000Z
-DTSTART:20260227T144500Z
-SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
-UID:2dd86330-b65d-4ceb-92e5-e252af0cc69d@2dd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260424T160000Z
-DTSTART:20260424T134500Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:5ae620c1-173e-4665-b682-0206dc8872fa@5ae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20260619T160000Z
-LOCATION:Paw.S sala 2
-DTSTART:20260619T134500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (egzamin)
-UID:9fe5f574-d6d9-4352-88cb-9dc8db29bf14@9fe5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:c322c542-899c-4ae8-b131-3c0cb30bd41e@c322.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20260509T160000Z
-DTSTART:20260509T134500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
-UID:776c173a-eaca-4a1d-8fe1-7c6c9bb05dd0@776c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260329T081500Z
-DTSTART:20260329T060000Z
-SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
-UID:1b79d0a4-cd55-41dd-bed9-b9a3b8926007@1b79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Drzewiej
-DTEND:20260315T114500Z
-LOCATION:Bud.gł. 6
-DTSTART:20260315T093000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
-UID:cbee4bbe-2d8b-4576-a7ce-81fc8b7a9fb8@cbee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260620T073000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260620T060000Z
-SUMMARY:Makroekonometria (egzamin)
-UID:97e5f8a4-8bea-4db5-9a1c-1b04384ae675@97e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260509T104500Z
-LOCATION:Platforma Moodle
-DTSTART:20260509T083000Z
-SUMMARY:Makroekonomia (wykład e-learningowy)
-UID:68d2d21b-3322-47ad-b9e1-b14138a5504d@68d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260321T114500Z
-LOCATION:Paw.F 109
-DTSTART:20260321T093000Z
-SUMMARY:Makroekonomia (ćwiczenia)
-UID:624eaae4-fb80-4061-ad6c-eb36308f2f92@624e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260313T170000Z
-DTSTART:20260313T144500Z
-SUMMARY:Makroekonomia (wykład)
-UID:fa570a16-e14d-46e5-8113-0d0a64be161e@fa57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260314T114500Z
-LOCATION:Paw.A 201 lab. Win10\, Office21
-DTSTART:20260314T093000Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:8de9abdb-8ae1-4118-ad1f-7e8b56bf7867@8de9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Mariya Kozachenko
-DTEND:20260419T104500Z
-LOCATION:Paw.B 059 (KSB)
-DTSTART:20260419T083000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:2f40b210-4bcd-44ca-8342-9df6f50e8c32@2f40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260606T104500Z
-LOCATION:Paw.F 104
-DTSTART:20260606T083000Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:147c6087-aace-4b05-9e01-878b26ab0329@147c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Mariya Kozachenko
-DTEND:20260530T184500Z
-LOCATION:Paw.A 014 lab. Win8.1 Office21
-DTSTART:20260530T163000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:c29fe545-53f5-4565-a84d-0e85bd23c296@c29f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260424T160000Z
-DTSTART:20260424T134500Z
-SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
-UID:f576fc8b-2a8d-4176-ac07-a17dda14e816@f576.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20260227T170000Z
-DTSTART:20260227T144500Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
-UID:a06e7298-b06c-4a0a-b15f-7e97ee39d6c3@a06e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Agnieszka Drzewiej
-DTEND:20260418T081500Z
-LOCATION:Paw.F 109
-DTSTART:20260418T060000Z
-SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
-UID:dbd31674-404c-4700-95d3-66099e918649@dbd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260612T170000Z
-LOCATION:Platforma Moodle
-DTSTART:20260612T153000Z
-SUMMARY:Matematyka finansowa (Ćwiczenia e-learningowe)
-UID:1939f39e-dd77-4b66-9375-75adb4619a72@1939.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260510T081500Z
-LOCATION:Platforma Moodle
-DTSTART:20260510T064500Z
-SUMMARY:Matematyka finansowa (Ćwiczenia e-learningowe)
-UID:cac1bdc5-dca5-43e4-b7eb-1e16befa1df8@cac1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
-DTEND:20260424T184500Z
-DTSTART:20260424T163000Z
-SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
-UID:eb8979f0-fcc1-46fe-8be3-0ab6f44fb7b8@eb89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:0b17add6-747b-42af-8247-08e45865ae7f@0b17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Surówka-Pasek
-DTEND:20260320T194500Z
-LOCATION:Paw.F 516
-DTSTART:20260320T173000Z
-SUMMARY:Podstawy prawa (ćwiczenia)
-UID:3a917e24-5a06-4b9c-9137-d971d9f94443@3a91.org
+UID:fed2825d-985c-4582-a883-3220855df445@fed2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
@@ -550,103 +75,44 @@ DTEND:20260613T104500Z
 LOCATION:309  paw. U (tylko KatHZ)
 DTSTART:20260613T083000Z
 SUMMARY:Makroekonomia (ćwiczenia)
-UID:4aa09989-1a2b-4d10-8963-71d907c96830@4aa0.org
+UID:bddd53d2-41d4-45fc-991a-6b58127b2748@bddd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Surówka-Pasek
-DTEND:20260510T104500Z
-LOCATION:Bibl. 441
-DTSTART:20260510T083000Z
-SUMMARY:Podstawy prawa (ćwiczenia)
-UID:df3b9d55-e883-4526-bd95-a98c8dbe06f7@df3b.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260531T133000Z
+DTSTART:20260531T111500Z
+SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
+UID:b780815a-f610-4197-9c78-8262a640e836@b780.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Oleksij Kelebaj
-DTEND:20260426T104500Z
-LOCATION:Paw.U sala N
-DTSTART:20260426T083000Z
-SUMMARY:Statystyka (ćwiczenia)
-UID:0ece7fe5-d160-41c5-a811-7d7316448806@0ece.org
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:53e82a00-5a14-44d9-befc-c9e02af326f0@53e8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Halina Smutek
-DTEND:20260322T114500Z
-DTSTART:20260322T093000Z
-SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
-UID:a1447012-815c-4cfa-ad38-cdbbdb0dae5f@a144.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260530T160000Z
-LOCATION:Paw.F 107
-DTSTART:20260530T134500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:88eaeb2e-daa8-4822-87a8-7fc87298fcad@88ea.org
+DESCRIPTION:Instructor: mgr Agnieszka Drzewiej
+DTEND:20260418T081500Z
+LOCATION:Paw.F 109
+DTSTART:20260418T060000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
+UID:64c30d9b-5322-48f1-9e55-1d8ba6634113@64c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
-DTEND:20260327T161500Z
-DTSTART:20260327T144500Z
-SUMMARY:Makroekonomia (wykład)
-UID:503a5b85-8e57-436c-b545-f0574a0301ee@503a.org
+DTEND:20260425T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20260425T083000Z
+SUMMARY:Makroekonomia (Ćwiczenia e-learningowe)
+UID:683475e0-3fda-4c22-8a02-c6612d298d38@6834.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260515T160000Z
-DTSTART:20260515T134500Z
-SUMMARY:Podstawy prawa (wykład)
-UID:4b3aeeea-3a58-44f9-b50e-2614e4942475@4b3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260510T064500Z
-DTSTART:20260510T060000Z
-SUMMARY:Matematyka finansowa (Przeniesienie zajęć)
-UID:2d70cdf0-6f1b-451a-a461-797a25dce43e@2d70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Radosław Ślusarczyk
-DTEND:20260530T184500Z
-LOCATION:Paw.A 013 lab. Win10\, Office21
-DTSTART:20260530T163000Z
-SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:24b75c07-34e4-49df-9def-36f6af9a9670@24b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Paweł Prysak
-DTEND:20260613T151500Z
-LOCATION:Paw.F 106
-DTSTART:20260613T134500Z
-SUMMARY:Matematyka finansowa (ćwiczenia)
-UID:31b8c938-c4b5-4975-81c7-7563fa73b5c0@31b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
-DTEND:20260301T143000Z
-DTSTART:20260301T121500Z
-SUMMARY:Podstawy prawa (wykład)
-UID:e230b352-e511-4e16-beb4-3d2794527d03@e230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
-DTEND:20260517T104500Z
-DTSTART:20260517T083000Z
-SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
-UID:74d8e565-17c1-4016-ad90-b5e86c255d35@74d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260426T184500Z
-DTSTART:20260426T163000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:5f5be265-2415-4a84-aec9-0d45187ab028@5f5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
-DTEND:20260322T114500Z
-DTSTART:20260322T093000Z
-SUMMARY:Państwo a gospodarka (wykład do wyboru)
-UID:4d0e3671-6a59-4a74-b3b9-46fb7da21f19@4d0e.org
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260322T091500Z
+DTSTART:20260322T070000Z
+SUMMARY:Statystyka (wykład)
+UID:79f27a33-df01-4f28-8b82-527977d2f6bd@79f2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Radosław Ślusarczyk
@@ -654,7 +120,275 @@ DTEND:20260328T091500Z
 LOCATION:Paw.A 201 lab. Win10\, Office21
 DTSTART:20260328T070000Z
 SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
-UID:90edbf5c-a7eb-49b7-90db-a5db1158e9da@90ed.org
+UID:076ed8f0-6262-4144-86e8-0e450d31e89b@076e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260322T114500Z
+DTSTART:20260322T093000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:95257791-f4eb-48dd-9450-2c8ef85b3b1b@9525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260531T104500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6331395
+DTSTART:20260531T083000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:249cbd4f-3333-47bf-9f94-f411ba37606e@249c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260322T114500Z
+DTSTART:20260322T093000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:94f7e5a2-db6b-4d0a-ac1c-d0eed7b60ccf@94f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Mariya Kozachenko
+DTEND:20260614T081500Z
+LOCATION:Paw.F 106
+DTSTART:20260614T060000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:3a6897d0-66b3-4372-b2eb-2483936e1e75@3a68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20260419T081500Z
+LOCATION:Paw.F 416
+DTSTART:20260419T060000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:48b756a7-14d3-43cd-9aa5-ed79e605c438@48b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260607T081500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260607T060000Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:a12dc32e-4f53-4195-9ef6-b80d3da8a3e7@a12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
+DTEND:20260315T114500Z
+LOCATION:Bud.gł. 9
+DTSTART:20260315T093000Z
+SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
+UID:9e932b74-901e-4fcf-b9ed-94771842c6b8@9e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260509T133000Z
+DTSTART:20260509T111500Z
+SUMMARY:Statystyka (wykład)
+UID:a24963ca-74dc-4fdd-bc51-982f49e6563e@a249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
+DTEND:20260627T120000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260627T060000Z
+SUMMARY:Narzędzia analizy danych finansowych (egzamin)
+UID:727b9061-f081-4f83-9cc3-87a2833d68f9@727b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20260327T194500Z
+DTSTART:20260327T173000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
+UID:b9ed0296-e6a7-4f6e-bd3e-f5cb02e3e4f7@b9ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Lipieta
+DTEND:20260301T170000Z
+DTSTART:20260301T144500Z
+SUMMARY:Statystyka (wykład)
+UID:c71a74d1-3b24-4927-85c2-4f83f453f9fb@c71a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Owsiak
+DTEND:20260606T081500Z
+LOCATION:Bud.gł. 9
+DTSTART:20260606T060000Z
+SUMMARY:Państwo a gospodarka (ćwiczenia do wyboru)
+UID:5c5e54f1-c352-4afb-a80e-cb7417d2763c@5c5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260329T104500Z
+DTSTART:20260329T083000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:e81e016a-46e6-4dcc-8f19-aaa784be6df9@e81e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260313T170000Z
+DTSTART:20260313T144500Z
+SUMMARY:Makroekonomia (wykład)
+UID:8885508c-808a-4afb-bec7-f3d9ba4057ca@8885.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260301T091500Z
+DTSTART:20260301T070000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:d921d94f-e5c7-412c-89b4-240f84253698@d921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Mariya Kozachenko
+DTEND:20260314T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20260314T093000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:dc3a7f44-e30e-4e8a-bb69-eee59051145d@dc3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20260516T081500Z
+DTSTART:20260516T060000Z
+SUMMARY:Statystyka (ćwiczenia zdalne)
+UID:8b738b64-71eb-448e-9168-f25a8b5f43c0@8b73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260424T160000Z
+DTSTART:20260424T134500Z
+SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
+UID:0b5e82cf-856f-498f-806e-82a5669c8a75@0b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260301T143000Z
+DTSTART:20260301T121500Z
+SUMMARY:Podstawy prawa (wykład)
+UID:7e01ef6f-7816-426f-b4c8-eda4471d8206@7e01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260613T151500Z
+LOCATION:Paw.F 106
+DTSTART:20260613T134500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:fd718301-645e-48dd-ac39-5b6df9dd5925@fd71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260620T073000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260620T060000Z
+SUMMARY:Makroekonometria (egzamin)
+UID:3952fee4-7b08-4c79-8cb4-dab15f09e596@3952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20260517T104500Z
+DTSTART:20260517T083000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
+UID:975d7d01-dd14-4afc-b8d7-a4039bb82cc0@975d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
+DTEND:20260227T170000Z
+DTSTART:20260227T144500Z
+SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
+UID:26077c22-1e64-43b9-8fb5-5524a8135019@2607.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260301T091500Z
+DTSTART:20260301T070000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:8e80e090-5420-4095-8325-4f14ae4daf19@8e80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20260424T184500Z
+DTSTART:20260424T163000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
+UID:fcff15cd-aa4a-43d2-9838-9e97d04d0afa@fcff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260509T104500Z
+LOCATION:Platforma Moodle
+DTSTART:20260509T083000Z
+SUMMARY:Makroekonomia (wykład e-learningowy)
+UID:52c15259-c033-4186-a6a3-f9a36e8bcf76@52c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260613T161500Z
+DTSTART:20260613T153000Z
+SUMMARY:Matematyka finansowa (Przeniesienie zajęć)
+UID:daacd288-c5f8-435e-af12-0d95491cd8b7@daac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20260509T160000Z
+DTSTART:20260509T134500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
+UID:b5997018-03bd-4a34-b46f-fd1e8c14dc7f@b599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260426T184500Z
+DTSTART:20260426T163000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:5ab7905d-38b0-4857-94f4-07a44e131715@5ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260606T104500Z
+LOCATION:Paw.F 104
+DTSTART:20260606T083000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:96256d21-e31d-4355-add8-2c36edf29555@9625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Mariya Kozachenko
+DTEND:20260426T133000Z
+LOCATION:Bud.gł. 8
+DTSTART:20260426T111500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:0a08a961-6a86-4147-984c-7efa563ad13a@0a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20260619T160000Z
+LOCATION:Paw.S sala 2
+DTSTART:20260619T134500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (egzamin)
+UID:a8e52e2f-3c76-49a5-85c9-a530c6d7dadd@a8e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260320T170000Z
+LOCATION:Paw.B 251
+DTSTART:20260320T144500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:053227c0-e273-4d5c-a480-11d44286dc73@0532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Surówka-Pasek
+DTEND:20260320T194500Z
+LOCATION:Paw.F 516
+DTSTART:20260320T173000Z
+SUMMARY:Podstawy prawa (ćwiczenia)
+UID:2d016af2-e8a8-4194-8eea-9479c4243d98@2d01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260517T081500Z
+DTSTART:20260517T060000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:ce952235-1a6e-4667-982d-e9804c7e05e8@ce95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
+DTEND:20260424T184500Z
+DTSTART:20260424T163000Z
+SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
+UID:7fdf7769-c899-4d69-a343-dfbb80741409@7fdf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
@@ -662,7 +396,7 @@ DTEND:20260327T171500Z
 LOCATION:Platforma Moodle
 DTSTART:20260327T163000Z
 SUMMARY:Makroekonomia (wykład e-learningowy)
-UID:c2b98c6d-9868-4121-84de-843df1bc18b4@c2b9.org
+UID:2e854370-89de-4cda-a42a-4af93aaf7503@2e85.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Mariya Kozachenko
@@ -670,6 +404,272 @@ DTEND:20260328T091500Z
 LOCATION:Bud.gł. 6
 DTSTART:20260328T070000Z
 SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
-UID:2f40c01b-2e26-4903-a57a-429f99f2f1bb@2f40.org
+UID:18994f38-9b9b-49a1-b05a-a7dbf826274f@1899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20260328T114500Z
+LOCATION:Paw.F 614
+DTSTART:20260328T093000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:edf0d114-77b9-466d-a257-b6fe3d705e82@edf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Surówka-Pasek
+DTEND:20260419T133000Z
+LOCATION:Paw.F 515
+DTSTART:20260419T111500Z
+SUMMARY:Podstawy prawa (ćwiczenia)
+UID:000ceced-b824-4990-8010-f15c4242a0a2@000c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260301T114500Z
+DTSTART:20260301T093000Z
+SUMMARY:Makroekonomia (wykład)
+UID:acb1a264-4dd9-4088-b084-d5452b28137c@acb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260517T133000Z
+DTSTART:20260517T111500Z
+SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
+UID:3deaa9fb-2c1c-48c3-8bd1-cabccaa2ff7f@3dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260313T194500Z
+DTSTART:20260313T173000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:8ef43250-8f77-42b9-a29c-b85df6660f71@8ef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260424T160000Z
+DTSTART:20260424T134500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:0c1d0eaf-32f9-46b0-9949-69b24830030b@0c1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260510T081500Z
+LOCATION:Platforma Moodle
+DTSTART:20260510T064500Z
+SUMMARY:Matematyka finansowa (Ćwiczenia e-learningowe)
+UID:7a46332f-8b8c-4013-b19a-3e7ad098ded3@7a46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260327T161500Z
+DTSTART:20260327T144500Z
+SUMMARY:Makroekonomia (wykład)
+UID:9d992e72-f5a6-418c-8ede-f9bb2bd5fed5@9d99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20260607T104500Z
+LOCATION:Paw.F 104
+DTSTART:20260607T083000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:235cf25e-562e-46ba-811a-776b27f77b59@235c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Mikołajczyk
+DTEND:20260327T194500Z
+DTSTART:20260327T173000Z
+SUMMARY:Narzędzia analizy danych finansowych (wykład do wyboru)
+UID:c21fe459-f2d5-4003-89bf-a7c24b88ab50@c21f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Drzewiej
+DTEND:20260606T081500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20260606T060000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
+UID:8ee50004-2634-4b61-b655-8de617720cd4@8ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260227T194500Z
+DTSTART:20260227T173000Z
+SUMMARY:Makroekonomia (wykład)
+UID:b57ddf41-877f-4911-b862-46d0fa1d795e@b57d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Krzysztof Guzik  dr Paweł Prysak
+DTEND:20260620T091500Z
+LOCATION:Paw.F 106\, Paw.F 107
+DTSTART:20260620T074500Z
+SUMMARY:Matematyka finansowa (zaliczenie)
+UID:d9777992-7496-4e7a-99e7-359941e38af3@d977.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20260517T133000Z
+DTSTART:20260517T111500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład do wyboru)
+UID:4bdfe56c-d922-4cf2-a912-0631b31afbf3@4bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Mariya Kozachenko
+DTEND:20260607T081500Z
+DTSTART:20260607T060000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (Przeniesienie zajęć)
+UID:66667e02-05c4-42d6-8856-0ba42c879903@6666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260419T104500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260419T083000Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:20f7717e-b269-401b-9db5-8a7dd54c7909@20f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260329T081500Z
+DTSTART:20260329T060000Z
+SUMMARY:Państwo a gospodarka (Przeniesienie zajęć)
+UID:7901f69c-b2dc-4c82-a58a-aa6531a08c20@7901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20260227T170000Z
+DTSTART:20260227T144500Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (wykład do wyboru)
+UID:d3ee2673-de06-4155-8a3d-aa2d888114db@d3ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260510T064500Z
+DTSTART:20260510T060000Z
+SUMMARY:Matematyka finansowa (Przeniesienie zajęć)
+UID:04862ff1-9160-4b6e-9751-7f9420fbf95d@0486.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260515T184500Z
+LOCATION:Platforma Moodle
+DTSTART:20260515T163000Z
+SUMMARY:Makroekonomia (wykład e-learningowy)
+UID:7655f982-b9c5-4c2d-8d1d-d90166b194c1@7655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260530T160000Z
+LOCATION:Paw.F 107
+DTSTART:20260530T134500Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:5b490d02-26bb-4bdb-b594-5cc615ac5bce@5b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260314T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20260314T093000Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:ee9700aa-0ae7-43ba-905e-e4da9d2a57b0@ee97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:cc5e4427-2899-49a0-911a-2458529d86ca@cc5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20260322T143000Z
+DTSTART:20260322T121500Z
+SUMMARY:Podstawy prawa (wykład)
+UID:07e24391-2ec3-41e8-a6f1-3023e5430236@07e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260426T081500Z
+LOCATION:Paw.S sala 5
+DTSTART:20260426T060000Z
+SUMMARY:Matematyka finansowa (ćwiczenia)
+UID:50b7513f-7723-43f1-945b-451903c7e7b6@50b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominika Choroś-Mrozowska
+DTEND:20260321T114500Z
+LOCATION:Paw.F 109
+DTSTART:20260321T093000Z
+SUMMARY:Makroekonomia (ćwiczenia)
+UID:b3930098-f07c-4009-8224-557fe3be0c77@b393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Mariya Kozachenko
+DTEND:20260530T184500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20260530T163000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:c8c65e2b-b47a-4c0f-a453-eb0cc43c6d9e@c8c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Surówka-Pasek
+DTEND:20260510T104500Z
+LOCATION:Bibl. 441
+DTSTART:20260510T083000Z
+SUMMARY:Podstawy prawa (ćwiczenia)
+UID:0da35d6f-92c0-455a-9ff4-ae4669526915@0da3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Drzewiej
+DTEND:20260315T114500Z
+LOCATION:Bud.gł. 6
+DTSTART:20260315T093000Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia do wyboru)
+UID:099bd966-9d5a-4871-83d9-1f1a12fc21f2@099b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20260426T104500Z
+LOCATION:Paw.U sala N
+DTSTART:20260426T083000Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:bc364fda-e2f8-4da9-a973-43aa60eececb@bc36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Prysak
+DTEND:20260612T170000Z
+LOCATION:Platforma Moodle
+DTSTART:20260612T153000Z
+SUMMARY:Matematyka finansowa (Ćwiczenia e-learningowe)
+UID:c7cf4135-8bac-48c2-a5cd-bf4d689d814c@c7cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oleksij Kelebaj
+DTEND:20260529T160000Z
+LOCATION:Bud.gł. 3
+DTSTART:20260529T134500Z
+SUMMARY:Statystyka (ćwiczenia)
+UID:c612da94-a944-44cd-98e0-043dadd06afb@c612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Radosław Ślusarczyk
+DTEND:20260530T184500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20260530T163000Z
+SUMMARY:Narzędzia analizy danych finansowych (ćwiczenia do wyboru)
+UID:c42e4f52-8b7a-4d97-bc9a-b71f3a624f61@c42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Popławski
+DTEND:20260531T184500Z
+LOCATION:https://services.uek.krakow.pl/schedule/class/6789972
+DTSTART:20260531T163000Z
+SUMMARY:Państwo a gospodarka (wykład do wyboru)
+UID:4a826ce4-daaf-4796-a3da-3e038c5c843b@4a82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Mariya Kozachenko
+DTEND:20260419T104500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20260419T083000Z
+SUMMARY:Metody behawioralne i eksperymentalne w finansach (ćwiczenia do wyboru)
+UID:913b26e1-5185-44fe-87d6-328b819983bf@913b.org
 END:VEVENT
 END:VCALENDAR
