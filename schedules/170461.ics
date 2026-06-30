@@ -2,40 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Franczak
-DTEND:20260320T170000Z
-DTSTART:20260320T144500Z
-SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
-UID:1b64eb84-68c1-4deb-b44f-e93173b74da6@1b64.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
 DTEND:20260412T104500Z
 DTSTART:20260412T083000Z
 SUMMARY:Finanse publiczne II (Przeniesienie zajęć)
-UID:d9095874-534a-4d04-9036-0903ab2261a1@d909.org
+UID:9ab00c1f-efe6-4835-a302-a443ee47d56e@9ab0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260412T161500Z
-DTSTART:20260412T144500Z
-SUMMARY:Międzynarodowe i unijne prawo daninowe (wykład)
-UID:e1642239-dd9a-4416-bc9c-1c4219d427ee@e164.org
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20260424T184500Z
+DTSTART:20260424T163000Z
+SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (wykład)
+UID:73474f4f-f93e-4a1f-92e1-12c6650a6d78@7347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260517T141500Z
+DTSTART:20260517T120000Z
+SUMMARY:Ordynacja podatkowa (wykład)
+UID:49a98f6c-e42c-4be1-bcbf-414378f3a520@49a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20260314T114500Z
+DTSTART:20260314T093000Z
+SUMMARY:Pomoc publiczna (wykład)
+UID:28d5b134-9768-4e51-82e0-889fc13affbc@28d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
 DTEND:20260301T124500Z
 DTSTART:20260301T103000Z
 SUMMARY:Finanse publiczne II (wykład)
-UID:f7ac479f-5947-4827-a48b-f45f0682ee99@f7ac.org
+UID:c228ab4a-a79a-4888-93b4-48538e3db9db@c228.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
-DTEND:20260530T081500Z
-LOCATION:Paw.F 715
-DTSTART:20260530T060000Z
-SUMMARY:Zarządzanie finansami banków i instytucji kredytowych (konwersatorium)
-UID:a6892f88-b492-4051-a65d-b8d26c54966c@a689.org
+DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
+DTEND:20260322T091500Z
+DTSTART:20260322T070000Z
+SUMMARY:Finanse publiczne II (wykład)
+UID:7b975db8-e75a-4ddc-b499-73ed52035831@7b97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Franczak
+DTEND:20260515T160000Z
+DTSTART:20260515T134500Z
+SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
+UID:21b141bc-df91-4c23-9ab5-2058f4a8f751@21b1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
@@ -43,22 +56,14 @@ DTEND:20260613T081500Z
 LOCATION:Paw.F CJ 012
 DTSTART:20260613T060000Z
 SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
-UID:7eeda28b-8824-43e3-8c10-6ca399f47baa@7eed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
-DTEND:20260315T151500Z
-DTSTART:20260315T130000Z
-SUMMARY:Finanse publiczne II (wykład)
-UID:6991eb04-7929-4e41-9e81-fdbe3d0e5a45@6991.org
+UID:b6abf43a-4355-454c-9982-ea69ac62accd@b6ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20260411T081500Z
-LOCATION:Paw.F 415
-DTSTART:20260411T060000Z
-SUMMARY:Wycena wartości przedsiębiorstw (ćwiczenia)
-UID:dd250a31-a414-4812-b501-1216d92589a6@dd25.org
+DTEND:20260315T100000Z
+DTSTART:20260315T074500Z
+SUMMARY:Wycena wartości przedsiębiorstw (wykład)
+UID:d38c44d8-027e-4c95-b9d8-c1d22c8e0d2e@d38c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
@@ -66,125 +71,35 @@ DTEND:20260606T114500Z
 LOCATION:Paw.C  Nowa Aula
 DTSTART:20260606T093000Z
 SUMMARY:Zarządzanie finansami banków i instytucji kredytowych (egzamin)
-UID:5ea3e588-d0f3-4aac-b1fa-94e10146ff71@5ea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20260531T131500Z
-LOCATION:Paw.S sala 7
-DTSTART:20260531T101500Z
-SUMMARY:Pomoc publiczna (egzamin)
-UID:e2d66d06-07b4-45de-b8e1-fee435f0fb86@e2d6.org
+UID:7715beaf-a6f3-4452-87f9-c256c217f968@7715.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
 DTEND:20260228T143000Z
 DTSTART:20260228T121500Z
 SUMMARY:Wycena wartości przedsiębiorstw (wykład)
-UID:1165115c-939e-4afc-9a05-f62c16a00940@1165.org
+UID:c394b8b1-daf5-482f-8c83-c765113557a8@c394.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20260314T114500Z
-DTSTART:20260314T093000Z
-SUMMARY:Pomoc publiczna (wykład)
-UID:4790324e-9617-4aa2-a78e-70c28188d3ef@4790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20260426T090000Z
-DTSTART:20260426T064500Z
-SUMMARY:Pomoc publiczna (wykład)
-UID:25b5cac1-9b5a-470b-a703-c5b352697e79@25b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Franczak
-DTEND:20260515T160000Z
-DTSTART:20260515T134500Z
-SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
-UID:272de0e4-90d5-4cc5-a9b7-db88a967c378@272d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Franczak
-DTEND:20260410T160000Z
-DTSTART:20260410T134500Z
-SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
-UID:2c399756-3639-400e-9b90-5a844d0eeff0@2c39.org
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260301T100000Z
+DTSTART:20260301T074500Z
+SUMMARY:Międzynarodowe i unijne prawo daninowe (wykład)
+UID:4106e0dd-89b5-4f67-879c-93e573ad0e77@4106.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Franczak
 DTEND:20260517T114500Z
 DTSTART:20260517T093000Z
 SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
-UID:f8b84a39-901a-480f-8f31-0c9047a9643b@f8b8.org
+UID:add60a63-e3cc-47a0-99e2-ee7c73ae0e45@add6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Agnieszka Franczak
-DTEND:20260424T160000Z
-DTSTART:20260424T134500Z
+DTEND:20260228T091500Z
+DTSTART:20260228T070000Z
 SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
-UID:4dce2643-7da8-4430-8d88-41c1c2a27513@4dce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20260412T133000Z
-DTSTART:20260412T111500Z
-SUMMARY:Wycena wartości przedsiębiorstw (wykład)
-UID:6269626d-b09e-4e91-a56f-a121247007c7@6269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:0d65c2b5-f497-4c09-829b-e13cfce42335@0d65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
-DTEND:20260529T184500Z
-DTSTART:20260529T163000Z
-SUMMARY:Finanse publiczne II (Przeniesienie zajęć)
-UID:4ee8e789-a986-497c-b60e-00d7d76ff4e9@4ee8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Franczak
-DTEND:20260531T100000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260531T083000Z
-SUMMARY:Podatki bezpośrednie i pośrednie (egzamin)
-UID:0ade2170-8c5b-470b-b335-28f325be845c@0ade.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
-DTEND:20260418T114500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260418T093000Z
-SUMMARY:Finanse publiczne II (egzamin)
-UID:2bdeb971-9301-4a45-9402-ee41beafd5dd@2bde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20260425T081500Z
-LOCATION:Paw.F 614
-DTSTART:20260425T060000Z
-SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
-UID:0bddb12e-a260-4259-93ca-42f91d0f7744@0bdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20260516T104500Z
-LOCATION:Paw.F 415
-DTSTART:20260516T083000Z
-SUMMARY:Wycena wartości przedsiębiorstw (ćwiczenia)
-UID:4b47d5e2-e9df-4c67-b2dd-c6a95936b1a4@4b47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Franczak
-DTEND:20260619T161500Z
-LOCATION:Paw.C sala C
-DTSTART:20260619T144500Z
-SUMMARY: (egzamin)
-UID:08be9afc-e72c-438f-ac4c-74defb0a0dd6@08be.org
+UID:cf83f73f-f35c-484d-b5b5-77a23f6dc9af@cf83.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Julia Szwiec
@@ -192,133 +107,14 @@ DTEND:20260627T143000Z
 LOCATION:Paw.S sala 9
 DTSTART:20260627T130000Z
 SUMMARY:Ordynacja podatkowa (egzamin)
-UID:3777a0e6-1733-4d90-9d9f-83dc82f19870@3777.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260627T124500Z
-LOCATION:Bibl. 440
-DTSTART:20260627T111500Z
-SUMMARY:Międzynarodowe i unijne prawo podatkowe\, Międzynarodowe i unijne prawo daninowe (egzamin)
-UID:13e10377-0539-4e99-849b-1b10b9e9dd60@13e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20260322T124500Z
-DTSTART:20260322T103000Z
-SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (wykład)
-UID:28eb6195-1904-4ec6-b840-e1b0c0f1c963@28eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260517T133000Z
-DTSTART:20260517T120000Z
-SUMMARY:Międzynarodowe i unijne prawo daninowe (Przeniesienie zajęć)
-UID:546cad12-d66f-484a-8776-90be3af65feb@546c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260517T141500Z
-DTSTART:20260517T120000Z
-SUMMARY:Ordynacja podatkowa (wykład)
-UID:8a40997f-1550-4dcc-86df-92a849c6165b@8a40.org
+UID:6fad7dbe-3df5-4155-858c-94bc9dc28a69@6fad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
 SUMMARY: (rezerwacja)
-UID:2d827a97-ebf9-4a3d-9dc9-15bbd82cb540@2d82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260410T184500Z
-DTSTART:20260410T163000Z
-SUMMARY:Ordynacja podatkowa (Przeniesienie zajęć)
-UID:7f41195f-eee0-4baf-9471-ad38977fed44@7f41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Sołtyk
-DTEND:20260426T114500Z
-DTSTART:20260426T093000Z
-SUMMARY:Audyt Śledczy (wykład do wyboru)
-UID:994b88e5-146c-40de-9e3e-54be20b33951@994b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20260516T133000Z
-LOCATION:Paw.F 614
-DTSTART:20260516T111500Z
-SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
-UID:9cff0aaf-eb23-4a72-aa22-5905fa7de4b3@9cff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20260613T160000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260613T134500Z
-SUMMARY:Zarządzanie finansami jednostek gospodarczych (egzamin)
-UID:5d472e84-863d-44cd-a30c-83779d2233b1@5d47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Joanna Rutkowska
-DTEND:20260411T104500Z
-LOCATION:Paw.F 614
-DTSTART:20260411T083000Z
-SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
-UID:aac45ae9-41c9-45a9-9a71-3bd1b2846ccb@aac4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20260621T091500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260621T074500Z
-SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (egzamin)
-UID:79083bf7-6850-4ec8-8bd2-d1a26745d19d@7908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
-DTEND:20260425T104500Z
-LOCATION:Paw.F 715
-DTSTART:20260425T083000Z
-SUMMARY:Zarządzanie finansami banków i instytucji kredytowych (konwersatorium)
-UID:fbde84cd-a48a-4b2e-b953-b9c1f7848e24@fbde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260322T143000Z
-LOCATION:Platforma Moodle
-DTSTART:20260322T130000Z
-SUMMARY:Międzynarodowe i unijne prawo daninowe (wykład e-learningowy)
-UID:2122def1-03b5-40cc-88e7-19a95b5e26d3@2122.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260227T170000Z
-DTSTART:20260227T144500Z
-SUMMARY:Ordynacja podatkowa (wykład)
-UID:3931216c-0e65-4bc9-8443-f4049c5cad4c@3931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
-DTEND:20260315T100000Z
-DTSTART:20260315T074500Z
-SUMMARY:Wycena wartości przedsiębiorstw (wykład)
-UID:cb469ed6-378e-44ef-9c18-9ce524d7c184@cb46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Agnieszka Franczak
-DTEND:20260228T091500Z
-DTSTART:20260228T070000Z
-SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
-UID:96447b9c-29fe-4e2a-8445-0fe8e414e508@9644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
-DTEND:20260301T100000Z
-DTSTART:20260301T074500Z
-SUMMARY:Międzynarodowe i unijne prawo daninowe (wykład)
-UID:379a1387-a695-4b0c-bdcf-fdd92aabd21f@379a.org
+UID:7763c642-104b-4080-b46b-be34c072e7fb@7763.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
@@ -326,52 +122,68 @@ DTEND:20260613T133000Z
 LOCATION:Paw.F 415
 DTSTART:20260613T111500Z
 SUMMARY:Wycena wartości przedsiębiorstw (ćwiczenia)
-UID:35511e1f-adaa-40b6-a292-e33aebfdcf05@3551.org
+UID:1369023f-8b3e-4745-b7cc-6d0f23859f2b@1369.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
-DTEND:20260321T114500Z
-LOCATION:Paw.F 715
-DTSTART:20260321T093000Z
-SUMMARY:Zarządzanie finansami banków i instytucji kredytowych (konwersatorium)
-UID:1b377a7d-b754-4509-85e8-0a07381d34a2@1b37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Julia Szwiec
-DTEND:20260315T124500Z
-DTSTART:20260315T103000Z
-SUMMARY:Ordynacja podatkowa (wykład)
-UID:0602653d-18d7-4b13-a418-ffaf59c64a32@0602.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
-DTEND:20260621T114500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260621T093000Z
-SUMMARY:Finanse\, Finanse publiczne II (egzamin)
-UID:9424d826-ce4b-4a93-89e2-98ffd759d831@9424.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Sołtyk
-DTEND:20260517T090000Z
-DTSTART:20260517T064500Z
-SUMMARY:Audyt Śledczy (wykład do wyboru)
-UID:418bad9d-700c-49e3-ad1a-b997bdd643c5@418b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20260509T124500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260509T111500Z
-SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (egzamin)
-UID:b9abfbea-6f7d-4d39-a70d-f1334f8de664@b9ab.org
+DESCRIPTION:Instructor: dr Agnieszka Franczak
+DTEND:20260619T161500Z
+LOCATION:Paw.C sala C
+DTSTART:20260619T144500Z
+SUMMARY: (egzamin)
+UID:ede780bf-0c65-4ffb-b59f-31c134fcdec2@ede7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Sołtyk
 DTEND:20260314T143000Z
 DTSTART:20260314T121500Z
 SUMMARY:Audyt Śledczy (wykład do wyboru)
-UID:53b8bbf0-e63d-4a15-9f1c-50fed71933bd@53b8.org
+UID:04808b18-0656-43ea-b686-f9f2be70172b@0480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20260322T124500Z
+DTSTART:20260322T103000Z
+SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (wykład)
+UID:dee9a09c-0c8d-4d43-a29f-76ce1055f690@dee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20260530T081500Z
+LOCATION:Paw.F 715
+DTSTART:20260530T060000Z
+SUMMARY:Zarządzanie finansami banków i instytucji kredytowych (konwersatorium)
+UID:79c003b9-d9ab-4bb9-a022-b79dc14da329@79c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20260621T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260621T074500Z
+SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (egzamin)
+UID:37cd5f7a-6d4a-4cd3-b760-c8e0823adf49@37cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260322T143000Z
+LOCATION:Platforma Moodle
+DTSTART:20260322T130000Z
+SUMMARY:Międzynarodowe i unijne prawo daninowe (wykład e-learningowy)
+UID:964fdaca-0301-4969-9b58-9aaf99d21214@964f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
+DTEND:20260418T114500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260418T093000Z
+SUMMARY:Finanse publiczne II (egzamin)
+UID:328fb501-8024-42e7-9623-576b8a259681@328f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Sołtyk
+DTEND:20260426T114500Z
+DTSTART:20260426T093000Z
+SUMMARY:Audyt Śledczy (wykład do wyboru)
+UID:de6f4927-993c-4cf8-afa2-316579d240e2@de6f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
@@ -379,7 +191,156 @@ DTEND:20260426T133000Z
 LOCATION:Platforma Moodle
 DTSTART:20260426T120000Z
 SUMMARY:Międzynarodowe i unijne prawo daninowe (wykład e-learningowy)
-UID:91c77525-4494-4671-a704-d1c096a7bc49@91c7.org
+UID:8b306d21-f6a3-46db-81de-e60cb220c982@8b30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20260425T081500Z
+LOCATION:Paw.F 614
+DTSTART:20260425T060000Z
+SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
+UID:b8cfea58-400a-4c01-b161-8eead940b1b0@b8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20260411T104500Z
+LOCATION:Paw.F 614
+DTSTART:20260411T083000Z
+SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
+UID:41f1b677-5135-4de0-9c4c-156d62c4859b@41f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
+DTEND:20260529T184500Z
+DTSTART:20260529T163000Z
+SUMMARY:Finanse publiczne II (Przeniesienie zajęć)
+UID:6459b410-6ba8-4ad2-948c-f92f967b69e5@6459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20260516T104500Z
+LOCATION:Paw.F 415
+DTSTART:20260516T083000Z
+SUMMARY:Wycena wartości przedsiębiorstw (ćwiczenia)
+UID:fda9a6e5-8cd5-46d8-bbc3-8d199900e4c2@fda9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20260515T184500Z
+DTSTART:20260515T163000Z
+SUMMARY:Pomoc publiczna (wykład)
+UID:c4184b0b-08d6-4b97-a4ba-50f89e632aa5@c418.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260227T170000Z
+DTSTART:20260227T144500Z
+SUMMARY:Ordynacja podatkowa (wykład)
+UID:d78198e6-54db-4786-baff-bc3fe02c304f@d781.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20260613T160000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260613T134500Z
+SUMMARY:Zarządzanie finansami jednostek gospodarczych (egzamin)
+UID:99a8dfdc-3208-41af-83ba-776bc901d711@99a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260412T161500Z
+DTSTART:20260412T144500Z
+SUMMARY:Międzynarodowe i unijne prawo daninowe (wykład)
+UID:e0caffeb-eb0b-41d1-9d01-a561d9a7a39b@e0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20260509T124500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260509T111500Z
+SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (egzamin)
+UID:2019eb77-306d-4f39-966f-4275f43ebeee@2019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Franczak
+DTEND:20260424T160000Z
+DTSTART:20260424T134500Z
+SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
+UID:da475848-55e0-4f2a-9262-73d6df4727c7@da47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20260412T133000Z
+DTSTART:20260412T111500Z
+SUMMARY:Wycena wartości przedsiębiorstw (wykład)
+UID:1a17832f-1297-427a-bf04-767585da5c59@1a17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20260228T114500Z
+DTSTART:20260228T093000Z
+SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (wykład)
+UID:eab142a0-e4b9-4507-8f88-d1dd98dca40f@eab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Franczak
+DTEND:20260531T100000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260531T083000Z
+SUMMARY:Podatki bezpośrednie i pośrednie (egzamin)
+UID:668bf377-763d-4420-8573-f1e800fe2311@668b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
+DTEND:20260426T090000Z
+DTSTART:20260426T064500Z
+SUMMARY:Pomoc publiczna (wykład)
+UID:da8d370b-48c8-45f0-a63a-0281ceaa8bdd@da8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Franczak
+DTEND:20260410T160000Z
+DTSTART:20260410T134500Z
+SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
+UID:c77d940f-9f9d-46d7-9477-323f62e0e4e6@c77d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20260516T133000Z
+LOCATION:Paw.F 614
+DTSTART:20260516T111500Z
+SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
+UID:28e82bfc-c9f0-4d95-b901-95430c45abd6@28e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20260321T114500Z
+LOCATION:Paw.F 715
+DTSTART:20260321T093000Z
+SUMMARY:Zarządzanie finansami banków i instytucji kredytowych (konwersatorium)
+UID:894537dd-dd16-44a2-be57-0a0275198086@8945.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:792d0807-74b3-4e88-871d-d81fe1a8b2e2@792d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:201fe028-802e-43b8-9607-bdfceaf9b5a9@201f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20260425T104500Z
+LOCATION:Paw.F 715
+DTSTART:20260425T083000Z
+SUMMARY:Zarządzanie finansami banków i instytucji kredytowych (konwersatorium)
+UID:df732c37-ec1c-48f3-803a-6d6940ec4870@df73.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
@@ -387,42 +348,74 @@ DTEND:20260321T143000Z
 LOCATION:Paw.F 614
 DTSTART:20260321T121500Z
 SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
-UID:97a2d158-c7d1-49e8-ab20-a43aaab2379a@97a2.org
+UID:7c9e6d84-9124-4cc9-9c9c-f33be36e8726@7c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Sołtyk
+DTEND:20260517T090000Z
+DTSTART:20260517T064500Z
+SUMMARY:Audyt Śledczy (wykład do wyboru)
+UID:f0ca1124-0ccf-4711-b8c4-7d139bb32cd9@f0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Franczak
+DTEND:20260320T170000Z
+DTSTART:20260320T144500Z
+SUMMARY:Podatki bezpośrednie i pośrednie (wykład)
+UID:2ef7d164-daeb-4885-a9a2-88b2b66edca0@2ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260315T124500Z
+DTSTART:20260315T103000Z
+SUMMARY:Ordynacja podatkowa (wykład)
+UID:f935674d-f7d4-41e4-af9d-4984ffc51c24@f935.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Kożuch
-DTEND:20260515T184500Z
-DTSTART:20260515T163000Z
-SUMMARY:Pomoc publiczna (wykład)
-UID:73276cb1-cf5a-43d6-90b6-55d15dc55af8@7327.org
+DTEND:20260531T131500Z
+LOCATION:Paw.S sala 7
+DTSTART:20260531T101500Z
+SUMMARY:Pomoc publiczna (egzamin)
+UID:7f67f0eb-9d0b-420c-b252-debea2a0e938@7f67.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:603bba70-754c-4edf-8760-251b9a483523@603b.org
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260627T124500Z
+LOCATION:Bibl. 440
+DTSTART:20260627T111500Z
+SUMMARY:Międzynarodowe i unijne prawo podatkowe\, Międzynarodowe i unijne prawo daninowe (egzamin)
+UID:024f9d77-c0d8-48c4-82ed-afe953aa8ddb@024f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20260424T184500Z
-DTSTART:20260424T163000Z
-SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (wykład)
-UID:a3f60a49-2920-4ee0-80fd-31e04cc03053@a3f6.org
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20260410T184500Z
+DTSTART:20260410T163000Z
+SUMMARY:Ordynacja podatkowa (Przeniesienie zajęć)
+UID:75124217-a47d-498c-a8f1-240bc9f1ae5a@7512.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
-DTEND:20260322T091500Z
-DTSTART:20260322T070000Z
-SUMMARY:Finanse publiczne II (wykład)
-UID:21d1718d-3f21-4f4b-88b0-72889eb04971@21d1.org
+DTEND:20260621T114500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260621T093000Z
+SUMMARY:Finanse\, Finanse publiczne II (egzamin)
+UID:99b60792-44b6-4178-a232-e816cb2b0520@99b6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Maciej Cycoń
-DTEND:20260228T114500Z
-DTSTART:20260228T093000Z
-SUMMARY:Gospodarka finansowa zakładów ubezpieczeń (wykład)
-UID:24491dfc-3b66-4de7-b1b6-ce94fe44ab19@2449.org
+DESCRIPTION:Instructor: dr Alicja Kasperowicz-Stępień
+DTEND:20260315T151500Z
+DTSTART:20260315T130000Z
+SUMMARY:Finanse publiczne II (wykład)
+UID:22b5477d-1e7d-4caf-ac1a-44db3ec30952@22b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20260411T081500Z
+LOCATION:Paw.F 415
+DTSTART:20260411T060000Z
+SUMMARY:Wycena wartości przedsiębiorstw (ćwiczenia)
+UID:429456dd-fc97-4ce1-8dd0-6d38dd96c490@4294.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Joanna Rutkowska
@@ -430,6 +423,13 @@ DTEND:20260530T104500Z
 LOCATION:Paw.F 614
 DTSTART:20260530T083000Z
 SUMMARY:Zarządzanie finansami jednostek gospodarczych (konwersatorium)
-UID:9e34c2de-0daa-42c4-9ff1-b7380e32e434@9e34.org
+UID:4cd952ec-97ca-4491-8ddb-e7ec9df2b243@4cd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20260517T133000Z
+DTSTART:20260517T120000Z
+SUMMARY:Międzynarodowe i unijne prawo daninowe (Przeniesienie zajęć)
+UID:7c86ba68-9bed-46c7-b228-83b5f0099d97@7c86.org
 END:VEVENT
 END:VCALENDAR
