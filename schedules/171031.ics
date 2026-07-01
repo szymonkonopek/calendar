@@ -2,11 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
-DTEND:20260418T114500Z
-DTSTART:20260418T093000Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (wykład)
-UID:84a265f6-b1d2-4ae4-b1db-a8217cd3066b@84a2.org
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260606T131500Z
+DTSTART:20260606T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (Przeniesienie zajęć)
+UID:44574f8d-2aff-4774-b348-d4aaed872b87@4457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260515T160000Z
+DTSTART:20260515T134500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (wykład)
+UID:24b21456-97f9-4acb-b108-5b9036eb0f88@24b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Paweł Turek
@@ -14,37 +21,7 @@ DTEND:20260531T141500Z
 LOCATION:Sienk. 4 pr. an .sens.
 DTSTART:20260531T111500Z
 SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
-UID:0960de1b-1655-4c8b-9f14-e7db4241e51a@0960.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260425T141500Z
-DTSTART:20260425T111500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (Przeniesienie zajęć)
-UID:aa6cf6e3-2868-4a64-85e1-4f5d3eece433@aa6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260613T104500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260613T083000Z
-SUMMARY:Fizyka (laboratorium)
-UID:c84b9101-c59b-468c-afe6-4840fbe2dafd@c84b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260419T104500Z
-DTSTART:20260419T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:421483b2-2e97-4b81-891b-53e45885282a@4214.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260426T150000Z
-LOCATION:Sienk. 5 pr. spoż. 2
-DTSTART:20260426T111500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
-UID:94517aac-6d9e-4c24-a68a-64fde93500b0@9451.org
+UID:903d8739-0461-48fd-b438-1edfbb29b669@903d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Piotr Przybek
@@ -52,431 +29,7 @@ DTEND:20260329T141500Z
 LOCATION:Sienk. 4 pr. przem. 1
 DTSTART:20260329T111500Z
 SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:229c581d-b580-409b-b0da-bca350ad2c7a@229c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260606T154500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260606T111500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
-UID:5470e1a3-a325-4212-b3cb-2e9ce80a64cb@5470.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260426T081500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260426T060000Z
-SUMMARY:Fizyka (laboratorium)
-UID:6f5692af-8ec6-4e55-a811-a478ff08c4cf@6f56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260607T081500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260607T060000Z
-SUMMARY:Fizyka (laboratorium)
-UID:862bc414-3839-44e0-a32f-a106cc294235@862b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20260314T124500Z
-DTSTART:20260314T103000Z
-SUMMARY:Fizyka (wykład)
-UID:d608489f-283a-43ba-820b-033afc47712e@d608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260417T181500Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20260417T134500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
-UID:26df887c-e8a3-4117-b16d-9932553321b3@26df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20260327T184500Z
-DTSTART:20260327T163000Z
-SUMMARY:Fizyka (wykład)
-UID:1b68aa34-3467-4384-b070-da4926b8082c@1b68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260607T104500Z
-DTSTART:20260607T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:c1525453-7ad0-44cf-8250-d9543ae8cb6f@c152.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260614T104500Z
-DTSTART:20260614T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:2303daf8-70eb-45c1-a432-e896b724da1d@2303.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260530T133000Z
-DTSTART:20260530T111500Z
-SUMMARY:Fizyka (Przeniesienie zajęć)
-UID:03208522-b690-473a-9f5d-1dda254c3e80@0320.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
-DTEND:20260529T174500Z
-LOCATION:Sienk. 4 pr. przem. 2
-DTSTART:20260529T144500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:9b365a52-c7da-4d1e-9633-ad9dba760c08@9b36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260228T124500Z
-DTSTART:20260228T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
-UID:7959db2c-b2f2-4399-b633-b7a4bb4a2d5c@7959.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260515T160000Z
-DTSTART:20260515T134500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (wykład)
-UID:659afabf-ba24-4d26-85bb-54e60dfe26e8@659a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260328T151500Z
-DTSTART:20260328T130000Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
-UID:7d8069e3-0747-4868-b895-d6c97fea54d9@7d80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:864ab266-0e9a-4761-8404-efb3995f23ec@864a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
-DTEND:20260418T090000Z
-DTSTART:20260418T064500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
-UID:5a7c80a4-5ae6-4ded-aff8-9e8e2c15c23e@5a7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260315T114500Z
-DTSTART:20260315T093000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:853237ad-f40e-41f2-b5f9-b496f3cbcfea@8532.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260517T141500Z
-LOCATION:Sienk. 5 pr. spoż. 2
-DTSTART:20260517T111500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
-UID:2886a91b-f7aa-41c3-a377-c2b2661a6c45@2886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260606T131500Z
-DTSTART:20260606T093000Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (Przeniesienie zajęć)
-UID:004fbd2b-eb56-476b-b663-0f1d94c790a2@004f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20260614T124500Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20260614T111500Z
-SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
-UID:45adc961-7c71-46a4-ac1d-8b262d9d7de1@45ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260321T183000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20260321T144500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
-UID:14eb2d27-7206-4b0e-bd1a-a81740ffec0e@14eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260410T170000Z
-DTSTART:20260410T144500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (wykład)
-UID:98dc69dd-4df4-4e78-b4e1-14b7d8009fd0@98dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260322T091500Z
-DTSTART:20260322T070000Z
-SUMMARY:Fizyka (Przeniesienie zajęć)
-UID:a13e101a-a5ad-4e60-bf47-84be5274a148@a13e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260531T104500Z
-DTSTART:20260531T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:cac9faa4-cff6-4201-8f1e-08e60ad2a84c@cac9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260411T121500Z
-DTSTART:20260411T074500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (Przeniesienie zajęć)
-UID:ae3d824c-4ffd-450f-a8b4-f2e5d5513e3e@ae3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260516T164500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260516T134500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
-UID:5db33c46-af34-4d3e-b407-f39d9a695500@5db3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260322T114500Z
-DTSTART:20260322T093000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:631f900b-cd2b-4ef9-804e-e9dfcca11452@631f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:cd496b60-fae7-4c12-bf59-0906636f0795@cd49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260517T081500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260517T060000Z
-SUMMARY:Fizyka (laboratorium)
-UID:2566a46a-fad4-4abe-a3d6-039828d1aafc@2566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260426T104500Z
-DTSTART:20260426T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:3bb44173-f169-4d0b-b0cb-278545174a1b@3bb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260418T141500Z
-DTSTART:20260418T120000Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (Przeniesienie zajęć)
-UID:4e9cee0e-7732-43a4-a1a3-03983628fd07@4e9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260517T174500Z
-LOCATION:Sienk. 4 pr. przem. 1
-DTSTART:20260517T144500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:5e820b4a-3566-4dd6-8601-7d21978015d6@5e82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260320T183000Z
-LOCATION:Sienk. 5 pr. spoż. 1
-DTSTART:20260320T144500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
-UID:763a3d2e-04c7-4f90-a6e5-f8027e16553b@763a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260419T133000Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260419T111500Z
-SUMMARY:Fizyka (laboratorium)
-UID:788b6c03-66dc-45cd-8270-faa058f966a1@788b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
-DTEND:20260613T150000Z
-DTSTART:20260613T120000Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (Przeniesienie zajęć)
-UID:a67ee401-2775-4d62-b3a7-a9d12ce3a058@a67e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260530T154500Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20260530T111500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
-UID:c562b4fc-ea9e-43dd-9e48-57a3cb0f2006@c562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
-DTEND:20260425T141500Z
-LOCATION:Sienk. 4 pr. przem. 2
-DTSTART:20260425T111500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:39f65b0d-4c1a-4435-861a-aa3277286d55@39f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260315T151500Z
-LOCATION:Sienk. 4 pr. przem. 1
-DTSTART:20260315T121500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:4e82914b-582f-4608-8365-518a2703ce68@4e82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:df9a771e-9699-4d12-8c64-efb1d05810fe@df9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Anna Gacek
-DTEND:20260419T081500Z
-LOCATION:Paw.Ustronie lab.fiz.1
-DTSTART:20260419T060000Z
-SUMMARY:Fizyka (laboratorium)
-UID:8a977c6f-311c-430c-a837-fdc186058a51@8a97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20260322T184500Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20260322T154500Z
-SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
-UID:e82700b3-5624-4184-99cc-e6c4ab1e26fd@e827.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
-DTEND:20260228T151500Z
-DTSTART:20260228T130000Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (wykład)
-UID:19753b41-ddc3-49a4-9f32-533f6c17943a@1975.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260328T180000Z
-DTSTART:20260328T154500Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (Przeniesienie zajęć)
-UID:91a26025-6e0f-42a3-85d2-1d549f16e5e0@91a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260329T104500Z
-DTSTART:20260329T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:65cb9d49-2bf9-4444-a0ed-792fe025596a@65cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260419T150000Z
-DTSTART:20260419T111500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (Przeniesienie zajęć)
-UID:11ea4676-f7a0-4c2f-9547-3ff8823a9da1@11ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
-DTEND:20260516T131500Z
-LOCATION:Sienk. 4 pr. przem. 2
-DTSTART:20260516T101500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:c80e3f50-13b1-478e-a66d-7f02f8a5c84d@c80e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260607T183000Z
-LOCATION:Sienk. 5 pr. spoż. 2
-DTSTART:20260607T144500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
-UID:a1808dae-011f-4cb5-a7f7-fa7c8b70d26c@a180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
-DTEND:20260530T104500Z
-LOCATION:Sienk. 5 pr. spoż. 2
-DTSTART:20260530T074500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
-UID:67d91c24-a3c0-4163-b811-ddb28c9e7852@67d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
-DTEND:20260321T133000Z
-LOCATION:Sienk. 4 pr. przem. 2
-DTSTART:20260321T103000Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:b80427de-4272-4912-8d16-1e7ef4f1e9d6@b804.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260517T104500Z
-DTSTART:20260517T083000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:6316ea9d-73ac-41f8-bf47-20d9953c7064@6316.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260613T150000Z
-LOCATION:Sienk. 4 pr. przem. 1
-DTSTART:20260613T111500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
-UID:84e34a04-a32f-41c4-a4b4-459b28825a78@84e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
-DTEND:20260314T100000Z
-DTSTART:20260314T074500Z
-SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
-UID:1afb63b2-e5d8-4654-9549-472fd4c954b7@1afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260328T124500Z
-DTSTART:20260328T103000Z
-SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (wykład)
-UID:719241af-5b17-4105-ab35-cf662e206727@7192.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260301T114500Z
-DTSTART:20260301T093000Z
-SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
-UID:737a9372-43b9-4ea2-8de3-3155858c2c0b@737a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20260516T094500Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20260516T064500Z
-SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
-UID:6e9d887a-114a-4819-98ec-9466cd751e91@6e9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Paweł Turek
-DTEND:20260425T104500Z
-LOCATION:Sienk. 4 pr. an .sens.
-DTSTART:20260425T074500Z
-SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
-UID:383d553d-fc49-4c81-9605-e2fb6ecf0928@383d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
-DTEND:20260328T100000Z
-DTSTART:20260328T074500Z
-SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (wykład)
-UID:84a72f4a-d7c0-43e1-87c4-f8952bd6e790@84a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Przemysław Szopa
-DTEND:20260228T100000Z
-DTSTART:20260228T074500Z
-SUMMARY:Fizyka (wykład)
-UID:89614dbd-0d10-41b3-aeb2-906cfc870dcc@8961.org
+UID:3387204c-60f8-4753-8e56-0f25222143d2@3387.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
@@ -484,13 +37,460 @@ DTEND:20260531T174500Z
 LOCATION:Sienk. 5 pr. spoż. 1
 DTSTART:20260531T144500Z
 SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
-UID:4a3e6627-f423-4fa5-a58d-1ec0bfb85b2e@4a3e.org
+UID:7f5f0671-0388-49c4-8c5b-cde87dbff3c8@7f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260322T091500Z
+DTSTART:20260322T070000Z
+SUMMARY:Fizyka (Przeniesienie zajęć)
+UID:1d05b6b3-f6af-49dc-be32-373eb46d374e@1d05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260613T150000Z
+LOCATION:Sienk. 4 pr. przem. 1
+DTSTART:20260613T111500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
+UID:63af9c95-cdf9-46f3-97f2-88c78c4de33d@63af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260328T124500Z
+DTSTART:20260328T103000Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (wykład)
+UID:163debde-ec45-4a4e-a880-ccfd2598642c@163d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260614T104500Z
+DTSTART:20260614T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:c0315eb4-932b-42a5-a6e4-689189e52372@c031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260321T183000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20260321T144500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
+UID:da152499-42dd-4aaf-999f-35c5f5c7903a@da15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260516T164500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260516T134500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
+UID:cf4e3609-50d7-4c3e-81d8-2f46ab3efaf7@cf4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:2e370980-b8e8-4fac-b6b6-8e080adc2afb@2e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260418T141500Z
+DTSTART:20260418T120000Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (Przeniesienie zajęć)
+UID:ccea6308-4839-403d-8f99-112f1e3ceea4@ccea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260517T141500Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20260517T111500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
+UID:f4f753fe-cc35-4f17-b818-766d6d6c8d07@f4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20260418T114500Z
+DTSTART:20260418T093000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (wykład)
+UID:b33acf2e-e481-443d-89fb-f96d3e98cde5@b33a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20260327T184500Z
+DTSTART:20260327T163000Z
+SUMMARY:Fizyka (wykład)
+UID:132a065b-4708-463f-a59f-c97f68e842b4@132a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260517T081500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260517T060000Z
+SUMMARY:Fizyka (laboratorium)
+UID:940d7b38-e4a4-44fb-8ba8-31462004da70@940d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20260418T090000Z
+DTSTART:20260418T064500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
+UID:d86f1bcd-f9e9-4f2c-b185-758f321f95e9@d86f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260315T151500Z
+LOCATION:Sienk. 4 pr. przem. 1
+DTSTART:20260315T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
+UID:a4d3a974-0e5e-4ea2-abb8-f2ada35b882e@a4d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260517T174500Z
+LOCATION:Sienk. 4 pr. przem. 1
+DTSTART:20260517T144500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
+UID:9a89b3a1-1443-400a-97c2-a8f7899f9d4b@9a89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20260425T104500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20260425T074500Z
+SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
+UID:d4438a8e-8e65-4c60-a586-c1ec2e1496d3@d443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260426T150000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20260426T111500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
+UID:e64a1e5c-4ba3-4a7d-8a57-a481f7136e27@e64a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260606T154500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260606T111500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
+UID:a0aa3a73-84f0-4a70-8133-6d665bfb4acc@a0aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20260613T150000Z
+DTSTART:20260613T120000Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (Przeniesienie zajęć)
+UID:250bc5c2-0740-4e81-b846-81531faebd3d@250b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:02c24d9f-50d3-407d-afd9-bdc1351545e1@02c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260426T081500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260426T060000Z
+SUMMARY:Fizyka (laboratorium)
+UID:15935a13-c351-4493-85fc-64e4ae4eaad7@1593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:3c841ea8-20c6-40ae-a59a-9eb0eeb49c05@3c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260419T133000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260419T111500Z
+SUMMARY:Fizyka (laboratorium)
+UID:c6fa7395-1cdf-4db1-b856-778eb780c8c4@c6fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20260321T133000Z
+LOCATION:Sienk. 4 pr. przem. 2
+DTSTART:20260321T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
+UID:5b20b979-d2e8-41a2-bf20-d5bd22efa0ec@5b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20260314T100000Z
+DTSTART:20260314T074500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
+UID:4b60d08d-6eab-4e50-9bb9-bd4258926839@4b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260322T114500Z
+DTSTART:20260322T093000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:0ffab0fe-c411-42a3-9414-d974c13ee2ee@0ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260419T104500Z
+DTSTART:20260419T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:9298468e-0579-4cbf-9706-bb490a0f42b9@9298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260419T081500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260419T060000Z
+SUMMARY:Fizyka (laboratorium)
+UID:c78839ed-0b4a-423a-a6be-41bfa809cf92@c788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260607T183000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20260607T144500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
+UID:756e0253-e76c-4799-91fc-c4bc09d0814e@756e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20260614T124500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20260614T111500Z
+SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
+UID:11b49168-69d8-42cf-889b-d6e2cd57ef5e@11b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260328T151500Z
+DTSTART:20260328T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
+UID:1abb7add-d457-4006-ad19-86fc02a0d60d@1abb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260411T121500Z
+DTSTART:20260411T074500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (Przeniesienie zajęć)
+UID:f4e8562a-8b4c-430f-af51-01f792c0b18f@f4e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260315T114500Z
+DTSTART:20260315T093000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:f2e20491-a449-4c28-9ac0-353000202888@f2e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260329T104500Z
+DTSTART:20260329T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:d7a26953-db4f-4ffc-99e6-02dbae78fcd6@d7a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260410T170000Z
+DTSTART:20260410T144500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (wykład)
+UID:e5c9e9c5-c9fa-4d89-89e1-38ad2180e082@e5c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260301T114500Z
+DTSTART:20260301T093000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:e003c24c-61f5-422b-a482-598f07a0e2f5@e003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20260322T184500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20260322T154500Z
+SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
+UID:98c24fd1-c62d-48b2-bd1d-b6f0a4e08d09@98c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20260328T100000Z
+DTSTART:20260328T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (wykład)
+UID:e2591e9d-68f5-4524-a4b2-7016f273eee1@e259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260419T150000Z
+DTSTART:20260419T111500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (Przeniesienie zajęć)
+UID:1a4aa5ab-9c32-4cde-82f3-46ec928b97c8@1a4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20260425T141500Z
+LOCATION:Sienk. 4 pr. przem. 2
+DTSTART:20260425T111500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
+UID:8f21d84d-eb22-4076-8de5-2518c40acf37@8f21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260320T183000Z
+LOCATION:Sienk. 5 pr. spoż. 1
+DTSTART:20260320T144500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
+UID:f4babdac-fbb8-4cad-af2f-795ccfdf788e@f4ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20260529T174500Z
+LOCATION:Sienk. 4 pr. przem. 2
+DTSTART:20260529T144500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
+UID:7500dedd-3eca-445a-a946-0ce19f80a2ba@7500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260530T133000Z
+DTSTART:20260530T111500Z
+SUMMARY:Fizyka (Przeniesienie zajęć)
+UID:2c74ae29-6368-44a7-b575-3483a841d77f@2c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260530T154500Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20260530T111500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
+UID:d292c94e-7e1b-4407-aa39-1ec20aa3c3b9@d292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260531T104500Z
+DTSTART:20260531T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:f706f57b-97ef-42d5-894d-dcaf505142f2@f706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260425T141500Z
+DTSTART:20260425T111500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (Przeniesienie zajęć)
+UID:b7df68cf-bd9c-46e0-85f6-8d6a0b730021@b7df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260607T104500Z
+DTSTART:20260607T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:7f95f302-7324-48aa-9234-8b199b000fd5@7f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260613T104500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260613T083000Z
+SUMMARY:Fizyka (laboratorium)
+UID:ee691f71-a475-45c8-a4ff-15f1920f52ca@ee69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20260516T131500Z
+LOCATION:Sienk. 4 pr. przem. 2
+DTSTART:20260516T101500Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (laboratorium)
+UID:68979ea9-160e-487a-9ae3-a82cd3530e84@6897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260228T124500Z
+DTSTART:20260228T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria tworzyw (wykład)
+UID:4ccd2303-7033-4d8a-bd15-2f5479bb11e9@4ccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ewa Pyrzyńska
+DTEND:20260530T104500Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20260530T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (laboratorium)
+UID:895bf0c4-6328-4a76-a3dd-b712bc3f100c@895b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20260607T081500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20260607T060000Z
+SUMMARY:Fizyka (laboratorium)
+UID:46c07f26-bd38-402f-bb80-95413764adac@46c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260328T180000Z
+DTSTART:20260328T154500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (Przeniesienie zajęć)
+UID:48c1b2a8-17d3-4fd8-87e3-32e72230a9fd@48c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20260228T100000Z
+DTSTART:20260228T074500Z
+SUMMARY:Fizyka (wykład)
+UID:0496e362-c784-4c20-87ef-1cc4d653362e@0496.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20260516T094500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20260516T064500Z
+SUMMARY:Metody sensoryczne  w kontroli jakości (laboratorium)
+UID:66933475-d5ce-4718-95fb-12b1bca63344@6693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260517T104500Z
+DTSTART:20260517T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:75bea680-00a5-48f3-9d1f-0a451cee7055@75be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
 DTEND:20260314T151500Z
 DTSTART:20260314T130000Z
 SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (Przeniesienie zajęć)
-UID:cb147a7c-4392-4130-8304-70e80b0487d6@cb14.org
+UID:7ea3506b-7253-439c-aeb0-9ee902fe1f67@7ea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20260228T151500Z
+DTSTART:20260228T130000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia roślinnego (wykład)
+UID:a2521ffe-be5a-42dc-97bc-c1b9c2b0fe06@a252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260426T104500Z
+DTSTART:20260426T083000Z
+SUMMARY:Język obcy - grupa przedmiotów (ćwiczenia)
+UID:bff9a6b9-0615-4b68-a1be-f4c00755cc9a@bff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260417T181500Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20260417T134500Z
+SUMMARY:Zagrożenia mikrobiologiczne w przemyśle (laboratorium)
+UID:15c8f46a-9f5f-4376-8cbc-2de6059d637a@15c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20260314T124500Z
+DTSTART:20260314T103000Z
+SUMMARY:Fizyka (wykład)
+UID:d1df2ddf-5071-4464-a56e-e0fda29b3a0b@d1df.org
 END:VEVENT
 END:VCALENDAR

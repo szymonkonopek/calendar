@@ -2,11 +2,54 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260425T090000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260425T060000Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
+UID:9abf6685-4642-4c9d-862b-dc2ca4ee7716@9abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20260315T104500Z
+DTSTART:20260315T074500Z
+SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
+UID:0567bcd8-98a9-4395-9779-94c2580913e7@0567.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Łukasz Gola
 DTEND:20260426T081500Z
 DTSTART:20260426T060000Z
 SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
-UID:a9523b44-6d92-4ab7-8d70-596e16196b7b@a952.org
+UID:3c75e09e-737d-462d-be02-8d7d19c37035@3c75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20260418T081500Z
+DTSTART:20260418T060000Z
+SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (Przeniesienie zajęć)
+UID:1b58f1a8-0087-4829-8c3a-2a35369c8db2@1b58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20260301T100000Z
+DTSTART:20260301T074500Z
+SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (wykład do wyboru)
+UID:34839716-12a4-4215-85de-401f72f6ca09@3483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:58e11de8-0cf8-400f-aaf4-dc59f879c22e@58e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260417T184500Z
+DTSTART:20260417T163000Z
+SUMMARY:Biotechnologia (wykład)
+UID:1aba21c1-d3e4-43be-969f-e97db7416953@1aba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jarosław Świda
@@ -14,94 +57,21 @@ DTEND:20260628T101500Z
 LOCATION:.
 DTSTART:20260628T093000Z
 SUMMARY:Logistyka w przedsiebiorstwie (egzamin)
-UID:e8eecc47-c838-4d3b-9d31-fa504867c679@e8ee.org
+UID:b8f4080d-6aed-4d46-b883-41a8a0e3328c@b8f4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gracjana Noga
-DTEND:20260517T114500Z
-DTSTART:20260517T093000Z
-SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (wykład do wyboru)
-UID:5da839ad-8481-4efc-ba4c-ebf4727c3431@5da8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20260228T161500Z
-DTSTART:20260228T140000Z
-SUMMARY:Logistyka w przedsiębiorstwie (wykład)
-UID:87559c84-61ba-4d30-8176-556d42034382@8755.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260301T120000Z
-DTSTART:20260301T103000Z
-SUMMARY:Biotechnologia (wykład)
-UID:40e10ce8-df0b-4ffb-a04d-b54d53d5143a@40e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260417T184500Z
-DTSTART:20260417T163000Z
-SUMMARY:Biotechnologia (wykład)
-UID:110049a7-39c7-497f-8702-a66513379f02@1100.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Łukasz Gola
-DTEND:20260517T090000Z
-DTSTART:20260517T064500Z
-SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
-UID:4a7b1d06-e96b-4274-9383-2706fa91b1cf@4a7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gracjana Noga
-DTEND:20260418T081500Z
-DTSTART:20260418T060000Z
-SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (Przeniesienie zajęć)
-UID:11d90f08-fcc2-417e-bf43-8e50727abee5@11d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260314T163000Z
-DTSTART:20260314T154500Z
-SUMMARY:Biotechnologia (wykład)
-UID:512a19f5-ac56-4e09-8069-2a4aeeb07dd1@512a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260321T141500Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20260321T103000Z
-SUMMARY:Biotechnologia (laboratorium)
-UID:c2935bf3-7da9-4bc3-8055-daed47c4eb0e@c293.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Jarosław Świda
-DTEND:20260417T160000Z
-DTSTART:20260417T134500Z
-SUMMARY:Logistyka w przedsiębiorstwie (wykład)
-UID:2d7fe6d5-3cb6-40bd-b0c7-2f4e98b473ac@2d7f.org
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
+DTEND:20260418T104500Z
+DTSTART:20260418T083000Z
+SUMMARY:Etyka biznesu (wykład)
+UID:1191b7e3-d5fe-488d-a69e-6409a4d2d5a7@1191.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Barbara Błyskal
 DTEND:20260606T090000Z
 DTSTART:20260606T060000Z
 SUMMARY:Biotechnologia (Przeniesienie zajęć)
-UID:94ed82ba-56f9-4d70-827d-df6576b3ae7d@94ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260614T081500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260614T060000Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
-UID:eb7a4efc-4ed6-4fd7-96a3-3ba54caba918@eb7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Łukasz Gola
-DTEND:20260419T090000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260419T060000Z
-SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (laboratorium)
-UID:ed69b548-afdb-47cf-9db6-277c9cfddac2@ed69.org
+UID:dcd22f0c-8b60-4a5d-ad1f-7db73b91b030@dcd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Beata Bober
@@ -109,45 +79,35 @@ DTEND:20260425T131500Z
 LOCATION:Paw.H Prac. mikrob.1
 DTSTART:20260425T093000Z
 SUMMARY:Biotechnologia (laboratorium)
-UID:4ed2a9c2-5f21-4601-830c-48dcad7fcc8e@4ed2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260614T104500Z
-LOCATION:Paw.U sala K
-DTSTART:20260614T083000Z
-SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
-UID:0e659ca7-cbd0-451b-a68d-d4bb8f68cd99@0e65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260531T150000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260531T120000Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
-UID:997677a9-b6cf-46b7-94a5-52bc2e4d806a@9976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260425T090000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260425T060000Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
-UID:f08882f6-e793-4a14-bd2c-264931095588@f088.org
+UID:495044b9-3443-4b01-907b-81dbecb3e299@4950.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
 SUMMARY: (rezerwacja)
-UID:6e5f16f8-b8a4-44e6-9776-a14bff09c86c@6e5f.org
+UID:1c200835-fdf7-408f-8aa9-ceaf115126e2@1c20.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
-DTEND:20260418T104500Z
-DTSTART:20260418T083000Z
+DTEND:20260426T104500Z
+DTSTART:20260426T083000Z
 SUMMARY:Etyka biznesu (wykład)
-UID:589b3148-a279-4ce0-93e5-890105624087@589b.org
+UID:22087c3f-20f5-4f8c-b93f-1358e26fad44@2208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20260315T133000Z
+DTSTART:20260315T111500Z
+SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (wykład do wyboru)
+UID:ab523fde-9f6d-4566-9fac-31729929c7f3@ab52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20260517T090000Z
+DTSTART:20260517T064500Z
+SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
+UID:319e08b5-4a76-4c30-ac7c-79c9d7744031@319e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Łukasz Gola
@@ -155,87 +115,7 @@ DTEND:20260321T100000Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
 DTSTART:20260321T070000Z
 SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (laboratorium)
-UID:14eb5813-d84f-4918-8953-dfc6d13fae53@14eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Łukasz Gola
-DTEND:20260228T133000Z
-DTSTART:20260228T103000Z
-SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
-UID:a1a2bd77-cfbe-42a8-bdb6-cbf06a9b9387@a1a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Łukasz Gola
-DTEND:20260418T141500Z
-DTSTART:20260418T111500Z
-SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
-UID:c7760a11-72c0-4271-a6bc-f8680e5cd153@c776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
-DTEND:20260314T124500Z
-DTSTART:20260314T103000Z
-SUMMARY:Etyka biznesu (wykład)
-UID:14fb65e3-77f1-4ac9-8bce-f27863258110@14fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Łukasz Gola
-DTEND:20260522T174500Z
-LOCATION:Paw.A 115 lab.Win8.1\, Office21
-DTSTART:20260522T153000Z
-SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (laboratorium)
-UID:6b20b343-f87f-4692-9218-30186ab34a4b@6b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260426T133000Z
-DTSTART:20260426T111500Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (wykład)
-UID:8fd5799e-db2e-4940-815d-44745d95a501@8fd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:d612f3dd-d507-40a9-8d26-ecd801d77bcf@d612.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260320T193000Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260320T163000Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
-UID:5b70fbfc-e0bc-47f6-92d7-939646964f9a@5b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260314T100000Z
-DTSTART:20260314T074500Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (wykład)
-UID:7ae5690c-0e05-4e3f-a8c7-2e6b6e19ff56@7ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260321T170000Z
-LOCATION:Paw.U sala K
-DTSTART:20260321T144500Z
-SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
-UID:59bdd723-feb5-48f8-b30f-c954a33fec86@59bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gracjana Noga
-DTEND:20260315T133000Z
-DTSTART:20260315T111500Z
-SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (wykład do wyboru)
-UID:f31f79cc-bdf2-43da-b1e8-b551b3ce07f5@f31f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260228T100000Z
-DTSTART:20260228T074500Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (wykład)
-UID:0fe07aca-0d93-4bbd-8b3f-899683575f9b@0fe0.org
+UID:80d89bec-73b2-4b7d-9fe1-4881a4a4bae6@80d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Łukasz Gola
@@ -243,14 +123,29 @@ DTEND:20260523T090000Z
 LOCATION:Paw.A 115 lab.Win8.1\, Office21
 DTSTART:20260523T064500Z
 SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (laboratorium)
-UID:e71f2f04-ed2c-4787-9ce0-2721bc5248cd@e71f.org
+UID:23c59d93-d949-4010-a7f5-4bb3364fd390@23c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Beata Bober
 DTEND:20260313T194500Z
 DTSTART:20260313T173000Z
 SUMMARY:Biotechnologia (wykład)
-UID:52f2edb2-cb00-43f1-847e-f02c286cdb23@52f2.org
+UID:d7329b9e-a0d8-463d-8f65-183d12307967@d732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:dd7c256d-d97e-426b-b13a-ea406ec4353d@dd7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260614T081500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260614T060000Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
+UID:2bee5020-4c7b-4f57-ae5d-45935d62b926@2bee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
@@ -258,91 +153,7 @@ DTEND:20260523T123000Z
 LOCATION:Paw.U sala K
 DTSTART:20260523T093000Z
 SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
-UID:ecb56608-aef4-4b04-ad9d-b584ab78500f@ecb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
-DTEND:20260627T073000Z
-LOCATION:Paw.A 301a lab.Win10\, Office21
-DTSTART:20260627T064500Z
-SUMMARY: (egzamin)
-UID:de49e9a8-fa86-4a98-9820-959a769e08d1@de49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
-DTEND:20260531T073000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260531T060000Z
-SUMMARY: (rezerwacja)
-UID:01560207-cad0-4ded-bd79-4c8c2f8cdb8e@0156.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
-DTEND:20260419T114500Z
-LOCATION:Paw.U sala K
-DTSTART:20260419T093000Z
-SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
-UID:2d890c6f-5775-46a3-8a3e-c5e628f3d186@2d89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
-DTEND:20260426T104500Z
-DTSTART:20260426T083000Z
-SUMMARY:Etyka biznesu (wykład)
-UID:1164c020-a0e8-4331-9a5a-342cb3988eb0@1164.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Łukasz Gola
-DTEND:20260315T104500Z
-DTSTART:20260315T074500Z
-SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
-UID:784ec7b3-142b-4a12-972f-47ec762aadc3@784e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260620T081500Z
-LOCATION:Paw.F 111
-DTSTART:20260620T064500Z
-SUMMARY: (egzamin)
-UID:58a1927b-6616-475a-961c-4ddfbfd31f73@58a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260523T160000Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20260523T130000Z
-SUMMARY:Biotechnologia (laboratorium)
-UID:08d816fb-0f34-4d75-b823-f445e0625f9c@08d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Gracjana Noga
-DTEND:20260301T100000Z
-DTSTART:20260301T074500Z
-SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (wykład do wyboru)
-UID:cd296b61-99f1-42ec-935f-beef4a356547@cd29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
-DTEND:20260516T081500Z
-LOCATION:Paw.A 122 lab. Win10\, Office21
-DTSTART:20260516T060000Z
-SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
-UID:58323798-f1dc-4888-a38b-f810ce0f0ef2@5832.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260531T104500Z
-LOCATION:Paw.H Prac. mikrob.1
-DTSTART:20260531T074500Z
-SUMMARY:Biotechnologia (laboratorium)
-UID:37bc394b-4b1c-44b5-8e08-d27f6f5f8a71@37bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:34956430-d963-4854-99b6-6350806ac9d0@3495.org
+UID:455b0507-e057-4cc0-bf0e-7761c94b29b9@455b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Łukasz Gola
@@ -350,7 +161,59 @@ DTEND:20260613T141500Z
 LOCATION:Paw.A 122 lab. Win10\, Office21
 DTSTART:20260613T111500Z
 SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (laboratorium)
-UID:55cd5713-5ccf-421d-be4a-51af99e36a40@55cd.org
+UID:6bfb98dc-483a-4f4e-a6aa-fa212d6a7665@6bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260314T163000Z
+DTSTART:20260314T154500Z
+SUMMARY:Biotechnologia (wykład)
+UID:4d648437-fb9a-4adf-8227-724c417b3b5d@4d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260321T141500Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20260321T103000Z
+SUMMARY:Biotechnologia (laboratorium)
+UID:2225695d-946b-4126-abfe-348004ea4d69@2225.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20260417T160000Z
+DTSTART:20260417T134500Z
+SUMMARY:Logistyka w przedsiębiorstwie (wykład)
+UID:571a2061-4a61-47b3-8a0d-10a965ab4122@571a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20260228T161500Z
+DTSTART:20260228T140000Z
+SUMMARY:Logistyka w przedsiębiorstwie (wykład)
+UID:68581f1e-9159-4e2d-a24d-2c4b4fd50fd5@6858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
+DTEND:20260627T073000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20260627T064500Z
+SUMMARY: (egzamin)
+UID:802e1688-17b0-4f7c-843c-8b3d0b879169@802e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260614T104500Z
+LOCATION:Paw.U sala K
+DTSTART:20260614T083000Z
+SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
+UID:6d03528f-6ada-48ee-8342-9b74f9a36eb6@6d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260301T120000Z
+DTSTART:20260301T103000Z
+SUMMARY:Biotechnologia (wykład)
+UID:ef50c0f2-a639-4d2b-8fdf-ce4ef478eb5d@ef50.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
@@ -358,13 +221,150 @@ DTEND:20260411T094500Z
 LOCATION:Paw.U sala K
 DTSTART:20260411T060000Z
 SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
-UID:1a66c8c0-8108-4b37-a454-e113c0480f0b@1a66.org
+UID:8c6ec4d1-7933-4b22-a051-cd264f30337c@8c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
+DTEND:20260531T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260531T060000Z
+SUMMARY: (rezerwacja)
+UID:e9173366-6e2a-472b-9968-bda28fd0c638@e917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260531T104500Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20260531T074500Z
+SUMMARY:Biotechnologia (laboratorium)
+UID:5a928f59-c730-4f23-b1a2-f0e865e3690f@5a92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260516T081500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260516T060000Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
+UID:ba95dcd5-665b-4a5b-94ad-06a15c39841d@ba95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20260517T114500Z
+DTSTART:20260517T093000Z
+SUMMARY:Zarządzanie rozwojem małych i średnich przedsiębiorstw produkcyjnych (wykład do wyboru)
+UID:8bc5276a-341c-4244-9eba-0348566afbe9@8bc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260620T081500Z
+LOCATION:Paw.F 111
+DTSTART:20260620T064500Z
+SUMMARY: (egzamin)
+UID:d71c1a31-3b06-402b-9611-039314b5d730@d71c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20260418T141500Z
+DTSTART:20260418T111500Z
+SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
+UID:406e71c2-5caa-48af-adff-68cfa0a6ff9e@406e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kwarciński
+DTEND:20260314T124500Z
+DTSTART:20260314T103000Z
+SUMMARY:Etyka biznesu (wykład)
+UID:0dde58e7-100c-4f0f-abe2-8d048cadfcdb@0dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260426T133000Z
+DTSTART:20260426T111500Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (wykład)
+UID:06996fd6-6c6c-49a1-bb7a-49beed3670f0@0699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260321T170000Z
+LOCATION:Paw.U sala K
+DTSTART:20260321T144500Z
+SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
+UID:e9dd970f-00ff-4259-8588-d974f306a0f3@e9dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20260228T133000Z
+DTSTART:20260228T103000Z
+SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (wykład)
+UID:cc526fe7-6728-4886-8ffd-73d007787255@cc52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260228T100000Z
+DTSTART:20260228T074500Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (wykład)
+UID:33f1183c-508c-450d-899e-8b6f7740f61e@33f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260531T150000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260531T120000Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
+UID:b8609ac6-e4fd-458f-8f98-4c68a83ba21e@b860.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Jarosław Świda
 DTEND:20260314T151500Z
 DTSTART:20260314T130000Z
 SUMMARY:Logistyka w przedsiębiorstwie (wykład)
-UID:667f1a7f-85e6-4ebe-b7a0-d07a9e046ff6@667f.org
+UID:dc922c25-57ec-4e21-8bba-a1b84c7679d8@dc92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20260419T090000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260419T060000Z
+SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (laboratorium)
+UID:4e8d3928-4ffc-4432-b0dd-66b854ce7aa6@4e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20260522T174500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20260522T153000Z
+SUMMARY:Automatyzacja i robotyzacja procesów produkcyjnych (laboratorium)
+UID:368cdd3c-1d39-428c-9762-578d603fabd2@368c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Wojciech Domagała
+DTEND:20260419T114500Z
+LOCATION:Paw.U sala K
+DTSTART:20260419T093000Z
+SUMMARY:Logistyka w przedsiębiorstwie (laboratorium)
+UID:00693f12-41ec-4228-a0f3-a0508da1fffd@0069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260320T193000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20260320T163000Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (laboratorium)
+UID:9e4a421f-45ca-498e-9719-3db8f2aa23f3@9e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260523T160000Z
+LOCATION:Paw.H Prac. mikrob.1
+DTSTART:20260523T130000Z
+SUMMARY:Biotechnologia (laboratorium)
+UID:68cc632f-93a9-428e-b5be-a267b38b48ff@68cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20260314T100000Z
+DTSTART:20260314T074500Z
+SUMMARY:Informatyka i komputerowe wspomaganie prac inżynierskich (wykład)
+UID:367e19f6-a4a1-4532-ae4e-32092b759f2b@367e.org
 END:VEVENT
 END:VCALENDAR
