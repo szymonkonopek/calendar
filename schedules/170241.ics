@@ -2,19 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20260904T143000Z
-LOCATION:Bibl. 443
-DTSTART:20260904T134500Z
-SUMMARY: (egzamin)
-UID:96c02a7f-7ec0-493b-844b-1fcef4e809d8@96c0.org
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20260425T133000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260425T111500Z
+SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
+UID:d9f8af21-15e0-40b3-bceb-177a7c76201c@d9f8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260410T160000Z
-DTSTART:20260410T134500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:a9aa3df6-8429-4900-8691-fb08ec615a61@a9aa.org
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20260426T090000Z
+DTSTART:20260426T064500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:5516e60b-e82a-4ea0-93f5-d1518ee8c4fb@5516.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20260522T160000Z
+DTSTART:20260522T134500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:9f5a4bdd-bd92-4b42-bca3-f6b2d3604394@9f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260412T114500Z
+DTSTART:20260412T093000Z
+SUMMARY:Rachunkowość instrumentów finansowych (Przeniesienie zajęć)
+UID:862a29d7-f46d-437b-b00c-0939b3945415@862a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
@@ -22,47 +36,7 @@ DTEND:20260411T160000Z
 LOCATION:Paw.F 111
 DTSTART:20260411T134500Z
 SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
-UID:9dd9df5d-8f2c-4481-9046-de3e60c19078@9dd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20260425T104500Z
-LOCATION:Bibl. 440
-DTSTART:20260425T083000Z
-SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:b59d8041-2ac3-4fcf-8b70-70f2c803a4fe@b59d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260516T104500Z
-LOCATION:Paw.F 516
-DTSTART:20260516T083000Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:87184ef3-86c5-43fd-bb69-165e1401753a@8718.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20260321T091500Z
-LOCATION:Paw.B 151
-DTSTART:20260321T070000Z
-SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
-UID:0f2cc41e-ab33-4e73-b2e1-be7f3c374a20@0f2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20260619T143000Z
-LOCATION:Paw.C sala F
-DTSTART:20260619T134500Z
-SUMMARY: (egzamin)
-UID:637d947b-f928-40b2-914f-68db66438c71@637d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260620T170000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260620T153000Z
-SUMMARY:Rewizja finansowa (egzamin)
-UID:a5e2cca0-5623-46d3-800e-bb3f4cff107a@a5e2.org
+UID:f46b36d3-5d4a-459a-a311-4244269580d1@f46b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: mgr Bernard Kociołek
@@ -70,105 +44,21 @@ DTEND:20260516T081500Z
 LOCATION:Paw.B 151
 DTSTART:20260516T060000Z
 SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
-UID:1476cd7f-b64a-4371-b475-047db72ab596@1476.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
-DTEND:20260411T104500Z
-LOCATION:Bibl. 440
-DTSTART:20260411T083000Z
-SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:1864dcab-9f27-41ef-ae51-3e02a463c863@1864.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20260425T133000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260425T111500Z
-SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
-UID:22afdeea-4edd-470d-87b0-b4b32e69f19c@22af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260425T081500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260425T060000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:57d44a34-273d-42f7-8b99-ea915ad5ecc6@57d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260301T100000Z
-DTSTART:20260301T074500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:a43f652e-ca0d-4a38-bd97-e751548eae69@a43f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260411T133000Z
-LOCATION:Paw.S sala 1
-DTSTART:20260411T111500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:66ec69a2-bcbf-448b-8cb9-02df46486e2e@66ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260308T100000Z
-DTSTART:20260308T074500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
-UID:8a6630c6-1bfc-4a9c-b7c5-fa4c310bcbdc@8a66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260321T114500Z
-LOCATION:Paw.F 111
-DTSTART:20260321T093000Z
-SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
-UID:3f2a9aa0-399c-4237-bb6e-969f6cd0604c@3f2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260321T143000Z
-LOCATION:Paw.F 413
-DTSTART:20260321T121500Z
-SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
-UID:97b83cc8-3aa5-4a93-a3a7-34b4b37910c4@97b8.org
+UID:9f537580-c550-4d94-a3f3-013c876aca8b@9f53.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260613T104500Z
-LOCATION:Paw.F 516
-DTSTART:20260613T083000Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:91f0d374-31d2-4661-bcb7-fb1c99f74c16@91f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260426T090000Z
-DTSTART:20260426T064500Z
+DTEND:20260322T124500Z
+DTSTART:20260322T103000Z
 SUMMARY:Rewizja finansowa (wykład)
-UID:a0cc420f-65db-423b-bd67-a1eaa8481071@a0cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:6713b2bb-12f5-42a8-912b-99de38ddaa68@6713.org
+UID:1755c214-4cea-4b46-bd61-be0c0e855eaf@1755.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Katarzyna Chłapek
 DTEND:20260412T090000Z
 DTSTART:20260412T064500Z
 SUMMARY:Konsolidacja sprawozdań finansowych (Przeniesienie zajęć)
-UID:b92ef89c-f5b9-42c7-b88d-22afeebad989@b92e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:c25bc611-de7f-4d01-8a28-1fe29c3c639f@c25b.org
+UID:e86754e7-c80c-44f8-85b1-2f392f489139@e867.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
@@ -176,102 +66,7 @@ DTEND:20260613T081500Z
 LOCATION:Bibl. 440
 DTSTART:20260613T060000Z
 SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:2b67c862-d091-4b2e-8f85-c08281b8e75e@2b67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Bernard Kociołek
-DTEND:20260613T133000Z
-LOCATION:Paw.B 151
-DTSTART:20260613T111500Z
-SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
-UID:25970395-79e4-443e-a6e0-12c1835d7363@2597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260301T124500Z
-DTSTART:20260301T103000Z
-SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:b1090cfa-8966-4140-a21e-f99df9fe29b8@b109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260426T114500Z
-DTSTART:20260426T093000Z
-SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:a0a766d4-f2ed-4f4b-bcd8-e865f736fc1d@a0a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260322T124500Z
-DTSTART:20260322T103000Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:288c4e86-d261-4e7b-836e-6869af043d14@288c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260530T081500Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260530T060000Z
-SUMMARY:Rachunkowość instrumentów finansowych (egzamin)
-UID:18662b8d-5a89-493b-b1e2-b758b52df633@1866.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260628T073000Z
-LOCATION:Paw.S sala 9
-DTSTART:20260628T060000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (egzamin)
-UID:b210536e-d7f6-40ff-b252-b074b4eee671@b210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Katarzyna Chłapek
-DTEND:20260530T081500Z
-DTSTART:20260530T060000Z
-SUMMARY:Konsolidacja sprawozdań finansowych (Przeniesienie zajęć)
-UID:02636b9b-6d2f-41ab-a1fb-16dea662c9f6@0263.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260308T124500Z
-DTSTART:20260308T103000Z
-SUMMARY:Rachunkowość instrumentów finansowych (wykład)
-UID:8f118644-f935-46fb-9f59-5ef9993c93f8@8f11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260530T104500Z
-DTSTART:20260530T083000Z
-SUMMARY:Rachunkowość instrumentów finansowych (Przeniesienie zajęć)
-UID:283f5ceb-c273-4b4c-8f15-127861160a83@283f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Anna Biśta
-DTEND:20260412T114500Z
-DTSTART:20260412T093000Z
-SUMMARY:Rachunkowość instrumentów finansowych (Przeniesienie zajęć)
-UID:26b81817-fd1b-4813-bd15-ddbd2802f945@26b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260522T160000Z
-DTSTART:20260522T134500Z
-SUMMARY:Rewizja finansowa (wykład)
-UID:33f70dad-88d7-43b8-9f7e-0e255e3eedf8@33f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:4f966cb3-70fe-449b-badd-69b051124a51@4f96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
-DTEND:20260411T081500Z
-LOCATION:Paw.F 516
-DTSTART:20260411T060000Z
-SUMMARY:Rewizja finansowa (ćwiczenia)
-UID:e2014e91-d531-4992-b8e6-54d6a9109de6@e201.org
+UID:4ac647c8-b2e5-4a2b-8755-7ef90c1fd4f2@4ac6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Anna Biśta
@@ -279,7 +74,159 @@ DTEND:20260516T133000Z
 LOCATION:Paw.S sala 1
 DTSTART:20260516T111500Z
 SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
-UID:b3515dab-6271-472a-b2cf-bfdeff661c9b@b351.org
+UID:b6cda4bc-3a77-4680-bed2-ffe5987a1ef0@b6cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20260425T104500Z
+LOCATION:Bibl. 440
+DTSTART:20260425T083000Z
+SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
+UID:f3ba5169-ac75-4e81-abf2-b096fad4e6f2@f3ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260308T100000Z
+DTSTART:20260308T074500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:07def594-2362-45ba-9755-077b285b643c@07de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260410T160000Z
+DTSTART:20260410T134500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:e97f8f9e-fa0a-4f2a-9f71-4748f1ac3c00@e97f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260530T081500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260530T060000Z
+SUMMARY:Rachunkowość instrumentów finansowych (egzamin)
+UID:396b15c0-6947-4136-8578-c342f15450f6@396b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260301T100000Z
+DTSTART:20260301T074500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:5c698be2-95a8-4c40-a689-b8531465b0b1@5c69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:9b8af991-807d-4454-b877-cc2ffdf6c3ad@9b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260426T114500Z
+DTSTART:20260426T093000Z
+SUMMARY:Rachunkowość instrumentów finansowych (wykład)
+UID:3cc5b6a5-57af-4352-9117-ca017e1b2055@3cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20260411T081500Z
+LOCATION:Paw.F 516
+DTSTART:20260411T060000Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:4d087e27-de46-45f5-af69-8e328a9015db@4d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260628T073000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260628T060000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (egzamin)
+UID:3aa82e8f-7f6c-4db4-9f88-810e3d762838@3aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260530T104500Z
+DTSTART:20260530T083000Z
+SUMMARY:Rachunkowość instrumentów finansowych (Przeniesienie zajęć)
+UID:b13b19bd-751e-432b-b5bc-f391d72c8391@b13b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260321T143000Z
+LOCATION:Paw.F 413
+DTSTART:20260321T121500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:74432b58-8e76-40fb-ba14-0a3654f3a63b@7443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260530T081500Z
+DTSTART:20260530T060000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (Przeniesienie zajęć)
+UID:199d6ab2-6dc6-41b1-8a7f-d3db83a80d6b@199d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20260619T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20260619T134500Z
+SUMMARY: (egzamin)
+UID:747ef658-80a1-4255-9a8e-63250c874322@747e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20260613T104500Z
+LOCATION:Paw.F 516
+DTSTART:20260613T083000Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:1d86ad15-4e8c-4b9f-9ab7-40efed9987ce@1d86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20260321T091500Z
+LOCATION:Paw.B 151
+DTSTART:20260321T070000Z
+SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
+UID:fbe5e4d8-4da0-4a8f-8bd6-c4a3ea19fe5b@fbe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20260411T104500Z
+LOCATION:Bibl. 440
+DTSTART:20260411T083000Z
+SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
+UID:7b0882cc-5d65-4bfa-bef1-8b41881ad709@7b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20260516T104500Z
+LOCATION:Paw.F 516
+DTSTART:20260516T083000Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:a8d30790-a6b4-4ef3-aa9b-4a2135bc5844@a8d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260301T124500Z
+DTSTART:20260301T103000Z
+SUMMARY:Rachunkowość instrumentów finansowych (wykład)
+UID:ddc97492-afaa-42a5-86cd-b62707a7553a@ddc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
+DTEND:20260904T143000Z
+LOCATION:Bibl. 443
+DTSTART:20260904T134500Z
+SUMMARY: (egzamin)
+UID:24717115-d8be-4eaf-8def-7978ffa26af3@2471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260425T081500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260425T060000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:e190ed67-594b-4f58-8da8-688da62d8d60@e190.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr Elżbieta Gudowska-Natanek
@@ -287,6 +234,59 @@ DTEND:20260516T133000Z
 LOCATION:Bibl. 440
 DTSTART:20260516T111500Z
 SUMMARY:Prawo pracy i ochrona danych osobowych w zatrudnieniu (konwersatorium do wyboru)
-UID:acea4b38-4d6f-4d78-9ab4-886b981e2255@acea.org
+UID:ae1c50fc-d2d7-49bc-be0a-26285013191f@ae1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260321T114500Z
+LOCATION:Paw.F 111
+DTSTART:20260321T093000Z
+SUMMARY:Rachunkowość instrumentów finansowych (ćwiczenia)
+UID:80e1594f-1aa7-4f1a-aa5d-6eb4ca31e687@80e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20260620T170000Z
+LOCATION:Paw.S sala 9
+DTSTART:20260620T153000Z
+SUMMARY:Rewizja finansowa (egzamin)
+UID:ac048b71-e8d9-4515-845d-e0dfe8f17b0c@ac04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20260411T133000Z
+LOCATION:Paw.S sala 1
+DTSTART:20260411T111500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:a05ace1d-3b0c-4231-9819-ea41508e996c@a05a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:dd38dcfa-ef88-46fe-8656-cf4cde6d5633@dd38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:48651d8b-607a-497e-a028-9888401bb098@4865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Biśta
+DTEND:20260308T124500Z
+DTSTART:20260308T103000Z
+SUMMARY:Rachunkowość instrumentów finansowych (wykład)
+UID:a3a3e834-491c-4fdb-bc61-598d4e493a42@a3a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bernard Kociołek
+DTEND:20260613T133000Z
+LOCATION:Paw.B 151
+DTSTART:20260613T111500Z
+SUMMARY:Prawo własności intelektualnej i nowych technologii (konwersatorium do wyboru)
+UID:ec905284-354d-428f-be6b-041c527b7a4d@ec90.org
 END:VEVENT
 END:VCALENDAR

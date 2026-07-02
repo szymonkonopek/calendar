@@ -2,20 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260513T091500Z
+DTSTART:20260513T074500Z
+SUMMARY:Zarządzanie jakością (Przeniesienie zajęć)
+UID:39e7c951-1056-4ba5-8f85-5f1ed2fd11be@39e7.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
 DTEND:20260504T104500Z
 LOCATION:Sienk. 5 pr. chem. 1
 DTSTART:20260504T083000Z
 SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:e5512d54-eb70-4fcb-acf7-8b809700d4bb@e551.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260302T171500Z
-LOCATION:Paw.B 251
-DTSTART:20260302T154500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:b75be6c3-1378-4955-97b5-7b396506ab28@b75b.org
+UID:4c11edea-40f0-4ddd-9a4b-292be9a4e85a@4c11.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: dr inż. Marcin Paprocki
@@ -23,222 +22,7 @@ DTEND:20260408T124500Z
 LOCATION:Paw.S sala 8
 DTSTART:20260408T111500Z
 SUMMARY:Grafika i wzornictwo (wykład)
-UID:f23db073-190c-4343-8737-1ef0e089b3ae@f23d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260319T153000Z
-LOCATION:Paw.F 104
-DTSTART:20260319T140000Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:ef9e269b-687a-4775-8d86-c041c02a1975@ef9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260225T101500Z
-LOCATION:Paw.C sala D
-DTSTART:20260225T084500Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:69d9e210-7edd-4713-914c-5acdf096c0b2@69d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260324T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20260324T154500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:ca4614eb-97f5-4eae-9c76-f726185ffc68@ca46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260319T134500Z
-LOCATION:Paw.F 104
-DTSTART:20260319T121500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:cf59222e-c36e-4ef4-853f-d7284adb2a9c@cf59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260325T134500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260325T121500Z
-SUMMARY:Grafika i wzornictwo (wykład)
-UID:d68d6c32-a8b1-4f44-a77c-7b39b53c0deb@d68d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260317T114500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260317T084500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:e2cea2ba-d7c2-4a8a-9a05-45a9d1331d32@e2ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260506T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260506T111500Z
-SUMMARY:Grafika i wzornictwo (wykład)
-UID:3bf79b5a-cfb3-42ed-a303-fa9d121dba92@3bf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260513T110000Z
-LOCATION:Paw.S sala 7
-DTSTART:20260513T093000Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:d7cd9af9-16f3-42ce-a2b5-6ca9d5bc3e30@d7cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260603T120000Z
-LOCATION:Paw.S sala 8
-DTSTART:20260603T111500Z
-SUMMARY:Grafika i wzornictwo (wykład)
-UID:7972b47c-7a73-4c54-91db-6dbae265c1b2@7972.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260330T161500Z
-LOCATION:Paw.B 251
-DTSTART:20260330T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:0b82711f-f0a3-4aaa-ad2b-affaed4c8937@0b82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260420T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260420T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:c25dfc02-c62e-45dd-a439-9c269de9aa6f@c25d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260311T171500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260311T154500Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:28ff627a-889f-4676-89b1-5b071d22bbe2@28ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260427T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260427T083000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:e8e32016-d766-4187-bda4-a58fb02a8a5a@e8e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
-DTEND:20260330T124500Z
-LOCATION:Paw.F 614
-DTSTART:20260330T111500Z
-SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:e12a512f-31eb-44f9-a6d0-feecffdf66ee@e12a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260326T150000Z
-DTSTART:20260326T103000Z
-SUMMARY: (rezerwacja)
-UID:fb668c49-ce94-4627-830a-d30ab240a2c2@fb66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260320T124500Z
-LOCATION:Paw.U sala O
-DTSTART:20260320T103000Z
-SUMMARY:Metody organizacji i zarządzania (konwersatorium)
-UID:1aef296c-5435-459b-b198-bba2a682d60f@1aef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260303T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20260303T154500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:2d88de31-daaa-4a84-9dc5-6e2ca3ee55ff@2d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260422T161500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260422T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:648c3895-9ef8-4420-a04b-8428a48c02fa@648c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260505T161500Z
-LOCATION:Paw.C sala A
-DTSTART:20260505T144500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:aa70cada-b5f7-41d2-9e35-bdd2eb439abf@aa70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260428T110000Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260428T093000Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:d8999b96-dbc5-4b83-9ca7-35c707cfe86e@d899.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
-DTEND:20260316T134500Z
-LOCATION:Paw.F 614
-DTSTART:20260316T121500Z
-SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:d006cfa4-76d6-4560-ae15-5a939e8d8e4d@d006.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260520T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260520T111500Z
-SUMMARY:Grafika i wzornictwo (wykład)
-UID:a3e7ada9-0a54-4c95-8073-f328c590b242@a3e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
-DTEND:20260413T124500Z
-LOCATION:Paw.F 614
-DTSTART:20260413T111500Z
-SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:858105cc-cacd-4b6f-8369-9a8871b91c8b@8581.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260316T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260316T093000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:b7df7834-3f57-4fc2-8357-a96802094dd6@b7df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260311T101500Z
-LOCATION:Paw.C sala D
-DTSTART:20260311T084500Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:81096cee-b327-41fa-961d-c0a4199cf8f2@8109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260514T073000Z
-LOCATION:Paw.F 104
-DTSTART:20260514T060000Z
-SUMMARY:Metody organizacji i zarządzania (konwersatorium)
-UID:0b0d8769-518f-4f89-92df-2134819ffafa@0b0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260408T091500Z
-LOCATION:Paw.C sala D
-DTSTART:20260408T074500Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:889d8e22-69d8-4115-b33d-8350ad2b124d@889d.org
+UID:4e694d89-a1ee-4867-a3cc-a6218de64774@4e69.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
@@ -246,780 +30,7 @@ DTEND:20260608T120000Z
 LOCATION:Paw.A 121 lab. Win10\, Office21
 DTSTART:20260608T111500Z
 SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:e8c0d9c4-f384-4c78-b0ac-0adbb23a6759@e8c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260608T153000Z
-LOCATION:Paw.B 251
-DTSTART:20260608T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:781e2a20-8a46-49e3-906a-c8f7e9013d2c@781e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260416T124500Z
-LOCATION:Paw.F 104
-DTSTART:20260416T111500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:ae10f62e-1e87-4255-9de1-4c6c628d38fa@ae10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260525T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260525T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:f5244cc5-1a75-45dd-bc4a-234215074b29@f524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260511T161500Z
-LOCATION:Paw.B 251
-DTSTART:20260511T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:240fa6f5-0715-4c8d-ae61-388a3092db2c@240f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260309T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260309T093000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:d81ba2b2-9b91-45f3-92ef-ab15cfe6833f@d81b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260223T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260223T093000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:a9ee32f9-1766-4f54-835e-2521478f7416@a9ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260603T161500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260603T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:24a23cd7-9578-42cf-b551-fbaca8375d57@24a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260611T171500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260611T163000Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:c8d166df-9c14-430b-837b-b7bdb0449752@c8d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260323T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20260323T140000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:488516e7-0b2a-4bc7-b0d8-9bcc2b1aa5a3@4885.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260416T073000Z
-LOCATION:Paw.F 104
-DTSTART:20260416T060000Z
-SUMMARY:Metody organizacji i zarządzania (konwersatorium)
-UID:210915d3-f674-4f66-a87c-4be55156ba43@2109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260414T104500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260414T074500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:1334c284-02c7-4153-944e-a4062c75ed4a@1334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260507T110000Z
-DTSTART:20260507T093000Z
-SUMMARY:Metody organizacji i zarządzania (konwersatorium)
-UID:b98744d3-2ebb-407b-b457-e4b7b16bc612@b987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260430T073000Z
-DTSTART:20260430T060000Z
-SUMMARY:Metody organizacji i zarządzania (Przeniesienie zajęć)
-UID:9d28b205-9866-4a47-a089-fd24012a0e2b@9d28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260423T091500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260423T074500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:7ef25a35-a443-43eb-bc19-171dfd2eb348@7ef2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260302T114500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260302T093000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:cd3c2942-5264-48a2-a67c-1c34e87e4d93@cd3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260430T124500Z
-DTSTART:20260430T111500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (Przeniesienie zajęć)
-UID:b9c92b2e-ea71-41ba-b864-2638cbe1d46b@b9c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260225T171500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260225T163000Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:9db3e49f-3928-474a-a258-6181f6f8930d@9db3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260618T091500Z
-LOCATION:Paw.U sala M
-DTSTART:20260618T074500Z
-SUMMARY: (rezerwacja)
-UID:5ac57f72-c3ff-4707-97ad-d324505771e0@5ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
-DTEND:20260302T134500Z
-LOCATION:Paw.F 614
-DTSTART:20260302T121500Z
-SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:679479ca-0cc9-48fc-8690-b84b11190072@6794.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260316T171500Z
-LOCATION:Paw.B 251
-DTSTART:20260316T154500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:d538074c-2066-427e-a641-faa0ae73bff1@d538.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260325T171500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260325T154500Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:aa20f6ad-61f3-4176-9101-4d0830d95bdc@aa20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260305T153000Z
-LOCATION:Paw.C  Nowa Aula
-DTSTART:20260305T140000Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:29e07344-c087-422d-a183-96afd3965461@29e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260302T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20260302T140000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:0a703bcc-020e-4af2-b118-4ec68abd4cea@0a70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260409T091500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260409T074500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:ca3d569f-3fb6-4f68-a8dd-f7e654e7d545@ca3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260304T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260304T140000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:b8f8e5ce-9a05-41b3-b5e5-4a451ea28818@b8f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260305T083000Z
-LOCATION:Paw.F 104
-DTSTART:20260305T070000Z
-SUMMARY:Metody organizacji i zarządzania (konwersatorium)
-UID:028a46ce-0223-4a9d-bf0a-510bb413af95@028a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260224T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20260224T154500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:8e8afd3f-32dc-4263-90d1-dbf5e6478333@8e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260327T110000Z
-LOCATION:Paw.B 151
-DTSTART:20260327T093000Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:55a06572-c2e4-4c98-85e0-439982b04375@55a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260330T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260330T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:8be7a37a-aa7a-46bd-96de-77c775a78d6f@8be7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260312T101500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260312T084500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:9ee5a270-5d71-4999-9604-790ad582c164@9ee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260429T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260429T130000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:f0dbce06-b83e-48c8-be67-76f11e403acb@f0db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260316T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20260316T140000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:ee72ce35-4dab-49bc-8b1b-4d2891b6057b@ee72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260529T073000Z
-LOCATION:Paw.U sala K
-DTSTART:20260529T060000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:04ab6962-3c70-4ad5-b300-227295aecdd6@04ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260421T104500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260421T074500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:ee069e9f-aa1c-40a2-ac2b-d3bec80997bc@ee06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260617T110000Z
-LOCATION:Paw.A 118 lab. Win10\, Office21
-DTSTART:20260617T093000Z
-SUMMARY: (egzamin)
-UID:6f01f254-4cd2-4cff-aa9e-3be9da27d27f@6f01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260323T114500Z
-DTSTART:20260323T093000Z
-SUMMARY:Podstawowe techniki analityczne (Przeniesienie zajęć)
-UID:2be9d8d5-ceb7-4343-bb6e-0b30a0259acc@2be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260401T091500Z
-LOCATION:Paw.F 104
-DTSTART:20260401T074500Z
-SUMMARY:Zarządzanie jakością (wykład)
-UID:94a0e692-b434-4f3c-b725-5eedea7cf84e@94a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260427T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260427T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:93b14a8a-8d0d-49f3-a315-04703332d47e@93b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260223T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20260223T140000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:9fafae83-a773-4c71-8a68-7c3bc8a43f0e@9faf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
-DTEND:20260623T114500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260623T101500Z
-SUMMARY: (zaliczenie)
-UID:920f20e1-863a-43aa-8689-e3d646ac2dfa@920f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260608T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260608T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:f0c65bba-c833-4be6-87c4-1d03c6058f72@f0c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260415T143000Z
-DTSTART:20260415T130000Z
-SUMMARY:Grafika i wzornictwo (Przeniesienie zajęć)
-UID:18bff8f4-0932-4eb5-a43a-436a859dadcc@18bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260413T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260413T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:cfe82781-b672-4f32-b028-cc5c9d84460d@cfe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260527T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260527T130000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:55f872b3-437b-48af-8cab-6b38f165527c@55f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260506T161500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260506T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:1f50368c-2e4c-4613-836c-da1c9b2b09a0@1f50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260304T134500Z
-LOCATION:Paw.S sala 9
-DTSTART:20260304T121500Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:bdd153c3-3f21-47cb-a852-3ce2961fb9a9@bdd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260226T101500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260226T084500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:c38a8a24-15ce-4091-ba61-41847d8d5c63@c38a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260311T134500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260311T121500Z
-SUMMARY:Grafika i wzornictwo (wykład)
-UID:75138492-1c1d-4a59-b429-0ac704af15a1@7513.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260521T091500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260521T074500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:73e93cef-4616-4214-92be-1479c6cd1cd6@73e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260318T101500Z
-LOCATION:Paw.F 104
-DTSTART:20260318T084500Z
-SUMMARY:Zarządzanie jakością (wykład)
-UID:71cbdff7-d4ac-451c-9c25-2a4b54a8c5d3@71cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260427T161500Z
-LOCATION:Paw.B 251
-DTSTART:20260427T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:5b8f7fc4-d4a2-4b4a-b677-89a9ef6a69f4@5b8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Justyna Pustelak
-DTEND:20260427T124500Z
-LOCATION:Paw.F 614
-DTSTART:20260427T111500Z
-SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:59ad4bb2-51fd-480b-bb2d-841b823800aa@59ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260525T161500Z
-LOCATION:Paw.B 251
-DTSTART:20260525T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:1d681af2-18bf-4145-b0f3-660a01124a3f@1d68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260408T161500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260408T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:ed9cb9b5-aa84-4449-a779-44b6d10730e5@ed9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260513T143000Z
-DTSTART:20260513T130000Z
-SUMMARY:Grafika i wzornictwo (Przeniesienie zajęć)
-UID:9f6c41a0-3a9d-4e01-86a0-5ef86a8fd97f@9f6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260522T110000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260522T093000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:6a44bf26-8d22-41f0-a2af-485fd0106144@6a44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260527T091500Z
-LOCATION:Paw.F 104
-DTSTART:20260527T074500Z
-SUMMARY:Zarządzanie jakością (wykład)
-UID:c660669d-fd92-4159-a0d1-8afd738adf55@c660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260420T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260420T083000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:034852c3-a04f-4097-89c4-45c03b35d98b@0348.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260319T083000Z
-LOCATION:Paw.F 104
-DTSTART:20260319T070000Z
-SUMMARY:Metody organizacji i zarządzania (konwersatorium)
-UID:15b9ff3d-3cc1-4fc4-946f-99ae69543060@15b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260413T161500Z
-LOCATION:Paw.B 251
-DTSTART:20260413T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (wykład)
-UID:3adfae8f-863a-4307-bab2-12aa1df326a2@3adf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Justyna Pustelak
-DTEND:20260511T124500Z
-LOCATION:Paw.F 614
-DTSTART:20260511T111500Z
-SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:483dbf31-8489-46e8-bbd4-ef11a73d69e0@483d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260511T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260511T083000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:10832ec3-d8b8-4054-9fdb-00acc703ba64@1083.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260423T124500Z
-LOCATION:Paw.C sala E
-DTSTART:20260423T111500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:beb28b24-45e4-44c2-a828-45de9080037b@beb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260325T114500Z
-DTSTART:20260325T084500Z
-SUMMARY: (rezerwacja)
-UID:ce18caef-e4e5-4458-806d-e2973468062b@ce18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260303T114500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260303T084500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:7986d181-3581-4402-93a2-630974a88ae1@7986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260518T143000Z
-DTSTART:20260518T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład zdalny)
-UID:8772f271-b6ce-4a8a-a3bd-32a5bf7f8b0b@8772.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260610T083000Z
-LOCATION:Paw.F 104
-DTSTART:20260610T074500Z
-SUMMARY:Zarządzanie jakością (wykład)
-UID:1226b2cb-d356-4f6f-bd24-4ec872a752bd@1226.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260318T153000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260318T140000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:14d2b7f4-53c7-4053-a64e-d21c3775054c@14d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: 
-DTEND:20260305T133000Z
-DTSTART:20260305T103000Z
-SUMMARY: (rezerwacja)
-UID:bb38e3e7-1793-4804-b0b1-aeee4d8570af@bb38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260514T124500Z
-LOCATION:Paw.F 104
-DTSTART:20260514T111500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:d02e8d30-075b-49e1-ad8a-8272b7d31aa5@d02e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260304T101500Z
-LOCATION:Paw.F 104
-DTSTART:20260304T084500Z
-SUMMARY:Zarządzanie jakością (wykład)
-UID:ef42efbe-69d4-4e9e-983e-d076d75701d6@ef42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260504T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260504T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:36a727a7-7216-4b1b-a8b6-57a0db8305f2@36a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260330T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260330T083000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:026c8343-2a33-4233-aa42-a91b9d627f8a@026c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260601T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260601T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:fccc053a-3a70-44bc-b2d9-64ae4552f039@fccc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260409T134500Z
-LOCATION:Paw.C sala D
-DTSTART:20260409T130000Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:42498dca-00be-4f24-8c00-26f317ad4394@4249.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260331T104500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260331T074500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:1c2e4902-3c78-4060-b7f7-e57dc379b020@1c2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260310T114500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260310T084500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:25c6c551-4164-4cd7-9c0d-4fddcd5960b5@25c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260422T124500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260422T111500Z
-SUMMARY:Grafika i wzornictwo (wykład)
-UID:d0295214-17c9-4b18-afb2-2268a50e743f@d029.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260326T101500Z
-LOCATION:Bud.gł. 2
-DTSTART:20260326T084500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:a46d4aa2-0579-4430-accf-3394e9e8516e@a46d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260318T120000Z
-LOCATION:Bibl. 443
-DTSTART:20260318T103000Z
-SUMMARY:Podstawowe techniki analityczne (wykład)
-UID:0a7951c5-40f5-4876-b0ae-bd26098ae921@0a79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260409T124500Z
-LOCATION:Paw.C sala E
-DTSTART:20260409T111500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:ffd542f9-eba1-459f-aae3-d592606ed03b@ffd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
-DTEND:20260413T104500Z
-LOCATION:Sienk. 5 pr. chem. 1
-DTSTART:20260413T083000Z
-SUMMARY:Podstawowe techniki analityczne (laboratorium)
-UID:21d2753e-7670-482d-9cab-e0f9ac33eed8@21d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260225T134500Z
-LOCATION:Paw.S sala 8
-DTSTART:20260225T121500Z
-SUMMARY:Grafika i wzornictwo (wykład)
-UID:dcbad54a-b36c-4017-a4aa-7b2c84eae077@dcba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260513T091500Z
-DTSTART:20260513T074500Z
-SUMMARY:Zarządzanie jakością (Przeniesienie zajęć)
-UID:bb1f9c74-0624-46ba-a6a0-3e8e8f04f3b1@bb1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr Beata Bober
-DTEND:20260324T114500Z
-LOCATION:Paw.H Prac.mikrob.2
-DTSTART:20260324T084500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
-UID:9644cafe-7ead-4ac9-901c-55fdb7bf5dce@9644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260415T091500Z
-LOCATION:Paw.F 104
-DTSTART:20260415T074500Z
-SUMMARY:Zarządzanie jakością (wykład)
-UID:ece2e2a5-d1a5-4587-bd6a-7807c00a076a@ece2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
-DTEND:20260507T091500Z
-DTSTART:20260507T074500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
-UID:662248fe-069b-4409-8478-175ff49b69cf@6622.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260511T143000Z
-LOCATION:Paw.C sala A
-DTSTART:20260511T130000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:9b5599cb-dc62-42b4-87f1-3d7bd9faee25@9b55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
-DTEND:20260429T091500Z
-LOCATION:Paw.F 104
-DTSTART:20260429T074500Z
-SUMMARY:Zarządzanie jakością (wykład)
-UID:7732b894-2ad6-4324-9007-1077797b63a4@7732.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260519T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20260519T144500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:a8622d92-2d0a-448c-a06d-2d6181c24047@a862.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
-DTEND:20260317T171500Z
-LOCATION:Paw.C sala A
-DTSTART:20260317T154500Z
-SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:61d6f751-5090-4779-9b76-965b48ab5244@61d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Justyna Pustelak
-DTEND:20260525T124500Z
-LOCATION:Paw.F 614
-DTSTART:20260525T111500Z
-SUMMARY:Zarządzanie jakością (ćwiczenia)
-UID:288891ee-a67f-4e9f-85fe-54b17f6bb3bb@2888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
-DTEND:20260611T120000Z
-LOCATION:Paw.F 104
-DTSTART:20260611T111500Z
-SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
-UID:33a7753f-ec46-4486-8822-fe0608ce6257@33a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Artur Jachimowski
-DTEND:20260309T153000Z
-LOCATION:Paw.C sala A
-DTSTART:20260309T140000Z
-SUMMARY:Procesy i techniki produkcyjne (wykład)
-UID:356b78cd-ab1c-41a2-927f-b511fd633983@356b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Piotr Przybek
-DTEND:20260520T161500Z
-LOCATION:Paw.A 116 lab.Win8.1\, Office21
-DTSTART:20260520T144500Z
-SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
-UID:c824ba37-f050-4379-8281-56e39c9c25ae@c824.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
-DTEND:20260401T143000Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260401T130000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:f8fc6ffb-d895-43a1-96a6-a46123525706@f8fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: dr inż. Marcin Paprocki
-DTEND:20260610T134500Z
-LOCATION:Paw.U sala L(prac.rys. tech.)
-DTSTART:20260610T130000Z
-SUMMARY:Grafika i wzornictwo (laboratorium)
-UID:a6dcd20a-ad0d-4e94-8cc8-3a38efc4c2f1@a6dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
-DTEND:20260611T073000Z
-LOCATION:Paw.F 104
-DTSTART:20260611T060000Z
-SUMMARY:Metody organizacji i zarządzania (konwersatorium)
-UID:b641a5ef-e457-4f98-a364-769c7b17f8aa@b641.org
+UID:3284fefa-768d-494a-88b9-943c25d6ba86@3284.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
@@ -1027,7 +38,713 @@ DTEND:20260421T161500Z
 LOCATION:Paw.C sala A
 DTSTART:20260421T144500Z
 SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:21ddc63b-4c25-4a3d-a92a-804e792d3e4d@21dd.org
+UID:98d65bda-0f3a-4355-93fd-5889fdb89743@98d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260303T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20260303T154500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:9957f75a-50a8-498e-a817-ee356e7aebeb@9957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260305T133000Z
+DTSTART:20260305T103000Z
+SUMMARY: (rezerwacja)
+UID:55afea04-8465-41fc-bbf7-30a362943dd0@55af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260513T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20260513T093000Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:722326ed-02cf-44e1-b835-43649506d3e4@7223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260324T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20260324T154500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:4dd911a6-28fd-44ec-af48-ef155d57a62a@4dd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260408T161500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260408T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:01173402-dc9a-4b4e-b26f-3b9c9ee754af@0117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260525T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260525T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:dd8d4094-2b3e-4b2f-9784-0b9219ce3be3@dd8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260302T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20260302T140000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:d7b5af99-e829-4eda-8e9b-2f20781b6b1b@d7b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260413T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260413T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:bd04e7bd-e31d-4dcd-b32c-8028d0449ae5@bd04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260519T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20260519T144500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:4215baa2-d815-47d1-9916-5388ad87335f@4215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260304T101500Z
+LOCATION:Paw.F 104
+DTSTART:20260304T084500Z
+SUMMARY:Zarządzanie jakością (wykład)
+UID:fc009691-f306-43f1-bfe6-dd00911a3104@fc00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260511T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260511T083000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:b9583636-1208-46a2-87f4-cc90105fd8b4@b958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260513T143000Z
+DTSTART:20260513T130000Z
+SUMMARY:Grafika i wzornictwo (Przeniesienie zajęć)
+UID:0915b63d-6eb1-4cfd-93f5-7e7494581195@0915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Justyna Pustelak
+DTEND:20260511T124500Z
+LOCATION:Paw.F 614
+DTSTART:20260511T111500Z
+SUMMARY:Zarządzanie jakością (ćwiczenia)
+UID:75103f0d-bbcb-403a-a4e8-fd8b19f75883@7510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260415T091500Z
+LOCATION:Paw.F 104
+DTSTART:20260415T074500Z
+SUMMARY:Zarządzanie jakością (wykład)
+UID:d473664d-6dcd-43f1-8ad5-8cf108c89885@d473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260311T171500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260311T154500Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:c2f8064a-c5f8-4b45-882c-9932c2ad376a@c2f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260223T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260223T093000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:1fe8d000-39e6-4788-ac7e-f74badac2d68@1fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260224T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20260224T154500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:97313f79-1810-4f76-beb2-b68e6eb1272e@9731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260225T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260225T121500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:c8d0c5ce-cd6f-4ed1-9f03-293540813236@c8d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260225T171500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260225T163000Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:2fc1244e-26d7-431d-bfd4-54262dbed7ae@2fc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260408T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20260408T074500Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:eaed77c3-35e4-4eee-98e5-7e563a4c91ea@eaed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260316T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20260316T140000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:a530f732-dc0a-4320-baa4-acbc25bc78d6@a530.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260416T073000Z
+LOCATION:Paw.F 104
+DTSTART:20260416T060000Z
+SUMMARY:Metody organizacji i zarządzania (konwersatorium)
+UID:a4ca44f3-3223-4ad5-a80e-2385a8f313e0@a4ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260415T143000Z
+DTSTART:20260415T130000Z
+SUMMARY:Grafika i wzornictwo (Przeniesienie zajęć)
+UID:7228a08d-5af7-480b-a9f8-3365aeabfb96@7228.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260319T083000Z
+LOCATION:Paw.F 104
+DTSTART:20260319T070000Z
+SUMMARY:Metody organizacji i zarządzania (konwersatorium)
+UID:eb62e7c5-4751-44c3-be3c-c593440f21e0@eb62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260525T161500Z
+LOCATION:Paw.B 251
+DTSTART:20260525T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:f174bc79-d22c-4b91-ac9a-636e42ef609c@f174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260317T171500Z
+LOCATION:Paw.C sala A
+DTSTART:20260317T154500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:f5ae7a87-ebcc-48fd-96ad-e37a3a5009b9@f5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260601T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260601T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:74d3c443-e2ac-4702-9156-55ce2a0f0a38@74d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260611T120000Z
+LOCATION:Paw.F 104
+DTSTART:20260611T111500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:9bbdecf6-25a4-44c5-a968-74160362de3b@9bbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260414T104500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260414T074500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:dc058acf-d30d-461d-86eb-c129b75d2881@dc05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260608T153000Z
+LOCATION:Paw.B 251
+DTSTART:20260608T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:2bfbf3e9-e8f4-4c98-a61d-2c2a0585d333@2bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260409T091500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260409T074500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:db9310b6-9e81-476c-ac25-5f74ec6cd5f7@db93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260319T134500Z
+LOCATION:Paw.F 104
+DTSTART:20260319T121500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:67d17392-55c3-4176-87d7-3780f8318f2b@67d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260429T091500Z
+LOCATION:Paw.F 104
+DTSTART:20260429T074500Z
+SUMMARY:Zarządzanie jakością (wykład)
+UID:f016ac16-d953-4e26-b7df-d8c62a509751@f016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Justyna Pustelak
+DTEND:20260525T124500Z
+LOCATION:Paw.F 614
+DTSTART:20260525T111500Z
+SUMMARY:Zarządzanie jakością (ćwiczenia)
+UID:b2e8617d-f8aa-4c4f-8d81-a0149a791a71@b2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260325T114500Z
+DTSTART:20260325T084500Z
+SUMMARY: (rezerwacja)
+UID:775eda7f-d482-4659-bde3-a6e224acd889@775e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260429T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260429T130000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:63130508-c790-4bd5-a6fc-c05b2f38d78d@6313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260610T083000Z
+LOCATION:Paw.F 104
+DTSTART:20260610T074500Z
+SUMMARY:Zarządzanie jakością (wykład)
+UID:4f2fff87-216d-44af-b139-486c863cd776@4f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260511T161500Z
+LOCATION:Paw.B 251
+DTSTART:20260511T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:ff3d5cf7-7f68-4003-affd-42a6b4034369@ff3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260521T091500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260521T074500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:6b83572f-c1bd-44a2-9999-86e8adeb2942@6b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260327T110000Z
+LOCATION:Paw.B 151
+DTSTART:20260327T093000Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:110cc81b-2016-41f2-8c83-016dcb808ba8@110c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260420T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260420T083000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:8c4f5941-9348-40d6-8e46-d4dc0f803818@8c4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260422T161500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260422T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:6e30d971-b151-4cb5-84a2-bcbdaabc374b@6e30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260617T110000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20260617T093000Z
+SUMMARY: (egzamin)
+UID:7dbfd736-0125-44d9-b536-1dea8d4b741c@7dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260320T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20260320T103000Z
+SUMMARY:Metody organizacji i zarządzania (konwersatorium)
+UID:3ddaac2b-3d60-4bae-a05e-4e3252bb5b88@3dda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260409T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20260409T130000Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:3b045ebd-b042-43b0-8a26-b7f686eb58cf@3b04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260324T114500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260324T084500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:5a45927c-0458-4db7-b510-31d9382defa2@5a45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260514T073000Z
+LOCATION:Paw.F 104
+DTSTART:20260514T060000Z
+SUMMARY:Metody organizacji i zarządzania (konwersatorium)
+UID:5b86f3b4-bb13-415e-a45f-1efc2e4a7cf2@5b86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260319T153000Z
+LOCATION:Paw.F 104
+DTSTART:20260319T140000Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:97979ae2-382b-4d4b-bd54-e8d50ebe48ba@9797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260430T124500Z
+DTSTART:20260430T111500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (Przeniesienie zajęć)
+UID:58160a34-a32a-4f20-bba8-7ef127254095@5816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20260302T134500Z
+LOCATION:Paw.F 614
+DTSTART:20260302T121500Z
+SUMMARY:Zarządzanie jakością (ćwiczenia)
+UID:d1033e64-41e6-47aa-8635-302fc0a70e18@d103.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260304T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260304T140000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:7b593b47-7195-4a17-93e0-911af5e19f39@7b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260529T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20260529T060000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:60dd2e28-55fe-45c5-9997-2fdb78b1a19c@60dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260325T171500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260325T154500Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:2225d01e-6149-4b3a-8475-d3c9cbc18a51@2225.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260611T171500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260611T163000Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:f536e651-3911-4b8e-9628-f7458c15e471@f536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260312T101500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260312T084500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:98d4294d-6c2c-4d1a-bf99-8eab3abdb66f@98d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260409T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20260409T111500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:a25c20bb-fee7-43f0-acce-2a37f4a24d5e@a25c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260318T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260318T140000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:eea55faa-da06-45f5-8c6b-d5055ea879cd@eea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260427T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260427T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:cc5f515d-973f-48ed-88e2-e856ef882f43@cc5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260305T083000Z
+LOCATION:Paw.F 104
+DTSTART:20260305T070000Z
+SUMMARY:Metody organizacji i zarządzania (konwersatorium)
+UID:8bb829ea-7f91-4c2d-88ea-67fa01d4ccab@8bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20260330T124500Z
+LOCATION:Paw.F 614
+DTSTART:20260330T111500Z
+SUMMARY:Zarządzanie jakością (ćwiczenia)
+UID:68991a4d-f06f-4e76-9ae7-5de1b420ab77@6899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260428T110000Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260428T093000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:ff0e6b26-6bc3-4683-8640-e35417010e91@ff0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260423T091500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260423T074500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:6a2aa6cb-3337-4454-b6a4-97edc3bf18e3@6a2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260326T101500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260326T084500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:226eb4ec-8855-48ba-8890-658c4527fcf0@226e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260330T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260330T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:bf0bf2a2-db65-4cb8-b43f-1b46229f38c8@bf0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260511T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260511T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:58730ef6-1897-4104-b1f1-ef57d36c12c7@5873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260226T101500Z
+LOCATION:Bud.gł. 2
+DTSTART:20260226T084500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:9644061f-a62a-43bb-89b0-0d63870f1d5e@9644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260317T114500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260317T084500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:a7035de7-5994-4db0-9f56-8157d58817d7@a703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260303T114500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260303T084500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:40efe691-8911-4ff3-bd68-717d3038cf6b@40ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260518T143000Z
+DTSTART:20260518T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład zdalny)
+UID:45f9d9ab-c4c2-405e-b29a-4e7d089708a1@45f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20260505T161500Z
+LOCATION:Paw.C sala A
+DTSTART:20260505T144500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:c8984f76-41bc-485e-b338-ceaa73121338@c898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260506T161500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260506T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:0eaa446f-1bc1-4bc3-b2dc-afeee2ac91b6@0eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20260623T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260623T101500Z
+SUMMARY: (zaliczenie)
+UID:cb593cec-9f59-463a-9381-7853cdf41453@cb59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260318T120000Z
+LOCATION:Bibl. 443
+DTSTART:20260318T103000Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:41c886ea-6c69-4df4-910e-7a4406999a26@41c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260423T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20260423T111500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:88a9d439-07ff-4744-9105-490551de95a8@88a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Justyna Pustelak
+DTEND:20260427T124500Z
+LOCATION:Paw.F 614
+DTSTART:20260427T111500Z
+SUMMARY:Zarządzanie jakością (ćwiczenia)
+UID:b88c6833-d50a-4dbd-8e7f-817d37b6e296@b88c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260504T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260504T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:7cc80591-6d46-4c90-9633-c41099a9b0ee@7cc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260331T104500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260331T074500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:d7024871-eb81-4ed6-a4e8-b6a1e3cb023a@d702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260330T161500Z
+LOCATION:Paw.B 251
+DTSTART:20260330T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:84af21f1-dfa2-4eca-8001-942c327d93b2@84af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260421T104500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260421T074500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:a0ec7bcd-c50e-4fd8-96cf-4d0d78cb5617@a0ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260608T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260608T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:dd3b613a-a304-4507-8534-a587adea7458@dd3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260302T171500Z
+LOCATION:Paw.B 251
+DTSTART:20260302T154500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:a844cca8-316e-464d-bc53-864c1c13175d@a844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260610T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260610T130000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:9c5516bf-8241-4edd-9cf9-769b03cc9966@9c55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260316T171500Z
+LOCATION:Paw.B 251
+DTSTART:20260316T154500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:acc1de1b-5271-4c79-8b82-41a6b5bb4a2e@acc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260611T073000Z
+LOCATION:Paw.F 104
+DTSTART:20260611T060000Z
+SUMMARY:Metody organizacji i zarządzania (konwersatorium)
+UID:33d8aaf8-9965-4201-8659-f0e0e3d626b8@33d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260427T161500Z
+LOCATION:Paw.B 251
+DTSTART:20260427T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:d2715f5e-8f88-4ab8-bbdf-0e7032edd281@d271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260413T161500Z
+LOCATION:Paw.B 251
+DTSTART:20260413T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (wykład)
+UID:e10239ed-4562-4106-9eab-c2d029ea58a5@e102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20260310T114500Z
+LOCATION:Paw.H Prac.mikrob.2
+DTSTART:20260310T084500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:fd8ada10-0542-4e8f-9a75-c7fee4987a6d@fd8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260427T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260427T083000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:bdb73b57-1e41-4f8c-9a9e-4a33f7c3881b@bdb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260311T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20260311T084500Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:4cf46180-ba4a-4b90-a76f-e92b8f019528@4cf4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
@@ -1035,6 +752,289 @@ DTEND:20260310T171500Z
 LOCATION:Paw.C sala A
 DTSTART:20260310T154500Z
 SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
-UID:13964015-7253-4b15-8330-331124f233e1@1396.org
+UID:814b0a6f-5875-48d5-9949-c890e28d4b7e@814b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20260326T150000Z
+DTSTART:20260326T103000Z
+SUMMARY: (rezerwacja)
+UID:8b488f27-5f44-47d9-b717-7f39f30fdab9@8b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260422T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260422T111500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:e626abf8-5955-452c-8999-b65146ce8be2@e626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260309T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20260309T140000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:ec830ff0-5d7a-440c-a74b-e1a3f550a0c3@ec83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260416T124500Z
+LOCATION:Paw.F 104
+DTSTART:20260416T111500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:ec0291c0-a567-4e44-aaf0-7f510eecdce1@ec02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260507T110000Z
+DTSTART:20260507T093000Z
+SUMMARY:Metody organizacji i zarządzania (konwersatorium)
+UID:1c975999-a5f5-4d00-b273-b691c9db3c6c@1c97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260323T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20260323T140000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:f67886d5-b0f1-48b3-ac50-c57ce3e6cd0e@f678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260618T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20260618T074500Z
+SUMMARY: (rezerwacja)
+UID:77884069-f6fb-49bf-ad3e-912ed5347c47@7788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260603T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20260603T111500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:6ac9e963-95a2-49a7-89bc-1252f1634985@6ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260304T134500Z
+LOCATION:Paw.S sala 9
+DTSTART:20260304T121500Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:d691dd95-a164-449d-92f9-11a9fcc13a80@d691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260302T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260302T093000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:4430456a-0f79-4033-baff-222eeaf5edb8@4430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260316T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260316T093000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:04e12676-7609-4013-b4ad-fb494a6a57ac@04e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260603T161500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260603T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:fe0bd00e-269f-4c30-ab27-d7782ab7bcbc@fe0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260420T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20260420T130000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:d06ff2e3-8304-4aad-9f12-623a81d1022c@d06f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260305T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20260305T140000Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:031e2145-923b-466b-8316-89b052f721e6@031e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20260507T091500Z
+DTSTART:20260507T074500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (ćwiczenia)
+UID:88247a37-2ef4-4b70-ae87-1ce2bf69478a@8824.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260309T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260309T093000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:6d4a7a8d-0e19-4e49-8fcf-e6487dab7520@6d4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260323T114500Z
+DTSTART:20260323T093000Z
+SUMMARY:Podstawowe techniki analityczne (Przeniesienie zajęć)
+UID:bb46ada8-3188-4aa2-a862-bcde9c7959aa@bb46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20260430T073000Z
+DTSTART:20260430T060000Z
+SUMMARY:Metody organizacji i zarządzania (Przeniesienie zajęć)
+UID:40928815-166d-4384-8e0a-8721343c3cda@4092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260401T091500Z
+LOCATION:Paw.F 104
+DTSTART:20260401T074500Z
+SUMMARY:Zarządzanie jakością (wykład)
+UID:77b6c0cb-1c25-49a2-8028-8c517fdf758b@77b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20260520T161500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20260520T144500Z
+SUMMARY:Projektowanie badań i analiza wyników (laboratorium)
+UID:322fbca7-5797-4cf5-9e50-5625d20db7a1@322f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20260316T134500Z
+LOCATION:Paw.F 614
+DTSTART:20260316T121500Z
+SUMMARY:Zarządzanie jakością (ćwiczenia)
+UID:3f54214f-0bdb-4b53-b243-42351711633b@3f54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260522T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260522T093000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:2f7c50e8-68b9-4e3e-a40f-561e8ba20d8b@2f7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260225T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20260225T084500Z
+SUMMARY:Podstawowe techniki analityczne (wykład)
+UID:36e4b7db-89f8-4d0b-bd18-133e1fd33f78@36e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260318T101500Z
+LOCATION:Paw.F 104
+DTSTART:20260318T084500Z
+SUMMARY:Zarządzanie jakością (wykład)
+UID:56dc085f-2cbb-4886-9e1d-3d26d0d30b7e@56dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260520T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260520T111500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:abd697eb-493b-4e42-9a52-6b7bbad4adb8@abd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260401T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260401T130000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:920ac4bd-2255-4305-8627-1142c3866c15@920a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260413T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260413T083000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:e079694c-4ecb-44ab-940a-6ea5f5e0ea61@e079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260506T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260506T111500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:7ce545ff-23ac-4dbb-a8e8-5fed6032f5a2@7ce5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20260527T091500Z
+LOCATION:Paw.F 104
+DTSTART:20260527T074500Z
+SUMMARY:Zarządzanie jakością (wykład)
+UID:7532df75-6240-4bd3-b18b-d27fbe4f7b81@7532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20260330T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20260330T083000Z
+SUMMARY:Podstawowe techniki analityczne (laboratorium)
+UID:2aec512f-8ba6-4675-9fcd-45d4dd5e6c78@2aec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20260514T124500Z
+LOCATION:Paw.F 104
+DTSTART:20260514T111500Z
+SUMMARY:Ekonomiczne otoczenie przedsiębiorstwa (wykład)
+UID:56938e2f-38fa-43cb-8776-461f0c484d20@5693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20260527T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20260527T130000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:17b84a42-0552-4d1b-b84f-920ae359f901@17b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260325T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260325T121500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:6c269716-6804-4218-8d3b-6b6ef92d73b4@6c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20260223T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20260223T140000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:73dbb341-0fce-4f73-81e7-5bb3bc1b8f6c@73db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20260413T124500Z
+LOCATION:Paw.F 614
+DTSTART:20260413T111500Z
+SUMMARY:Zarządzanie jakością (ćwiczenia)
+UID:b6357efc-6a2a-4a38-a77c-07cfc617a753@b635.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20260311T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20260311T121500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:f95f1a46-64c7-4357-83b1-1a3bce9e2659@f95f.org
 END:VEVENT
 END:VCALENDAR
