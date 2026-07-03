@@ -1,14 +1,17 @@
 name: Get Group IDs to JSON
 
-# Run the action every hour
 on:
-  # schedule:
-  #   - cron: '0 */12 * * *' # Runs every 12 hours (at 00:00 and 12:00)
+  schedule:
+    - cron: '0 6 * * *' # Runs every day at 06:00
 
   workflow_dispatch: # Allows manual trigger
 
+env:
+  UEK_LOGIN: ${{ secrets.UEK_LOGIN }}
+  UEK_PASSWORD: ${{ secrets.UEK_PASSWORD }}
+
 jobs:
-  update-ics:
+  update-group-ids:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,11 +27,11 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run the script to generate schedule.ics
+      - name: Run the script to generate group_folder.json
         run: |
           python get_group_ids.py
 
-      - name: Commit and push the updated .ics file
+      - name: Commit and push the updated .json file
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
