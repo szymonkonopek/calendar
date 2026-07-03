@@ -4,7 +4,7 @@ Skopiuj link i wklej do kalendarza Google
 ```
 https://szymonkonopek.github.io/calendar/schedules/NR_GRUPY.ics
 ```
-## Przykłady
+## Przykłady (depricated)
 ### Informatyka Stosowana
 - Grupa 1: `https://szymonkonopek.github.io/calendar/schedules/238411.ics`
 - Grupa 2: `https://szymonkonopek.github.io/calendar/schedules/238421.ics`
