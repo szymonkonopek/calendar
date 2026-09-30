@@ -35,10 +35,10 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
-          git pull
           if [ -n "$(git status --porcelain)" ]; then
-            git add .
+            git add group_folder.json
             git commit -m "Update Group IDs"
+            git pull --rebase
             git push
           else
             echo "No changes to commit"
